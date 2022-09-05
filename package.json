@@ -1,0 +1,27 @@
+{
+  "name": "countries",
+  "version": "1.0.0",
+  "description": "a place to get countries",
+  "main": "index.js",
+  "scripts": {
+    "update": "node src/main.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danyo1399/countries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danyo1399/countries/issues"
+  },
+  "homepage": "https://github.com/danyo1399/countries#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "node-fetch": "^3.2.10"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.13"
+  }
+}
