@@ -4,7 +4,7 @@
   "description": "a place to get countries",
   "main": "index.js",
   "scripts": {
-    "update": "node src/main.js"
+    "build": "node src/main.js"
   },
   "type": "module",
   "repository": {
