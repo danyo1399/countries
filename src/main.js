@@ -64,6 +64,12 @@ restCountriesJson.forEach(country => {
     })
 });
 
+for(let key of Object.keys(regionsByCountry3)) {
+    await fs.writeJson(`./dist/regions/${key}.json`, regionsByCountry3[key], {spaces: 4})
+}
+for(let key of Object.keys(regionsByCountry2)) {
+    await fs.writeJson(`./dist/regions/${key}.json`, regionsByCountry2[key], {spaces: 4})
+}
 await fs.writeJson('./dist/names-alpha-3.json', names3, {spaces: 4})
 await fs.writeJson('./dist/names-alpha-2.json', names2, {spaces: 4})
 await fs.writeJson('./dist/phone-alpha-3.json', phoneAlpha3, {spaces: 4})
