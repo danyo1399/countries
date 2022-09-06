@@ -15,13 +15,15 @@ const names2 = json.map(x => ({name: x.name.common, cca2: x.cca2, flag: x.flag,}
 const phoneAlpha3 = json.map(x => ({
     name: x.name.common,
     cca3: x.cca3,
-    prefixes: x.idd?.suffixes?.map(s => `${x.idd.root}${s}`)
+    prefixes: x.idd?.suffixes?.map(s => `${x.idd.root}${s}`),
+    flag: x.flag
 }));
 
 const phoneAlpha2 = json.map(x => ({
     name: x.name.common,
     cca2: x.cca2,
-    prefixes: x.idd?.suffixes?.map(s => `${x.idd.root}${s}`)
+    prefixes: x.idd?.suffixes?.map(s => `${x.idd.root}${s}`),
+    flag: x.flag
 }));
 
 await fs.writeJson('./dist/names-alpha-3.json', names3, {spaces: 4})
