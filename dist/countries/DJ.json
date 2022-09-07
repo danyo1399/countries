@@ -1,0 +1,216 @@
+{
+    "name": {
+        "common": "Djibouti",
+        "official": "Republic of Djibouti",
+        "nativeName": {
+            "ara": {
+                "official": "جمهورية جيبوتي",
+                "common": "جيبوتي‎"
+            },
+            "fra": {
+                "official": "République de Djibouti",
+                "common": "Djibouti"
+            }
+        }
+    },
+    "tld": [
+        ".dj"
+    ],
+    "cca2": "DJ",
+    "ccn3": "262",
+    "cca3": "DJI",
+    "cioc": "DJI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "DJF": {
+            "name": "Djiboutian franc",
+            "symbol": "Fr"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "53"
+        ]
+    },
+    "capital": [
+        "Djibouti"
+    ],
+    "altSpellings": [
+        "DJ",
+        "Jabuuti",
+        "Gabuuti",
+        "Republic of Djibouti",
+        "République de Djibouti",
+        "Gabuutih Ummuuno",
+        "Jamhuuriyadda Jabuuti"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "ara": "Arabic",
+        "fra": "French"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية جيبوتي",
+            "common": "جيبوتي"
+        },
+        "bre": {
+            "official": "Republik Djibouti",
+            "common": "Djibouti"
+        },
+        "ces": {
+            "official": "Džibutská republika",
+            "common": "Džibutsko"
+        },
+        "cym": {
+            "official": "Gweriniaeth Jibwti",
+            "common": "Jibwti"
+        },
+        "deu": {
+            "official": "Republik Dschibuti",
+            "common": "Dschibuti"
+        },
+        "est": {
+            "official": "Djibouti Vabariik",
+            "common": "Djibouti"
+        },
+        "fin": {
+            "official": "Dijiboutin tasavalta",
+            "common": "Dijibouti"
+        },
+        "fra": {
+            "official": "République de Djibouti",
+            "common": "Djibouti"
+        },
+        "hrv": {
+            "official": "Republika Džibuti",
+            "common": "Džibuti"
+        },
+        "hun": {
+            "official": "Dzsibuti Köztársaság",
+            "common": "Dzsibuti"
+        },
+        "ita": {
+            "official": "Repubblica di Gibuti",
+            "common": "Gibuti"
+        },
+        "jpn": {
+            "official": "ジブチ共和国",
+            "common": "ジブチ"
+        },
+        "kor": {
+            "official": "지부티 공화국",
+            "common": "지부티"
+        },
+        "nld": {
+            "official": "Republiek Djibouti",
+            "common": "Djibouti"
+        },
+        "per": {
+            "official": "جمهوری جیبوتی",
+            "common": "جیبوتی"
+        },
+        "pol": {
+            "official": "Republika Dżibuti",
+            "common": "Dżibuti"
+        },
+        "por": {
+            "official": "República do Djibouti",
+            "common": "Djibouti"
+        },
+        "rus": {
+            "official": "Республика Джибути",
+            "common": "Джибути"
+        },
+        "slk": {
+            "official": "ǅibutská republika",
+            "common": "ǅibutsko"
+        },
+        "spa": {
+            "official": "República de Djibouti",
+            "common": "Djibouti"
+        },
+        "swe": {
+            "official": "Republiken Djibouti",
+            "common": "Djibouti"
+        },
+        "urd": {
+            "official": "جمہوریہ جبوتی",
+            "common": "جبوتی"
+        },
+        "zho": {
+            "official": "吉布提共和国",
+            "common": "吉布提"
+        }
+    },
+    "latlng": [
+        11.5,
+        43
+    ],
+    "landlocked": false,
+    "borders": [
+        "ERI",
+        "ETH",
+        "SOM"
+    ],
+    "area": 23200,
+    "demonyms": {
+        "eng": {
+            "f": "Djibouti",
+            "m": "Djibouti"
+        },
+        "fra": {
+            "f": "Djiboutienne",
+            "m": "Djiboutien"
+        }
+    },
+    "flag": "🇩🇯",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/V1HWfzN3bS1kwf4C6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/192801"
+    },
+    "population": 988002,
+    "gini": {
+        "2017": 41.6
+    },
+    "fifa": "DJI",
+    "car": {
+        "signs": [
+            "DJI"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+03:00"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/dj.png",
+        "svg": "https://flagcdn.com/dj.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/dj.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/dj.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            11.58,
+            43.15
+        ]
+    },
+    "provinces": [
+        "Ali Sabieh Region",
+        "Arta Region",
+        "Dikhil Region",
+        "Djibouti",
+        "Obock Region",
+        "Tadjourah Region"
+    ]
+}

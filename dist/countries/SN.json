@@ -1,0 +1,221 @@
+{
+    "name": {
+        "common": "Senegal",
+        "official": "Republic of Senegal",
+        "nativeName": {
+            "fra": {
+                "official": "République du Sénégal",
+                "common": "Sénégal"
+            }
+        }
+    },
+    "tld": [
+        ".sn"
+    ],
+    "cca2": "SN",
+    "ccn3": "686",
+    "cca3": "SEN",
+    "cioc": "SEN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "XOF": {
+            "name": "West African CFA franc",
+            "symbol": "Fr"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "21"
+        ]
+    },
+    "capital": [
+        "Dakar"
+    ],
+    "altSpellings": [
+        "SN",
+        "Republic of Senegal",
+        "République du Sénégal"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية السنغال",
+            "common": "السنغال"
+        },
+        "bre": {
+            "official": "Republik Senegal",
+            "common": "Senegal"
+        },
+        "ces": {
+            "official": "Senegalská republika",
+            "common": "Senegal"
+        },
+        "cym": {
+            "official": "Republic of Senegal",
+            "common": "Senegal"
+        },
+        "deu": {
+            "official": "Republik Senegal",
+            "common": "Senegal"
+        },
+        "est": {
+            "official": "Senegali Vabariik",
+            "common": "Senegal"
+        },
+        "fin": {
+            "official": "Senegalin tasavalta",
+            "common": "Senegal"
+        },
+        "fra": {
+            "official": "République du Sénégal",
+            "common": "Sénégal"
+        },
+        "hrv": {
+            "official": "Republika Senegal",
+            "common": "Senegal"
+        },
+        "hun": {
+            "official": "Szenegáli Köztársaság",
+            "common": "Szenegál"
+        },
+        "ita": {
+            "official": "Repubblica del Senegal",
+            "common": "Senegal"
+        },
+        "jpn": {
+            "official": "セネガル共和国",
+            "common": "セネガル"
+        },
+        "kor": {
+            "official": "세네갈 공화국",
+            "common": "세네갈"
+        },
+        "nld": {
+            "official": "Republiek Senegal",
+            "common": "Senegal"
+        },
+        "per": {
+            "official": "جمهوری سنگال",
+            "common": "سنگال"
+        },
+        "pol": {
+            "official": "Senegal",
+            "common": "Senegal"
+        },
+        "por": {
+            "official": "República do Senegal",
+            "common": "Senegal"
+        },
+        "rus": {
+            "official": "Республика Сенегал",
+            "common": "Сенегал"
+        },
+        "slk": {
+            "official": "Senegalská republika",
+            "common": "Senegal"
+        },
+        "spa": {
+            "official": "República de Senegal",
+            "common": "Senegal"
+        },
+        "swe": {
+            "official": "Republiken Senegal",
+            "common": "Senegal"
+        },
+        "urd": {
+            "official": "جمہوریہ سینیگال",
+            "common": "سینیگال"
+        },
+        "zho": {
+            "official": "塞内加尔共和国",
+            "common": "塞内加尔"
+        }
+    },
+    "latlng": [
+        14,
+        -14
+    ],
+    "landlocked": false,
+    "borders": [
+        "GMB",
+        "GIN",
+        "GNB",
+        "MLI",
+        "MRT"
+    ],
+    "area": 196722,
+    "demonyms": {
+        "eng": {
+            "f": "Senegalese",
+            "m": "Senegalese"
+        },
+        "fra": {
+            "f": "Sénégalaise",
+            "m": "Sénégalais"
+        }
+    },
+    "flag": "🇸🇳",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/192775"
+    },
+    "population": 16743930,
+    "gini": {
+        "2011": 40.3
+    },
+    "fifa": "SEN",
+    "car": {
+        "signs": [
+            "SN"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/sn.png",
+        "svg": "https://flagcdn.com/sn.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/sn.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/sn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            14.73,
+            -17.63
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^(\\d{5})$"
+    },
+    "provinces": [
+        "Dakar",
+        "Diourbel Region",
+        "Fatick",
+        "Kaffrine",
+        "Kaolack",
+        "Kédougou",
+        "Kolda",
+        "Louga",
+        "Matam",
+        "Saint-Louis",
+        "Sédhiou",
+        "Tambacounda Region",
+        "Thiès Region",
+        "Ziguinchor"
+    ]
+}

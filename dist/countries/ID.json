@@ -1,0 +1,241 @@
+{
+    "name": {
+        "common": "Indonesia",
+        "official": "Republic of Indonesia",
+        "nativeName": {
+            "ind": {
+                "official": "Republik Indonesia",
+                "common": "Indonesia"
+            }
+        }
+    },
+    "tld": [
+        ".id"
+    ],
+    "cca2": "ID",
+    "ccn3": "360",
+    "cca3": "IDN",
+    "cioc": "INA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "IDR": {
+            "name": "Indonesian rupiah",
+            "symbol": "Rp"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "2"
+        ]
+    },
+    "capital": [
+        "Jakarta"
+    ],
+    "altSpellings": [
+        "ID",
+        "Republic of Indonesia",
+        "Republik Indonesia"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+        "ind": "Indonesian"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية إندونيسيا",
+            "common": "إندونيسيا"
+        },
+        "bre": {
+            "official": "Republik Indonezia",
+            "common": "Indonezia"
+        },
+        "ces": {
+            "official": "Indonéská republika",
+            "common": "Indonésie"
+        },
+        "cym": {
+            "official": "Republic of Indonesia",
+            "common": "Indonesia"
+        },
+        "deu": {
+            "official": "Republik Indonesien",
+            "common": "Indonesien"
+        },
+        "est": {
+            "official": "Indoneesia Vabariik",
+            "common": "Indoneesia"
+        },
+        "fin": {
+            "official": "Indonesian tasavalta",
+            "common": "Indonesia"
+        },
+        "fra": {
+            "official": "République d'Indonésie",
+            "common": "Indonésie"
+        },
+        "hrv": {
+            "official": "Republika Indonezija",
+            "common": "Indonezija"
+        },
+        "hun": {
+            "official": "Indonéz Köztársaság",
+            "common": "Indonézia"
+        },
+        "ita": {
+            "official": "Repubblica di Indonesia",
+            "common": "Indonesia"
+        },
+        "jpn": {
+            "official": "インドネシア共和国",
+            "common": "インドネシア"
+        },
+        "kor": {
+            "official": "인도네시아 공화국",
+            "common": "인도네시아"
+        },
+        "nld": {
+            "official": "Republiek Indonesië",
+            "common": "Indonesië"
+        },
+        "per": {
+            "official": "جمهوری اندونزی",
+            "common": "اندونزی"
+        },
+        "pol": {
+            "official": "Republika Indonezji",
+            "common": "Indonezja"
+        },
+        "por": {
+            "official": "República da Indonésia",
+            "common": "Indonésia"
+        },
+        "rus": {
+            "official": "Республика Индонезия",
+            "common": "Индонезия"
+        },
+        "slk": {
+            "official": "Indonézska republika",
+            "common": "Indonézia"
+        },
+        "spa": {
+            "official": "República de Indonesia",
+            "common": "Indonesia"
+        },
+        "swe": {
+            "official": "Republiken Indonesien",
+            "common": "Indonesien"
+        },
+        "urd": {
+            "official": "جمہوریہ انڈونیشیا",
+            "common": "انڈونیشیا"
+        },
+        "zho": {
+            "official": "印度尼西亚共和国",
+            "common": "印度尼西亚"
+        }
+    },
+    "latlng": [
+        -5,
+        120
+    ],
+    "landlocked": false,
+    "borders": [
+        "TLS",
+        "MYS",
+        "PNG"
+    ],
+    "area": 1904569,
+    "demonyms": {
+        "eng": {
+            "f": "Indonesian",
+            "m": "Indonesian"
+        },
+        "fra": {
+            "f": "Indonésienne",
+            "m": "Indonésien"
+        }
+    },
+    "flag": "🇮🇩",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
+    },
+    "population": 273523621,
+    "gini": {
+        "2019": 38.2
+    },
+    "fifa": "IDN",
+    "car": {
+        "signs": [
+            "RI"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+07:00",
+        "UTC+08:00",
+        "UTC+09:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/id.png",
+        "svg": "https://flagcdn.com/id.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/id.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/id.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -6.17,
+            106.82
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^(\\d{5})$"
+    },
+    "provinces": [
+        "Aceh",
+        "Bali",
+        "Banten",
+        "Bengkulu",
+        "DI Yogyakarta",
+        "DKI Jakarta",
+        "Gorontalo",
+        "Jambi",
+        "Jawa Barat",
+        "Jawa Tengah",
+        "Jawa Timur",
+        "Kalimantan Barat",
+        "Kalimantan Selatan",
+        "Kalimantan Tengah",
+        "Kalimantan Timur",
+        "Kalimantan Utara",
+        "Kepulauan Bangka Belitung",
+        "Kepulauan Riau",
+        "Lampung",
+        "Maluku",
+        "Maluku Utara",
+        "Nusa Tenggara Barat",
+        "Nusa Tenggara Timur",
+        "Papua",
+        "Papua Barat",
+        "Riau",
+        "Sulawesi Barat",
+        "Sulawesi Selatan",
+        "Sulawesi Tengah",
+        "Sulawesi Tenggara",
+        "Sulawesi Utara",
+        "Sumatera Barat",
+        "Sumatera Selatan",
+        "Sumatera Utara"
+    ]
+}

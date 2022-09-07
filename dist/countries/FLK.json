@@ -1,0 +1,189 @@
+{
+    "name": {
+        "common": "Falkland Islands",
+        "official": "Falkland Islands",
+        "nativeName": {
+            "eng": {
+                "official": "Falkland Islands",
+                "common": "Falkland Islands"
+            }
+        }
+    },
+    "tld": [
+        ".fk"
+    ],
+    "cca2": "FK",
+    "ccn3": "238",
+    "cca3": "FLK",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "FKP": {
+            "name": "Falkland Islands pound",
+            "symbol": "£"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "00"
+        ]
+    },
+    "capital": [
+        "Stanley"
+    ],
+    "altSpellings": [
+        "FK",
+        "Islas Malvinas",
+        "Falkland Islands (Malvinas)"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "جزر فوكلاند",
+            "common": "جزر فوكلاند"
+        },
+        "bre": {
+            "official": "Inizi Maloù",
+            "common": "Inizi Maloù"
+        },
+        "ces": {
+            "official": "Falklandské ostrovy",
+            "common": "Falklandy"
+        },
+        "cym": {
+            "official": "Falkland Islands",
+            "common": "Falkland Islands"
+        },
+        "deu": {
+            "official": "Falklandinseln",
+            "common": "Falklandinseln"
+        },
+        "est": {
+            "official": "Falklandi saared",
+            "common": "Falklandi saared"
+        },
+        "fin": {
+            "official": "Falkandinsaaret",
+            "common": "Falkandinsaaret"
+        },
+        "fra": {
+            "official": "Îles Malouines",
+            "common": "Îles Malouines"
+        },
+        "hrv": {
+            "official": "Falklandski otoci",
+            "common": "Falklandski Otoci"
+        },
+        "hun": {
+            "official": "Falkland-szigetek",
+            "common": "Falkland-szigetek"
+        },
+        "ita": {
+            "official": "Isole Falkland",
+            "common": "Isole Falkland o Isole Malvine"
+        },
+        "jpn": {
+            "official": "フォークランド",
+            "common": "フォークランド（マルビナス）諸島"
+        },
+        "kor": {
+            "official": "포클랜드 제도",
+            "common": "포클랜드 제도"
+        },
+        "nld": {
+            "official": "Falkland eilanden",
+            "common": "Falklandeilanden"
+        },
+        "per": {
+            "official": "جزایر فالکلند",
+            "common": "جزایر فالکلند"
+        },
+        "pol": {
+            "official": "Falklandy",
+            "common": "Falklandy"
+        },
+        "por": {
+            "official": "Ilhas Malvinas",
+            "common": "Ilhas Malvinas"
+        },
+        "rus": {
+            "official": "Фолклендские острова",
+            "common": "Фолклендские острова"
+        },
+        "slk": {
+            "official": "Falklandské ostrovy",
+            "common": "Falklandy"
+        },
+        "spa": {
+            "official": "islas Malvinas",
+            "common": "Islas Malvinas"
+        },
+        "swe": {
+            "official": "Falklandsöarna",
+            "common": "Falklandsöarna"
+        },
+        "urd": {
+            "official": "جزائر فاکلینڈ",
+            "common": "جزائر فاکلینڈ"
+        },
+        "zho": {
+            "official": "福克兰群岛",
+            "common": "福克兰群岛"
+        }
+    },
+    "latlng": [
+        -51.75,
+        -59
+    ],
+    "landlocked": false,
+    "area": 12173,
+    "demonyms": {
+        "eng": {
+            "f": "Falkland Islander",
+            "m": "Falkland Islander"
+        },
+        "fra": {
+            "f": "Malouinne",
+            "m": "Malouin"
+        }
+    },
+    "flag": "🇫🇰",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/TZH1x7AGanQKifNk7",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/2185374"
+    },
+    "population": 2563,
+    "car": {
+        "signs": [
+            "GB"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "South America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/fk.png",
+        "svg": "https://flagcdn.com/fk.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/fk.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/fk.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -51.7,
+            -57.85
+        ]
+    }
+}

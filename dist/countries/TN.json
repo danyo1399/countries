@@ -1,0 +1,228 @@
+{
+    "name": {
+        "common": "Tunisia",
+        "official": "Tunisian Republic",
+        "nativeName": {
+            "ara": {
+                "official": "الجمهورية التونسية",
+                "common": "تونس"
+            }
+        }
+    },
+    "tld": [
+        ".tn"
+    ],
+    "cca2": "TN",
+    "ccn3": "788",
+    "cca3": "TUN",
+    "cioc": "TUN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "TND": {
+            "name": "Tunisian dinar",
+            "symbol": "د.ت"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "16"
+        ]
+    },
+    "capital": [
+        "Tunis"
+    ],
+    "altSpellings": [
+        "TN",
+        "Republic of Tunisia",
+        "al-Jumhūriyyah at-Tūnisiyyah"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+        "ara": "Arabic"
+    },
+    "translations": {
+        "ara": {
+            "official": "الجمهورية التونسية",
+            "common": "تونس"
+        },
+        "bre": {
+            "official": "Republik Tunizian",
+            "common": "Tunizia"
+        },
+        "ces": {
+            "official": "Tuniská republika",
+            "common": "Tunisko"
+        },
+        "cym": {
+            "official": "Tunisian Republic",
+            "common": "Tunisia"
+        },
+        "deu": {
+            "official": "Tunesische Republik",
+            "common": "Tunesien"
+        },
+        "est": {
+            "official": "Tuneesia Vabariik",
+            "common": "Tuneesia"
+        },
+        "fin": {
+            "official": "Tunisian tasavalta",
+            "common": "Tunisia"
+        },
+        "fra": {
+            "official": "République tunisienne",
+            "common": "Tunisie"
+        },
+        "hrv": {
+            "official": "Tuniski Republika",
+            "common": "Tunis"
+        },
+        "hun": {
+            "official": "Tunéziai Köztársaság",
+            "common": "Tunézia"
+        },
+        "ita": {
+            "official": "Repubblica tunisina",
+            "common": "Tunisia"
+        },
+        "jpn": {
+            "official": "チュニジア共和国",
+            "common": "チュニジア"
+        },
+        "kor": {
+            "official": "튀니지 공화국",
+            "common": "튀니지"
+        },
+        "nld": {
+            "official": "Republiek Tunesië",
+            "common": "Tunesië"
+        },
+        "per": {
+            "official": "جمهوری تونس",
+            "common": "تونس"
+        },
+        "pol": {
+            "official": "Republika Tunezyjska",
+            "common": "Tunezja"
+        },
+        "por": {
+            "official": "República da Tunísia",
+            "common": "Tunísia"
+        },
+        "rus": {
+            "official": "Тунисской Республики",
+            "common": "Тунис"
+        },
+        "slk": {
+            "official": "Tuniská republika",
+            "common": "Tunisko"
+        },
+        "spa": {
+            "official": "República de Túnez",
+            "common": "Túnez"
+        },
+        "swe": {
+            "official": "Republiken Tunisien",
+            "common": "Tunisien"
+        },
+        "urd": {
+            "official": "جمہوریہ تونس",
+            "common": "تونس"
+        },
+        "zho": {
+            "official": "突尼斯共和国",
+            "common": "突尼斯"
+        }
+    },
+    "latlng": [
+        34,
+        9
+    ],
+    "landlocked": false,
+    "borders": [
+        "DZA",
+        "LBY"
+    ],
+    "area": 163610,
+    "demonyms": {
+        "eng": {
+            "f": "Tunisian",
+            "m": "Tunisian"
+        },
+        "fra": {
+            "f": "Tunisienne",
+            "m": "Tunisien"
+        }
+    },
+    "flag": "🇹🇳",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/KgUmpZdUuNRaougs8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/192757"
+    },
+    "population": 11818618,
+    "gini": {
+        "2015": 32.8
+    },
+    "fifa": "TUN",
+    "car": {
+        "signs": [
+            "TN"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/tn.png",
+        "svg": "https://flagcdn.com/tn.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/tn.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/tn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            36.8,
+            10.18
+        ]
+    },
+    "postalCode": {
+        "format": "####",
+        "regex": "^(\\d{4})$"
+    },
+    "provinces": [
+        "Ariana",
+        "Ben Arous",
+        "Bizerte",
+        "Gabès",
+        "Gafsa",
+        "Jendouba",
+        "Kairouan",
+        "Kasserine",
+        "Kassrine",
+        "Kebili",
+        "Kef",
+        "Mahdia",
+        "Manouba",
+        "Medenine",
+        "Monastir",
+        "Nabeul",
+        "Sfax",
+        "Sidi Bouzid",
+        "Siliana",
+        "Sousse",
+        "Tataouine",
+        "Tozeur",
+        "Tunis",
+        "Zaghouan"
+    ]
+}

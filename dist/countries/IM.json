@@ -1,0 +1,199 @@
+{
+    "name": {
+        "common": "Isle of Man",
+        "official": "Isle of Man",
+        "nativeName": {
+            "eng": {
+                "official": "Isle of Man",
+                "common": "Isle of Man"
+            },
+            "glv": {
+                "official": "Ellan Vannin or Mannin",
+                "common": "Mannin"
+            }
+        }
+    },
+    "tld": [
+        ".im"
+    ],
+    "cca2": "IM",
+    "ccn3": "833",
+    "cca3": "IMN",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "GBP": {
+            "name": "British pound",
+            "symbol": "£"
+        },
+        "IMP": {
+            "name": "Manx pound",
+            "symbol": "£"
+        }
+    },
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "4"
+        ]
+    },
+    "capital": [
+        "Douglas"
+    ],
+    "altSpellings": [
+        "IM",
+        "Ellan Vannin",
+        "Mann",
+        "Mannin"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+        "eng": "English",
+        "glv": "Manx"
+    },
+    "translations": {
+        "ara": {
+            "official": "جزيرة مان",
+            "common": "جزيرة مان"
+        },
+        "bre": {
+            "official": "Enez Vanav",
+            "common": "Enez Vanav"
+        },
+        "ces": {
+            "official": "Ostrov Man",
+            "common": "Ostrov Man"
+        },
+        "cym": {
+            "official": "Isle of Man",
+            "common": "Isle of Man"
+        },
+        "deu": {
+            "official": "Isle of Man",
+            "common": "Insel Man"
+        },
+        "est": {
+            "official": "Mani saar",
+            "common": "Mani saar"
+        },
+        "fin": {
+            "official": "Mansaari",
+            "common": "Mansaari"
+        },
+        "fra": {
+            "official": "Isle of Man",
+            "common": "Île de Man"
+        },
+        "hrv": {
+            "official": "Mana ostrvo",
+            "common": "Otok Man"
+        },
+        "hun": {
+            "official": "Man",
+            "common": "Man"
+        },
+        "ita": {
+            "official": "Isola di Man",
+            "common": "Isola di Man"
+        },
+        "jpn": {
+            "official": "マン島",
+            "common": "マン島"
+        },
+        "kor": {
+            "official": "맨섬",
+            "common": "맨섬"
+        },
+        "nld": {
+            "official": "Isle of Man",
+            "common": "Isle of Man"
+        },
+        "per": {
+            "official": "جزیرهٔ مَن",
+            "common": "جزیرهٔ مَن"
+        },
+        "pol": {
+            "official": "Wyspa Man",
+            "common": "Wyspa Man"
+        },
+        "por": {
+            "official": "Isle of Man",
+            "common": "Ilha de Man"
+        },
+        "rus": {
+            "official": "Остров Мэн",
+            "common": "Остров Мэн"
+        },
+        "slk": {
+            "official": "Ostrov Man",
+            "common": "Man"
+        },
+        "spa": {
+            "official": "Isla de Man",
+            "common": "Isla de Man"
+        },
+        "swe": {
+            "official": "Isle of Man",
+            "common": "Isle of Man"
+        },
+        "urd": {
+            "official": "آئل آف مین",
+            "common": "آئل آف مین"
+        },
+        "zho": {
+            "official": "马恩岛",
+            "common": "马恩岛"
+        }
+    },
+    "latlng": [
+        54.25,
+        -4.5
+    ],
+    "landlocked": false,
+    "area": 572,
+    "demonyms": {
+        "eng": {
+            "f": "Manx",
+            "m": "Manx"
+        }
+    },
+    "flag": "🇮🇲",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/4DqVHDgVaFgnh8ZV8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/62269"
+    },
+    "population": 85032,
+    "car": {
+        "signs": [
+            "GBM"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+00:00"
+    ],
+    "continents": [
+        "Europe"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/im.png",
+        "svg": "https://flagcdn.com/im.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/im.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/im.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            54.15,
+            -4.48
+        ]
+    },
+    "postalCode": {
+        "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+        "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+    }
+}

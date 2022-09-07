@@ -1,0 +1,239 @@
+{
+    "name": {
+        "common": "Serbia",
+        "official": "Republic of Serbia",
+        "nativeName": {
+            "srp": {
+                "official": "Република Србија",
+                "common": "Србија"
+            }
+        }
+    },
+    "tld": [
+        ".rs",
+        ".срб"
+    ],
+    "cca2": "RS",
+    "ccn3": "688",
+    "cca3": "SRB",
+    "cioc": "SRB",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "RSD": {
+            "name": "Serbian dinar",
+            "symbol": "дин."
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "81"
+        ]
+    },
+    "capital": [
+        "Belgrade"
+    ],
+    "altSpellings": [
+        "RS",
+        "Srbija",
+        "Republic of Serbia",
+        "Република Србија",
+        "Republika Srbija"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": {
+        "srp": "Serbian"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية صيربيا",
+            "common": "صيربيا"
+        },
+        "bre": {
+            "official": "Republik Serbia",
+            "common": "Serbia"
+        },
+        "ces": {
+            "official": "Srbská republika",
+            "common": "Srbsko"
+        },
+        "cym": {
+            "official": "Republic of Serbia",
+            "common": "Serbia"
+        },
+        "deu": {
+            "official": "Republik Serbien",
+            "common": "Serbien"
+        },
+        "est": {
+            "official": "Serbia Vabariik",
+            "common": "Serbia"
+        },
+        "fin": {
+            "official": "Serbian tasavalta",
+            "common": "Serbia"
+        },
+        "fra": {
+            "official": "République de Serbie",
+            "common": "Serbie"
+        },
+        "hrv": {
+            "official": "Republika Srbija",
+            "common": "Srbija"
+        },
+        "hun": {
+            "official": "Szerb Köztársaság",
+            "common": "Szerbia"
+        },
+        "ita": {
+            "official": "Repubblica di Serbia",
+            "common": "Serbia"
+        },
+        "jpn": {
+            "official": "セルビア共和国",
+            "common": "セルビア"
+        },
+        "kor": {
+            "official": "세르비아 공화국",
+            "common": "세르비아"
+        },
+        "nld": {
+            "official": "Republiek Servië",
+            "common": "Servië"
+        },
+        "per": {
+            "official": "جمهوری صربستان",
+            "common": "صربستان"
+        },
+        "pol": {
+            "official": "Republika Serbii",
+            "common": "Serbia"
+        },
+        "por": {
+            "official": "República da Sérvia",
+            "common": "Sérvia"
+        },
+        "rus": {
+            "official": "Республика Сербия",
+            "common": "Сербия"
+        },
+        "slk": {
+            "official": "Srbská republika",
+            "common": "Srbsko"
+        },
+        "spa": {
+            "official": "República de Serbia",
+            "common": "Serbia"
+        },
+        "swe": {
+            "official": "Republiken Serbien",
+            "common": "Serbien"
+        },
+        "urd": {
+            "official": "جمہوریہ سربیا",
+            "common": "سربیا"
+        },
+        "zho": {
+            "official": "塞尔维亚共和国",
+            "common": "塞尔维亚"
+        }
+    },
+    "latlng": [
+        44,
+        21
+    ],
+    "landlocked": true,
+    "borders": [
+        "BIH",
+        "BGR",
+        "HRV",
+        "HUN",
+        "UNK",
+        "MKD",
+        "MNE",
+        "ROU"
+    ],
+    "area": 88361,
+    "demonyms": {
+        "eng": {
+            "f": "Serbian",
+            "m": "Serbian"
+        },
+        "fra": {
+            "f": "Serbe",
+            "m": "Serbe"
+        }
+    },
+    "flag": "🇷🇸",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/2Aqof7aV2Naq8YEK8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/1741311"
+    },
+    "population": 6908224,
+    "gini": {
+        "2017": 36.2
+    },
+    "fifa": "SRB",
+    "car": {
+        "signs": [
+            "SRB"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "continents": [
+        "Europe"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/rs.png",
+        "svg": "https://flagcdn.com/rs.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/rs.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/rs.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            44.83,
+            20.5
+        ]
+    },
+    "postalCode": {
+        "format": "######",
+        "regex": "^(\\d{6})$"
+    },
+    "provinces": [
+        "Belgrade",
+        "Bor District",
+        "Braničevo District",
+        "Central Banat District",
+        "Jablanica District",
+        "Kolubara District",
+        "Mačva District",
+        "Moravica District",
+        "Nišava District",
+        "North Bačka District",
+        "North Banat District",
+        "Pčinja District",
+        "Pirot District",
+        "Podunavlje District",
+        "Pomoravlje District",
+        "Rasina District",
+        "Raška District",
+        "South Bačka District",
+        "South Banat District",
+        "Srem District",
+        "Šumadija District",
+        "Toplica District",
+        "Vojvodina",
+        "West Bačka District",
+        "Zaječar District",
+        "Zlatibor District"
+    ]
+}

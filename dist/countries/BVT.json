@@ -1,0 +1,161 @@
+{
+    "name": {
+        "common": "Bouvet Island",
+        "official": "Bouvet Island",
+        "nativeName": {
+            "nor": {
+                "official": "Bouvetøya",
+                "common": "Bouvetøya"
+            }
+        }
+    },
+    "tld": [
+        ".bv"
+    ],
+    "cca2": "BV",
+    "ccn3": "074",
+    "cca3": "BVT",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "7"
+        ]
+    },
+    "altSpellings": [
+        "BV",
+        "Bouvetøya",
+        "Bouvet-øya"
+    ],
+    "region": "Antarctic",
+    "languages": {
+        "nor": "Norwegian"
+    },
+    "translations": {
+        "ara": {
+            "official": "جزر بوفيه",
+            "common": "جزر بوفيه"
+        },
+        "bre": {
+            "official": "Enez Bouvet",
+            "common": "Enez Bouvet"
+        },
+        "ces": {
+            "official": "Bouvetův ostrov",
+            "common": "Bouvetův ostrov"
+        },
+        "cym": {
+            "official": "Bouvet Island",
+            "common": "Bouvet Island"
+        },
+        "deu": {
+            "official": "Bouvetinsel",
+            "common": "Bouvetinsel"
+        },
+        "est": {
+            "official": "Bouvet’ saar",
+            "common": "Bouvet’ saar"
+        },
+        "fin": {
+            "official": "Bouvet'nsaari",
+            "common": "Bouvet'nsaari"
+        },
+        "fra": {
+            "official": "Île Bouvet",
+            "common": "Île Bouvet"
+        },
+        "hrv": {
+            "official": "Bouvet Island",
+            "common": "Otok Bouvet"
+        },
+        "hun": {
+            "official": "Bouvet-sziget",
+            "common": "Bouvet-sziget"
+        },
+        "ita": {
+            "official": "Isola Bouvet",
+            "common": "Isola Bouvet"
+        },
+        "jpn": {
+            "official": "ブーヴェ島",
+            "common": "ブーベ島"
+        },
+        "kor": {
+            "official": "부베 섬",
+            "common": "부베 섬"
+        },
+        "nld": {
+            "official": "Bouvet Island",
+            "common": "Bouveteiland"
+        },
+        "per": {
+            "official": "جزیرهٔ بووه",
+            "common": "جزیرهٔ بووه"
+        },
+        "pol": {
+            "official": "Wyspa Bouveta",
+            "common": "Wyspa Bouveta"
+        },
+        "por": {
+            "official": "Ilha Bouvet",
+            "common": "Ilha Bouvet"
+        },
+        "rus": {
+            "official": "Остров Буве",
+            "common": "Остров Буве"
+        },
+        "slk": {
+            "official": "Bouvetov ostrov",
+            "common": "Bouvetov ostrov"
+        },
+        "spa": {
+            "official": "Isla Bouvet",
+            "common": "Isla Bouvet"
+        },
+        "swe": {
+            "official": "Bouvetön",
+            "common": "Bouvetön"
+        },
+        "urd": {
+            "official": "جزیرہ بووہ",
+            "common": "جزیرہ بووہ"
+        },
+        "zho": {
+            "official": "布维岛",
+            "common": "布维岛"
+        }
+    },
+    "latlng": [
+        -54.43333333,
+        3.4
+    ],
+    "landlocked": false,
+    "area": 49,
+    "flag": "🇧🇻",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/7WRQAEKZb4uK36yi9",
+        "openStreetMaps": "https://www.openstreetmap.org/way/174996681"
+    },
+    "population": 0,
+    "car": {
+        "signs": [
+            ""
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "continents": [
+        "Antarctica"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/bv.png",
+        "svg": "https://flagcdn.com/bv.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {}
+}

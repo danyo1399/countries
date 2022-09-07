@@ -1,0 +1,199 @@
+{
+    "name": {
+        "common": "Cook Islands",
+        "official": "Cook Islands",
+        "nativeName": {
+            "eng": {
+                "official": "Cook Islands",
+                "common": "Cook Islands"
+            },
+            "rar": {
+                "official": "Kūki 'Āirani",
+                "common": "Kūki 'Āirani"
+            }
+        }
+    },
+    "tld": [
+        ".ck"
+    ],
+    "cca2": "CK",
+    "ccn3": "184",
+    "cca3": "COK",
+    "cioc": "COK",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "CKD": {
+            "name": "Cook Islands dollar",
+            "symbol": "$"
+        },
+        "NZD": {
+            "name": "New Zealand dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "82"
+        ]
+    },
+    "capital": [
+        "Avarua"
+    ],
+    "altSpellings": [
+        "CK",
+        "Kūki 'Āirani"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": {
+        "eng": "English",
+        "rar": "Cook Islands Māori"
+    },
+    "translations": {
+        "ara": {
+            "official": "جزر كوك",
+            "common": "جزر كوك"
+        },
+        "bre": {
+            "official": "Inizi Cook",
+            "common": "Inizi Cook"
+        },
+        "ces": {
+            "official": "Cookovy ostrovy",
+            "common": "Cookovy ostrovy"
+        },
+        "cym": {
+            "official": "Ynysoedd Cook",
+            "common": "Ynysoedd Cook"
+        },
+        "deu": {
+            "official": "Cookinseln",
+            "common": "Cookinseln"
+        },
+        "est": {
+            "official": "Cooki saared",
+            "common": "Cooki saared"
+        },
+        "fin": {
+            "official": "Cookinsaaret",
+            "common": "Cookinsaaret"
+        },
+        "fra": {
+            "official": "Îles Cook",
+            "common": "Îles Cook"
+        },
+        "hrv": {
+            "official": "Cook Islands",
+            "common": "Cookovo Otočje"
+        },
+        "hun": {
+            "official": "Cook-szigetek",
+            "common": "Cook-szigetek"
+        },
+        "ita": {
+            "official": "Isole Cook",
+            "common": "Isole Cook"
+        },
+        "jpn": {
+            "official": "クック諸島",
+            "common": "クック諸島"
+        },
+        "kor": {
+            "official": "쿡 제도",
+            "common": "쿡 제도"
+        },
+        "nld": {
+            "official": "Cook eilanden",
+            "common": "Cookeilanden"
+        },
+        "per": {
+            "official": "جزایر کوک",
+            "common": "جزایر کوک"
+        },
+        "pol": {
+            "official": "Wyspy Cooka",
+            "common": "Wyspy Cooka"
+        },
+        "por": {
+            "official": "Ilhas Cook",
+            "common": "Ilhas Cook"
+        },
+        "rus": {
+            "official": "острова Кука",
+            "common": "Острова Кука"
+        },
+        "slk": {
+            "official": "Cookove ostrovy",
+            "common": "Cookove ostrovy"
+        },
+        "spa": {
+            "official": "Islas Cook",
+            "common": "Islas Cook"
+        },
+        "swe": {
+            "official": "Cooköarna",
+            "common": "Cooköarna"
+        },
+        "urd": {
+            "official": "جزائر کک",
+            "common": "جزائر کک"
+        },
+        "zho": {
+            "official": "库克群岛",
+            "common": "库克群岛"
+        }
+    },
+    "latlng": [
+        -21.23333333,
+        -159.76666666
+    ],
+    "landlocked": false,
+    "area": 236,
+    "demonyms": {
+        "eng": {
+            "f": "Cook Islander",
+            "m": "Cook Islander"
+        },
+        "fra": {
+            "f": "Cookienne",
+            "m": "Cookien"
+        }
+    },
+    "flag": "🇨🇰",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/nrGZrvWRGB4WHgDC9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/2184233"
+    },
+    "population": 18100,
+    "fifa": "COK",
+    "car": {
+        "signs": [
+            "NZ"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC-10:00"
+    ],
+    "continents": [
+        "Oceania"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/ck.png",
+        "svg": "https://flagcdn.com/ck.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ck.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ck.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -21.2,
+            -159.77
+        ]
+    }
+}

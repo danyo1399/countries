@@ -1,0 +1,233 @@
+{
+    "name": {
+        "common": "Bolivia",
+        "official": "Plurinational State of Bolivia",
+        "nativeName": {
+            "aym": {
+                "official": "Wuliwya Suyu",
+                "common": "Wuliwya"
+            },
+            "grn": {
+                "official": "Tetã Volívia",
+                "common": "Volívia"
+            },
+            "que": {
+                "official": "Buliwya Mamallaqta",
+                "common": "Buliwya"
+            },
+            "spa": {
+                "official": "Estado Plurinacional de Bolivia",
+                "common": "Bolivia"
+            }
+        }
+    },
+    "tld": [
+        ".bo"
+    ],
+    "cca2": "BO",
+    "ccn3": "068",
+    "cca3": "BOL",
+    "cioc": "BOL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "BOB": {
+            "name": "Bolivian boliviano",
+            "symbol": "Bs."
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "91"
+        ]
+    },
+    "capital": [
+        "Sucre"
+    ],
+    "altSpellings": [
+        "BO",
+        "Buliwya",
+        "Wuliwya",
+        "Bolivia, Plurinational State of",
+        "Plurinational State of Bolivia",
+        "Estado Plurinacional de Bolivia",
+        "Buliwya Mamallaqta",
+        "Wuliwya Suyu",
+        "Tetã Volívia"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+        "aym": "Aymara",
+        "grn": "Guaraní",
+        "que": "Quechua",
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ara": {
+            "official": "دولة بوليفيا المتعددة القوميات",
+            "common": "بوليفيا"
+        },
+        "bre": {
+            "official": "Stad Liesvroadel Bolivia",
+            "common": "Bolivia"
+        },
+        "ces": {
+            "official": "Mnohonárodnostní stát Bolívie",
+            "common": "Bolívie"
+        },
+        "cym": {
+            "official": "Gweriniaeth Bolifia",
+            "common": "Bolifia"
+        },
+        "deu": {
+            "official": "Plurinationaler Staat Bolivien",
+            "common": "Bolivien"
+        },
+        "est": {
+            "official": "Boliivia Paljurahvuseline Riik",
+            "common": "Boliivia"
+        },
+        "fin": {
+            "official": "Bolivian monikansainen valtio",
+            "common": "Bolivia"
+        },
+        "fra": {
+            "official": "État plurinational de Bolivie",
+            "common": "Bolivie"
+        },
+        "hrv": {
+            "official": "Plurinational State of Bolivia",
+            "common": "Bolivija"
+        },
+        "hun": {
+            "official": "Bolíviai Többnemzetiségű Állam",
+            "common": "Bolívia"
+        },
+        "ita": {
+            "official": "Stato Plurinazionale della Bolivia",
+            "common": "Bolivia"
+        },
+        "jpn": {
+            "official": "ボリビアの多民族国",
+            "common": "ボリビア多民族国"
+        },
+        "kor": {
+            "official": "볼리비아 다민족국",
+            "common": "볼리비아"
+        },
+        "nld": {
+            "official": "Plurinationale Staat van Bolivia",
+            "common": "Bolivia"
+        },
+        "per": {
+            "official": "جمهوری بولیوی",
+            "common": "بولیوی"
+        },
+        "pol": {
+            "official": "Wielonarodowe Państwo Boliwia",
+            "common": "Boliwia"
+        },
+        "por": {
+            "official": "Estado Plurinacional da Bolívia",
+            "common": "Bolívia"
+        },
+        "rus": {
+            "official": "Многонациональное Государство Боливия",
+            "common": "Боливия"
+        },
+        "slk": {
+            "official": "Bolívijská republika",
+            "common": "Bolívia"
+        },
+        "spa": {
+            "official": "Estado Plurinacional de Bolivia",
+            "common": "Bolivia"
+        },
+        "swe": {
+            "official": "Mångnationella staten Bolivia",
+            "common": "Bolivia"
+        },
+        "urd": {
+            "official": "جمہوریہ بولیویا",
+            "common": "بولیویا"
+        },
+        "zho": {
+            "official": "多民族玻利维亚国",
+            "common": "玻利维亚"
+        }
+    },
+    "latlng": [
+        -17,
+        -65
+    ],
+    "landlocked": true,
+    "borders": [
+        "ARG",
+        "BRA",
+        "CHL",
+        "PRY",
+        "PER"
+    ],
+    "area": 1098581,
+    "demonyms": {
+        "eng": {
+            "f": "Bolivian",
+            "m": "Bolivian"
+        },
+        "fra": {
+            "f": "Bolivienne",
+            "m": "Bolivien"
+        }
+    },
+    "flag": "🇧🇴",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/252645"
+    },
+    "population": 11673029,
+    "gini": {
+        "2019": 41.6
+    },
+    "fifa": "BOL",
+    "car": {
+        "signs": [
+            "BOL"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "South America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/bo.png",
+        "svg": "https://flagcdn.com/bo.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/bo.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/bo.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -19.02,
+            -65.26
+        ]
+    },
+    "provinces": [
+        "Beni Department",
+        "Chuquisaca Department",
+        "Cochabamba Department",
+        "La Paz Department",
+        "Oruro Department",
+        "Pando Department",
+        "Potosí Department",
+        "Santa Cruz Department",
+        "Tarija Department"
+    ]
+}

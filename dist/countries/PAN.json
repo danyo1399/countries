@@ -1,0 +1,217 @@
+{
+    "name": {
+        "common": "Panama",
+        "official": "Republic of Panama",
+        "nativeName": {
+            "spa": {
+                "official": "República de Panamá",
+                "common": "Panamá"
+            }
+        }
+    },
+    "tld": [
+        ".pa"
+    ],
+    "cca2": "PA",
+    "ccn3": "591",
+    "cca3": "PAN",
+    "cioc": "PAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "PAB": {
+            "name": "Panamanian balboa",
+            "symbol": "B/."
+        },
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "07"
+        ]
+    },
+    "capital": [
+        "Panama City"
+    ],
+    "altSpellings": [
+        "PA",
+        "Republic of Panama",
+        "República de Panamá"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية بنما",
+            "common": "بنما"
+        },
+        "bre": {
+            "official": "Republik Panama",
+            "common": "Panama"
+        },
+        "ces": {
+            "official": "Panamská republika",
+            "common": "Panama"
+        },
+        "cym": {
+            "official": "Republic of Panama",
+            "common": "Panama"
+        },
+        "deu": {
+            "official": "Republik Panama",
+            "common": "Panama"
+        },
+        "est": {
+            "official": "Panama Vabariik",
+            "common": "Panama"
+        },
+        "fin": {
+            "official": "Panaman tasavalta",
+            "common": "Panama"
+        },
+        "fra": {
+            "official": "République du Panama",
+            "common": "Panama"
+        },
+        "hrv": {
+            "official": "Republika Panama",
+            "common": "Panama"
+        },
+        "hun": {
+            "official": "Panamai Köztársaság",
+            "common": "Panama"
+        },
+        "ita": {
+            "official": "Repubblica di Panama",
+            "common": "Panama"
+        },
+        "jpn": {
+            "official": "パナマ共和国",
+            "common": "パナマ"
+        },
+        "kor": {
+            "official": "파나마 공화국",
+            "common": "파나마"
+        },
+        "nld": {
+            "official": "Republiek Panama",
+            "common": "Panama"
+        },
+        "per": {
+            "official": "جمهوری پاناما",
+            "common": "پاناما"
+        },
+        "pol": {
+            "official": "Republika Panamy",
+            "common": "Panama"
+        },
+        "por": {
+            "official": "República do Panamá",
+            "common": "Panamá"
+        },
+        "rus": {
+            "official": "Республика Панама",
+            "common": "Панама"
+        },
+        "slk": {
+            "official": "Panamská republika",
+            "common": "Panama"
+        },
+        "spa": {
+            "official": "República de Panamá",
+            "common": "Panamá"
+        },
+        "swe": {
+            "official": "Republiken Panama",
+            "common": "Panama"
+        },
+        "urd": {
+            "official": "جمہوریہ پاناما",
+            "common": "پاناما"
+        },
+        "zho": {
+            "official": "巴拿马共和国",
+            "common": "巴拿马"
+        }
+    },
+    "latlng": [
+        9,
+        -80
+    ],
+    "landlocked": false,
+    "borders": [
+        "COL",
+        "CRI"
+    ],
+    "area": 75417,
+    "demonyms": {
+        "eng": {
+            "f": "Panamanian",
+            "m": "Panamanian"
+        },
+        "fra": {
+            "f": "Panaméenne",
+            "m": "Panaméen"
+        }
+    },
+    "flag": "🇵🇦",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/287668"
+    },
+    "population": 4314768,
+    "gini": {
+        "2019": 49.8
+    },
+    "fifa": "PAN",
+    "car": {
+        "signs": [
+            "PA"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-05:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/pa.png",
+        "svg": "https://flagcdn.com/pa.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/pa.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/pa.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            8.97,
+            -79.53
+        ]
+    },
+    "provinces": [
+        "Bocas del Toro Province",
+        "Chiriquí Province",
+        "Coclé Province",
+        "Colón Province",
+        "Darién Province",
+        "Emberá-Wounaan Comarca",
+        "Guna Yala",
+        "Herrera Province",
+        "Los Santos Province",
+        "Ngöbe-Buglé Comarca",
+        "Panamá Oeste Province",
+        "Panamá Province",
+        "Veraguas Province"
+    ]
+}

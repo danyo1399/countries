@@ -1,0 +1,324 @@
+{
+    "name": {
+        "common": "Latvia",
+        "official": "Republic of Latvia",
+        "nativeName": {
+            "lav": {
+                "official": "Latvijas Republikas",
+                "common": "Latvija"
+            }
+        }
+    },
+    "tld": [
+        ".lv"
+    ],
+    "cca2": "LV",
+    "ccn3": "428",
+    "cca3": "LVA",
+    "cioc": "LAT",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "71"
+        ]
+    },
+    "capital": [
+        "Riga"
+    ],
+    "altSpellings": [
+        "LV",
+        "Republic of Latvia",
+        "Latvijas Republika"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+        "lav": "Latvian"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية لاتفيا",
+            "common": "لاتفيا"
+        },
+        "bre": {
+            "official": "Republik Latvia",
+            "common": "Latvia"
+        },
+        "ces": {
+            "official": "Lotyšská republika",
+            "common": "Lotyšsko"
+        },
+        "cym": {
+            "official": "Republic of Latvia",
+            "common": "Latvia"
+        },
+        "deu": {
+            "official": "Republik Lettland",
+            "common": "Lettland"
+        },
+        "est": {
+            "official": "Läti Vabariik",
+            "common": "Läti"
+        },
+        "fin": {
+            "official": "Latvian tasavalta",
+            "common": "Latvia"
+        },
+        "fra": {
+            "official": "République de Lettonie",
+            "common": "Lettonie"
+        },
+        "hrv": {
+            "official": "Republika Latvija",
+            "common": "Latvija"
+        },
+        "hun": {
+            "official": "Lett Köztársaság",
+            "common": "Lettország"
+        },
+        "ita": {
+            "official": "Repubblica di Lettonia",
+            "common": "Lettonia"
+        },
+        "jpn": {
+            "official": "ラトビア共和国",
+            "common": "ラトビア"
+        },
+        "kor": {
+            "official": "라트비아 공화국",
+            "common": "라트비아"
+        },
+        "nld": {
+            "official": "Republiek Letland",
+            "common": "Letland"
+        },
+        "per": {
+            "official": "جمهوری لتونی",
+            "common": "لتونی"
+        },
+        "pol": {
+            "official": "Republika Łotewska",
+            "common": "Łotwa"
+        },
+        "por": {
+            "official": "República da Letónia",
+            "common": "Letónia"
+        },
+        "rus": {
+            "official": "Латвийская Республика",
+            "common": "Латвия"
+        },
+        "slk": {
+            "official": "Lotyšská republika",
+            "common": "Lotyšsko"
+        },
+        "spa": {
+            "official": "República de Letonia",
+            "common": "Letonia"
+        },
+        "swe": {
+            "official": "Republiken Lettland",
+            "common": "Lettland"
+        },
+        "urd": {
+            "official": "جمہوریہ لٹویا",
+            "common": "لٹویا"
+        },
+        "zho": {
+            "official": "拉脱维亚共和国",
+            "common": "拉脱维亚"
+        }
+    },
+    "latlng": [
+        57,
+        25
+    ],
+    "landlocked": false,
+    "borders": [
+        "BLR",
+        "EST",
+        "LTU",
+        "RUS"
+    ],
+    "area": 64559,
+    "demonyms": {
+        "eng": {
+            "f": "Latvian",
+            "m": "Latvian"
+        },
+        "fra": {
+            "f": "Lettone",
+            "m": "Letton"
+        }
+    },
+    "flag": "🇱🇻",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/72594"
+    },
+    "population": 1901548,
+    "gini": {
+        "2018": 35.1
+    },
+    "fifa": "LVA",
+    "car": {
+        "signs": [
+            "LV"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "continents": [
+        "Europe"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/lv.png",
+        "svg": "https://flagcdn.com/lv.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/lv.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/lv.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            56.95,
+            24.1
+        ]
+    },
+    "postalCode": {
+        "format": "LV-####",
+        "regex": "^(?:LV)*(\\d{4})$"
+    },
+    "provinces": [
+        "Aglona Municipality",
+        "Aizkraukle Municipality",
+        "Aizpute Municipality",
+        "Aknīste Municipality",
+        "Aloja Municipality",
+        "Alsunga Municipality",
+        "Alūksne Municipality",
+        "Amata Municipality",
+        "Ape Municipality",
+        "Auce Municipality",
+        "Babīte Municipality",
+        "Baldone Municipality",
+        "Baltinava Municipality",
+        "Balvi Municipality",
+        "Bauska Municipality",
+        "Beverīna Municipality",
+        "Brocēni Municipality",
+        "Burtnieki Municipality",
+        "Carnikava Municipality",
+        "Cēsis Municipality",
+        "Cesvaine Municipality",
+        "Cibla Municipality",
+        "Dagda Municipality",
+        "Daugavpils",
+        "Daugavpils Municipality",
+        "Dobele Municipality",
+        "Dundaga Municipality",
+        "Durbe Municipality",
+        "Engure Municipality",
+        "Ērgļi Municipality",
+        "Garkalne Municipality",
+        "Grobiņa Municipality",
+        "Gulbene Municipality",
+        "Iecava Municipality",
+        "Ikšķile Municipality",
+        "Ilūkste Municipality",
+        "Inčukalns Municipality",
+        "Jaunjelgava Municipality",
+        "Jaunpiebalga Municipality",
+        "Jaunpils Municipality",
+        "Jēkabpils",
+        "Jēkabpils Municipality",
+        "Jelgava",
+        "Jelgava Municipality",
+        "Jūrmala",
+        "Kandava Municipality",
+        "Kārsava Municipality",
+        "Ķegums Municipality",
+        "Ķekava Municipality",
+        "Kocēni Municipality",
+        "Koknese Municipality",
+        "Krāslava Municipality",
+        "Krimulda Municipality",
+        "Krustpils Municipality",
+        "Kuldīga Municipality",
+        "Lielvārde Municipality",
+        "Liepāja",
+        "Līgatne Municipality",
+        "Limbaži Municipality",
+        "Līvāni Municipality",
+        "Lubāna Municipality",
+        "Ludza Municipality",
+        "Madona Municipality",
+        "Mālpils Municipality",
+        "Mārupe Municipality",
+        "Mazsalaca Municipality",
+        "Mērsrags Municipality",
+        "Naukšēni Municipality",
+        "Nereta Municipality",
+        "Nīca Municipality",
+        "Ogre Municipality",
+        "Olaine Municipality",
+        "Ozolnieki Municipality",
+        "Pārgauja Municipality",
+        "Pāvilosta Municipality",
+        "Pļaviņas Municipality",
+        "Preiļi Municipality",
+        "Priekule Municipality",
+        "Priekuļi Municipality",
+        "Rauna Municipality",
+        "Rēzekne",
+        "Rēzekne Municipality",
+        "Riebiņi Municipality",
+        "Riga",
+        "Roja Municipality",
+        "Ropaži Municipality",
+        "Rucava Municipality",
+        "Rugāji Municipality",
+        "Rūjiena Municipality",
+        "Rundāle Municipality",
+        "Sala Municipality",
+        "Salacgrīva Municipality",
+        "Salaspils Municipality",
+        "Saldus Municipality",
+        "Saulkrasti Municipality",
+        "Sēja Municipality",
+        "Sigulda Municipality",
+        "Skrīveri Municipality",
+        "Skrunda Municipality",
+        "Smiltene Municipality",
+        "Stopiņi Municipality",
+        "Strenči Municipality",
+        "Talsi Municipality",
+        "Tērvete Municipality",
+        "Tukums Municipality",
+        "Vaiņode Municipality",
+        "Valka Municipality",
+        "Valmiera",
+        "Varakļāni Municipality",
+        "Vārkava Municipality",
+        "Vecpiebalga Municipality",
+        "Vecumnieki Municipality",
+        "Ventspils",
+        "Ventspils Municipality",
+        "Viesīte Municipality",
+        "Viļaka Municipality",
+        "Viļāni Municipality",
+        "Zilupe Municipality"
+    ]
+}

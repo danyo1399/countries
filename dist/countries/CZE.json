@@ -1,0 +1,301 @@
+{
+    "name": {
+        "common": "Czechia",
+        "official": "Czech Republic",
+        "nativeName": {
+            "ces": {
+                "official": "Česká republika",
+                "common": "Česko"
+            },
+            "slk": {
+                "official": "Česká republika",
+                "common": "Česko"
+            }
+        }
+    },
+    "tld": [
+        ".cz"
+    ],
+    "cca2": "CZ",
+    "ccn3": "203",
+    "cca3": "CZE",
+    "cioc": "CZE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "CZK": {
+            "name": "Czech koruna",
+            "symbol": "Kč"
+        }
+    },
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "20"
+        ]
+    },
+    "capital": [
+        "Prague"
+    ],
+    "altSpellings": [
+        "CZ",
+        "Česká republika",
+        "Česko"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": {
+        "ces": "Czech",
+        "slk": "Slovak"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية التشيك",
+            "common": "التشيك"
+        },
+        "bre": {
+            "official": "Republik Tchek",
+            "common": "Tchekia"
+        },
+        "ces": {
+            "official": "Česká republika",
+            "common": "Česko"
+        },
+        "cym": {
+            "official": "Y Weriniaeth Tsiec",
+            "common": "Y Weriniaeth Tsiec"
+        },
+        "deu": {
+            "official": "Tschechische Republik",
+            "common": "Tschechien"
+        },
+        "est": {
+            "official": "Tšehhi Vabariik",
+            "common": "Tšehhi"
+        },
+        "fin": {
+            "official": "Tšekin tasavalta",
+            "common": "Tšekki"
+        },
+        "fra": {
+            "official": "République tchèque",
+            "common": "Tchéquie"
+        },
+        "hrv": {
+            "official": "Češka",
+            "common": "Češka"
+        },
+        "hun": {
+            "official": "Cseh Köztársaság",
+            "common": "Csehország"
+        },
+        "ita": {
+            "official": "Repubblica Ceca",
+            "common": "Cechia"
+        },
+        "jpn": {
+            "official": "チェコ共和国",
+            "common": "チェコ"
+        },
+        "kor": {
+            "official": "체코",
+            "common": "체코"
+        },
+        "nld": {
+            "official": "Tsjechische Republiek",
+            "common": "Tsjechië"
+        },
+        "per": {
+            "official": "جمهوری چک",
+            "common": "جمهوری چک"
+        },
+        "pol": {
+            "official": "Republika Czeska",
+            "common": "Czechy"
+        },
+        "por": {
+            "official": "República Checa",
+            "common": "Chéquia"
+        },
+        "rus": {
+            "official": "Чешская Республика",
+            "common": "Чехия"
+        },
+        "slk": {
+            "official": "Česká republika",
+            "common": "Česko"
+        },
+        "spa": {
+            "official": "República Checa",
+            "common": "Chequia"
+        },
+        "swe": {
+            "official": "Republiken Tjeckien",
+            "common": "Tjeckien"
+        },
+        "urd": {
+            "official": "چيک جمہوريہ",
+            "common": "چيک"
+        },
+        "zho": {
+            "official": "捷克共和国",
+            "common": "捷克"
+        }
+    },
+    "latlng": [
+        49.75,
+        15.5
+    ],
+    "landlocked": true,
+    "borders": [
+        "AUT",
+        "DEU",
+        "POL",
+        "SVK"
+    ],
+    "area": 78865,
+    "demonyms": {
+        "eng": {
+            "f": "Czech",
+            "m": "Czech"
+        },
+        "fra": {
+            "f": "Tchèque",
+            "m": "Tchèque"
+        }
+    },
+    "flag": "🇨🇿",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/51684"
+    },
+    "population": 10698896,
+    "gini": {
+        "2018": 25
+    },
+    "fifa": "CZE",
+    "car": {
+        "signs": [
+            "CZ"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "continents": [
+        "Europe"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/cz.png",
+        "svg": "https://flagcdn.com/cz.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/cz.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/cz.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            50.08,
+            14.47
+        ]
+    },
+    "postalCode": {
+        "format": "### ##",
+        "regex": "^(\\d{5})$"
+    },
+    "provinces": [
+        "Benešov",
+        "Beroun",
+        "Blansko",
+        "Břeclav",
+        "Brno-město",
+        "Brno-venkov",
+        "Bruntál",
+        "Česká Lípa",
+        "České Budějovice",
+        "Český Krumlov",
+        "Cheb",
+        "Chomutov",
+        "Chrudim",
+        "Děčín",
+        "Domažlice",
+        "Frýdek-Místek",
+        "Havlíčkův Brod",
+        "Hodonín",
+        "Hradec Králové",
+        "Jablonec nad Nisou",
+        "Jeseník",
+        "Jičín",
+        "Jihlava",
+        "Jihočeský kraj",
+        "Jihomoravský kraj",
+        "Jindřichův Hradec",
+        "Karlovarský kraj",
+        "Karlovy Vary",
+        "Karviná",
+        "Kladno",
+        "Klatovy",
+        "Kolín",
+        "Kraj Vysočina",
+        "Královéhradecký kraj",
+        "Kroměříž",
+        "Kutná Hora",
+        "Liberec",
+        "Liberecký kraj",
+        "Litoměřice",
+        "Louny",
+        "Mělník",
+        "Mladá Boleslav",
+        "Moravskoslezský kraj",
+        "Most",
+        "Náchod",
+        "Nový Jičín",
+        "Nymburk",
+        "Olomouc",
+        "Olomoucký kraj",
+        "Opava",
+        "Ostrava-město",
+        "Pardubice",
+        "Pardubický kraj",
+        "Pelhřimov",
+        "Písek",
+        "Plzeň-jih",
+        "Plzeň-město",
+        "Plzeň-sever",
+        "Plzeňský kraj",
+        "Prachatice",
+        "Praha-východ",
+        "Praha-západ",
+        "Praha, Hlavní město",
+        "Přerov",
+        "Příbram",
+        "Prostějov",
+        "Rakovník",
+        "Rokycany",
+        "Rychnov nad Kněžnou",
+        "Semily",
+        "Sokolov",
+        "Strakonice",
+        "Středočeský kraj",
+        "Šumperk",
+        "Svitavy",
+        "Tábor",
+        "Tachov",
+        "Teplice",
+        "Třebíč",
+        "Trutnov",
+        "Uherské Hradiště",
+        "Ústecký kraj",
+        "Ústí nad Labem",
+        "Ústí nad Orlicí",
+        "Vsetín",
+        "Vyškov",
+        "Žďár nad Sázavou",
+        "Zlín",
+        "Zlínský kraj",
+        "Znojmo"
+    ]
+}

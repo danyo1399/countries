@@ -1,0 +1,188 @@
+{
+    "name": {
+        "common": "United States Virgin Islands",
+        "official": "Virgin Islands of the United States",
+        "nativeName": {
+            "eng": {
+                "official": "Virgin Islands of the United States",
+                "common": "United States Virgin Islands"
+            }
+        }
+    },
+    "tld": [
+        ".vi"
+    ],
+    "cca2": "VI",
+    "ccn3": "850",
+    "cca3": "VIR",
+    "cioc": "ISV",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "340"
+        ]
+    },
+    "capital": [
+        "Charlotte Amalie"
+    ],
+    "altSpellings": [
+        "VI",
+        "Virgin Islands, U.S."
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "جزر العذراء الامريكية",
+            "common": "جزر العذراء الامريكية"
+        },
+        "bre": {
+            "official": "Inizi Gwerc'h ar Stadoù-Unanet",
+            "common": "Inizi Gwerc'h ar Stadoù-Unanet"
+        },
+        "ces": {
+            "official": "Americké Panenské ostrovy",
+            "common": "Americké Panenské ostrovy"
+        },
+        "cym": {
+            "official": "Virgin Islands of the United States",
+            "common": "United States Virgin Islands"
+        },
+        "deu": {
+            "official": "Amerikanische Jungferninseln",
+            "common": "Amerikanische Jungferninseln"
+        },
+        "est": {
+            "official": "Ühendriikide Neitsisaared",
+            "common": "Neitsisaared, USA"
+        },
+        "fin": {
+            "official": "Yhdysvaltain Neitsytsaaret",
+            "common": "Neitsytsaaret"
+        },
+        "fra": {
+            "official": "Îles Vierges des États-Unis",
+            "common": "Îles Vierges des États-Unis"
+        },
+        "hrv": {
+            "official": "Djevičanski Otoci SAD",
+            "common": "Američki Djevičanski Otoci"
+        },
+        "hun": {
+            "official": "Amerikai Virgin-szigetek",
+            "common": "Amerikai Virgin-szigetek"
+        },
+        "ita": {
+            "official": "Isole Vergini degli Stati Uniti",
+            "common": "Isole Vergini americane"
+        },
+        "jpn": {
+            "official": "米国のバージン諸島",
+            "common": "アメリカ領ヴァージン諸島"
+        },
+        "kor": {
+            "official": "미국령 버진아일랜드",
+            "common": "미국령 버진아일랜드"
+        },
+        "nld": {
+            "official": "Maagdeneilanden van de Verenigde Staten",
+            "common": "Amerikaanse Maagdeneilanden"
+        },
+        "per": {
+            "official": "جزایر ویرجین ایالات متحده آمریکا",
+            "common": "جزایر ویرجین ایالات متحده آمریکا"
+        },
+        "pol": {
+            "official": "Wyspy Dziewicze Stanów Zjednoczonych",
+            "common": "Wyspy Dziewicze Stanów Zjednoczonych"
+        },
+        "por": {
+            "official": "Ilhas Virgens dos Estados Unidos",
+            "common": "Ilhas Virgens dos Estados Unidos"
+        },
+        "rus": {
+            "official": "Виргинские острова Соединенных Штатов",
+            "common": "Виргинские Острова"
+        },
+        "slk": {
+            "official": "Americké Panenské ostrovy",
+            "common": "Americké Panenské ostrovy"
+        },
+        "spa": {
+            "official": "Islas Vírgenes de los Estados Unidos",
+            "common": "Islas Vírgenes de los Estados Unidos"
+        },
+        "swe": {
+            "official": "Amerikanska Jungfruöarna",
+            "common": "Amerikanska Jungfruöarna"
+        },
+        "urd": {
+            "official": "امریکی جزائر ورجن",
+            "common": "امریکی جزائر ورجن"
+        },
+        "zho": {
+            "official": "美属维尔京群岛",
+            "common": "美属维尔京群岛"
+        }
+    },
+    "latlng": [
+        18.35,
+        -64.933333
+    ],
+    "landlocked": false,
+    "area": 347,
+    "demonyms": {
+        "eng": {
+            "f": "Virgin Islander",
+            "m": "Virgin Islander"
+        }
+    },
+    "flag": "🇻🇮",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/mBfreywj8dor6q4m9",
+        "openStreetMaps": "openstreetmap.org/relation/286898"
+    },
+    "population": 106290,
+    "fifa": "VIR",
+    "car": {
+        "signs": [
+            "USA"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/vi.png",
+        "svg": "https://flagcdn.com/vi.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            18.35,
+            -64.93
+        ]
+    },
+    "provinces": [
+        "Saint Croix",
+        "Saint John",
+        "Saint Thomas"
+    ]
+}

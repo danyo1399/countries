@@ -1,0 +1,197 @@
+{
+    "name": {
+        "common": "French Guiana",
+        "official": "Guiana",
+        "nativeName": {
+            "fra": {
+                "official": "Guyane",
+                "common": "Guyane française"
+            }
+        }
+    },
+    "tld": [
+        ".gf"
+    ],
+    "cca2": "GF",
+    "ccn3": "254",
+    "cca3": "GUF",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "94"
+        ]
+    },
+    "capital": [
+        "Cayenne"
+    ],
+    "altSpellings": [
+        "GF",
+        "Guiana",
+        "Guyane"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ara": {
+            "official": "غويانا الفرنسية",
+            "common": "غويانا"
+        },
+        "bre": {
+            "official": "Gwiana C'hall",
+            "common": "Gwiana C'hall"
+        },
+        "ces": {
+            "official": "Francouzská Guyana",
+            "common": "Francouzská Guyana"
+        },
+        "cym": {
+            "official": "Guiana",
+            "common": "French Guiana"
+        },
+        "deu": {
+            "official": "Französisch-Guayana",
+            "common": "Französisch-Guayana"
+        },
+        "est": {
+            "official": "Guajaana departemang",
+            "common": "Prantsuse Guajaana"
+        },
+        "fin": {
+            "official": "Ranskan Guayana",
+            "common": "Ranskan Guayana"
+        },
+        "fra": {
+            "official": "Guyane",
+            "common": "Guyane"
+        },
+        "hrv": {
+            "official": "Gijana",
+            "common": "Francuska Gvajana"
+        },
+        "hun": {
+            "official": "Francia Guyana",
+            "common": "Francia Guyana"
+        },
+        "ita": {
+            "official": "Guiana",
+            "common": "Guyana francese"
+        },
+        "jpn": {
+            "official": "ギアナ",
+            "common": "フランス領ギアナ"
+        },
+        "kor": {
+            "official": "프랑스령 기아나",
+            "common": "프랑스령 기아나"
+        },
+        "nld": {
+            "official": "Guyana",
+            "common": "Frans-Guyana"
+        },
+        "per": {
+            "official": "گویان فرانسه",
+            "common": "گویان فرانسه"
+        },
+        "pol": {
+            "official": "Gujana Francuska",
+            "common": "Gujana Francuska"
+        },
+        "por": {
+            "official": "Guiana",
+            "common": "Guiana Francesa"
+        },
+        "rus": {
+            "official": "Гвиана",
+            "common": "Французская Гвиана"
+        },
+        "slk": {
+            "official": "Francúzska Guyana",
+            "common": "Guyana"
+        },
+        "spa": {
+            "official": "Guayana",
+            "common": "Guayana Francesa"
+        },
+        "swe": {
+            "official": "Franska Guyana",
+            "common": "Franska Guyana"
+        },
+        "urd": {
+            "official": "گیانا",
+            "common": "فرانسیسی گیانا"
+        },
+        "zho": {
+            "official": "法属圭亚那",
+            "common": "法属圭亚那"
+        }
+    },
+    "latlng": [
+        4,
+        -53
+    ],
+    "landlocked": false,
+    "borders": [
+        "BRA",
+        "SUR"
+    ],
+    "area": 83534,
+    "demonyms": {
+        "eng": {
+            "f": "Guianan",
+            "m": "Guianan"
+        },
+        "fra": {
+            "f": "Guyanaise",
+            "m": "Guyanais"
+        }
+    },
+    "flag": "🇬🇫",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/NJawFwMzG7YtCrVP7",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/2502058"
+    },
+    "population": 254541,
+    "car": {
+        "signs": [
+            "F"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-03:00"
+    ],
+    "continents": [
+        "South America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/gf.png",
+        "svg": "https://flagcdn.com/gf.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/gf.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/gf.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            4.94,
+            -52.33
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^((97|98)3\\d{2})$"
+    }
+}

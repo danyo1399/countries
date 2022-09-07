@@ -1,0 +1,223 @@
+{
+    "name": {
+        "common": "Cape Verde",
+        "official": "Republic of Cabo Verde",
+        "nativeName": {
+            "por": {
+                "official": "República de Cabo Verde",
+                "common": "Cabo Verde"
+            }
+        }
+    },
+    "tld": [
+        ".cv"
+    ],
+    "cca2": "CV",
+    "ccn3": "132",
+    "cca3": "CPV",
+    "cioc": "CPV",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "CVE": {
+            "name": "Cape Verdean escudo",
+            "symbol": "Esc"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "38"
+        ]
+    },
+    "capital": [
+        "Praia"
+    ],
+    "altSpellings": [
+        "CV",
+        "Republic of Cabo Verde",
+        "República de Cabo Verde"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+        "por": "Portuguese"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية كابو فيردي",
+            "common": "كابو فيردي"
+        },
+        "bre": {
+            "official": "Republik Kab Glas",
+            "common": "Kab Glas"
+        },
+        "ces": {
+            "official": "Kapverdská republika",
+            "common": "Kapverdy"
+        },
+        "cym": {
+            "official": "Gweriniaeth Cabo Verde",
+            "common": "Penrhyn Verde"
+        },
+        "deu": {
+            "official": "Republik Cabo Verde",
+            "common": "Kap Verde"
+        },
+        "est": {
+            "official": "Cabo Verde Vabariik",
+            "common": "Roheneemesaared"
+        },
+        "fin": {
+            "official": "Kap Verden tasavalta",
+            "common": "Kap Verde"
+        },
+        "fra": {
+            "official": "République du Cap-Vert",
+            "common": "Îles du Cap-Vert"
+        },
+        "hrv": {
+            "official": "Republika Cabo Verde",
+            "common": "Zelenortska Republika"
+        },
+        "hun": {
+            "official": "Zöld-foki Köztársaság",
+            "common": "Zöld-foki Köztársaság"
+        },
+        "ita": {
+            "official": "Repubblica di Capo Verde",
+            "common": "Capo Verde"
+        },
+        "jpn": {
+            "official": "カーボベルデ共和国",
+            "common": "カーボベルデ"
+        },
+        "kor": {
+            "official": "카보베르데 공화국",
+            "common": "카보베르데"
+        },
+        "nld": {
+            "official": "Republiek van Cabo Verde",
+            "common": "Kaapverdië"
+        },
+        "per": {
+            "official": "جمهوری کبو ورد",
+            "common": "دماغهٔ سبز"
+        },
+        "pol": {
+            "official": "Republika Zielonego Przylądka",
+            "common": "Republika Zielonego Przylądka"
+        },
+        "por": {
+            "official": "República de Cabo Verde",
+            "common": "Cabo Verde"
+        },
+        "rus": {
+            "official": "Республика Кабо -Верде",
+            "common": "Кабо-Верде"
+        },
+        "slk": {
+            "official": "Kapverdská republika",
+            "common": "Kapverdy"
+        },
+        "spa": {
+            "official": "República de Cabo Verde",
+            "common": "Cabo Verde"
+        },
+        "swe": {
+            "official": "Republiken Kap Verde",
+            "common": "Kap Verde"
+        },
+        "urd": {
+            "official": "جمہوریہ کیپ ورڈی",
+            "common": "کیپ ورڈی"
+        },
+        "zho": {
+            "official": "佛得角共和国",
+            "common": "佛得角"
+        }
+    },
+    "latlng": [
+        16,
+        -24
+    ],
+    "landlocked": false,
+    "area": 4033,
+    "demonyms": {
+        "eng": {
+            "f": "Cape Verdian",
+            "m": "Cape Verdian"
+        },
+        "fra": {
+            "f": "Cap-verdienne",
+            "m": "Cap-verdien"
+        }
+    },
+    "flag": "🇨🇻",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/Kc9vy5ChjuiAgMfXA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/535774"
+    },
+    "population": 555988,
+    "gini": {
+        "2015": 42.4
+    },
+    "fifa": "CPV",
+    "car": {
+        "signs": [
+            "CV"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-01:00"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/cv.png",
+        "svg": "https://flagcdn.com/cv.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/cv.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/cv.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            14.92,
+            -23.52
+        ]
+    },
+    "postalCode": {
+        "format": "####",
+        "regex": "^(\\d{4})$"
+    },
+    "provinces": [
+        "Barlavento Islands",
+        "Boa Vista",
+        "Brava",
+        "Maio Municipality",
+        "Mosteiros",
+        "Paul",
+        "Porto Novo",
+        "Praia",
+        "Ribeira Brava Municipality",
+        "Ribeira Grande",
+        "Ribeira Grande de Santiago",
+        "Sal",
+        "Santa Catarina",
+        "Santa Catarina do Fogo",
+        "Santa Cruz",
+        "São Domingos",
+        "São Filipe",
+        "São Lourenço dos Órgãos",
+        "São Miguel",
+        "São Vicente",
+        "Sotavento Islands",
+        "Tarrafal",
+        "Tarrafal de São Nicolau"
+    ]
+}

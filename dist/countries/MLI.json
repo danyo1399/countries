@@ -1,0 +1,216 @@
+{
+    "name": {
+        "common": "Mali",
+        "official": "Republic of Mali",
+        "nativeName": {
+            "fra": {
+                "official": "République du Mali",
+                "common": "Mali"
+            }
+        }
+    },
+    "tld": [
+        ".ml"
+    ],
+    "cca2": "ML",
+    "ccn3": "466",
+    "cca3": "MLI",
+    "cioc": "MLI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "XOF": {
+            "name": "West African CFA franc",
+            "symbol": "Fr"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "23"
+        ]
+    },
+    "capital": [
+        "Bamako"
+    ],
+    "altSpellings": [
+        "ML",
+        "Republic of Mali",
+        "République du Mali"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية مالي",
+            "common": "مالي"
+        },
+        "bre": {
+            "official": "Republik Mali",
+            "common": "Mali"
+        },
+        "ces": {
+            "official": "Republika Mali",
+            "common": "Mali"
+        },
+        "cym": {
+            "official": "Republic of Mali",
+            "common": "Mali"
+        },
+        "deu": {
+            "official": "Republik Mali",
+            "common": "Mali"
+        },
+        "est": {
+            "official": "Mali Vabariik",
+            "common": "Mali"
+        },
+        "fin": {
+            "official": "Malin tasavalta",
+            "common": "Mali"
+        },
+        "fra": {
+            "official": "République du Mali",
+            "common": "Mali"
+        },
+        "hrv": {
+            "official": "Republika Mali",
+            "common": "Mali"
+        },
+        "hun": {
+            "official": "Mali Köztársaság",
+            "common": "Mali"
+        },
+        "ita": {
+            "official": "Repubblica del Mali",
+            "common": "Mali"
+        },
+        "jpn": {
+            "official": "マリ共和国",
+            "common": "マリ"
+        },
+        "kor": {
+            "official": "말리 공화국",
+            "common": "말리"
+        },
+        "nld": {
+            "official": "Republiek Mali",
+            "common": "Mali"
+        },
+        "per": {
+            "official": "جمهوری مالی",
+            "common": "مالی"
+        },
+        "pol": {
+            "official": "Republika Mali",
+            "common": "Mali"
+        },
+        "por": {
+            "official": "República do Mali",
+            "common": "Mali"
+        },
+        "rus": {
+            "official": "Республика Мали",
+            "common": "Мали"
+        },
+        "slk": {
+            "official": "Malijská republika",
+            "common": "Mali"
+        },
+        "spa": {
+            "official": "República de Malí",
+            "common": "Mali"
+        },
+        "swe": {
+            "official": "Republiken Mali",
+            "common": "Mali"
+        },
+        "urd": {
+            "official": "جمہوریہ مالی",
+            "common": "مالی"
+        },
+        "zho": {
+            "official": "马里共和国",
+            "common": "马里"
+        }
+    },
+    "latlng": [
+        17,
+        -4
+    ],
+    "landlocked": true,
+    "borders": [
+        "DZA",
+        "BFA",
+        "GIN",
+        "CIV",
+        "MRT",
+        "NER",
+        "SEN"
+    ],
+    "area": 1240192,
+    "demonyms": {
+        "eng": {
+            "f": "Malian",
+            "m": "Malian"
+        },
+        "fra": {
+            "f": "Malienne",
+            "m": "Malien"
+        }
+    },
+    "flag": "🇲🇱",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/u9mYJkCB19wyuzh27",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/192785"
+    },
+    "population": 20250834,
+    "gini": {
+        "2009": 33
+    },
+    "fifa": "MLI",
+    "car": {
+        "signs": [
+            "RMM"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/ml.png",
+        "svg": "https://flagcdn.com/ml.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ml.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ml.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            12.65,
+            -8
+        ]
+    },
+    "provinces": [
+        "Bamako",
+        "Gao Region",
+        "Kayes Region",
+        "Kidal Region",
+        "Koulikoro Region",
+        "Ménaka Region",
+        "Mopti Region",
+        "Ségou Region",
+        "Sikasso Region",
+        "Taoudénit Region",
+        "Tombouctou Region"
+    ]
+}

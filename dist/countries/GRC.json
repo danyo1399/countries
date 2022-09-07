@@ -1,0 +1,245 @@
+{
+    "name": {
+        "common": "Greece",
+        "official": "Hellenic Republic",
+        "nativeName": {
+            "ell": {
+                "official": "Ελληνική Δημοκρατία",
+                "common": "Ελλάδα"
+            }
+        }
+    },
+    "tld": [
+        ".gr"
+    ],
+    "cca2": "GR",
+    "ccn3": "300",
+    "cca3": "GRC",
+    "cioc": "GRE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "0"
+        ]
+    },
+    "capital": [
+        "Athens"
+    ],
+    "altSpellings": [
+        "GR",
+        "Elláda",
+        "Hellenic Republic",
+        "Ελληνική Δημοκρατία"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+        "ell": "Greek"
+    },
+    "translations": {
+        "ara": {
+            "official": "الجمهورية الهيلينية",
+            "common": "اليونان"
+        },
+        "bre": {
+            "official": "Republik Hellenek",
+            "common": "Gres"
+        },
+        "ces": {
+            "official": "Řecká republika",
+            "common": "Řecko"
+        },
+        "cym": {
+            "official": "Hellenic Republic",
+            "common": "Greece"
+        },
+        "deu": {
+            "official": "Hellenische Republik",
+            "common": "Griechenland"
+        },
+        "est": {
+            "official": "Kreeka Vabariik",
+            "common": "Kreeka"
+        },
+        "fin": {
+            "official": "Helleenien tasavalta",
+            "common": "Kreikka"
+        },
+        "fra": {
+            "official": "République hellénique",
+            "common": "Grèce"
+        },
+        "hrv": {
+            "official": "Helenska Republika",
+            "common": "Grčka"
+        },
+        "hun": {
+            "official": "Görög Köztársaság",
+            "common": "Görögország"
+        },
+        "ita": {
+            "official": "Repubblica ellenica",
+            "common": "Grecia"
+        },
+        "jpn": {
+            "official": "ギリシャ共和国",
+            "common": "ギリシャ"
+        },
+        "kor": {
+            "official": "그리스 공화국",
+            "common": "그리스"
+        },
+        "nld": {
+            "official": "Helleense Republiek",
+            "common": "Griekenland"
+        },
+        "per": {
+            "official": "جمهوری یونان",
+            "common": "یونان"
+        },
+        "pol": {
+            "official": "Republika Grecka",
+            "common": "Grecja"
+        },
+        "por": {
+            "official": "República Helénica",
+            "common": "Grécia"
+        },
+        "rus": {
+            "official": "Греческая Республика",
+            "common": "Греция"
+        },
+        "slk": {
+            "official": "Grécka republika",
+            "common": "Greécko"
+        },
+        "spa": {
+            "official": "República Helénica",
+            "common": "Grecia"
+        },
+        "swe": {
+            "official": "Republiken Grekland",
+            "common": "Grekland"
+        },
+        "urd": {
+            "official": "جمہوریہ ہیلینیہ",
+            "common": "یونان"
+        },
+        "zho": {
+            "official": "希腊共和国",
+            "common": "希腊"
+        }
+    },
+    "latlng": [
+        39,
+        22
+    ],
+    "landlocked": false,
+    "borders": [
+        "ALB",
+        "BGR",
+        "TUR",
+        "MKD"
+    ],
+    "area": 131990,
+    "demonyms": {
+        "eng": {
+            "f": "Greek",
+            "m": "Greek"
+        },
+        "fra": {
+            "f": "Grecque",
+            "m": "Grec"
+        }
+    },
+    "flag": "🇬🇷",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/192307"
+    },
+    "population": 10715549,
+    "gini": {
+        "2018": 32.9
+    },
+    "fifa": "GRE",
+    "car": {
+        "signs": [
+            "GR"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "continents": [
+        "Europe"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/gr.png",
+        "svg": "https://flagcdn.com/gr.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/gr.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/gr.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            37.98,
+            23.73
+        ]
+    },
+    "postalCode": {
+        "format": "### ##",
+        "regex": "^(\\d{5})$"
+    },
+    "provinces": [
+        "Achaea Regional Unit",
+        "Aetolia-Acarnania Regional Unit",
+        "Arcadia Prefecture",
+        "Argolis Regional Unit",
+        "Attica Region",
+        "Boeotia Regional Unit",
+        "Central Greece Region",
+        "Central Macedonia",
+        "Chania Regional Unit",
+        "Corfu Prefecture",
+        "Corinthia Regional Unit",
+        "Crete Region",
+        "Drama Regional Unit",
+        "East Attica Regional Unit",
+        "East Macedonia and Thrace",
+        "Epirus Region",
+        "Euboea",
+        "Grevena Prefecture",
+        "Imathia Regional Unit",
+        "Ioannina Regional Unit",
+        "Ionian Islands Region",
+        "Karditsa Regional Unit",
+        "Kastoria Regional Unit",
+        "Kefalonia Prefecture",
+        "Kilkis Regional Unit",
+        "Kozani Prefecture",
+        "Laconia",
+        "Larissa Prefecture",
+        "Lefkada Regional Unit",
+        "Pella Regional Unit",
+        "Peloponnese Region",
+        "Phthiotis Prefecture",
+        "Preveza Prefecture",
+        "Serres Prefecture",
+        "South Aegean",
+        "Thessaloniki Regional Unit",
+        "West Greece Region",
+        "West Macedonia Region"
+    ]
+}

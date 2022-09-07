@@ -1,0 +1,191 @@
+{
+    "name": {
+        "common": "Martinique",
+        "official": "Martinique",
+        "nativeName": {
+            "fra": {
+                "official": "Martinique",
+                "common": "Martinique"
+            }
+        }
+    },
+    "tld": [
+        ".mq"
+    ],
+    "cca2": "MQ",
+    "ccn3": "474",
+    "cca3": "MTQ",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "96"
+        ]
+    },
+    "capital": [
+        "Fort-de-France"
+    ],
+    "altSpellings": [
+        "MQ"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ara": {
+            "official": "مارتينيك",
+            "common": "مارتينيك"
+        },
+        "bre": {
+            "official": "Martinik",
+            "common": "Martinik"
+        },
+        "ces": {
+            "official": "Martinik",
+            "common": "Martinik"
+        },
+        "cym": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "deu": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "est": {
+            "official": "Martinique’i departemang",
+            "common": "Martinique"
+        },
+        "fin": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "fra": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "hrv": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "hun": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "ita": {
+            "official": "Martinique",
+            "common": "Martinica"
+        },
+        "jpn": {
+            "official": "マルティニーク島",
+            "common": "マルティニーク"
+        },
+        "kor": {
+            "official": "마르티니크",
+            "common": "마르티니크"
+        },
+        "nld": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "per": {
+            "official": "مارتینیک",
+            "common": "مارتینیک"
+        },
+        "pol": {
+            "official": "Martynika",
+            "common": "Martynika"
+        },
+        "por": {
+            "official": "Martinique",
+            "common": "Martinica"
+        },
+        "rus": {
+            "official": "Мартиника",
+            "common": "Мартиника"
+        },
+        "slk": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "spa": {
+            "official": "Martinica",
+            "common": "Martinica"
+        },
+        "swe": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "urd": {
+            "official": "مارٹینیک",
+            "common": "مارٹینیک"
+        },
+        "zho": {
+            "official": "马提尼克",
+            "common": "马提尼克"
+        }
+    },
+    "latlng": [
+        14.666667,
+        -61
+    ],
+    "landlocked": false,
+    "area": 1128,
+    "demonyms": {
+        "eng": {
+            "f": "Martinican",
+            "m": "Martinican"
+        },
+        "fra": {
+            "f": "Martiniquaise",
+            "m": "Martiniquais"
+        }
+    },
+    "flag": "🇲🇶",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/87ER7sDAFU7JjcvR6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/2473088"
+    },
+    "population": 378243,
+    "car": {
+        "signs": [
+            "F"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/mq.png",
+        "svg": "https://flagcdn.com/mq.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/mq.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/mq.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            14.6,
+            -61.08
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^(\\d{5})$"
+    }
+}

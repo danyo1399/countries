@@ -1,0 +1,293 @@
+{
+    "name": {
+        "common": "North Macedonia",
+        "official": "Republic of North Macedonia",
+        "nativeName": {
+            "mkd": {
+                "official": "Република Северна Македонија",
+                "common": "Македонија"
+            }
+        }
+    },
+    "tld": [
+        ".mk"
+    ],
+    "cca2": "MK",
+    "ccn3": "807",
+    "cca3": "MKD",
+    "cioc": "MKD",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "MKD": {
+            "name": "denar",
+            "symbol": "den"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "89"
+        ]
+    },
+    "capital": [
+        "Skopje"
+    ],
+    "altSpellings": [
+        "MK",
+        "The former Yugoslav Republic of Macedonia",
+        "Republic of North Macedonia",
+        "Macedonia, The Former Yugoslav Republic of",
+        "Република Северна Македонија"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "languages": {
+        "mkd": "Macedonian"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية شمال مقدونيا",
+            "common": "شمال مقدونيا"
+        },
+        "bre": {
+            "official": "Republik Makedonia an Norzh",
+            "common": "Makedonia an Norzh"
+        },
+        "ces": {
+            "official": "Republika Severní Makedonie",
+            "common": "Severní Makedonie"
+        },
+        "cym": {
+            "official": "Republic of North Macedonia",
+            "common": "North Macedonia"
+        },
+        "deu": {
+            "official": "Republik Nordmazedonien",
+            "common": "Nordmazedonien"
+        },
+        "est": {
+            "official": "Põhja-Makedoonia Vabariik",
+            "common": "Põhja-Makedoonia"
+        },
+        "fin": {
+            "official": "Pohjois-Makedonian tasavalta",
+            "common": "Pohjois-Makedonia"
+        },
+        "fra": {
+            "official": "République de Macédoine du Nord",
+            "common": "Macédoine du Nord"
+        },
+        "hrv": {
+            "official": "Republika Sjeverna Makedonija",
+            "common": "Sjeverna Makedonija"
+        },
+        "hun": {
+            "official": "Észak-macedón Köztársaság",
+            "common": "Észak-Macedónia"
+        },
+        "ita": {
+            "official": "Repubblica di Macedonia del Nord",
+            "common": "Macedonia del Nord"
+        },
+        "jpn": {
+            "official": "北マケドニア共和国",
+            "common": "北マケドニア "
+        },
+        "kor": {
+            "official": "북마케도니아 공화국",
+            "common": "북마케도니아"
+        },
+        "nld": {
+            "official": "Republiek Noord-Macedonië",
+            "common": "Noord-Macedonië"
+        },
+        "per": {
+            "official": "جمهوری مقدونیه شمالی",
+            "common": "مقدونیه شمالی"
+        },
+        "pol": {
+            "official": "Republika Macedonii Północnej",
+            "common": "Macedonia Północna"
+        },
+        "por": {
+            "official": "República da Macedônia do Norte",
+            "common": "Macedónia do Norte"
+        },
+        "rus": {
+            "official": "Республика Северная Македония",
+            "common": "Северная Македония"
+        },
+        "slk": {
+            "official": "Severomacedónska republika",
+            "common": "Severné Macedónsko"
+        },
+        "spa": {
+            "official": "República de Macedonia del Norte",
+            "common": "Macedonia del Norte"
+        },
+        "swe": {
+            "official": "Republiken Nordmakedonien",
+            "common": "Nordmakedonien"
+        },
+        "urd": {
+            "official": "جمہوریہ مقدونیہ",
+            "common": "شمالی مقدونیہ"
+        },
+        "zho": {
+            "official": "北馬其頓共和國",
+            "common": "北馬其頓"
+        }
+    },
+    "latlng": [
+        41.83333333,
+        22
+    ],
+    "landlocked": true,
+    "borders": [
+        "ALB",
+        "BGR",
+        "GRC",
+        "UNK",
+        "SRB"
+    ],
+    "area": 25713,
+    "demonyms": {
+        "eng": {
+            "f": "Macedonian",
+            "m": "Macedonian"
+        },
+        "fra": {
+            "f": "Macédonienne",
+            "m": "Macédonien"
+        }
+    },
+    "flag": "🇲🇰",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/53293"
+    },
+    "population": 2077132,
+    "gini": {
+        "2018": 33
+    },
+    "fifa": "MKD",
+    "car": {
+        "signs": [
+            "MK"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "continents": [
+        "Europe"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/mk.png",
+        "svg": "https://flagcdn.com/mk.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/mk.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/mk.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            42,
+            21.43
+        ]
+    },
+    "postalCode": {
+        "format": "####",
+        "regex": "^(\\d{4})$"
+    },
+    "provinces": [
+        "Aerodrom Municipality",
+        "Aračinovo Municipality",
+        "Berovo Municipality",
+        "Bitola Municipality",
+        "Bogdanci Municipality",
+        "Bogovinje Municipality",
+        "Bosilovo Municipality",
+        "Brvenica Municipality",
+        "Butel Municipality",
+        "Čair Municipality",
+        "Čaška Municipality",
+        "Centar Municipality",
+        "Centar Župa Municipality",
+        "Češinovo-Obleševo Municipality",
+        "Čučer-Sandevo Municipality",
+        "Debarca Municipality",
+        "Delčevo Municipality",
+        "Demir Hisar Municipality",
+        "Demir Kapija Municipality",
+        "Dojran Municipality",
+        "Dolneni Municipality",
+        "Drugovo Municipality",
+        "Gazi Baba Municipality",
+        "Gevgelija Municipality",
+        "Gjorče Petrov Municipality",
+        "Gostivar Municipality",
+        "Gradsko Municipality",
+        "Greater Skopje",
+        "Ilinden Municipality",
+        "Jegunovce Municipality",
+        "Karbinci",
+        "Karpoš Municipality",
+        "Kavadarci Municipality",
+        "Kičevo Municipality",
+        "Kisela Voda Municipality",
+        "Kočani Municipality",
+        "Konče Municipality",
+        "Kratovo Municipality",
+        "Kriva Palanka Municipality",
+        "Krivogaštani Municipality",
+        "Kruševo Municipality",
+        "Kumanovo Municipality",
+        "Lipkovo Municipality",
+        "Lozovo Municipality",
+        "Makedonska Kamenica Municipality",
+        "Makedonski Brod Municipality",
+        "Mavrovo and Rostuša Municipality",
+        "Mogila Municipality",
+        "Negotino Municipality",
+        "Novaci Municipality",
+        "Novo Selo Municipality",
+        "Ohrid Municipality",
+        "Oslomej Municipality",
+        "Pehčevo Municipality",
+        "Petrovec Municipality",
+        "Plasnica Municipality",
+        "Prilep Municipality",
+        "Probištip Municipality",
+        "Radoviš Municipality",
+        "Rankovce Municipality",
+        "Resen Municipality",
+        "Rosoman Municipality",
+        "Saraj Municipality",
+        "Sopište Municipality",
+        "Staro Nagoričane Municipality",
+        "Štip Municipality",
+        "Struga Municipality",
+        "Strumica Municipality",
+        "Studeničani Municipality",
+        "Šuto Orizari Municipality",
+        "Sveti Nikole Municipality",
+        "Tearce Municipality",
+        "Tetovo Municipality",
+        "Valandovo Municipality",
+        "Vasilevo Municipality",
+        "Veles Municipality",
+        "Vevčani Municipality",
+        "Vinica Municipality",
+        "Vraneštica Municipality",
+        "Vrapčište Municipality",
+        "Zajas Municipality",
+        "Zelenikovo Municipality",
+        "Želino Municipality",
+        "Zrnovci Municipality"
+    ]
+}

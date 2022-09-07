@@ -1,0 +1,334 @@
+{
+    "name": {
+        "common": "Italy",
+        "official": "Italian Republic",
+        "nativeName": {
+            "ita": {
+                "official": "Repubblica italiana",
+                "common": "Italia"
+            }
+        }
+    },
+    "tld": [
+        ".it"
+    ],
+    "cca2": "IT",
+    "ccn3": "380",
+    "cca3": "ITA",
+    "cioc": "ITA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "9"
+        ]
+    },
+    "capital": [
+        "Rome"
+    ],
+    "altSpellings": [
+        "IT",
+        "Italian Republic",
+        "Repubblica italiana"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+        "ita": "Italian"
+    },
+    "translations": {
+        "ara": {
+            "official": "الجمهورية الإيطالية",
+            "common": "إيطاليا"
+        },
+        "bre": {
+            "official": "Republik Italia",
+            "common": "Italia"
+        },
+        "ces": {
+            "official": "Italská republika",
+            "common": "Itálie"
+        },
+        "cym": {
+            "official": "Italian Republic",
+            "common": "Italy"
+        },
+        "deu": {
+            "official": "Italienische Republik",
+            "common": "Italien"
+        },
+        "est": {
+            "official": "Itaalia Vabariik",
+            "common": "Itaalia"
+        },
+        "fin": {
+            "official": "Italian tasavalta",
+            "common": "Italia"
+        },
+        "fra": {
+            "official": "République italienne",
+            "common": "Italie"
+        },
+        "hrv": {
+            "official": "talijanska Republika",
+            "common": "Italija"
+        },
+        "hun": {
+            "official": "Olasz Köztársaság",
+            "common": "Olaszország"
+        },
+        "ita": {
+            "official": "Repubblica italiana",
+            "common": "Italia"
+        },
+        "jpn": {
+            "official": "イタリア共和国",
+            "common": "イタリア"
+        },
+        "kor": {
+            "official": "이탈리아 공화국",
+            "common": "이탈리아"
+        },
+        "nld": {
+            "official": "Italiaanse Republiek",
+            "common": "Italië"
+        },
+        "per": {
+            "official": "جمهوری ایتالیا",
+            "common": "ایتالیا"
+        },
+        "pol": {
+            "official": "Republika Włoska",
+            "common": "Włochy"
+        },
+        "por": {
+            "official": "República Italiana",
+            "common": "Itália"
+        },
+        "rus": {
+            "official": "итальянская Республика",
+            "common": "Италия"
+        },
+        "slk": {
+            "official": "Talianska republika",
+            "common": "Taliansko"
+        },
+        "spa": {
+            "official": "República Italiana",
+            "common": "Italia"
+        },
+        "swe": {
+            "official": "Republiken Italien",
+            "common": "Italien"
+        },
+        "urd": {
+            "official": "جمہوریہ اطالیہ",
+            "common": "اطالیہ"
+        },
+        "zho": {
+            "official": "意大利共和国",
+            "common": "意大利"
+        }
+    },
+    "latlng": [
+        42.83333333,
+        12.83333333
+    ],
+    "landlocked": false,
+    "borders": [
+        "AUT",
+        "FRA",
+        "SMR",
+        "SVN",
+        "CHE",
+        "VAT"
+    ],
+    "area": 301336,
+    "demonyms": {
+        "eng": {
+            "f": "Italian",
+            "m": "Italian"
+        },
+        "fra": {
+            "f": "Italienne",
+            "m": "Italien"
+        }
+    },
+    "flag": "🇮🇹",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
+    },
+    "population": 59554023,
+    "gini": {
+        "2017": 35.9
+    },
+    "fifa": "ITA",
+    "car": {
+        "signs": [
+            "I"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "continents": [
+        "Europe"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/it.png",
+        "svg": "https://flagcdn.com/it.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/it.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/it.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            41.9,
+            12.48
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^(\\d{5})$"
+    },
+    "provinces": [
+        "Abruzzo",
+        "Agrigento",
+        "Alessandria",
+        "Ancona",
+        "Aosta Valley",
+        "Apulia",
+        "Ascoli Piceno",
+        "Asti",
+        "Avellino",
+        "Bari",
+        "Barletta-Andria-Trani",
+        "Basilicata",
+        "Belluno",
+        "Benevento",
+        "Bergamo",
+        "Biella",
+        "Bologna",
+        "Brescia",
+        "Brindisi",
+        "Cagliari",
+        "Calabria",
+        "Caltanissetta",
+        "Campania",
+        "Campobasso",
+        "Caserta",
+        "Catania",
+        "Catanzaro",
+        "Chieti",
+        "Como",
+        "Cosenza",
+        "Cremona",
+        "Crotone",
+        "Cuneo",
+        "Emilia-Romagna",
+        "Enna",
+        "Fermo",
+        "Ferrara",
+        "Florence",
+        "Foggia",
+        "Forlì-Cesena",
+        "Friuli–Venezia Giulia",
+        "Frosinone",
+        "Genoa",
+        "Gorizia",
+        "Grosseto",
+        "Imperia",
+        "Isernia",
+        "L'Aquila",
+        "La Spezia",
+        "Latina",
+        "Lazio",
+        "Lecce",
+        "Lecco",
+        "Liguria",
+        "Livorno",
+        "Lodi",
+        "Lombardy",
+        "Lucca",
+        "Macerata",
+        "Mantua",
+        "Marche",
+        "Massa and Carrara",
+        "Matera",
+        "Medio Campidano",
+        "Messina",
+        "Milan",
+        "Modena",
+        "Molise",
+        "Monza and Brianza",
+        "Naples",
+        "Novara",
+        "Nuoro",
+        "Oristano",
+        "Padua",
+        "Palermo",
+        "Parma",
+        "Pavia",
+        "Perugia",
+        "Pesaro and Urbino",
+        "Pescara",
+        "Piacenza",
+        "Piedmont",
+        "Pisa",
+        "Pistoia",
+        "Pordenone",
+        "Potenza",
+        "Prato",
+        "Ragusa",
+        "Ravenna",
+        "Reggio Calabria",
+        "Reggio Emilia",
+        "Rieti",
+        "Rimini",
+        "Rome",
+        "Rovigo",
+        "Salerno",
+        "Sardinia",
+        "Sassari",
+        "Savona",
+        "Sicily",
+        "Siena",
+        "Siracusa",
+        "Sondrio",
+        "South Sardinia",
+        "South Tyrol",
+        "Taranto",
+        "Teramo",
+        "Terni",
+        "Trapani",
+        "Trentino",
+        "Trentino-South Tyrol",
+        "Treviso",
+        "Trieste",
+        "Turin",
+        "Tuscany",
+        "Udine",
+        "Umbria",
+        "Varese",
+        "Veneto",
+        "Venice",
+        "Verbano-Cusio-Ossola",
+        "Vercelli",
+        "Verona",
+        "Vibo Valentia",
+        "Vicenza",
+        "Viterbo"
+    ]
+}

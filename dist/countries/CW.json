@@ -1,0 +1,195 @@
+{
+    "name": {
+        "common": "Curaçao",
+        "official": "Country of Curaçao",
+        "nativeName": {
+            "eng": {
+                "official": "Country of Curaçao",
+                "common": "Curaçao"
+            },
+            "nld": {
+                "official": "Land Curaçao",
+                "common": "Curaçao"
+            },
+            "pap": {
+                "official": "Pais Kòrsou",
+                "common": "Pais Kòrsou"
+            }
+        }
+    },
+    "tld": [
+        ".cw"
+    ],
+    "cca2": "CW",
+    "ccn3": "531",
+    "cca3": "CUW",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "ANG": {
+            "name": "Netherlands Antillean guilder",
+            "symbol": "ƒ"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "99"
+        ]
+    },
+    "capital": [
+        "Willemstad"
+    ],
+    "altSpellings": [
+        "CW",
+        "Curacao",
+        "Kòrsou",
+        "Country of Curaçao",
+        "Land Curaçao",
+        "Pais Kòrsou"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English",
+        "nld": "Dutch",
+        "pap": "Papiamento"
+    },
+    "translations": {
+        "ara": {
+            "official": "دولة كوراساو",
+            "common": "كوراساو"
+        },
+        "bre": {
+            "official": "Bro Curaçao",
+            "common": "Curaçao"
+        },
+        "ces": {
+            "official": "Autonomní země Curaçao",
+            "common": "Curaçao"
+        },
+        "cym": {
+            "official": "Country of Curaçao",
+            "common": "Curaçao"
+        },
+        "deu": {
+            "official": "Land Curaçao",
+            "common": "Curaçao"
+        },
+        "est": {
+            "official": "Curaçao",
+            "common": "Curaçao"
+        },
+        "fin": {
+            "official": "Curaçao",
+            "common": "Curaçao"
+        },
+        "fra": {
+            "official": "Pays de Curaçao",
+            "common": "Curaçao"
+        },
+        "hun": {
+            "official": "Curaçao",
+            "common": "Curaçao"
+        },
+        "ita": {
+            "official": "Paese di Curaçao",
+            "common": "Curaçao"
+        },
+        "kor": {
+            "official": "퀴라소",
+            "common": "퀴라소"
+        },
+        "nld": {
+            "official": "Land Curaçao",
+            "common": "Curaçao"
+        },
+        "per": {
+            "official": "کوراسائو",
+            "common": "کوراسائو"
+        },
+        "pol": {
+            "official": "Curaçao",
+            "common": "Curaçao"
+        },
+        "por": {
+            "official": "País de Curaçao",
+            "common": "ilha da Curação"
+        },
+        "rus": {
+            "official": "Страна Кюрасао",
+            "common": "Кюрасао"
+        },
+        "slk": {
+            "official": "Curacao",
+            "common": "Curacao"
+        },
+        "spa": {
+            "official": "País de Curazao",
+            "common": "Curazao"
+        },
+        "swe": {
+            "official": "Curaçao",
+            "common": "Curaçao"
+        },
+        "urd": {
+            "official": "مملکتِ کیوراساؤ",
+            "common": "کیوراساؤ"
+        },
+        "zho": {
+            "official": "库拉索",
+            "common": "库拉索"
+        }
+    },
+    "latlng": [
+        12.116667,
+        -68.933333
+    ],
+    "landlocked": false,
+    "area": 444,
+    "demonyms": {
+        "eng": {
+            "f": "Curaçaoan",
+            "m": "Curaçaoan"
+        },
+        "fra": {
+            "f": "Curacienne",
+            "m": "Curacien"
+        }
+    },
+    "flag": "🇨🇼",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/9D3hTeA3qKaRT7S16",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/1216719"
+    },
+    "population": 155014,
+    "fifa": "CUW",
+    "car": {
+        "signs": [
+            "CW"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/cw.png",
+        "svg": "https://flagcdn.com/cw.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/cw.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/cw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            12.1,
+            -68.92
+        ]
+    }
+}

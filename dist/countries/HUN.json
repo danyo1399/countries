@@ -1,0 +1,250 @@
+{
+    "name": {
+        "common": "Hungary",
+        "official": "Hungary",
+        "nativeName": {
+            "hun": {
+                "official": "Magyarország",
+                "common": "Magyarország"
+            }
+        }
+    },
+    "tld": [
+        ".hu"
+    ],
+    "cca2": "HU",
+    "ccn3": "348",
+    "cca3": "HUN",
+    "cioc": "HUN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "HUF": {
+            "name": "Hungarian forint",
+            "symbol": "Ft"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "6"
+        ]
+    },
+    "capital": [
+        "Budapest"
+    ],
+    "altSpellings": [
+        "HU"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": {
+        "hun": "Hungarian"
+    },
+    "translations": {
+        "ara": {
+            "official": "الجمهورية المجرية",
+            "common": "المجر"
+        },
+        "bre": {
+            "official": "Hungaria",
+            "common": "Hungaria"
+        },
+        "ces": {
+            "official": "Maďarsko",
+            "common": "Maďarsko"
+        },
+        "cym": {
+            "official": "Hungary",
+            "common": "Hungary"
+        },
+        "deu": {
+            "official": "Ungarn",
+            "common": "Ungarn"
+        },
+        "est": {
+            "official": "Ungari",
+            "common": "Ungari"
+        },
+        "fin": {
+            "official": "Unkari",
+            "common": "Unkari"
+        },
+        "fra": {
+            "official": "Hongrie",
+            "common": "Hongrie"
+        },
+        "hrv": {
+            "official": "Madžarska",
+            "common": "Mađarska"
+        },
+        "hun": {
+            "official": "Magyarország",
+            "common": "Magyarország"
+        },
+        "ita": {
+            "official": "Ungheria",
+            "common": "Ungheria"
+        },
+        "jpn": {
+            "official": "ハンガリー",
+            "common": "ハンガリー"
+        },
+        "kor": {
+            "official": "헝가리",
+            "common": "헝가리"
+        },
+        "nld": {
+            "official": "Hongarije",
+            "common": "Hongarije"
+        },
+        "per": {
+            "official": "مجارستان",
+            "common": "مجارستان"
+        },
+        "pol": {
+            "official": "Węgry",
+            "common": "Węgry"
+        },
+        "por": {
+            "official": "Hungria",
+            "common": "Hungria"
+        },
+        "rus": {
+            "official": "Венгрия",
+            "common": "Венгрия"
+        },
+        "slk": {
+            "official": "Maďarsko",
+            "common": "Maďarsko"
+        },
+        "spa": {
+            "official": "Hungría",
+            "common": "Hungría"
+        },
+        "swe": {
+            "official": "Ungern",
+            "common": "Ungern"
+        },
+        "urd": {
+            "official": "مجارستان",
+            "common": "مجارستان"
+        },
+        "zho": {
+            "official": "匈牙利",
+            "common": "匈牙利"
+        }
+    },
+    "latlng": [
+        47,
+        20
+    ],
+    "landlocked": true,
+    "borders": [
+        "AUT",
+        "HRV",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "UKR"
+    ],
+    "area": 93028,
+    "demonyms": {
+        "eng": {
+            "f": "Hungarian",
+            "m": "Hungarian"
+        },
+        "fra": {
+            "f": "Hongroise",
+            "m": "Hongrois"
+        }
+    },
+    "flag": "🇭🇺",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
+    },
+    "population": 9749763,
+    "gini": {
+        "2018": 29.6
+    },
+    "fifa": "HUN",
+    "car": {
+        "signs": [
+            "H"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "continents": [
+        "Europe"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/hu.png",
+        "svg": "https://flagcdn.com/hu.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/hu.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/hu.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            47.5,
+            19.08
+        ]
+    },
+    "postalCode": {
+        "format": "####",
+        "regex": "^(\\d{4})$"
+    },
+    "provinces": [
+        "Bács-Kiskun",
+        "Baranya",
+        "Békés",
+        "Békéscsaba",
+        "Borsod-Abaúj-Zemplén",
+        "Budapest",
+        "Csongrád County",
+        "Debrecen",
+        "Dunaújváros",
+        "Eger",
+        "Érd",
+        "Fejér County",
+        "Győr",
+        "Győr-Moson-Sopron County",
+        "Hajdú-Bihar County",
+        "Heves County",
+        "Hódmezővásárhely",
+        "Jász-Nagykun-Szolnok County",
+        "Kaposvár",
+        "Kecskemét",
+        "Komárom-Esztergom",
+        "Miskolc",
+        "Nagykanizsa",
+        "Nógrád County",
+        "Nyíregyháza",
+        "Pécs",
+        "Pest County",
+        "Salgótarján",
+        "Somogy County",
+        "Sopron",
+        "Szabolcs-Szatmár-Bereg County",
+        "Szeged",
+        "Székesfehérvár",
+        "Szekszárd",
+        "Szolnok",
+        "Szombathely",
+        "Tatabánya",
+        "Tolna County",
+        "Vas County",
+        "Veszprém",
+        "Veszprém County",
+        "Zala County",
+        "Zalaegerszeg"
+    ]
+}

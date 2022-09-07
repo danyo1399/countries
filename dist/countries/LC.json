@@ -1,0 +1,206 @@
+{
+    "name": {
+        "common": "Saint Lucia",
+        "official": "Saint Lucia",
+        "nativeName": {
+            "eng": {
+                "official": "Saint Lucia",
+                "common": "Saint Lucia"
+            }
+        }
+    },
+    "tld": [
+        ".lc"
+    ],
+    "cca2": "LC",
+    "ccn3": "662",
+    "cca3": "LCA",
+    "cioc": "LCA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "XCD": {
+            "name": "Eastern Caribbean dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "758"
+        ]
+    },
+    "capital": [
+        "Castries"
+    ],
+    "altSpellings": [
+        "LC"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "سانت لوسيا",
+            "common": "سانت لوسيا"
+        },
+        "bre": {
+            "official": "Santez-Lusia",
+            "common": "Santez-Lusia"
+        },
+        "ces": {
+            "official": "Svatá Lucie",
+            "common": "Svatá Lucie"
+        },
+        "cym": {
+            "official": "Saint Lucia",
+            "common": "Saint Lucia"
+        },
+        "deu": {
+            "official": "St. Lucia",
+            "common": "St. Lucia"
+        },
+        "est": {
+            "official": "Saint Lucia",
+            "common": "Saint Lucia"
+        },
+        "fin": {
+            "official": "Saint Lucia",
+            "common": "Saint Lucia"
+        },
+        "fra": {
+            "official": "Sainte-Lucie",
+            "common": "Sainte-Lucie"
+        },
+        "hrv": {
+            "official": "Sveta Lucija",
+            "common": "Sveta Lucija"
+        },
+        "hun": {
+            "official": "Saint Lucia",
+            "common": "Saint Lucia"
+        },
+        "ita": {
+            "official": "Santa Lucia",
+            "common": "Santa Lucia"
+        },
+        "jpn": {
+            "official": "セントルシア",
+            "common": "セントルシア"
+        },
+        "kor": {
+            "official": "세인트루시아",
+            "common": "세인트루시아"
+        },
+        "nld": {
+            "official": "Saint Lucia",
+            "common": "Saint Lucia"
+        },
+        "per": {
+            "official": "سنت لوسیا",
+            "common": "سنت لوسیا"
+        },
+        "pol": {
+            "official": "Saint Lucia",
+            "common": "Saint Lucia"
+        },
+        "por": {
+            "official": "Santa Lúcia",
+            "common": "Santa Lúcia"
+        },
+        "rus": {
+            "official": "Сент-Люсия",
+            "common": "Сент-Люсия"
+        },
+        "slk": {
+            "official": "Svätá Lucia",
+            "common": "Svätá Lucia"
+        },
+        "spa": {
+            "official": "Santa Lucía",
+            "common": "Santa Lucía"
+        },
+        "swe": {
+            "official": "Saint Lucia",
+            "common": "Saint Lucia"
+        },
+        "urd": {
+            "official": "سینٹ لوسیا",
+            "common": "سینٹ لوسیا"
+        },
+        "zho": {
+            "official": "圣卢西亚",
+            "common": "圣卢西亚"
+        }
+    },
+    "latlng": [
+        13.88333333,
+        -60.96666666
+    ],
+    "landlocked": false,
+    "area": 616,
+    "demonyms": {
+        "eng": {
+            "f": "Saint Lucian",
+            "m": "Saint Lucian"
+        },
+        "fra": {
+            "f": "Saint-Lucienne",
+            "m": "Saint-Lucien"
+        }
+    },
+    "flag": "🇱🇨",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/550728"
+    },
+    "population": 183629,
+    "gini": {
+        "2016": 51.2
+    },
+    "fifa": "LCA",
+    "car": {
+        "signs": [
+            "WL"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/lc.png",
+        "svg": "https://flagcdn.com/lc.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/lc.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/lc.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            14,
+            -61
+        ]
+    },
+    "provinces": [
+        "Anse la Raye Quarter",
+        "Canaries",
+        "Castries Quarter",
+        "Choiseul Quarter",
+        "Dauphin Quarter",
+        "Dennery Quarter",
+        "Gros Islet Quarter",
+        "Laborie Quarter",
+        "Micoud Quarter",
+        "Praslin Quarter",
+        "Soufrière Quarter",
+        "Vieux Fort Quarter"
+    ]
+}

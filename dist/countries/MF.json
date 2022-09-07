@@ -1,0 +1,194 @@
+{
+    "name": {
+        "common": "Saint Martin",
+        "official": "Saint Martin",
+        "nativeName": {
+            "fra": {
+                "official": "Saint-Martin",
+                "common": "Saint-Martin"
+            }
+        }
+    },
+    "tld": [
+        ".fr",
+        ".gp"
+    ],
+    "cca2": "MF",
+    "ccn3": "663",
+    "cca3": "MAF",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "90"
+        ]
+    },
+    "capital": [
+        "Marigot"
+    ],
+    "altSpellings": [
+        "MF",
+        "Collectivity of Saint Martin",
+        "Collectivité de Saint-Martin",
+        "Saint Martin (French part)"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ara": {
+            "official": "سانت مارتن",
+            "common": "سانت مارتن"
+        },
+        "bre": {
+            "official": "Saint-Martin",
+            "common": "Saint-Martin"
+        },
+        "ces": {
+            "official": "Svatý Martin",
+            "common": "Svatý Martin (Francie)"
+        },
+        "cym": {
+            "official": "Saint Martin",
+            "common": "Saint Martin"
+        },
+        "deu": {
+            "official": "Saint-Martin",
+            "common": "Saint-Martin"
+        },
+        "est": {
+            "official": "Saint-Martini ühendus",
+            "common": "Saint-Martin"
+        },
+        "fin": {
+            "official": "Saint-Martin",
+            "common": "Saint-Martin"
+        },
+        "fra": {
+            "official": "Saint-Martin",
+            "common": "Saint-Martin"
+        },
+        "hrv": {
+            "official": "Saint Martin",
+            "common": "Sveti Martin"
+        },
+        "hun": {
+            "official": "Saint-Martin Közösség",
+            "common": "Saint-Martin"
+        },
+        "ita": {
+            "official": "saint Martin",
+            "common": "Saint Martin"
+        },
+        "jpn": {
+            "official": "サンマルタン島",
+            "common": "サン・マルタン（フランス領）"
+        },
+        "kor": {
+            "official": "생마르탱",
+            "common": "생마르탱"
+        },
+        "nld": {
+            "official": "Saint Martin",
+            "common": "Saint-Martin"
+        },
+        "per": {
+            "official": "سن مارتن",
+            "common": "سن مارتن"
+        },
+        "pol": {
+            "official": "Wspólnota Saint-Martin",
+            "common": "Saint-Martin"
+        },
+        "por": {
+            "official": "saint Martin",
+            "common": "São Martinho"
+        },
+        "rus": {
+            "official": "Сен-Мартен",
+            "common": "Сен-Мартен"
+        },
+        "slk": {
+            "official": "Saint-Martin",
+            "common": "Saint-Martin"
+        },
+        "spa": {
+            "official": "Saint Martin",
+            "common": "Saint Martin"
+        },
+        "swe": {
+            "official": "Förvaltningsområdet Saint-Martin",
+            "common": "Saint-Martin"
+        },
+        "urd": {
+            "official": "سینٹ مارٹن",
+            "common": "سینٹ مارٹن"
+        },
+        "zho": {
+            "official": "圣马丁",
+            "common": "圣马丁"
+        }
+    },
+    "latlng": [
+        18.08333333,
+        -63.95
+    ],
+    "landlocked": false,
+    "borders": [
+        "SXM"
+    ],
+    "area": 53,
+    "demonyms": {
+        "eng": {
+            "f": "Saint Martin Islander",
+            "m": "Saint Martin Islander"
+        },
+        "fra": {
+            "f": "Saint-Martinoise",
+            "m": "Saint-Martinois"
+        }
+    },
+    "flag": "🇲🇫",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/P9ho9QuJ9EAR28JEA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/63064"
+    },
+    "population": 38659,
+    "car": {
+        "signs": [
+            "F"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/mf.png",
+        "svg": "https://flagcdn.com/mf.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            18.07,
+            -63.08
+        ]
+    },
+    "postalCode": {
+        "format": "### ###"
+    }
+}

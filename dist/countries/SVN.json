@@ -1,0 +1,417 @@
+{
+    "name": {
+        "common": "Slovenia",
+        "official": "Republic of Slovenia",
+        "nativeName": {
+            "slv": {
+                "official": "Republika Slovenija",
+                "common": "Slovenija"
+            }
+        }
+    },
+    "tld": [
+        ".si"
+    ],
+    "cca2": "SI",
+    "ccn3": "705",
+    "cca3": "SVN",
+    "cioc": "SLO",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "86"
+        ]
+    },
+    "capital": [
+        "Ljubljana"
+    ],
+    "altSpellings": [
+        "SI",
+        "Republic of Slovenia",
+        "Republika Slovenija"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": {
+        "slv": "Slovene"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية سلوفينيا",
+            "common": "سلوفينيا"
+        },
+        "bre": {
+            "official": "Republik Slovenia",
+            "common": "Slovenia"
+        },
+        "ces": {
+            "official": "Slovinská republika",
+            "common": "Slovinsko"
+        },
+        "cym": {
+            "official": "Republic of Slovenia",
+            "common": "Slovenia"
+        },
+        "deu": {
+            "official": "Republik Slowenien",
+            "common": "Slowenien"
+        },
+        "est": {
+            "official": "Sloveenia Vabariik",
+            "common": "Sloveenia"
+        },
+        "fin": {
+            "official": "Slovenian tasavalta",
+            "common": "Slovenia"
+        },
+        "fra": {
+            "official": "République de Slovénie",
+            "common": "Slovénie"
+        },
+        "hrv": {
+            "official": "Republika Slovenija",
+            "common": "Slovenija"
+        },
+        "hun": {
+            "official": "Szlovén Köztársaság",
+            "common": "Szlovénia"
+        },
+        "ita": {
+            "official": "Repubblica di Slovenia",
+            "common": "Slovenia"
+        },
+        "jpn": {
+            "official": "スロベニア共和国",
+            "common": "スロベニア"
+        },
+        "kor": {
+            "official": "슬로베니아 공화국",
+            "common": "슬로베니아"
+        },
+        "nld": {
+            "official": "Republiek Slovenië",
+            "common": "Slovenië"
+        },
+        "per": {
+            "official": "جمهوری اسلوونی",
+            "common": "اسلوونی"
+        },
+        "pol": {
+            "official": "Republika Słowenii",
+            "common": "Słowenia"
+        },
+        "por": {
+            "official": "República da Eslovénia",
+            "common": "Eslovénia"
+        },
+        "rus": {
+            "official": "Республика Словения",
+            "common": "Словения"
+        },
+        "slk": {
+            "official": "Slovinská republika",
+            "common": "Slovinsko"
+        },
+        "spa": {
+            "official": "República de Eslovenia",
+            "common": "Eslovenia"
+        },
+        "swe": {
+            "official": "Republiken Slovenien",
+            "common": "Slovenien"
+        },
+        "urd": {
+            "official": "جمہوریہ سلووینیا",
+            "common": "سلووینیا"
+        },
+        "zho": {
+            "official": "斯洛文尼亚共和国",
+            "common": "斯洛文尼亚"
+        }
+    },
+    "latlng": [
+        46.11666666,
+        14.81666666
+    ],
+    "landlocked": false,
+    "borders": [
+        "AUT",
+        "HRV",
+        "ITA",
+        "HUN"
+    ],
+    "area": 20273,
+    "demonyms": {
+        "eng": {
+            "f": "Slovene",
+            "m": "Slovene"
+        },
+        "fra": {
+            "f": "Slovène",
+            "m": "Slovène"
+        }
+    },
+    "flag": "🇸🇮",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/7zgFmswcCJh5L5D49",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/218657"
+    },
+    "population": 2100126,
+    "gini": {
+        "2018": 24.6
+    },
+    "fifa": "SVN",
+    "car": {
+        "signs": [
+            "SLO"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "continents": [
+        "Europe"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/si.png",
+        "svg": "https://flagcdn.com/si.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/si.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/si.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            46.05,
+            14.52
+        ]
+    },
+    "postalCode": {
+        "format": "SI- ####",
+        "regex": "^(?:SI)*(\\d{4})$"
+    },
+    "provinces": [
+        "Ajdovščina Municipality",
+        "Ankaran Municipality",
+        "Beltinci Municipality",
+        "Benedikt Municipality",
+        "Bistrica ob Sotli Municipality",
+        "Bled Municipality",
+        "Bloke Municipality",
+        "Bohinj Municipality",
+        "Borovnica Municipality",
+        "Bovec Municipality",
+        "Braslovče Municipality",
+        "Brda Municipality",
+        "Brežice Municipality",
+        "Brezovica Municipality",
+        "Cankova Municipality",
+        "Cerklje na Gorenjskem Municipality",
+        "Cerknica Municipality",
+        "Cerkno Municipality",
+        "Cerkvenjak Municipality",
+        "City Municipality of Celje",
+        "City Municipality of Novo Mesto",
+        "Črenšovci Municipality",
+        "Črna na Koroškem Municipality",
+        "Črnomelj Municipality",
+        "Destrnik Municipality",
+        "Divača Municipality",
+        "Dobje Municipality",
+        "Dobrepolje Municipality",
+        "Dobrna Municipality",
+        "Dobrova–Polhov Gradec Municipality",
+        "Dobrovnik Municipality",
+        "Dol pri Ljubljani Municipality",
+        "Dolenjske Toplice Municipality",
+        "Domžale Municipality",
+        "Dornava Municipality",
+        "Dravograd Municipality",
+        "Duplek Municipality",
+        "Gorenja Vas–Poljane Municipality",
+        "Gorišnica Municipality",
+        "Gorje Municipality",
+        "Gornja Radgona Municipality",
+        "Gornji Grad Municipality",
+        "Gornji Petrovci Municipality",
+        "Grad Municipality",
+        "Grosuplje Municipality",
+        "Hajdina Municipality",
+        "Hoče–Slivnica Municipality",
+        "Hodoš Municipality",
+        "Horjul Municipality",
+        "Hrastnik Municipality",
+        "Hrpelje–Kozina Municipality",
+        "Idrija Municipality",
+        "Ig Municipality",
+        "Ivančna Gorica Municipality",
+        "Izola Municipality",
+        "Jesenice Municipality",
+        "Jezersko Municipality",
+        "Juršinci Municipality",
+        "Kamnik Municipality",
+        "Kanal ob Soči Municipality",
+        "Kidričevo Municipality",
+        "Kobarid Municipality",
+        "Kobilje Municipality",
+        "Kočevje Municipality",
+        "Komen Municipality",
+        "Komenda Municipality",
+        "Koper City Municipality",
+        "Kostanjevica na Krki Municipality",
+        "Kostel Municipality",
+        "Kozje Municipality",
+        "Kranj City Municipality",
+        "Kranjska Gora Municipality",
+        "Križevci Municipality",
+        "Kungota",
+        "Kuzma Municipality",
+        "Laško Municipality",
+        "Lenart Municipality",
+        "Lendava Municipality",
+        "Litija Municipality",
+        "Ljubljana City Municipality",
+        "Ljubno Municipality",
+        "Ljutomer Municipality",
+        "Log–Dragomer Municipality",
+        "Logatec Municipality",
+        "Loška Dolina Municipality",
+        "Loški Potok Municipality",
+        "Lovrenc na Pohorju Municipality",
+        "Luče Municipality",
+        "Lukovica Municipality",
+        "Majšperk Municipality",
+        "Makole Municipality",
+        "Maribor City Municipality",
+        "Markovci Municipality",
+        "Medvode Municipality",
+        "Mengeš Municipality",
+        "Metlika Municipality",
+        "Mežica Municipality",
+        "Miklavž na Dravskem Polju Municipality",
+        "Miren–Kostanjevica Municipality",
+        "Mirna Municipality",
+        "Mirna Peč Municipality",
+        "Mislinja Municipality",
+        "Mokronog–Trebelno Municipality",
+        "Moravče Municipality",
+        "Moravske Toplice Municipality",
+        "Mozirje Municipality",
+        "Municipality of Apače",
+        "Municipality of Cirkulane",
+        "Municipality of Ilirska Bistrica",
+        "Municipality of Krško",
+        "Municipality of Škofljica",
+        "Murska Sobota City Municipality",
+        "Muta Municipality",
+        "Naklo Municipality",
+        "Nazarje Municipality",
+        "Nova Gorica City Municipality",
+        "Odranci Municipality",
+        "Oplotnica",
+        "Ormož Municipality",
+        "Osilnica Municipality",
+        "Pesnica Municipality",
+        "Piran Municipality",
+        "Pivka Municipality",
+        "Podčetrtek Municipality",
+        "Podlehnik Municipality",
+        "Podvelka Municipality",
+        "Poljčane Municipality",
+        "Polzela Municipality",
+        "Postojna Municipality",
+        "Prebold Municipality",
+        "Preddvor Municipality",
+        "Prevalje Municipality",
+        "Ptuj City Municipality",
+        "Puconci Municipality",
+        "Rače–Fram Municipality",
+        "Radeče Municipality",
+        "Radenci Municipality",
+        "Radlje ob Dravi Municipality",
+        "Radovljica Municipality",
+        "Ravne na Koroškem Municipality",
+        "Razkrižje Municipality",
+        "Rečica ob Savinji Municipality",
+        "Renče–Vogrsko Municipality",
+        "Ribnica Municipality",
+        "Ribnica na Pohorju Municipality",
+        "Rogaška Slatina Municipality",
+        "Rogašovci Municipality",
+        "Rogatec Municipality",
+        "Ruše Municipality",
+        "Šalovci Municipality",
+        "Selnica ob Dravi Municipality",
+        "Semič Municipality",
+        "Šempeter–Vrtojba Municipality",
+        "Šenčur Municipality",
+        "Šentilj Municipality",
+        "Šentjernej Municipality",
+        "Šentjur Municipality",
+        "Šentrupert Municipality",
+        "Sevnica Municipality",
+        "Sežana Municipality",
+        "Škocjan Municipality",
+        "Škofja Loka Municipality",
+        "Slovenj Gradec City Municipality",
+        "Slovenska Bistrica Municipality",
+        "Slovenske Konjice Municipality",
+        "Šmarje pri Jelšah Municipality",
+        "Šmarješke Toplice Municipality",
+        "Šmartno ob Paki Municipality",
+        "Šmartno pri Litiji Municipality",
+        "Sodražica Municipality",
+        "Solčava Municipality",
+        "Šoštanj Municipality",
+        "Središče ob Dravi",
+        "Starše Municipality",
+        "Štore Municipality",
+        "Straža Municipality",
+        "Sveta Ana Municipality",
+        "Sveta Trojica v Slovenskih Goricah Municipality",
+        "Sveti Andraž v Slovenskih Goricah Municipality",
+        "Sveti Jurij ob Ščavnici Municipality",
+        "Sveti Jurij v Slovenskih Goricah Municipality",
+        "Sveti Tomaž Municipality",
+        "Tabor Municipality",
+        "Tišina Municipality",
+        "Tolmin Municipality",
+        "Trbovlje Municipality",
+        "Trebnje Municipality",
+        "Trnovska Vas Municipality",
+        "Tržič Municipality",
+        "Trzin Municipality",
+        "Turnišče Municipality",
+        "Velika Polana Municipality",
+        "Velike Lašče Municipality",
+        "Veržej Municipality",
+        "Videm Municipality",
+        "Vipava Municipality",
+        "Vitanje Municipality",
+        "Vodice Municipality",
+        "Vojnik Municipality",
+        "Vransko Municipality",
+        "Vrhnika Municipality",
+        "Vuzenica Municipality",
+        "Zagorje ob Savi Municipality",
+        "Žalec Municipality",
+        "Zavrč Municipality",
+        "Železniki Municipality",
+        "Žetale Municipality",
+        "Žiri Municipality",
+        "Žirovnica Municipality",
+        "Zreče Municipality",
+        "Žužemberk Municipality"
+    ]
+}

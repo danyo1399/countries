@@ -1,0 +1,199 @@
+{
+    "name": {
+        "common": "Caribbean Netherlands",
+        "official": "Bonaire, Sint Eustatius and Saba",
+        "nativeName": {
+            "nld": {
+                "official": "Bonaire, Sint Eustatius en Saba",
+                "common": "Caribisch Nederland"
+            },
+            "pap": {
+                "official": "Boneiru, Sint Eustatius y Saba",
+                "common": "Boneiru, Sint Eustatius y Saba"
+            }
+        }
+    },
+    "tld": [
+        ".bq",
+        ".nl"
+    ],
+    "cca2": "BQ",
+    "ccn3": "535",
+    "cca3": "BES",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "99"
+        ]
+    },
+    "capital": [
+        "Kralendijk"
+    ],
+    "altSpellings": [
+        "BES islands"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English",
+        "nld": "Dutch",
+        "pap": "Papiamento"
+    },
+    "translations": {
+        "ara": {
+            "official": "بونير وسينت أوستاتيوس وسابا",
+            "common": "الجزر الكاريبية الهولندية"
+        },
+        "bre": {
+            "official": "Bonaire, Sint Eustatius ha Saba",
+            "common": "Bonaire, Sint Eustatius ha Saba"
+        },
+        "ces": {
+            "official": "Karibské Nizozemsko",
+            "common": "Karibské Nizozemsko"
+        },
+        "cym": {
+            "official": "Bonaire, Sint Eustatius and Saba",
+            "common": "Caribbean Netherlands"
+        },
+        "deu": {
+            "official": "Bonaire, Sint Eustatius und Saba",
+            "common": "Karibische Niederlande"
+        },
+        "est": {
+            "official": "Bonaire, Sint Eustatius ja Saba",
+            "common": "Bonaire, Sint Eustatius ja Saba"
+        },
+        "fin": {
+            "official": "Bonaire, Sint Eustatius ja Saba",
+            "common": "Bonaire, Sint Eustatius ja Saba"
+        },
+        "fra": {
+            "official": "Bonaire, Saint-Eustache et Saba",
+            "common": "Pays-Bas caribéens"
+        },
+        "hrv": {
+            "official": "Bonaire, Sint Eustatius i Saba",
+            "common": "Bonaire, Sint Eustatius i Saba"
+        },
+        "hun": {
+            "official": "Bonaire",
+            "common": "Bonaire"
+        },
+        "ita": {
+            "official": "Bonaire, Sint Eustatius e Saba",
+            "common": "Paesi Bassi caraibici"
+        },
+        "jpn": {
+            "official": "ボネール、シント・ユースタティウスおよびサバ",
+            "common": "ボネール、シント・ユースタティウスおよびサバ"
+        },
+        "kor": {
+            "official": "보네르, 신트외스타티위스, 사바",
+            "common": "카리브 네덜란드"
+        },
+        "nld": {
+            "official": "Bonaire, Sint Eustatius en Saba",
+            "common": "Caribisch Nederland"
+        },
+        "per": {
+            "official": "جزایر کارائیب هلند",
+            "common": "جزایر کارائیب هلند"
+        },
+        "pol": {
+            "official": "Bonaire, Sint Eustatius i Saba",
+            "common": "Antyle Holenderskie"
+        },
+        "por": {
+            "official": "Bonaire, Saba e Santo Eustáquio",
+            "common": "Países Baixos Caribenhos"
+        },
+        "rus": {
+            "official": "Бонэйр, Синт-Эстатиус и Саба",
+            "common": "Карибские Нидерланды"
+        },
+        "slk": {
+            "official": "Bonaire, Sint Eustatius a Saba",
+            "common": "Bonaire, Sint Eustatius a Saba"
+        },
+        "spa": {
+            "official": "Bonaire, San Eustaquio y Saba",
+            "common": "Caribe Neerlandés"
+        },
+        "swe": {
+            "official": "Bonaire, Sint Eustatius and Saba",
+            "common": "Karibiska Nederländerna"
+        },
+        "urd": {
+            "official": "بونایر، سینٹ ایوسٹائیس اور سابا",
+            "common": "کیریبین نیدرلینڈز"
+        },
+        "zho": {
+            "official": "荷蘭加勒比區",
+            "common": "荷蘭加勒比區"
+        }
+    },
+    "latlng": [
+        12.18,
+        -68.25
+    ],
+    "landlocked": false,
+    "area": 328,
+    "demonyms": {
+        "eng": {
+            "f": "Dutch",
+            "m": "Dutch"
+        },
+        "fra": {
+            "f": "Néerlandaise",
+            "m": "Néerlandais"
+        }
+    },
+    "flag": "🇧🇶",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/4XVes1P6uEDTz77WA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/1216720"
+    },
+    "population": 25987,
+    "car": {
+        "signs": [
+            ""
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/bq.png",
+        "svg": "https://flagcdn.com/bq.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/bq.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/bq.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            12.14,
+            -68.27
+        ]
+    },
+    "provinces": [
+        "Bonaire",
+        "Saba",
+        "Sint Eustatius"
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "name": {
+        "common": "French Polynesia",
+        "official": "French Polynesia",
+        "nativeName": {
+            "fra": {
+                "official": "Polynésie française",
+                "common": "Polynésie française"
+            }
+        }
+    },
+    "tld": [
+        ".pf"
+    ],
+    "cca2": "PF",
+    "ccn3": "258",
+    "cca3": "PYF",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "XPF": {
+            "name": "CFP franc",
+            "symbol": "₣"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "89"
+        ]
+    },
+    "capital": [
+        "Papeetē"
+    ],
+    "altSpellings": [
+        "PF",
+        "Polynésie française",
+        "French Polynesia",
+        "Pōrīnetia Farāni"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ara": {
+            "official": "بولينزيا الفرنسية",
+            "common": "بولينزيا الفرنسية"
+        },
+        "bre": {
+            "official": "Polinezia C'hall",
+            "common": "Polinezia C'hall"
+        },
+        "ces": {
+            "official": "Francouzská Polynésie",
+            "common": "Francouzská Polynésie"
+        },
+        "cym": {
+            "official": "French Polynesia",
+            "common": "French Polynesia"
+        },
+        "deu": {
+            "official": "Französisch-Polynesien",
+            "common": "Französisch-Polynesien"
+        },
+        "est": {
+            "official": "Prantsuse Polüneesia",
+            "common": "Prantsuse Polüneesia"
+        },
+        "fin": {
+            "official": "Ranskan Polynesia",
+            "common": "Ranskan Polynesia"
+        },
+        "fra": {
+            "official": "Polynésie française",
+            "common": "Polynésie française"
+        },
+        "hrv": {
+            "official": "Francuska Polinezija",
+            "common": "Francuska Polinezija"
+        },
+        "hun": {
+            "official": "Francia Polinézia",
+            "common": "Francia Polinézia"
+        },
+        "ita": {
+            "official": "Polinesia Francese",
+            "common": "Polinesia Francese"
+        },
+        "jpn": {
+            "official": "フランス領ポリネシア",
+            "common": "フランス領ポリネシア"
+        },
+        "kor": {
+            "official": "프랑스령 폴리네시아",
+            "common": "프랑스령 폴리네시아"
+        },
+        "nld": {
+            "official": "Frans-Polynesië",
+            "common": "Frans-Polynesië"
+        },
+        "per": {
+            "official": "پُلی‌نِزی فرانسه",
+            "common": "پُلی‌نِزی فرانسه"
+        },
+        "pol": {
+            "official": "Polinezja Francuska",
+            "common": "Polinezja Francuska"
+        },
+        "por": {
+            "official": "Polinésia Francesa",
+            "common": "Polinésia Francesa"
+        },
+        "rus": {
+            "official": "Французская Полинезия",
+            "common": "Французская Полинезия"
+        },
+        "slk": {
+            "official": "Francúzska Polynézia",
+            "common": "Francúzska Polynézia"
+        },
+        "spa": {
+            "official": "Polinesia francés",
+            "common": "Polinesia Francesa"
+        },
+        "swe": {
+            "official": "Franska Polynesien",
+            "common": "Franska Polynesien"
+        },
+        "urd": {
+            "official": "فرانسیسی پولینیشیا",
+            "common": "فرانسیسی پولینیشیا"
+        },
+        "zho": {
+            "official": "法属波利尼西亚",
+            "common": "法属波利尼西亚"
+        }
+    },
+    "latlng": [
+        -15,
+        -140
+    ],
+    "landlocked": false,
+    "area": 4167,
+    "demonyms": {
+        "eng": {
+            "f": "French Polynesian",
+            "m": "French Polynesian"
+        },
+        "fra": {
+            "f": "Polynésienne",
+            "m": "Polynésien"
+        }
+    },
+    "flag": "🇵🇫",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/xgg6BQTRyeQg4e1m6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/3412620"
+    },
+    "population": 280904,
+    "car": {
+        "signs": [
+            "F"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-10:00",
+        "UTC-09:30",
+        "UTC-09:00"
+    ],
+    "continents": [
+        "Oceania"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/pf.png",
+        "svg": "https://flagcdn.com/pf.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/pf.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/pf.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -17.53,
+            -149.56
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^((97|98)7\\d{2})$"
+    }
+}

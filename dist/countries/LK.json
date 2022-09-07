@@ -1,0 +1,243 @@
+{
+    "name": {
+        "common": "Sri Lanka",
+        "official": "Democratic Socialist Republic of Sri Lanka",
+        "nativeName": {
+            "sin": {
+                "official": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
+                "common": "ශ්‍රී ලංකාව"
+            },
+            "tam": {
+                "official": "இலங்கை சனநாயக சோசலிசக் குடியரசு",
+                "common": "இலங்கை"
+            }
+        }
+    },
+    "tld": [
+        ".lk",
+        ".இலங்கை",
+        ".ලංකා"
+    ],
+    "cca2": "LK",
+    "ccn3": "144",
+    "cca3": "LKA",
+    "cioc": "SRI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "LKR": {
+            "name": "Sri Lankan rupee",
+            "symbol": "Rs  රු"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "4"
+        ]
+    },
+    "capital": [
+        "Sri Jayawardenepura Kotte"
+    ],
+    "altSpellings": [
+        "LK",
+        "ilaṅkai",
+        "Democratic Socialist Republic of Sri Lanka"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+        "sin": "Sinhala",
+        "tam": "Tamil"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية سريلانكا الديمقراطية الشعبية",
+            "common": "سريلانكا"
+        },
+        "bre": {
+            "official": "Republik Demokratel ha Sokialour Sri Lanka",
+            "common": "Sri Lanka"
+        },
+        "ces": {
+            "official": "Srílanská demokratická socialistická republika",
+            "common": "Srí Lanka"
+        },
+        "cym": {
+            "official": "Democratic Socialist Republic of Sri Lanka",
+            "common": "Sri Lanka"
+        },
+        "deu": {
+            "official": "Demokratische Sozialistische Republik Sri Lanka",
+            "common": "Sri Lanka"
+        },
+        "est": {
+            "official": "Sri Lanka Demokraatlik Sotsialistlik Vabariik",
+            "common": "Sri Lanka"
+        },
+        "fin": {
+            "official": "Sri Lankan demokraattinen sosialistinen tasavalta",
+            "common": "Sri Lanka"
+        },
+        "fra": {
+            "official": "République démocratique socialiste du Sri Lanka",
+            "common": "Sri Lanka"
+        },
+        "hrv": {
+            "official": "Demokratska Socijalističke Republike Šri Lanke",
+            "common": "Šri Lanka"
+        },
+        "hun": {
+            "official": "Srí Lanka-i Demokratikus Szocialista Köztársaság",
+            "common": "Srí Lanka"
+        },
+        "ita": {
+            "official": "Repubblica democratica socialista dello Sri Lanka",
+            "common": "Sri Lanka"
+        },
+        "jpn": {
+            "official": "スリランカ民主社会主義共和国",
+            "common": "スリランカ"
+        },
+        "kor": {
+            "official": "스리랑카 민주 사회주의 공화국",
+            "common": "스리랑카"
+        },
+        "nld": {
+            "official": "Democratische Socialistische Republiek Sri Lanka",
+            "common": "Sri Lanka"
+        },
+        "per": {
+            "official": "جمهوری دموکراتیک سوسیالیستی سری‌لانکا",
+            "common": "سری‌لانکا"
+        },
+        "pol": {
+            "official": "Demokratyczno-Socjalistyczna Republika Sri Lanki",
+            "common": "Sri Lanka"
+        },
+        "por": {
+            "official": "República Democrática Socialista do Sri Lanka",
+            "common": "Sri Lanka"
+        },
+        "rus": {
+            "official": "Демократическая Социалистическая Республика Шри-Ланка",
+            "common": "Шри-Ланка"
+        },
+        "slk": {
+            "official": "Srílanská demokratická socialistická republika",
+            "common": "Srí Lanka"
+        },
+        "spa": {
+            "official": "República Democrática Socialista de Sri Lanka",
+            "common": "Sri Lanka"
+        },
+        "swe": {
+            "official": "Demokratiska socialistiska republiken Sri Lanka",
+            "common": "Sri Lanka"
+        },
+        "urd": {
+            "official": "جمہوری و اشتراکی جمہوریہ سری لنکا",
+            "common": "سری لنکا"
+        },
+        "zho": {
+            "official": "斯里兰卡民主社会主义共和国",
+            "common": "斯里兰卡"
+        }
+    },
+    "latlng": [
+        7,
+        81
+    ],
+    "landlocked": false,
+    "borders": [
+        "IND"
+    ],
+    "area": 65610,
+    "demonyms": {
+        "eng": {
+            "f": "Sri Lankan",
+            "m": "Sri Lankan"
+        },
+        "fra": {
+            "f": "Sri-lankaise",
+            "m": "Sri-lankais"
+        }
+    },
+    "flag": "🇱🇰",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/VkPHoeFSfgzRQCDv8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/536807"
+    },
+    "population": 21919000,
+    "gini": {
+        "2016": 39.3
+    },
+    "fifa": "SRI",
+    "car": {
+        "signs": [
+            "CL"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+05:30"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/lk.png",
+        "svg": "https://flagcdn.com/lk.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/lk.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/lk.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            6.89,
+            79.9
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^(\\d{5})$"
+    },
+    "provinces": [
+        "Ampara District",
+        "Anuradhapura District",
+        "Badulla District",
+        "Batticaloa District",
+        "Central Province",
+        "Colombo District",
+        "Eastern Province",
+        "Galle District",
+        "Gampaha District",
+        "Hambantota District",
+        "Jaffna District",
+        "Kalutara District",
+        "Kandy District",
+        "Kegalle District",
+        "Kilinochchi District",
+        "Mannar District",
+        "Matale District",
+        "Matara District",
+        "Monaragala District",
+        "Mullaitivu District",
+        "North Central Province",
+        "North Western Province",
+        "Northern Province",
+        "Nuwara Eliya District",
+        "Polonnaruwa District",
+        "Puttalam District",
+        "Ratnapura district",
+        "Sabaragamuwa Province",
+        "Southern Province",
+        "Trincomalee District",
+        "Uva Province",
+        "Vavuniya District",
+        "Western Province"
+    ]
+}

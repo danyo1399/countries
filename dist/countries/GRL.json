@@ -1,0 +1,195 @@
+{
+    "name": {
+        "common": "Greenland",
+        "official": "Greenland",
+        "nativeName": {
+            "kal": {
+                "official": "Kalaallit Nunaat",
+                "common": "Kalaallit Nunaat"
+            }
+        }
+    },
+    "tld": [
+        ".gl"
+    ],
+    "cca2": "GL",
+    "ccn3": "304",
+    "cca3": "GRL",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "DKK": {
+            "name": "krone",
+            "symbol": "kr."
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "99"
+        ]
+    },
+    "capital": [
+        "Nuuk"
+    ],
+    "altSpellings": [
+        "GL",
+        "Grønland"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": {
+        "kal": "Greenlandic"
+    },
+    "translations": {
+        "ara": {
+            "official": "جرينلاند",
+            "common": "جرينلاند"
+        },
+        "bre": {
+            "official": "Greunland",
+            "common": "Greunland"
+        },
+        "ces": {
+            "official": "Grónsko",
+            "common": "Grónsko"
+        },
+        "cym": {
+            "official": "Greenland",
+            "common": "Greenland"
+        },
+        "deu": {
+            "official": "Grönland",
+            "common": "Grönland"
+        },
+        "est": {
+            "official": "Gröönimaa",
+            "common": "Gröönimaa"
+        },
+        "fin": {
+            "official": "Groönlanti",
+            "common": "Groönlanti"
+        },
+        "fra": {
+            "official": "Groenland",
+            "common": "Groenland"
+        },
+        "hrv": {
+            "official": "Grenland",
+            "common": "Grenland"
+        },
+        "hun": {
+            "official": "Grönland",
+            "common": "Grönland"
+        },
+        "ita": {
+            "official": "Groenlandia",
+            "common": "Groenlandia"
+        },
+        "jpn": {
+            "official": "グリーンランド",
+            "common": "グリーンランド"
+        },
+        "kor": {
+            "official": "그린란드",
+            "common": "그린란드"
+        },
+        "nld": {
+            "official": "Groenland",
+            "common": "Groenland"
+        },
+        "per": {
+            "official": "گروئنلند",
+            "common": "گرینلند"
+        },
+        "pol": {
+            "official": "Grenlandia",
+            "common": "Grenlandia"
+        },
+        "por": {
+            "official": "Groenlândia",
+            "common": "Gronelândia"
+        },
+        "rus": {
+            "official": "Гренландия",
+            "common": "Гренландия"
+        },
+        "slk": {
+            "official": "Grónsko",
+            "common": "Grónsko"
+        },
+        "spa": {
+            "official": "Groenlandia",
+            "common": "Groenlandia"
+        },
+        "swe": {
+            "official": "Grönland",
+            "common": "Grönland"
+        },
+        "urd": {
+            "official": "گرین لینڈ",
+            "common": "گرین لینڈ"
+        },
+        "zho": {
+            "official": "格陵兰",
+            "common": "格陵兰"
+        }
+    },
+    "latlng": [
+        72,
+        -40
+    ],
+    "landlocked": false,
+    "area": 2166086,
+    "demonyms": {
+        "eng": {
+            "f": "Greenlandic",
+            "m": "Greenlandic"
+        },
+        "fra": {
+            "f": "Groenlandaise",
+            "m": "Groenlandais"
+        }
+    },
+    "flag": "🇬🇱",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/j3289UPEQXt1ceSy8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/2184073"
+    },
+    "population": 56367,
+    "car": {
+        "signs": [
+            "DK"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-01:00",
+        "UTC+00:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/gl.png",
+        "svg": "https://flagcdn.com/gl.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/gl.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/gl.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            64.18,
+            -51.75
+        ]
+    },
+    "postalCode": {
+        "format": "####",
+        "regex": "^(\\d{4})$"
+    }
+}

@@ -1,0 +1,219 @@
+{
+    "name": {
+        "common": "Zambia",
+        "official": "Republic of Zambia",
+        "nativeName": {
+            "eng": {
+                "official": "Republic of Zambia",
+                "common": "Zambia"
+            }
+        }
+    },
+    "tld": [
+        ".zm"
+    ],
+    "cca2": "ZM",
+    "ccn3": "894",
+    "cca3": "ZMB",
+    "cioc": "ZAM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "ZMW": {
+            "name": "Zambian kwacha",
+            "symbol": "ZK"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "60"
+        ]
+    },
+    "capital": [
+        "Lusaka"
+    ],
+    "altSpellings": [
+        "ZM",
+        "Republic of Zambia"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية زامبيا",
+            "common": "زامبيا"
+        },
+        "bre": {
+            "official": "Republik Zambia",
+            "common": "Zambia"
+        },
+        "ces": {
+            "official": "Zambijská republika",
+            "common": "Zambie"
+        },
+        "cym": {
+            "official": "Republic of Zambia",
+            "common": "Zambia"
+        },
+        "deu": {
+            "official": "Republik Sambia",
+            "common": "Sambia"
+        },
+        "est": {
+            "official": "Sambia Vabariik",
+            "common": "Sambia"
+        },
+        "fin": {
+            "official": "Sambian tasavalta",
+            "common": "Sambia"
+        },
+        "fra": {
+            "official": "République de Zambie",
+            "common": "Zambie"
+        },
+        "hrv": {
+            "official": "Republika Zambija",
+            "common": "Zambija"
+        },
+        "hun": {
+            "official": "Zambiai Köztársaság",
+            "common": "Zambia"
+        },
+        "ita": {
+            "official": "Repubblica di Zambia",
+            "common": "Zambia"
+        },
+        "jpn": {
+            "official": "ザンビア共和国",
+            "common": "ザンビア"
+        },
+        "kor": {
+            "official": "잠비아 공화국",
+            "common": "잠비아"
+        },
+        "nld": {
+            "official": "Republiek Zambia",
+            "common": "Zambia"
+        },
+        "per": {
+            "official": "جمهوری زامبیا",
+            "common": "زامبیا"
+        },
+        "pol": {
+            "official": "Republika Zambii",
+            "common": "Zambia"
+        },
+        "por": {
+            "official": "República da Zâmbia",
+            "common": "Zâmbia"
+        },
+        "rus": {
+            "official": "Республика Замбия",
+            "common": "Замбия"
+        },
+        "slk": {
+            "official": "Zambijská republika",
+            "common": "Zambia"
+        },
+        "spa": {
+            "official": "República de Zambia",
+            "common": "Zambia"
+        },
+        "swe": {
+            "official": "Republiken Zambia",
+            "common": "Zambia"
+        },
+        "urd": {
+            "official": "جمہوریہ زیمبیا",
+            "common": "زیمبیا"
+        },
+        "zho": {
+            "official": "赞比亚共和国",
+            "common": "赞比亚"
+        }
+    },
+    "latlng": [
+        -15,
+        30
+    ],
+    "landlocked": true,
+    "borders": [
+        "AGO",
+        "BWA",
+        "COD",
+        "MWI",
+        "MOZ",
+        "NAM",
+        "TZA",
+        "ZWE"
+    ],
+    "area": 752612,
+    "demonyms": {
+        "eng": {
+            "f": "Zambian",
+            "m": "Zambian"
+        },
+        "fra": {
+            "f": "Zambienne",
+            "m": "Zambien"
+        }
+    },
+    "flag": "🇿🇲",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/mweBcqvW8TppZW6q9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/195271"
+    },
+    "population": 18383956,
+    "gini": {
+        "2015": 57.1
+    },
+    "fifa": "ZAM",
+    "car": {
+        "signs": [
+            "RNR"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/zm.png",
+        "svg": "https://flagcdn.com/zm.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/zm.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/zm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -15.42,
+            28.28
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^(\\d{5})$"
+    },
+    "provinces": [
+        "Central Province",
+        "Copperbelt Province",
+        "Eastern Province",
+        "Luapula Province",
+        "Lusaka Province",
+        "Muchinga Province",
+        "Northern Province",
+        "Northwestern Province",
+        "Southern Province",
+        "Western Province"
+    ]
+}

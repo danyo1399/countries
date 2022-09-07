@@ -1,0 +1,199 @@
+{
+    "name": {
+        "common": "Antigua and Barbuda",
+        "official": "Antigua and Barbuda",
+        "nativeName": {
+            "eng": {
+                "official": "Antigua and Barbuda",
+                "common": "Antigua and Barbuda"
+            }
+        }
+    },
+    "tld": [
+        ".ag"
+    ],
+    "cca2": "AG",
+    "ccn3": "028",
+    "cca3": "ATG",
+    "cioc": "ANT",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "XCD": {
+            "name": "Eastern Caribbean dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "268"
+        ]
+    },
+    "capital": [
+        "Saint John's"
+    ],
+    "altSpellings": [
+        "AG"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "أنتيغوا وباربودا",
+            "common": "أنتيغوا وباربودا"
+        },
+        "bre": {
+            "official": "Antigua ha Barbuda",
+            "common": "Antigua ha Barbuda"
+        },
+        "ces": {
+            "official": "Antigua a Barbuda",
+            "common": "Antigua a Barbuda"
+        },
+        "cym": {
+            "official": "Antigwa a Barbiwda",
+            "common": "Antigwa a Barbiwda"
+        },
+        "deu": {
+            "official": "Antigua und Barbuda",
+            "common": "Antigua und Barbuda"
+        },
+        "est": {
+            "official": "Antigua ja Barbuda",
+            "common": "Antigua ja Barbuda"
+        },
+        "fin": {
+            "official": "Antigua ja Barbuda",
+            "common": "Antigua ja Barbuda"
+        },
+        "fra": {
+            "official": "Antigua -et-Barbuda",
+            "common": "Antigua-et-Barbuda"
+        },
+        "hrv": {
+            "official": "Antigva i Barbuda",
+            "common": "Antigva i Barbuda"
+        },
+        "hun": {
+            "official": "Antigua és Barbuda",
+            "common": "Antigua és Barbuda"
+        },
+        "ita": {
+            "official": "Antigua e Barbuda",
+            "common": "Antigua e Barbuda"
+        },
+        "jpn": {
+            "official": "アンチグアバーブーダ",
+            "common": "アンティグア・バーブーダ"
+        },
+        "kor": {
+            "official": "앤티가 바부다",
+            "common": "앤티가 바부다"
+        },
+        "nld": {
+            "official": "Antigua en Barbuda",
+            "common": "Antigua en Barbuda"
+        },
+        "per": {
+            "official": "آنتیگوا و باربودا",
+            "common": "آنتیگوا و باربودا"
+        },
+        "pol": {
+            "official": "Antigua i Barbuda",
+            "common": "Antigua i Barbuda"
+        },
+        "por": {
+            "official": "Antigua e Barbuda",
+            "common": "Antígua e Barbuda"
+        },
+        "rus": {
+            "official": "Антигуа и Барбуда",
+            "common": "Антигуа и Барбуда"
+        },
+        "slk": {
+            "official": "Antigua a Barbuda",
+            "common": "Antigua a Barbuda"
+        },
+        "spa": {
+            "official": "Antigua y Barbuda",
+            "common": "Antigua y Barbuda"
+        },
+        "swe": {
+            "official": "Antigua och Barbuda",
+            "common": "Antigua och Barbuda"
+        },
+        "urd": {
+            "official": "اینٹیگوا و باربوڈا",
+            "common": "اینٹیگوا و باربوڈا"
+        },
+        "zho": {
+            "official": "安提瓜和巴布达",
+            "common": "安提瓜和巴布达"
+        }
+    },
+    "latlng": [
+        17.05,
+        -61.8
+    ],
+    "landlocked": false,
+    "area": 442,
+    "demonyms": {
+        "eng": {
+            "f": "Antiguan, Barbudan",
+            "m": "Antiguan, Barbudan"
+        },
+        "fra": {
+            "f": "Antiguaise et barbudienne",
+            "m": "Antiguaise et barbudien"
+        }
+    },
+    "flag": "🇦🇬",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/fnye4wGJ1RzC9jpX9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/536900"
+    },
+    "population": 97928,
+    "fifa": "ATG",
+    "car": {
+        "signs": [
+            "AG"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/ag.png",
+        "svg": "https://flagcdn.com/ag.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ag.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ag.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            17.12,
+            -61.85
+        ]
+    },
+    "provinces": [
+        "Barbuda",
+        "Redonda",
+        "Saint George Parish",
+        "Saint John Parish",
+        "Saint Mary Parish",
+        "Saint Paul Parish",
+        "Saint Peter Parish",
+        "Saint Philip Parish"
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "name": {
+        "common": "Georgia",
+        "official": "Georgia",
+        "nativeName": {
+            "kat": {
+                "official": "საქართველო",
+                "common": "საქართველო"
+            }
+        }
+    },
+    "tld": [
+        ".ge"
+    ],
+    "cca2": "GE",
+    "ccn3": "268",
+    "cca3": "GEO",
+    "cioc": "GEO",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "GEL": {
+            "name": "lari",
+            "symbol": "₾"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "95"
+        ]
+    },
+    "capital": [
+        "Tbilisi"
+    ],
+    "altSpellings": [
+        "GE",
+        "Sakartvelo"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+        "kat": "Georgian"
+    },
+    "translations": {
+        "ara": {
+            "official": "جورجيا",
+            "common": "جورجيا"
+        },
+        "bre": {
+            "official": "Republik Jorjia",
+            "common": "Jorjia"
+        },
+        "ces": {
+            "official": "Gruzie",
+            "common": "Gruzie"
+        },
+        "cym": {
+            "official": "Georgia",
+            "common": "Georgia"
+        },
+        "deu": {
+            "official": "Georgien",
+            "common": "Georgien"
+        },
+        "est": {
+            "official": "Gruusia",
+            "common": "Gruusia"
+        },
+        "fin": {
+            "official": "Georgia",
+            "common": "Georgia"
+        },
+        "fra": {
+            "official": "République de Géorgie",
+            "common": "Géorgie"
+        },
+        "hrv": {
+            "official": "Gruzija",
+            "common": "Gruzija"
+        },
+        "hun": {
+            "official": "Grúzia",
+            "common": "Grúzia"
+        },
+        "ita": {
+            "official": "Georgia",
+            "common": "Georgia"
+        },
+        "jpn": {
+            "official": "グルジア",
+            "common": "グルジア"
+        },
+        "kor": {
+            "official": "조지아",
+            "common": "조지아"
+        },
+        "nld": {
+            "official": "Georgia",
+            "common": "Georgië"
+        },
+        "per": {
+            "official": "گرجستان",
+            "common": "گرجستان"
+        },
+        "pol": {
+            "official": "Gruzja",
+            "common": "Gruzja"
+        },
+        "por": {
+            "official": "Georgia",
+            "common": "Geórgia"
+        },
+        "rus": {
+            "official": "Грузия",
+            "common": "Грузия"
+        },
+        "slk": {
+            "official": "Gruzínsko",
+            "common": "Gruzínsko"
+        },
+        "spa": {
+            "official": "Georgia",
+            "common": "Georgia"
+        },
+        "swe": {
+            "official": "Georgien",
+            "common": "Georgien"
+        },
+        "urd": {
+            "official": "جارجیا",
+            "common": "جارجیا"
+        },
+        "zho": {
+            "official": "格鲁吉亚",
+            "common": "格鲁吉亚"
+        }
+    },
+    "latlng": [
+        42,
+        43.5
+    ],
+    "landlocked": false,
+    "borders": [
+        "ARM",
+        "AZE",
+        "RUS",
+        "TUR"
+    ],
+    "area": 69700,
+    "demonyms": {
+        "eng": {
+            "f": "Georgian",
+            "m": "Georgian"
+        },
+        "fra": {
+            "f": "Géorgienne",
+            "m": "Géorgien"
+        }
+    },
+    "flag": "🇬🇪",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/bvCaGBePR1ZEDK5cA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/28699"
+    },
+    "population": 3714000,
+    "gini": {
+        "2019": 35.9
+    },
+    "fifa": "GEO",
+    "car": {
+        "signs": [
+            "GE"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/ge.png",
+        "svg": "https://flagcdn.com/ge.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ge.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ge.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            41.68,
+            44.83
+        ]
+    },
+    "postalCode": {
+        "format": "####",
+        "regex": "^(\\d{4})$"
+    },
+    "provinces": [
+        "Adjara",
+        "Autonomous Republic of Abkhazia",
+        "Guria",
+        "Imereti",
+        "Kakheti",
+        "Khelvachauri Municipality",
+        "Kvemo Kartli",
+        "Mtskheta-Mtianeti",
+        "Racha-Lechkhumi and Kvemo Svaneti",
+        "Samegrelo-Zemo Svaneti",
+        "Samtskhe-Javakheti",
+        "Senaki Municipality",
+        "Shida Kartli",
+        "Tbilisi"
+    ]
+}

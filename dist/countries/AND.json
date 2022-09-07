@@ -1,0 +1,208 @@
+{
+    "name": {
+        "common": "Andorra",
+        "official": "Principality of Andorra",
+        "nativeName": {
+            "cat": {
+                "official": "Principat d'Andorra",
+                "common": "Andorra"
+            }
+        }
+    },
+    "tld": [
+        ".ad"
+    ],
+    "cca2": "AD",
+    "ccn3": "020",
+    "cca3": "AND",
+    "cioc": "AND",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "76"
+        ]
+    },
+    "capital": [
+        "Andorra la Vella"
+    ],
+    "altSpellings": [
+        "AD",
+        "Principality of Andorra",
+        "Principat d'Andorra"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+        "cat": "Catalan"
+    },
+    "translations": {
+        "ara": {
+            "official": "إمارة أندورا",
+            "common": "أندورا"
+        },
+        "bre": {
+            "official": "Priñselezh Andorra",
+            "common": "Andorra"
+        },
+        "ces": {
+            "official": "Andorrské knížectví",
+            "common": "Andorra"
+        },
+        "cym": {
+            "official": "Tywysogaeth Andorra",
+            "common": "Andorra"
+        },
+        "deu": {
+            "official": "Fürstentum Andorra",
+            "common": "Andorra"
+        },
+        "est": {
+            "official": "Andorra Vürstiriik",
+            "common": "Andorra"
+        },
+        "fin": {
+            "official": "Andorran ruhtinaskunta",
+            "common": "Andorra"
+        },
+        "fra": {
+            "official": "Principauté d'Andorre",
+            "common": "Andorre"
+        },
+        "hrv": {
+            "official": "Kneževina Andora",
+            "common": "Andora"
+        },
+        "hun": {
+            "official": "Andorra",
+            "common": "Andorra"
+        },
+        "ita": {
+            "official": "Principato di Andorra",
+            "common": "Andorra"
+        },
+        "jpn": {
+            "official": "アンドラ公国",
+            "common": "アンドラ"
+        },
+        "kor": {
+            "official": "안도라 공국",
+            "common": "안도라"
+        },
+        "nld": {
+            "official": "Prinsdom Andorra",
+            "common": "Andorra"
+        },
+        "per": {
+            "official": "شاهزاده‌نشین آندورا",
+            "common": "آندورا"
+        },
+        "pol": {
+            "official": "Księstwo Andory",
+            "common": "Andora"
+        },
+        "por": {
+            "official": "Principado de Andorra",
+            "common": "Andorra"
+        },
+        "rus": {
+            "official": "Княжество Андорра",
+            "common": "Андорра"
+        },
+        "slk": {
+            "official": "Andorrské kniežatstvo",
+            "common": "Andorra"
+        },
+        "spa": {
+            "official": "Principado de Andorra",
+            "common": "Andorra"
+        },
+        "swe": {
+            "official": "Furstendömet Andorra",
+            "common": "Andorra"
+        },
+        "urd": {
+            "official": "اماراتِ انڈورا",
+            "common": "انڈورا"
+        },
+        "zho": {
+            "official": "安道尔公国",
+            "common": "安道尔"
+        }
+    },
+    "latlng": [
+        42.5,
+        1.5
+    ],
+    "landlocked": true,
+    "borders": [
+        "FRA",
+        "ESP"
+    ],
+    "area": 468,
+    "demonyms": {
+        "eng": {
+            "f": "Andorran",
+            "m": "Andorran"
+        },
+        "fra": {
+            "f": "Andorrane",
+            "m": "Andorran"
+        }
+    },
+    "flag": "🇦🇩",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/9407"
+    },
+    "population": 77265,
+    "fifa": "AND",
+    "car": {
+        "signs": [
+            "AND"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "continents": [
+        "Europe"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/ad.png",
+        "svg": "https://flagcdn.com/ad.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ad.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ad.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            42.5,
+            1.52
+        ]
+    },
+    "postalCode": {
+        "format": "AD###",
+        "regex": "^(?:AD)*(\\d{3})$"
+    },
+    "provinces": [
+        "Andorra la Vella",
+        "Canillo",
+        "Encamp",
+        "Escaldes-Engordany",
+        "La Massana",
+        "Ordino",
+        "Sant Julià de Lòria"
+    ]
+}

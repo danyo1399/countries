@@ -1,0 +1,211 @@
+{
+    "name": {
+        "common": "Comoros",
+        "official": "Union of the Comoros",
+        "nativeName": {
+            "ara": {
+                "official": "الاتحاد القمري",
+                "common": "القمر‎"
+            },
+            "fra": {
+                "official": "Union des Comores",
+                "common": "Comores"
+            },
+            "zdj": {
+                "official": "Udzima wa Komori",
+                "common": "Komori"
+            }
+        }
+    },
+    "tld": [
+        ".km"
+    ],
+    "cca2": "KM",
+    "ccn3": "174",
+    "cca3": "COM",
+    "cioc": "COM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "KMF": {
+            "name": "Comorian franc",
+            "symbol": "Fr"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "69"
+        ]
+    },
+    "capital": [
+        "Moroni"
+    ],
+    "altSpellings": [
+        "KM",
+        "Union of the Comoros",
+        "Union des Comores",
+        "Udzima wa Komori",
+        "al-Ittiḥād al-Qumurī"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "ara": "Arabic",
+        "fra": "French",
+        "zdj": "Comorian"
+    },
+    "translations": {
+        "ara": {
+            "official": "الإتحاد القمري",
+            "common": "جزر القمر"
+        },
+        "bre": {
+            "official": "Unaniezh Komorez",
+            "common": "Komorez"
+        },
+        "ces": {
+            "official": "Komorský svaz",
+            "common": "Komory"
+        },
+        "cym": {
+            "official": "Undeb y Comoros",
+            "common": "Y Comoros"
+        },
+        "deu": {
+            "official": "Union der Komoren",
+            "common": "Komoren"
+        },
+        "est": {
+            "official": "Komoori Liit",
+            "common": "Komoorid"
+        },
+        "fin": {
+            "official": "Komorien liitto",
+            "common": "Komorit"
+        },
+        "fra": {
+            "official": "Union des Comores",
+            "common": "Comores"
+        },
+        "hrv": {
+            "official": "Savez Komori",
+            "common": "Komori"
+        },
+        "hun": {
+            "official": "Comore-szigeteki Unió",
+            "common": "Comore-szigetek"
+        },
+        "ita": {
+            "official": "Unione delle Comore",
+            "common": "Comore"
+        },
+        "jpn": {
+            "official": "コモロ連合",
+            "common": "コモロ"
+        },
+        "kor": {
+            "official": "코모로 연방",
+            "common": "코모로"
+        },
+        "nld": {
+            "official": "Unie van de Comoren",
+            "common": "Comoren"
+        },
+        "per": {
+            "official": "مجمع‌الجزایر قمر",
+            "common": "اتحاد قُمُر"
+        },
+        "pol": {
+            "official": "Związek Komorów",
+            "common": "Komory"
+        },
+        "por": {
+            "official": "União das Comores",
+            "common": "Comores"
+        },
+        "rus": {
+            "official": "Союз Коморских Островов",
+            "common": "Коморы"
+        },
+        "slk": {
+            "official": "Komorská únia",
+            "common": "Komory"
+        },
+        "spa": {
+            "official": "Unión de las Comoras",
+            "common": "Comoras"
+        },
+        "swe": {
+            "official": "Unionen Komorerna",
+            "common": "Komorerna"
+        },
+        "urd": {
+            "official": "اتحاد القمری",
+            "common": "القمری"
+        },
+        "zho": {
+            "official": "科摩罗联盟",
+            "common": "科摩罗"
+        }
+    },
+    "latlng": [
+        -12.16666666,
+        44.25
+    ],
+    "landlocked": false,
+    "area": 1862,
+    "demonyms": {
+        "eng": {
+            "f": "Comoran",
+            "m": "Comoran"
+        },
+        "fra": {
+            "f": "Comorienne",
+            "m": "Comorien"
+        }
+    },
+    "flag": "🇰🇲",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/eas4GP28C1GyStnu6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/535790"
+    },
+    "population": 869595,
+    "gini": {
+        "2014": 45.3
+    },
+    "fifa": "COM",
+    "car": {
+        "signs": [
+            "COM"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+03:00"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/km.png",
+        "svg": "https://flagcdn.com/km.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/km.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/km.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -11.7,
+            43.23
+        ]
+    },
+    "provinces": [
+        "Anjouan",
+        "Grande Comore",
+        "Mohéli"
+    ]
+}

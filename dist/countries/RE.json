@@ -1,0 +1,189 @@
+{
+    "name": {
+        "common": "Réunion",
+        "official": "Réunion Island",
+        "nativeName": {
+            "fra": {
+                "official": "Ile de la Réunion",
+                "common": "La Réunion"
+            }
+        }
+    },
+    "tld": [
+        ".re"
+    ],
+    "cca2": "RE",
+    "ccn3": "638",
+    "cca3": "REU",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "62"
+        ]
+    },
+    "capital": [
+        "Saint-Denis"
+    ],
+    "altSpellings": [
+        "RE",
+        "Reunion"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ara": {
+            "official": "جزيرة لا ريونيون",
+            "common": "لا ريونيون"
+        },
+        "bre": {
+            "official": "Enez ar Reünion",
+            "common": "Reünion"
+        },
+        "ces": {
+            "official": "Réunion",
+            "common": "Réunion"
+        },
+        "cym": {
+            "official": "Réunion Island",
+            "common": "Réunion"
+        },
+        "deu": {
+            "official": "Réunion",
+            "common": "Réunion"
+        },
+        "est": {
+            "official": "Réunioni departemang",
+            "common": "Réunion"
+        },
+        "fin": {
+            "official": "Réunion",
+            "common": "Réunion"
+        },
+        "fra": {
+            "official": "Ile de la Réunion",
+            "common": "Réunion"
+        },
+        "hrv": {
+            "official": "Réunion Island",
+            "common": "Réunion"
+        },
+        "hun": {
+            "official": "Réunion",
+            "common": "Réunion"
+        },
+        "ita": {
+            "official": "Réunion",
+            "common": "Riunione"
+        },
+        "jpn": {
+            "official": "レユニオン島",
+            "common": "レユニオン"
+        },
+        "kor": {
+            "official": "레위니옹",
+            "common": "레위니옹"
+        },
+        "nld": {
+            "official": "Réunion",
+            "common": "Réunion"
+        },
+        "per": {
+            "official": "رئونیون",
+            "common": "رئونیون"
+        },
+        "pol": {
+            "official": "Reunion",
+            "common": "Reunion"
+        },
+        "por": {
+            "official": "Ilha da Reunião",
+            "common": "Reunião"
+        },
+        "rus": {
+            "official": "Реюньон",
+            "common": "Реюньон"
+        },
+        "slk": {
+            "official": "Réunionský zámorský departmán",
+            "common": "Réunion"
+        },
+        "spa": {
+            "official": "Isla de la Reunión",
+            "common": "Reunión"
+        },
+        "swe": {
+            "official": "Réunion",
+            "common": "Réunion"
+        },
+        "urd": {
+            "official": "رے یونیوں جزیرہ",
+            "common": "رے یونیوں"
+        },
+        "zho": {
+            "official": "留尼旺岛",
+            "common": "留尼旺岛"
+        }
+    },
+    "latlng": [
+        -21.15,
+        55.5
+    ],
+    "landlocked": false,
+    "area": 2511,
+    "demonyms": {
+        "eng": {
+            "f": "Réunionese",
+            "m": "Réunionese"
+        },
+        "fra": {
+            "f": "Réunionnaise",
+            "m": "Réunionnais"
+        }
+    },
+    "flag": "🇷🇪",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/wWpBrXsp8UHVbah29",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/1785276"
+    },
+    "population": 840974,
+    "car": {
+        "signs": [
+            "F"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+04:00"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/re.png",
+        "svg": "https://flagcdn.com/re.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -20.88,
+            55.45
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^((97|98)(4|7|8)\\d{2})$"
+    }
+}

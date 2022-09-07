@@ -1,0 +1,218 @@
+{
+    "name": {
+        "common": "Eswatini",
+        "official": "Kingdom of Eswatini",
+        "nativeName": {
+            "eng": {
+                "official": "Kingdom of Eswatini",
+                "common": "Eswatini"
+            },
+            "ssw": {
+                "official": "Umbuso weSwatini",
+                "common": "eSwatini"
+            }
+        }
+    },
+    "tld": [
+        ".sz"
+    ],
+    "cca2": "SZ",
+    "ccn3": "748",
+    "cca3": "SWZ",
+    "cioc": "SWZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "SZL": {
+            "name": "Swazi lilangeni",
+            "symbol": "L"
+        },
+        "ZAR": {
+            "name": "South African rand",
+            "symbol": "R"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "68"
+        ]
+    },
+    "capital": [
+        "Mbabane"
+    ],
+    "altSpellings": [
+        "SZ",
+        "Swaziland",
+        "weSwatini",
+        "Swatini",
+        "Ngwane",
+        "Kingdom of Eswatini",
+        "Umbuso weSwatini"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+        "eng": "English",
+        "ssw": "Swazi"
+    },
+    "translations": {
+        "ara": {
+            "official": "مملكة إسواتيني",
+            "common": "إسواتيني"
+        },
+        "bre": {
+            "official": "Rouantelezh Eswatini",
+            "common": "Eswatini"
+        },
+        "ces": {
+            "official": "Svazijské království",
+            "common": "Svazijsko"
+        },
+        "cym": {
+            "official": "Kingdom of Eswatini",
+            "common": "Eswatini"
+        },
+        "deu": {
+            "official": "Königreich Eswatini",
+            "common": "Swasiland"
+        },
+        "est": {
+            "official": "eSwatini Kuningriik",
+            "common": "Svaasimaa"
+        },
+        "fin": {
+            "official": "Swazimaan kuningaskunta",
+            "common": "Swazimaa"
+        },
+        "fra": {
+            "official": "Royaume d’Eswatini",
+            "common": "Swaziland"
+        },
+        "hrv": {
+            "official": "Kraljevina eSwatini",
+            "common": "Svazi"
+        },
+        "hun": {
+            "official": "Szváziföldi Királyság",
+            "common": "Szváziföld"
+        },
+        "ita": {
+            "official": "Regno di eSwatini",
+            "common": "Swaziland"
+        },
+        "jpn": {
+            "official": "スワジランド王国",
+            "common": "スワジランド"
+        },
+        "kor": {
+            "official": "에스와티니 왕국",
+            "common": "에스와티니"
+        },
+        "nld": {
+            "official": "Koninkrijk eSwatini",
+            "common": "Swaziland"
+        },
+        "per": {
+            "official": "پادشاهی سوازیلند",
+            "common": "اسواتینی"
+        },
+        "pol": {
+            "official": "Królestwo Suazi",
+            "common": "Suazi"
+        },
+        "por": {
+            "official": "Reino de eSwatini",
+            "common": "Suazilândia"
+        },
+        "rus": {
+            "official": "Королевство Свазиленд",
+            "common": "Свазиленд"
+        },
+        "slk": {
+            "official": "Svazijské kráľovstvo",
+            "common": "Svazijsko"
+        },
+        "spa": {
+            "official": "Reino de eSwatini",
+            "common": "Suazilandia"
+        },
+        "swe": {
+            "official": "Konungariket Eswatini",
+            "common": "Swaziland"
+        },
+        "urd": {
+            "official": "مملکتِ سوازی لینڈ",
+            "common": "سوازی لینڈ"
+        },
+        "zho": {
+            "official": "斯威士兰王国",
+            "common": "斯威士兰"
+        }
+    },
+    "latlng": [
+        -26.5,
+        31.5
+    ],
+    "landlocked": true,
+    "borders": [
+        "MOZ",
+        "ZAF"
+    ],
+    "area": 17364,
+    "demonyms": {
+        "eng": {
+            "f": "Swazi",
+            "m": "Swazi"
+        },
+        "fra": {
+            "f": "Swazie",
+            "m": "Swazie"
+        }
+    },
+    "flag": "🇸🇿",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/88210"
+    },
+    "population": 1160164,
+    "gini": {
+        "2016": 54.6
+    },
+    "fifa": "SWZ",
+    "car": {
+        "signs": [
+            "SD"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/sz.png",
+        "svg": "https://flagcdn.com/sz.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -26.32,
+            31.13
+        ]
+    },
+    "postalCode": {
+        "format": "@###",
+        "regex": "^([A-Z]\\d{3})$"
+    },
+    "provinces": [
+        "Hhohho District",
+        "Lubombo District",
+        "Manzini District",
+        "Shiselweni District"
+    ]
+}

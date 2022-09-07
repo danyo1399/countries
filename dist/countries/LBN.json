@@ -1,0 +1,217 @@
+{
+    "name": {
+        "common": "Lebanon",
+        "official": "Lebanese Republic",
+        "nativeName": {
+            "ara": {
+                "official": "الجمهورية اللبنانية",
+                "common": "لبنان"
+            },
+            "fra": {
+                "official": "République libanaise",
+                "common": "Liban"
+            }
+        }
+    },
+    "tld": [
+        ".lb"
+    ],
+    "cca2": "LB",
+    "ccn3": "422",
+    "cca3": "LBN",
+    "cioc": "LBN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "LBP": {
+            "name": "Lebanese pound",
+            "symbol": "ل.ل"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "61"
+        ]
+    },
+    "capital": [
+        "Beirut"
+    ],
+    "altSpellings": [
+        "LB",
+        "Lebanese Republic",
+        "Al-Jumhūrīyah Al-Libnānīyah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+        "ara": "Arabic",
+        "fra": "French"
+    },
+    "translations": {
+        "ara": {
+            "official": "الجمهورية اللبنانية",
+            "common": "لبنان"
+        },
+        "bre": {
+            "official": "Republik Liban",
+            "common": "Liban"
+        },
+        "ces": {
+            "official": "Libanonská republika",
+            "common": "Libanon"
+        },
+        "cym": {
+            "official": "Lebanese Republic",
+            "common": "Lebanon"
+        },
+        "deu": {
+            "official": "Libanesische Republik",
+            "common": "Libanon"
+        },
+        "est": {
+            "official": "Liibanoni Vabariik",
+            "common": "Liibanon"
+        },
+        "fin": {
+            "official": "Libanonin tasavalta",
+            "common": "Libanon"
+        },
+        "fra": {
+            "official": "République libanaise",
+            "common": "Liban"
+        },
+        "hrv": {
+            "official": "Libanonska Republika",
+            "common": "Libanon"
+        },
+        "hun": {
+            "official": "Libanoni Köztársaság",
+            "common": "Libanon"
+        },
+        "ita": {
+            "official": "Repubblica libanese",
+            "common": "Libano"
+        },
+        "jpn": {
+            "official": "レバノン共和国",
+            "common": "レバノン"
+        },
+        "kor": {
+            "official": "레바논 공화국",
+            "common": "레바논"
+        },
+        "nld": {
+            "official": "Libanese Republiek",
+            "common": "Libanon"
+        },
+        "per": {
+            "official": "جمهوری لبنان",
+            "common": "لبنان"
+        },
+        "pol": {
+            "official": "Republika Libańska",
+            "common": "Liban"
+        },
+        "por": {
+            "official": "República Libanesa",
+            "common": "Líbano"
+        },
+        "rus": {
+            "official": "Ливанская Республика",
+            "common": "Ливан"
+        },
+        "slk": {
+            "official": "Libanonská republika",
+            "common": "Libanon"
+        },
+        "spa": {
+            "official": "República Libanesa",
+            "common": "Líbano"
+        },
+        "swe": {
+            "official": "Republiken Libanon",
+            "common": "Libanon"
+        },
+        "urd": {
+            "official": "جمہوریہ لبنان",
+            "common": "لبنان"
+        },
+        "zho": {
+            "official": "黎巴嫩共和国",
+            "common": "黎巴嫩"
+        }
+    },
+    "latlng": [
+        33.83333333,
+        35.83333333
+    ],
+    "landlocked": false,
+    "borders": [
+        "ISR",
+        "SYR"
+    ],
+    "area": 10452,
+    "demonyms": {
+        "eng": {
+            "f": "Lebanese",
+            "m": "Lebanese"
+        },
+        "fra": {
+            "f": "Libanaise",
+            "m": "Libanais"
+        }
+    },
+    "flag": "🇱🇧",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/184843"
+    },
+    "population": 6825442,
+    "gini": {
+        "2011": 31.8
+    },
+    "fifa": "LBN",
+    "car": {
+        "signs": [
+            "RL"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/lb.png",
+        "svg": "https://flagcdn.com/lb.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/lb.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/lb.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            33.87,
+            35.5
+        ]
+    },
+    "postalCode": {
+        "format": "#### ####|####",
+        "regex": "^(\\d{4}(\\d{4})?)$"
+    },
+    "provinces": [
+        "Akkar",
+        "Baalbek-Hermel",
+        "Beirut",
+        "Beqaa",
+        "Mount Lebanon",
+        "Nabatieh",
+        "North",
+        "South"
+    ]
+}

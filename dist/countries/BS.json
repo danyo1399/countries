@@ -1,0 +1,238 @@
+{
+    "name": {
+        "common": "Bahamas",
+        "official": "Commonwealth of the Bahamas",
+        "nativeName": {
+            "eng": {
+                "official": "Commonwealth of the Bahamas",
+                "common": "Bahamas"
+            }
+        }
+    },
+    "tld": [
+        ".bs"
+    ],
+    "cca2": "BS",
+    "ccn3": "044",
+    "cca3": "BHS",
+    "cioc": "BAH",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "BSD": {
+            "name": "Bahamian dollar",
+            "symbol": "$"
+        },
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "242"
+        ]
+    },
+    "capital": [
+        "Nassau"
+    ],
+    "altSpellings": [
+        "BS",
+        "Commonwealth of the Bahamas"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "كومنولث جزر البهاما",
+            "common": "باهاماس"
+        },
+        "bre": {
+            "official": "Kenglad ar Bahamas",
+            "common": "Bahamas"
+        },
+        "ces": {
+            "official": "Bahamské společenství",
+            "common": "Bahamy"
+        },
+        "cym": {
+            "official": "Cymanwlad y Bahamas",
+            "common": "Bahamas"
+        },
+        "deu": {
+            "official": "Commonwealth der Bahamas",
+            "common": "Bahamas"
+        },
+        "est": {
+            "official": "Bahama Ühendus",
+            "common": "Bahama"
+        },
+        "fin": {
+            "official": "Bahaman liittovaltio",
+            "common": "Bahamasaaret"
+        },
+        "fra": {
+            "official": "Commonwealth des Bahamas",
+            "common": "Bahamas"
+        },
+        "hrv": {
+            "official": "Zajednica Bahama",
+            "common": "Bahami"
+        },
+        "hun": {
+            "official": "Bahamai Közösség",
+            "common": "Bahama-szigetek"
+        },
+        "ita": {
+            "official": "Commonwealth delle Bahamas",
+            "common": "Bahamas"
+        },
+        "jpn": {
+            "official": "バハマ",
+            "common": "バハマ"
+        },
+        "kor": {
+            "official": "바하마 연방",
+            "common": "바하마"
+        },
+        "nld": {
+            "official": "Gemenebest van de Bahama's",
+            "common": "Bahama’s"
+        },
+        "per": {
+            "official": "قلمرو همسود باهاما",
+            "common": "باهاما"
+        },
+        "pol": {
+            "official": "Bahamy",
+            "common": "Bahamy"
+        },
+        "por": {
+            "official": "Comunidade das Bahamas",
+            "common": "Bahamas"
+        },
+        "rus": {
+            "official": "Содружество Багамских Островов",
+            "common": "Багамские Острова"
+        },
+        "slk": {
+            "official": "Bahamské spoločenstvo",
+            "common": "Bahamy"
+        },
+        "spa": {
+            "official": "Commonwealth de las Bahamas",
+            "common": "Bahamas"
+        },
+        "swe": {
+            "official": "Samväldet Bahamas",
+            "common": "Bahamas"
+        },
+        "urd": {
+            "official": "دولتِ مشترکہ بہاماس",
+            "common": "بہاماس"
+        },
+        "zho": {
+            "official": "巴哈马联邦",
+            "common": "巴哈马"
+        }
+    },
+    "latlng": [
+        24.25,
+        -76
+    ],
+    "landlocked": false,
+    "area": 13943,
+    "demonyms": {
+        "eng": {
+            "f": "Bahamian",
+            "m": "Bahamian"
+        },
+        "fra": {
+            "f": "Bahamienne",
+            "m": "Bahamien"
+        }
+    },
+    "flag": "🇧🇸",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/1YzRs1BZrG8p8pmVA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/547469"
+    },
+    "population": 393248,
+    "fifa": "BAH",
+    "car": {
+        "signs": [
+            "BS"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC-05:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/bs.png",
+        "svg": "https://flagcdn.com/bs.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/bs.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/bs.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            25.08,
+            -77.35
+        ]
+    },
+    "provinces": [
+        "Acklins",
+        "Acklins and Crooked Islands",
+        "Berry Islands",
+        "Bimini",
+        "Black Point",
+        "Cat Island",
+        "Central Abaco",
+        "Central Andros",
+        "Central Eleuthera",
+        "Crooked Island",
+        "East Grand Bahama",
+        "Exuma",
+        "Freeport",
+        "Fresh Creek",
+        "Governor's Harbour",
+        "Grand Cay",
+        "Green Turtle Cay",
+        "Harbour Island",
+        "High Rock",
+        "Hope Town",
+        "Inagua",
+        "Kemps Bay",
+        "Long Island",
+        "Mangrove Cay",
+        "Marsh Harbour",
+        "Mayaguana District",
+        "New Providence",
+        "Nichollstown and Berry Islands",
+        "North Abaco",
+        "North Andros",
+        "North Eleuthera",
+        "Ragged Island",
+        "Rock Sound",
+        "Rum Cay District",
+        "San Salvador and Rum Cay",
+        "San Salvador Island",
+        "Sandy Point",
+        "South Abaco",
+        "South Andros",
+        "South Eleuthera",
+        "Spanish Wells",
+        "West Grand Bahama"
+    ]
+}

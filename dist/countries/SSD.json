@@ -1,0 +1,212 @@
+{
+    "name": {
+        "common": "South Sudan",
+        "official": "Republic of South Sudan",
+        "nativeName": {
+            "eng": {
+                "official": "Republic of South Sudan",
+                "common": "South Sudan"
+            }
+        }
+    },
+    "tld": [
+        ".ss"
+    ],
+    "cca2": "SS",
+    "ccn3": "728",
+    "cca3": "SSD",
+    "cioc": "SSD",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "SSP": {
+            "name": "South Sudanese pound",
+            "symbol": "£"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "11"
+        ]
+    },
+    "capital": [
+        "Juba"
+    ],
+    "altSpellings": [
+        "SS"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية جنوب السودان",
+            "common": "جنوب السودان"
+        },
+        "bre": {
+            "official": "Republik Soudan ar Su",
+            "common": "Soudan ar Su"
+        },
+        "ces": {
+            "official": "Jihosúdánská republika",
+            "common": "Jižní Súdán"
+        },
+        "cym": {
+            "official": "Republic of South Sudan",
+            "common": "South Sudan"
+        },
+        "deu": {
+            "official": "Republik Südsudan",
+            "common": "Südsudan"
+        },
+        "est": {
+            "official": "Lõuna-Sudaani Vabariik",
+            "common": "Lõuna-Sudaan"
+        },
+        "fin": {
+            "official": "Etelä-Sudanin tasavalta",
+            "common": "Etelä-Sudan"
+        },
+        "fra": {
+            "official": "République du Soudan du Sud",
+            "common": "Soudan du Sud"
+        },
+        "hrv": {
+            "official": "Republika Južni Sudan",
+            "common": "Južni Sudan"
+        },
+        "hun": {
+            "official": "Dél-szudáni Köztársaság",
+            "common": "Dél-Szudán"
+        },
+        "ita": {
+            "official": "Repubblica del Sudan del Sud",
+            "common": "Sudan del sud"
+        },
+        "jpn": {
+            "official": "南スーダン共和国",
+            "common": "南スーダン"
+        },
+        "kor": {
+            "official": "남수단 공화국",
+            "common": "남수단"
+        },
+        "nld": {
+            "official": "Republiek Zuid-Soedan",
+            "common": "Zuid-Soedan"
+        },
+        "per": {
+            "official": "جمهوری سودان جنوبی",
+            "common": "سودان جنوبی"
+        },
+        "pol": {
+            "official": "Republika Sudanu",
+            "common": "Sudan"
+        },
+        "por": {
+            "official": "República do Sudão do Sul",
+            "common": "Sudão do Sul"
+        },
+        "rus": {
+            "official": "Республика Южный Судан",
+            "common": "Южный Судан"
+        },
+        "slk": {
+            "official": "Juhosudánska republika",
+            "common": "Južný Sudán"
+        },
+        "spa": {
+            "official": "República de Sudán del Sur",
+            "common": "Sudán del Sur"
+        },
+        "swe": {
+            "official": "Republiken Sydsudan",
+            "common": "Sydsudan"
+        },
+        "urd": {
+            "official": "جمہوریہ جنوبی سوڈان",
+            "common": "جنوبی سوڈان"
+        },
+        "zho": {
+            "official": "南苏丹共和国",
+            "common": "南苏丹"
+        }
+    },
+    "latlng": [
+        7,
+        30
+    ],
+    "landlocked": true,
+    "borders": [
+        "CAF",
+        "COD",
+        "ETH",
+        "KEN",
+        "SDN",
+        "UGA"
+    ],
+    "area": 619745,
+    "demonyms": {
+        "eng": {
+            "f": "South Sudanese",
+            "m": "South Sudanese"
+        },
+        "fra": {
+            "f": "Sud-Soudanaise",
+            "m": "Sud-Soudanais"
+        }
+    },
+    "flag": "🇸🇸",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/Zm1AYCXb9HSNF1P27",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/1656678"
+    },
+    "population": 11193729,
+    "gini": {
+        "2016": 44.1
+    },
+    "fifa": "SSD",
+    "car": {
+        "signs": [
+            ""
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+03:00"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/ss.png",
+        "svg": "https://flagcdn.com/ss.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ss.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ss.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+        "latlng": [
+            4.85,
+            31.62
+        ]
+    },
+    "provinces": [
+        "Central Equatoria",
+        "Eastern Equatoria",
+        "Jonglei State",
+        "Lakes",
+        "Northern Bahr el Ghazal",
+        "Unity",
+        "Upper Nile",
+        "Warrap",
+        "Western Bahr el Ghazal",
+        "Western Equatoria"
+    ]
+}

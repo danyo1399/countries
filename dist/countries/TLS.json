@@ -1,0 +1,217 @@
+{
+    "name": {
+        "common": "Timor-Leste",
+        "official": "Democratic Republic of Timor-Leste",
+        "nativeName": {
+            "por": {
+                "official": "República Democrática de Timor-Leste",
+                "common": "Timor-Leste"
+            },
+            "tet": {
+                "official": "Repúblika Demokrátika Timór-Leste",
+                "common": "Timór-Leste"
+            }
+        }
+    },
+    "tld": [
+        ".tl"
+    ],
+    "cca2": "TL",
+    "ccn3": "626",
+    "cca3": "TLS",
+    "cioc": "TLS",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "70"
+        ]
+    },
+    "capital": [
+        "Dili"
+    ],
+    "altSpellings": [
+        "TL",
+        "East Timor",
+        "Democratic Republic of Timor-Leste",
+        "República Democrática de Timor-Leste",
+        "Repúblika Demokrátika Timór-Leste",
+        "Timór Lorosa'e",
+        "Timor Lorosae"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+        "por": "Portuguese",
+        "tet": "Tetum"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية تيمور الشرقية الديمقراطية",
+            "common": "تيمور الشرقية"
+        },
+        "bre": {
+            "official": "Republik demakratel Timor ar Reter",
+            "common": "Timor ar Reter"
+        },
+        "ces": {
+            "official": "Demokratická republika Východní Timor",
+            "common": "Východní Timor"
+        },
+        "cym": {
+            "official": "Democratic Republic of Timor-Leste",
+            "common": "Timor-Leste"
+        },
+        "deu": {
+            "official": "Demokratische Republik Timor-Leste",
+            "common": "Osttimor"
+        },
+        "est": {
+            "official": "Timor-Leste Demokraatlik Vabariik",
+            "common": "Ida-Timor"
+        },
+        "fin": {
+            "official": "Itä-Timorin demokraattinen tasavalta",
+            "common": "Itä-Timor"
+        },
+        "fra": {
+            "official": "République démocratique du Timor oriental",
+            "common": "Timor oriental"
+        },
+        "hrv": {
+            "official": "Demokratska Republika Timor-Leste",
+            "common": "Istočni Timor"
+        },
+        "hun": {
+            "official": "Kelet-timori Demokratikus Köztársaság",
+            "common": "Kelet-Timor"
+        },
+        "ita": {
+            "official": "Repubblica Democratica di Timor Est",
+            "common": "Timor Est"
+        },
+        "jpn": {
+            "official": "東ティモール民主共和国",
+            "common": "東ティモール"
+        },
+        "kor": {
+            "official": "동티모르 민주 공화국",
+            "common": "동티모르"
+        },
+        "nld": {
+            "official": "Democratische Republiek Oost-Timor",
+            "common": "Oost-Timor"
+        },
+        "per": {
+            "official": "جمهوری دموکراتیک تیمور شرقی",
+            "common": "تیمور شرقی"
+        },
+        "pol": {
+            "official": "Demokratyczna Republika Timoru Wschodniego",
+            "common": "Timor Wschodni"
+        },
+        "por": {
+            "official": "República Democrática de Timor-Leste",
+            "common": "Timor-Leste"
+        },
+        "rus": {
+            "official": "Демократическая Республика Тимор -Лешти",
+            "common": "Восточный Тимор"
+        },
+        "slk": {
+            "official": "Východotimorská demokratická republika",
+            "common": "Východný Timor"
+        },
+        "spa": {
+            "official": "República Democrática de Timor-Leste",
+            "common": "Timor Oriental"
+        },
+        "swe": {
+            "official": "Demokratiska republiken Östtimor",
+            "common": "Östtimor"
+        },
+        "urd": {
+            "official": "جمہوری جمہوریہ مشرقی تیمور",
+            "common": "مشرقی تیمور"
+        },
+        "zho": {
+            "official": "东帝汶民主共和国",
+            "common": "东帝汶"
+        }
+    },
+    "latlng": [
+        -8.83333333,
+        125.91666666
+    ],
+    "landlocked": false,
+    "borders": [
+        "IDN"
+    ],
+    "area": 14874,
+    "demonyms": {
+        "eng": {
+            "f": "East Timorese",
+            "m": "East Timorese"
+        },
+        "fra": {
+            "f": "Est-timoraise",
+            "m": "Est-timorais"
+        }
+    },
+    "flag": "🇹🇱",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/305142"
+    },
+    "population": 1318442,
+    "gini": {
+        "2014": 28.7
+    },
+    "fifa": "TLS",
+    "car": {
+        "signs": [
+            "TL"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+09:00"
+    ],
+    "continents": [
+        "Oceania"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/tl.png",
+        "svg": "https://flagcdn.com/tl.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -8.58,
+            125.6
+        ]
+    },
+    "provinces": [
+        "Aileu municipality",
+        "Ainaro Municipality",
+        "Baucau Municipality",
+        "Bobonaro Municipality",
+        "Cova Lima Municipality",
+        "Dili municipality",
+        "Ermera District",
+        "Lautém Municipality",
+        "Liquiçá Municipality",
+        "Manatuto District",
+        "Manufahi Municipality",
+        "Viqueque Municipality"
+    ]
+}

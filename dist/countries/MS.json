@@ -1,0 +1,188 @@
+{
+    "name": {
+        "common": "Montserrat",
+        "official": "Montserrat",
+        "nativeName": {
+            "eng": {
+                "official": "Montserrat",
+                "common": "Montserrat"
+            }
+        }
+    },
+    "tld": [
+        ".ms"
+    ],
+    "cca2": "MS",
+    "ccn3": "500",
+    "cca3": "MSR",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "XCD": {
+            "name": "Eastern Caribbean dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "664"
+        ]
+    },
+    "capital": [
+        "Plymouth"
+    ],
+    "altSpellings": [
+        "MS"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "مونتسرات",
+            "common": "مونتسرات"
+        },
+        "bre": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "ces": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "cym": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "deu": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "est": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "fin": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "fra": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "hrv": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "hun": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "ita": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "jpn": {
+            "official": "モントセラト",
+            "common": "モントセラト"
+        },
+        "kor": {
+            "official": "몬트세랫",
+            "common": "몬트세랫"
+        },
+        "nld": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "per": {
+            "official": "مونتسرات",
+            "common": "مونتسرات"
+        },
+        "pol": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "por": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "rus": {
+            "official": "Монтсеррат",
+            "common": "Монтсеррат"
+        },
+        "slk": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "spa": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "swe": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "urd": {
+            "official": "مانٹسریٹ",
+            "common": "مانٹسریٹ"
+        },
+        "zho": {
+            "official": "蒙特塞拉特",
+            "common": "蒙特塞拉特"
+        }
+    },
+    "latlng": [
+        16.75,
+        -62.2
+    ],
+    "landlocked": false,
+    "area": 102,
+    "demonyms": {
+        "eng": {
+            "f": "Montserratian",
+            "m": "Montserratian"
+        },
+        "fra": {
+            "f": "Montserratienne",
+            "m": "Montserratien"
+        }
+    },
+    "flag": "🇲🇸",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/CSbe7UmxPmiwQB7GA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/537257"
+    },
+    "population": 4922,
+    "fifa": "MSR",
+    "car": {
+        "signs": [
+            "GB"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/ms.png",
+        "svg": "https://flagcdn.com/ms.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ms.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ms.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            16.7,
+            -62.22
+        ]
+    }
+}

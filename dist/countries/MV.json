@@ -1,0 +1,227 @@
+{
+    "name": {
+        "common": "Maldives",
+        "official": "Republic of the Maldives",
+        "nativeName": {
+            "div": {
+                "official": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+                "common": "ދިވެހިރާއްޖޭގެ"
+            }
+        }
+    },
+    "tld": [
+        ".mv"
+    ],
+    "cca2": "MV",
+    "ccn3": "462",
+    "cca3": "MDV",
+    "cioc": "MDV",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "MVR": {
+            "name": "Maldivian rufiyaa",
+            "symbol": ".ރ"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "60"
+        ]
+    },
+    "capital": [
+        "Malé"
+    ],
+    "altSpellings": [
+        "MV",
+        "Maldive Islands",
+        "Republic of the Maldives",
+        "Dhivehi Raajjeyge Jumhooriyya"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+        "div": "Maldivian"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية المالديف",
+            "common": "المالديف"
+        },
+        "bre": {
+            "official": "Republik Maldivez",
+            "common": "Maldivez"
+        },
+        "ces": {
+            "official": "Maledivská republika",
+            "common": "Maledivy"
+        },
+        "cym": {
+            "official": "Republic of the Maldives",
+            "common": "Maldives"
+        },
+        "deu": {
+            "official": "Republik Malediven",
+            "common": "Malediven"
+        },
+        "est": {
+            "official": "Maldiivi Vabariik",
+            "common": "Maldiivid"
+        },
+        "fin": {
+            "official": "Malediivien tasavalta",
+            "common": "Malediivit"
+        },
+        "fra": {
+            "official": "République des Maldives",
+            "common": "Maldives"
+        },
+        "hrv": {
+            "official": "Republika Maldivi",
+            "common": "Maldivi"
+        },
+        "hun": {
+            "official": "Maldív-szigetek",
+            "common": "Maldív-szigetek"
+        },
+        "ita": {
+            "official": "Repubblica delle Maldive",
+            "common": "Maldive"
+        },
+        "jpn": {
+            "official": "モルディブ共和国",
+            "common": "モルディブ"
+        },
+        "kor": {
+            "official": "몰디브 공화국",
+            "common": "몰디브"
+        },
+        "nld": {
+            "official": "Republiek van de Malediven",
+            "common": "Maldiven"
+        },
+        "per": {
+            "official": "جمهوری مالدیو",
+            "common": "مالدیو"
+        },
+        "pol": {
+            "official": "Republika Malediwów",
+            "common": "Malediwy"
+        },
+        "por": {
+            "official": "República das Maldivas",
+            "common": "Maldivas"
+        },
+        "rus": {
+            "official": "Республика Мальдивы",
+            "common": "Мальдивы"
+        },
+        "slk": {
+            "official": "Maldivská republika",
+            "common": "Maldivy"
+        },
+        "spa": {
+            "official": "República de las Maldivas",
+            "common": "Maldivas"
+        },
+        "swe": {
+            "official": "Republiken Maldiverna",
+            "common": "Maldiverna"
+        },
+        "urd": {
+            "official": "جمہوریہ مالدیپ",
+            "common": "مالدیپ"
+        },
+        "zho": {
+            "official": "马尔代夫共和国",
+            "common": "马尔代夫"
+        }
+    },
+    "latlng": [
+        3.25,
+        73
+    ],
+    "landlocked": false,
+    "area": 300,
+    "demonyms": {
+        "eng": {
+            "f": "Maldivan",
+            "m": "Maldivan"
+        },
+        "fra": {
+            "f": "Maldivienne",
+            "m": "Maldivien"
+        }
+    },
+    "flag": "🇲🇻",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/536773"
+    },
+    "population": 540542,
+    "gini": {
+        "2016": 31.3
+    },
+    "fifa": "MDV",
+    "car": {
+        "signs": [
+            "MV"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+05:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/mv.png",
+        "svg": "https://flagcdn.com/mv.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/mv.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/mv.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+        "latlng": [
+            4.17,
+            73.51
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^(\\d{5})$"
+    },
+    "provinces": [
+        "Addu Atoll",
+        "Alif Alif Atoll",
+        "Alif Dhaal Atoll",
+        "Central Province",
+        "Dhaalu Atoll",
+        "Faafu Atoll",
+        "Gaafu Alif Atoll",
+        "Gaafu Dhaalu Atoll",
+        "Gnaviyani Atoll",
+        "Haa Alif Atoll",
+        "Haa Dhaalu Atoll",
+        "Kaafu Atoll",
+        "Laamu Atoll",
+        "Lhaviyani Atoll",
+        "Malé",
+        "Meemu Atoll",
+        "Noonu Atoll",
+        "North Central Province",
+        "North Province",
+        "Raa Atoll",
+        "Shaviyani Atoll",
+        "South Central Province",
+        "South Province",
+        "Thaa Atoll",
+        "Upper South Province",
+        "Vaavu Atoll"
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "name": {
+        "common": "Cayman Islands",
+        "official": "Cayman Islands",
+        "nativeName": {
+            "eng": {
+                "official": "Cayman Islands",
+                "common": "Cayman Islands"
+            }
+        }
+    },
+    "tld": [
+        ".ky"
+    ],
+    "cca2": "KY",
+    "ccn3": "136",
+    "cca3": "CYM",
+    "cioc": "CAY",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "KYD": {
+            "name": "Cayman Islands dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "345"
+        ]
+    },
+    "capital": [
+        "George Town"
+    ],
+    "altSpellings": [
+        "KY"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "جزر كايمان",
+            "common": "جزر كايمان"
+        },
+        "bre": {
+            "official": "Inizi Cayman",
+            "common": "Inizi Cayman"
+        },
+        "ces": {
+            "official": "Kajmanské ostrovy",
+            "common": "Kajmanské ostrovy"
+        },
+        "cym": {
+            "official": "Ynysoedd Cayman",
+            "common": "Ynysoedd Cayman"
+        },
+        "deu": {
+            "official": "Cayman-Inseln",
+            "common": "Kaimaninseln"
+        },
+        "est": {
+            "official": "Kaimanisaared",
+            "common": "Kaimanisaared"
+        },
+        "fin": {
+            "official": "Caymansaaret",
+            "common": "Caymansaaret"
+        },
+        "fra": {
+            "official": "Îles Caïmans",
+            "common": "Îles Caïmans"
+        },
+        "hrv": {
+            "official": "Kajmanski otoci",
+            "common": "Kajmanski otoci"
+        },
+        "hun": {
+            "official": "Kajmán-szigetek",
+            "common": "Kajmán-szigetek"
+        },
+        "ita": {
+            "official": "Isole Cayman",
+            "common": "Isole Cayman"
+        },
+        "jpn": {
+            "official": "ケイマン諸島",
+            "common": "ケイマン諸島"
+        },
+        "kor": {
+            "official": "케이맨 제도",
+            "common": "케이맨 제도"
+        },
+        "nld": {
+            "official": "Caymaneilanden",
+            "common": "Caymaneilanden"
+        },
+        "per": {
+            "official": "جزایر کیمن",
+            "common": "جزایر کیمن"
+        },
+        "pol": {
+            "official": "Kajmany",
+            "common": "Kajmany"
+        },
+        "por": {
+            "official": "Ilhas Cayman",
+            "common": "Ilhas Caimão"
+        },
+        "rus": {
+            "official": "Каймановы острова",
+            "common": "Каймановы острова"
+        },
+        "slk": {
+            "official": "Kajmanie ostrovy",
+            "common": "Kajmanie ostrovy"
+        },
+        "spa": {
+            "official": "Islas Caimán",
+            "common": "Islas Caimán"
+        },
+        "swe": {
+            "official": "Caymanöarna",
+            "common": "Caymanöarna"
+        },
+        "urd": {
+            "official": "جزائر کیمین",
+            "common": "جزائر کیمین"
+        },
+        "zho": {
+            "official": "开曼群岛",
+            "common": "开曼群岛"
+        }
+    },
+    "latlng": [
+        19.5,
+        -80.5
+    ],
+    "landlocked": false,
+    "area": 264,
+    "demonyms": {
+        "eng": {
+            "f": "Caymanian",
+            "m": "Caymanian"
+        },
+        "fra": {
+            "f": "Caïmanienne",
+            "m": "Caïmanien"
+        }
+    },
+    "flag": "🇰🇾",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/P3ZVXX3LH63t91hL8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/7269765"
+    },
+    "population": 65720,
+    "fifa": "CAY",
+    "car": {
+        "signs": [
+            "GB"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC-05:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/ky.png",
+        "svg": "https://flagcdn.com/ky.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ky.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ky.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            19.3,
+            -81.38
+        ]
+    }
+}

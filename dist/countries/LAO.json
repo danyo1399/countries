@@ -1,0 +1,227 @@
+{
+    "name": {
+        "common": "Laos",
+        "official": "Lao People's Democratic Republic",
+        "nativeName": {
+            "lao": {
+                "official": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
+                "common": "ສປປລາວ"
+            }
+        }
+    },
+    "tld": [
+        ".la"
+    ],
+    "cca2": "LA",
+    "ccn3": "418",
+    "cca3": "LAO",
+    "cioc": "LAO",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "LAK": {
+            "name": "Lao kip",
+            "symbol": "₭"
+        }
+    },
+    "idd": {
+        "root": "+8",
+        "suffixes": [
+            "56"
+        ]
+    },
+    "capital": [
+        "Vientiane"
+    ],
+    "altSpellings": [
+        "LA",
+        "Lao",
+        "Lao People's Democratic Republic",
+        "Sathalanalat Paxathipatai Paxaxon Lao"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+        "lao": "Lao"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية لاوس الديمقراطية الشعبية",
+            "common": "لاوس"
+        },
+        "bre": {
+            "official": "Republik Demokratel ar Bobl Lao",
+            "common": "Laos"
+        },
+        "ces": {
+            "official": "Laoská lidově demokratická republika",
+            "common": "Laos"
+        },
+        "cym": {
+            "official": "Lao People's Democratic Republic",
+            "common": "Laos"
+        },
+        "deu": {
+            "official": "Demokratische Volksrepublik Laos",
+            "common": "Laos"
+        },
+        "est": {
+            "official": "Laose Demokraatlik Rahvavabariik",
+            "common": "Laos"
+        },
+        "fin": {
+            "official": "Laosin demokraattinen kansantasavalta",
+            "common": "Laos"
+        },
+        "fra": {
+            "official": "République démocratique populaire lao",
+            "common": "Laos"
+        },
+        "hrv": {
+            "official": "Narodna Demokratska Republika",
+            "common": "Laos"
+        },
+        "hun": {
+            "official": "Laoszi Népi Demokratikus Köztársaság",
+            "common": "Laosz"
+        },
+        "ita": {
+            "official": "Repubblica democratica popolare del Laos",
+            "common": "Laos"
+        },
+        "jpn": {
+            "official": "ラオス人民民主共和国",
+            "common": "ラオス人民民主共和国"
+        },
+        "kor": {
+            "official": "라오 인민 민주 공화국",
+            "common": "라오스"
+        },
+        "nld": {
+            "official": "Lao Democratische Volksrepubliek",
+            "common": "Laos"
+        },
+        "per": {
+            "official": "جمهوری دموکراتیک خلق لائوس",
+            "common": "لائوس"
+        },
+        "pol": {
+            "official": "Laotańska Republika Ludowo-Demokratyczna",
+            "common": "Laos"
+        },
+        "por": {
+            "official": "Laos, República Democrática",
+            "common": "Laos"
+        },
+        "rus": {
+            "official": "Лаосская Народно-Демократическая Республика",
+            "common": "Лаос"
+        },
+        "slk": {
+            "official": "Laoská ľudovodemokratická republika",
+            "common": "Laos"
+        },
+        "spa": {
+            "official": "República Democrática Popular Lao",
+            "common": "Laos"
+        },
+        "swe": {
+            "official": "Demokratiska folkrepubliken Laos",
+            "common": "Laos"
+        },
+        "urd": {
+            "official": "عوامی جمہوری جمہوریہ لاؤ",
+            "common": "لاؤس"
+        },
+        "zho": {
+            "official": "老挝人民民主共和国",
+            "common": "老挝"
+        }
+    },
+    "latlng": [
+        18,
+        105
+    ],
+    "landlocked": true,
+    "borders": [
+        "MMR",
+        "KHM",
+        "CHN",
+        "THA",
+        "VNM"
+    ],
+    "area": 236800,
+    "demonyms": {
+        "eng": {
+            "f": "Laotian",
+            "m": "Laotian"
+        },
+        "fra": {
+            "f": "Laotienne",
+            "m": "Laotien"
+        }
+    },
+    "flag": "🇱🇦",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/49903"
+    },
+    "population": 7275556,
+    "gini": {
+        "2018": 38.8
+    },
+    "fifa": "LAO",
+    "car": {
+        "signs": [
+            "LAO"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+07:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/la.png",
+        "svg": "https://flagcdn.com/la.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/la.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/la.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            17.97,
+            102.6
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^(\\d{5})$"
+    },
+    "provinces": [
+        "Attapeu Province",
+        "Bokeo Province",
+        "Bolikhamsai Province",
+        "Champasak Province",
+        "Houaphanh Province",
+        "Khammouane Province",
+        "Luang Namtha Province",
+        "Luang Prabang Province",
+        "Oudomxay Province",
+        "Phongsaly Province",
+        "Sainyabuli Province",
+        "Salavan Province",
+        "Savannakhet Province",
+        "Sekong Province",
+        "Vientiane Prefecture",
+        "Vientiane Province",
+        "Xaisomboun",
+        "Xaisomboun Province",
+        "Xiangkhouang Province"
+    ]
+}

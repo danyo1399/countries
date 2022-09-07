@@ -1,0 +1,287 @@
+{
+    "name": {
+        "common": "Azerbaijan",
+        "official": "Republic of Azerbaijan",
+        "nativeName": {
+            "aze": {
+                "official": "Azərbaycan Respublikası",
+                "common": "Azərbaycan"
+            },
+            "rus": {
+                "official": "Азербайджанская Республика",
+                "common": "Азербайджан"
+            }
+        }
+    },
+    "tld": [
+        ".az"
+    ],
+    "cca2": "AZ",
+    "ccn3": "031",
+    "cca3": "AZE",
+    "cioc": "AZE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "AZN": {
+            "name": "Azerbaijani manat",
+            "symbol": "₼"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "94"
+        ]
+    },
+    "capital": [
+        "Baku"
+    ],
+    "altSpellings": [
+        "AZ",
+        "Republic of Azerbaijan",
+        "Azərbaycan Respublikası"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+        "aze": "Azerbaijani",
+        "rus": "Russian"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية أذربيجان",
+            "common": "أذربيجان"
+        },
+        "bre": {
+            "official": "Republik Azerbaidjan",
+            "common": "Azerbaidjan"
+        },
+        "ces": {
+            "official": "Ázerbájdžánská republika",
+            "common": "Ázerbájdžán"
+        },
+        "cym": {
+            "official": "Gweriniaeth Aserbaijan",
+            "common": "Aserbaijan"
+        },
+        "deu": {
+            "official": "Republik Aserbaidschan",
+            "common": "Aserbaidschan"
+        },
+        "est": {
+            "official": "Aserbaidžaani Vabariik",
+            "common": "Aserbaidžaan"
+        },
+        "fin": {
+            "official": "Azerbaidzanin tasavalta",
+            "common": "Azerbaidzan"
+        },
+        "fra": {
+            "official": "République d'Azerbaïdjan",
+            "common": "Azerbaïdjan"
+        },
+        "hrv": {
+            "official": "Republika Azerbajdžan",
+            "common": "Azerbajdžan"
+        },
+        "hun": {
+            "official": "Azerbajdzsán",
+            "common": "Azerbajdzsán"
+        },
+        "ita": {
+            "official": "Repubblica dell'Azerbaigian",
+            "common": "Azerbaijan"
+        },
+        "jpn": {
+            "official": "アゼルバイジャン共和国",
+            "common": "アゼルバイジャン"
+        },
+        "kor": {
+            "official": "아제르바이잔 공화국",
+            "common": "아제르바이잔"
+        },
+        "nld": {
+            "official": "Republiek Azerbeidzjan",
+            "common": "Azerbeidzjan"
+        },
+        "per": {
+            "official": "جمهوری آذربایجان",
+            "common": "جمهوری آذربایجان"
+        },
+        "pol": {
+            "official": "Republika Azerbejdżanu",
+            "common": "Azerbejdżan"
+        },
+        "por": {
+            "official": "República do Azerbaijão",
+            "common": "Azerbeijão"
+        },
+        "rus": {
+            "official": "Азербайджанская Республика",
+            "common": "Азербайджан"
+        },
+        "slk": {
+            "official": "Azerbajǆanská republika",
+            "common": "AzerbajǇan"
+        },
+        "spa": {
+            "official": "República de Azerbaiyán",
+            "common": "Azerbaiyán"
+        },
+        "swe": {
+            "official": "Republiken Azerbajdzjan",
+            "common": "Azerbajdzjan"
+        },
+        "urd": {
+            "official": "جمہوریہ آذربائیجان",
+            "common": "آذربائیجان"
+        },
+        "zho": {
+            "official": "阿塞拜疆共和国",
+            "common": "阿塞拜疆"
+        }
+    },
+    "latlng": [
+        40.5,
+        47.5
+    ],
+    "landlocked": true,
+    "borders": [
+        "ARM",
+        "GEO",
+        "IRN",
+        "RUS",
+        "TUR"
+    ],
+    "area": 86600,
+    "demonyms": {
+        "eng": {
+            "f": "Azerbaijani",
+            "m": "Azerbaijani"
+        },
+        "fra": {
+            "f": "Azerbaïdjanaise",
+            "m": "Azerbaïdjanais"
+        }
+    },
+    "flag": "🇦🇿",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/az3Zz7ar2aoB9AUc6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/364110"
+    },
+    "population": 10110116,
+    "gini": {
+        "2005": 26.6
+    },
+    "fifa": "AZE",
+    "car": {
+        "signs": [
+            "AZ"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+04:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/az.png",
+        "svg": "https://flagcdn.com/az.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/az.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/az.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            40.38,
+            49.87
+        ]
+    },
+    "postalCode": {
+        "format": "AZ ####",
+        "regex": "^(?:AZ)*(\\d{4})$"
+    },
+    "provinces": [
+        "Absheron District",
+        "Agdam District",
+        "Agdash District",
+        "Aghjabadi District",
+        "Agstafa District",
+        "Agsu District",
+        "Astara District",
+        "Babek District",
+        "Baku",
+        "Balakan District",
+        "Barda District",
+        "Beylagan District",
+        "Bilasuvar District",
+        "Dashkasan District",
+        "Fizuli District",
+        "Ganja",
+        "Gədəbəy",
+        "Gobustan District",
+        "Goranboy District",
+        "Goychay",
+        "Goygol District",
+        "Hajigabul District",
+        "Imishli District",
+        "Ismailli District",
+        "Jabrayil District",
+        "Jalilabad District",
+        "Julfa District",
+        "Kalbajar District",
+        "Kangarli District",
+        "Khachmaz District",
+        "Khizi District",
+        "Khojali District",
+        "Kurdamir District",
+        "Lachin District",
+        "Lankaran",
+        "Lankaran District",
+        "Lerik District",
+        "Martuni",
+        "Masally District",
+        "Mingachevir",
+        "Nakhchivan Autonomous Republic",
+        "Neftchala District",
+        "Oghuz District",
+        "Ordubad District",
+        "Qabala District",
+        "Qakh District",
+        "Qazakh District",
+        "Quba District",
+        "Qubadli District",
+        "Qusar District",
+        "Saatly District",
+        "Sabirabad District",
+        "Sadarak District",
+        "Salyan District",
+        "Samukh District",
+        "Shabran District",
+        "Shahbuz District",
+        "Shaki",
+        "Shaki District",
+        "Shamakhi District",
+        "Shamkir District",
+        "Sharur District",
+        "Shirvan",
+        "Shusha District",
+        "Siazan District",
+        "Sumqayit",
+        "Tartar District",
+        "Tovuz District",
+        "Ujar District",
+        "Yardymli District",
+        "Yevlakh",
+        "Yevlakh District",
+        "Zangilan District",
+        "Zaqatala District",
+        "Zardab District"
+    ]
+}

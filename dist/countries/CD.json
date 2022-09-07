@@ -1,0 +1,256 @@
+{
+    "name": {
+        "common": "DR Congo",
+        "official": "Democratic Republic of the Congo",
+        "nativeName": {
+            "fra": {
+                "official": "République démocratique du Congo",
+                "common": "RD Congo"
+            },
+            "kon": {
+                "official": "Repubilika ya Kongo Demokratiki",
+                "common": "Repubilika ya Kongo Demokratiki"
+            },
+            "lin": {
+                "official": "Republiki ya Kongó Demokratiki",
+                "common": "Republiki ya Kongó Demokratiki"
+            },
+            "lua": {
+                "official": "Ditunga dia Kongu wa Mungalaata",
+                "common": "Ditunga dia Kongu wa Mungalaata"
+            },
+            "swa": {
+                "official": "Jamhuri ya Kidemokrasia ya Kongo",
+                "common": "Jamhuri ya Kidemokrasia ya Kongo"
+            }
+        }
+    },
+    "tld": [
+        ".cd"
+    ],
+    "cca2": "CD",
+    "ccn3": "180",
+    "cca3": "COD",
+    "cioc": "COD",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "CDF": {
+            "name": "Congolese franc",
+            "symbol": "FC"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "43"
+        ]
+    },
+    "capital": [
+        "Kinshasa"
+    ],
+    "altSpellings": [
+        "CD",
+        "DR Congo",
+        "Congo-Kinshasa",
+        "Congo, the Democratic Republic of the",
+        "DRC"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+        "fra": "French",
+        "kon": "Kikongo",
+        "lin": "Lingala",
+        "lua": "Tshiluba",
+        "swa": "Swahili"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية الكونغو الديمقراطية",
+            "common": "الكونغو"
+        },
+        "bre": {
+            "official": "Republik Demokratel Kongo",
+            "common": "Kongo-Kinshasa"
+        },
+        "ces": {
+            "official": "Demokratická republika Kongo",
+            "common": "DR Kongo"
+        },
+        "cym": {
+            "official": "Gweriniaeth Ddemocrataidd Congo",
+            "common": "Gweriniaeth Ddemocrataidd Congo"
+        },
+        "deu": {
+            "official": "Demokratische Republik Kongo",
+            "common": "Kongo (Dem. Rep.)"
+        },
+        "est": {
+            "official": "Kongo Demokraatlik Vabariik",
+            "common": "Kongo DV"
+        },
+        "fin": {
+            "official": "Kongon demokraattinen tasavalta",
+            "common": "Kongon demokraattinen tasavalta"
+        },
+        "fra": {
+            "official": "République démocratique du Congo",
+            "common": "Congo (Rép. dém.)"
+        },
+        "hrv": {
+            "official": "Demokratska Republika Kongo",
+            "common": "Kongo, Demokratska Republika"
+        },
+        "hun": {
+            "official": "Kongói Demokratikus Köztársaság",
+            "common": "Kongói Demokratikus Köztársaság"
+        },
+        "ita": {
+            "official": "Repubblica Democratica del Congo",
+            "common": "Congo (Rep. Dem.)"
+        },
+        "jpn": {
+            "official": "コンゴ民主共和国",
+            "common": "コンゴ民主共和国"
+        },
+        "kor": {
+            "official": "콩고 민주 공화국",
+            "common": "콩고 민주 공화국"
+        },
+        "nld": {
+            "official": "Democratische Republiek Congo",
+            "common": "Congo (DRC)"
+        },
+        "per": {
+            "official": "جمهوری دموکراتیک کنگو",
+            "common": "کنگو دموکراتیک"
+        },
+        "pol": {
+            "official": "Demokratyczna Republika Konga",
+            "common": "Demokratyczna Republika Konga"
+        },
+        "por": {
+            "official": "República Democrática do Congo",
+            "common": "República Democrática do Congo"
+        },
+        "rus": {
+            "official": "Демократическая Республика Конго",
+            "common": "Демократическая Республика Конго"
+        },
+        "slk": {
+            "official": "Konžská demokratická republika",
+            "common": "Kongo"
+        },
+        "spa": {
+            "official": "República Democrática del Congo",
+            "common": "Congo (Rep. Dem.)"
+        },
+        "swe": {
+            "official": "Demokratiska republiken Kongo",
+            "common": "Kongo-Kinshasa"
+        },
+        "urd": {
+            "official": "جمہوری جمہوریہ کانگو",
+            "common": "کانگو"
+        },
+        "zho": {
+            "official": "刚果民主共和国",
+            "common": "民主刚果"
+        }
+    },
+    "latlng": [
+        0,
+        25
+    ],
+    "landlocked": false,
+    "borders": [
+        "AGO",
+        "BDI",
+        "CAF",
+        "COG",
+        "RWA",
+        "SSD",
+        "TZA",
+        "UGA",
+        "ZMB"
+    ],
+    "area": 2344858,
+    "demonyms": {
+        "eng": {
+            "f": "Congolese",
+            "m": "Congolese"
+        },
+        "fra": {
+            "f": "Congolaise",
+            "m": "Congolais"
+        }
+    },
+    "flag": "🇨🇩",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/192795"
+    },
+    "population": 108407721,
+    "gini": {
+        "2012": 42.1
+    },
+    "fifa": "COD",
+    "car": {
+        "signs": [
+            "CGO"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+01:00",
+        "UTC+02:00"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/cd.png",
+        "svg": "https://flagcdn.com/cd.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/cd.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/cd.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -4.32,
+            15.3
+        ]
+    },
+    "provinces": [
+        "Bas-Uélé",
+        "Équateur",
+        "Haut-Katanga",
+        "Haut-Lomami",
+        "Haut-Uélé",
+        "Ituri",
+        "Kasaï",
+        "Kasaï Central",
+        "Kasaï Oriental",
+        "Kinshasa",
+        "Kongo Central",
+        "Kwango",
+        "Kwilu",
+        "Lomami",
+        "Lualaba",
+        "Mai-Ndombe",
+        "Maniema",
+        "Mongala",
+        "Nord-Kivu",
+        "Nord-Ubangi",
+        "Sankuru",
+        "Sud-Kivu",
+        "Sud-Ubangi",
+        "Tanganyika",
+        "Tshopo",
+        "Tshuapa"
+    ]
+}

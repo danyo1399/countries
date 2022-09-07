@@ -1,0 +1,221 @@
+{
+    "name": {
+        "common": "Nicaragua",
+        "official": "Republic of Nicaragua",
+        "nativeName": {
+            "spa": {
+                "official": "República de Nicaragua",
+                "common": "Nicaragua"
+            }
+        }
+    },
+    "tld": [
+        ".ni"
+    ],
+    "cca2": "NI",
+    "ccn3": "558",
+    "cca3": "NIC",
+    "cioc": "NCA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "NIO": {
+            "name": "Nicaraguan córdoba",
+            "symbol": "C$"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "05"
+        ]
+    },
+    "capital": [
+        "Managua"
+    ],
+    "altSpellings": [
+        "NI",
+        "Republic of Nicaragua",
+        "República de Nicaragua"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية نيكاراغوا",
+            "common": "نيكاراغوا"
+        },
+        "bre": {
+            "official": "Republik Nicaragua",
+            "common": "Nicaragua"
+        },
+        "ces": {
+            "official": "Republika Nikaragua",
+            "common": "Nikaragua"
+        },
+        "cym": {
+            "official": "Republic of Nicaragua",
+            "common": "Nicaragua"
+        },
+        "deu": {
+            "official": "Republik Nicaragua",
+            "common": "Nicaragua"
+        },
+        "est": {
+            "official": "Nicaragua Vabariik",
+            "common": "Nicaragua"
+        },
+        "fin": {
+            "official": "Nicaraguan tasavalta",
+            "common": "Nicaragua"
+        },
+        "fra": {
+            "official": "République du Nicaragua",
+            "common": "Nicaragua"
+        },
+        "hrv": {
+            "official": "Republika Nikaragva",
+            "common": "Nikaragva"
+        },
+        "hun": {
+            "official": "Nicaraguai Köztársaság",
+            "common": "Nicaragua"
+        },
+        "ita": {
+            "official": "Repubblica del Nicaragua",
+            "common": "Nicaragua"
+        },
+        "jpn": {
+            "official": "ニカラグア共和国",
+            "common": "ニカラグア"
+        },
+        "kor": {
+            "official": "니카라과 공화국",
+            "common": "니카라과"
+        },
+        "nld": {
+            "official": "Republiek Nicaragua",
+            "common": "Nicaragua"
+        },
+        "per": {
+            "official": "جمهوری نیکاراگوئه",
+            "common": "نیکاراگوئه"
+        },
+        "pol": {
+            "official": "Republika Nikaragui",
+            "common": "Nikaragua"
+        },
+        "por": {
+            "official": "República da Nicarágua",
+            "common": "Nicarágua"
+        },
+        "rus": {
+            "official": "Республика Никарагуа",
+            "common": "Никарагуа"
+        },
+        "slk": {
+            "official": "Nikaragujská republika",
+            "common": "Nikaragua"
+        },
+        "spa": {
+            "official": "República de Nicaragua",
+            "common": "Nicaragua"
+        },
+        "swe": {
+            "official": "Republiken Nicaragua",
+            "common": "Nicaragua"
+        },
+        "urd": {
+            "official": "جمہوریہ نکاراگوا",
+            "common": "نکاراگوا"
+        },
+        "zho": {
+            "official": "尼加拉瓜共和国",
+            "common": "尼加拉瓜"
+        }
+    },
+    "latlng": [
+        13,
+        -85
+    ],
+    "landlocked": false,
+    "borders": [
+        "CRI",
+        "HND"
+    ],
+    "area": 130373,
+    "demonyms": {
+        "eng": {
+            "f": "Nicaraguan",
+            "m": "Nicaraguan"
+        },
+        "fra": {
+            "f": "Nicaraguayenne",
+            "m": "Nicaraguayen"
+        }
+    },
+    "flag": "🇳🇮",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/287666"
+    },
+    "population": 6624554,
+    "gini": {
+        "2014": 46.2
+    },
+    "fifa": "NCA",
+    "car": {
+        "signs": [
+            "NIC"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-06:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/ni.png",
+        "svg": "https://flagcdn.com/ni.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ni.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ni.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            12.13,
+            -86.25
+        ]
+    },
+    "postalCode": {
+        "format": "###-###-#",
+        "regex": "^(\\d{7})$"
+    },
+    "provinces": [
+        "Boaco",
+        "Carazo",
+        "Chinandega",
+        "Chontales",
+        "Estelí",
+        "Granada",
+        "Jinotega",
+        "León",
+        "Madriz",
+        "Managua",
+        "Masaya",
+        "Matagalpa",
+        "North Caribbean Coast",
+        "Nueva Segovia",
+        "Río San Juan",
+        "Rivas",
+        "South Caribbean Coast"
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "name": {
+        "common": "Tajikistan",
+        "official": "Republic of Tajikistan",
+        "nativeName": {
+            "rus": {
+                "official": "Республика Таджикистан",
+                "common": "Таджикистан"
+            },
+            "tgk": {
+                "official": "Ҷумҳурии Тоҷикистон",
+                "common": "Тоҷикистон"
+            }
+        }
+    },
+    "tld": [
+        ".tj"
+    ],
+    "cca2": "TJ",
+    "ccn3": "762",
+    "cca3": "TJK",
+    "cioc": "TJK",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "TJS": {
+            "name": "Tajikistani somoni",
+            "symbol": "ЅМ"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "92"
+        ]
+    },
+    "capital": [
+        "Dushanbe"
+    ],
+    "altSpellings": [
+        "TJ",
+        "Toçikiston",
+        "Republic of Tajikistan",
+        "Ҷумҳурии Тоҷикистон",
+        "Çumhuriyi Toçikiston"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": {
+        "rus": "Russian",
+        "tgk": "Tajik"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية طاجيكستان",
+            "common": "طاجيكستان"
+        },
+        "bre": {
+            "official": "Republik Tadjikistan",
+            "common": "Tadjikistan"
+        },
+        "ces": {
+            "official": "Republika Tádžikistán",
+            "common": "Tádžikistán"
+        },
+        "cym": {
+            "official": "Republic of Tajikistan",
+            "common": "Tajikistan"
+        },
+        "deu": {
+            "official": "Republik Tadschikistan",
+            "common": "Tadschikistan"
+        },
+        "est": {
+            "official": "Tadžikistani Vabariik",
+            "common": "Tadžikistan"
+        },
+        "fin": {
+            "official": "Tadžikistanin tasavalta",
+            "common": "Tadžikistan"
+        },
+        "fra": {
+            "official": "République du Tadjikistan",
+            "common": "Tadjikistan"
+        },
+        "hrv": {
+            "official": "Republika Tadžikistan",
+            "common": "Tađikistan"
+        },
+        "hun": {
+            "official": "Tádzsik Köztársaság",
+            "common": "Tádzsikisztán"
+        },
+        "ita": {
+            "official": "Repubblica del Tajikistan",
+            "common": "Tagikistan"
+        },
+        "jpn": {
+            "official": "タジキスタン共和国",
+            "common": "タジキスタン"
+        },
+        "kor": {
+            "official": "타지키스탄 공화국",
+            "common": "타지키스탄"
+        },
+        "nld": {
+            "official": "Tadzjikistan",
+            "common": "Tadzjikistan"
+        },
+        "per": {
+            "official": "جمهوری تاجیکستان",
+            "common": "تاجیکِستان"
+        },
+        "pol": {
+            "official": "Republika Tadżykistanu",
+            "common": "Tadżykistan"
+        },
+        "por": {
+            "official": "República do Tajiquistão",
+            "common": "Tajiquistão"
+        },
+        "rus": {
+            "official": "Республика Таджикистан",
+            "common": "Таджикистан"
+        },
+        "slk": {
+            "official": "Taǆická republika",
+            "common": "Taǆikistan"
+        },
+        "spa": {
+            "official": "República de Tayikistán",
+            "common": "Tayikistán"
+        },
+        "swe": {
+            "official": "Republiken Tadzjikistan",
+            "common": "Tadzjikistan"
+        },
+        "urd": {
+            "official": "جمہوریہ تاجکستان",
+            "common": "تاجکستان"
+        },
+        "zho": {
+            "official": "塔吉克斯坦共和国",
+            "common": "塔吉克斯坦"
+        }
+    },
+    "latlng": [
+        39,
+        71
+    ],
+    "landlocked": true,
+    "borders": [
+        "AFG",
+        "CHN",
+        "KGZ",
+        "UZB"
+    ],
+    "area": 143100,
+    "demonyms": {
+        "eng": {
+            "f": "Tadzhik",
+            "m": "Tadzhik"
+        },
+        "fra": {
+            "f": "Tadjike",
+            "m": "Tadjike"
+        }
+    },
+    "flag": "🇹🇯",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/8rQgW88jEXijhVb58",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/214626"
+    },
+    "population": 9537642,
+    "gini": {
+        "2015": 34
+    },
+    "fifa": "TJK",
+    "car": {
+        "signs": [
+            "TJ"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+05:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/tj.png",
+        "svg": "https://flagcdn.com/tj.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/tj.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/tj.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            38.55,
+            68.77
+        ]
+    },
+    "postalCode": {
+        "format": "######",
+        "regex": "^(\\d{6})$"
+    },
+    "provinces": [
+        "districts of Republican Subordination",
+        "Gorno-Badakhshan Autonomous Province",
+        "Khatlon Province",
+        "Sughd Province"
+    ]
+}

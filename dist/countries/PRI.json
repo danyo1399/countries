@@ -1,0 +1,210 @@
+{
+    "name": {
+        "common": "Puerto Rico",
+        "official": "Commonwealth of Puerto Rico",
+        "nativeName": {
+            "eng": {
+                "official": "Commonwealth of Puerto Rico",
+                "common": "Puerto Rico"
+            },
+            "spa": {
+                "official": "Estado Libre Asociado de Puerto Rico",
+                "common": "Puerto Rico"
+            }
+        }
+    },
+    "tld": [
+        ".pr"
+    ],
+    "cca2": "PR",
+    "ccn3": "630",
+    "cca3": "PRI",
+    "cioc": "PUR",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "787",
+            "939"
+        ]
+    },
+    "capital": [
+        "San Juan"
+    ],
+    "altSpellings": [
+        "PR",
+        "Commonwealth of Puerto Rico",
+        "Estado Libre Asociado de Puerto Rico"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English",
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ara": {
+            "official": "كومنولث بويرتوريكو",
+            "common": "بويرتوريكو"
+        },
+        "bre": {
+            "official": "Kenglad Puerto Rico",
+            "common": "Puerto Rico"
+        },
+        "ces": {
+            "official": "Portoriko",
+            "common": "Portoriko"
+        },
+        "cym": {
+            "official": "Commonwealth of Puerto Rico",
+            "common": "Puerto Rico"
+        },
+        "deu": {
+            "official": "Freistaat Puerto Rico",
+            "common": "Puerto Rico"
+        },
+        "est": {
+            "official": "Puerto Rico Ühendus",
+            "common": "Puerto Rico"
+        },
+        "fin": {
+            "official": "Puerto Rico",
+            "common": "Puerto Rico"
+        },
+        "fra": {
+            "official": "Porto Rico",
+            "common": "Porto Rico"
+        },
+        "hrv": {
+            "official": "Zajednica Puerto Rico",
+            "common": "Portoriko"
+        },
+        "hun": {
+            "official": "Puerto Rico",
+            "common": "Puerto Rico"
+        },
+        "ita": {
+            "official": "Commonwealth di Porto Rico",
+            "common": "Porto Rico"
+        },
+        "jpn": {
+            "official": "プエルトリコのコモンウェルス",
+            "common": "プエルトリコ"
+        },
+        "kor": {
+            "official": "푸에르토리코",
+            "common": "푸에르토리코"
+        },
+        "nld": {
+            "official": "Gemenebest van Puerto Rico",
+            "common": "Puerto Rico"
+        },
+        "per": {
+            "official": "قلمرو همسود پورتوریکو",
+            "common": "پورتوریکو"
+        },
+        "pol": {
+            "official": "Wolne Stowarzyszone Państwo Portoryko",
+            "common": "Portoryko"
+        },
+        "por": {
+            "official": "Commonwealth of Puerto Rico",
+            "common": "Porto Rico"
+        },
+        "rus": {
+            "official": "Содружество Пуэрто-Рико",
+            "common": "Пуэрто-Рико"
+        },
+        "slk": {
+            "official": "Portorické spoločenstvo",
+            "common": "Portoriko"
+        },
+        "spa": {
+            "official": "Asociado de Puerto Rico",
+            "common": "Puerto Rico"
+        },
+        "swe": {
+            "official": "Puerto Rico",
+            "common": "Puerto Rico"
+        },
+        "urd": {
+            "official": " دولتِ مشترکہ پورٹو ریکو",
+            "common": "پورٹو ریکو"
+        },
+        "zho": {
+            "official": "波多黎各联邦",
+            "common": "波多黎各"
+        }
+    },
+    "latlng": [
+        18.25,
+        -66.5
+    ],
+    "landlocked": false,
+    "area": 8870,
+    "demonyms": {
+        "eng": {
+            "f": "Puerto Rican",
+            "m": "Puerto Rican"
+        },
+        "fra": {
+            "f": "Portoricaine",
+            "m": "Portoricain"
+        }
+    },
+    "flag": "🇵🇷",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/sygfDbtwn389wu8x5",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/4422604"
+    },
+    "population": 3194034,
+    "fifa": "PUR",
+    "car": {
+        "signs": [
+            "USA"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/pr.png",
+        "svg": "https://flagcdn.com/pr.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            18.47,
+            -66.12
+        ]
+    },
+    "postalCode": {
+        "format": "#####-####",
+        "regex": "^(\\d{9})$"
+    },
+    "provinces": [
+        "Arecibo",
+        "Bayamon",
+        "Caguas",
+        "Carolina",
+        "Guaynabo",
+        "Mayagüez",
+        "Ponce",
+        "San Juan",
+        "Toa Baja",
+        "Trujillo Alto"
+    ]
+}

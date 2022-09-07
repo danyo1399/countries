@@ -1,0 +1,275 @@
+{
+    "name": {
+        "common": "Lithuania",
+        "official": "Republic of Lithuania",
+        "nativeName": {
+            "lit": {
+                "official": "Lietuvos Respublikos",
+                "common": "Lietuva"
+            }
+        }
+    },
+    "tld": [
+        ".lt"
+    ],
+    "cca2": "LT",
+    "ccn3": "440",
+    "cca3": "LTU",
+    "cioc": "LTU",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "70"
+        ]
+    },
+    "capital": [
+        "Vilnius"
+    ],
+    "altSpellings": [
+        "LT",
+        "Republic of Lithuania",
+        "Lietuvos Respublika"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+        "lit": "Lithuanian"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية ليتوانيا",
+            "common": "ليتوانيا"
+        },
+        "bre": {
+            "official": "Republik Lituania",
+            "common": "Lituania"
+        },
+        "ces": {
+            "official": "Litevská republika",
+            "common": "Litva"
+        },
+        "cym": {
+            "official": "Republic of Lithuania",
+            "common": "Lithuania"
+        },
+        "deu": {
+            "official": "Republik Litauen",
+            "common": "Litauen"
+        },
+        "est": {
+            "official": "Leedu Vabariik",
+            "common": "Leedu"
+        },
+        "fin": {
+            "official": "Liettuan tasavalta",
+            "common": "Liettua"
+        },
+        "fra": {
+            "official": "République de Lituanie",
+            "common": "Lituanie"
+        },
+        "hrv": {
+            "official": "Republika Litva",
+            "common": "Litva"
+        },
+        "hun": {
+            "official": "Litván Köztársaság",
+            "common": "Litvánia"
+        },
+        "ita": {
+            "official": "Repubblica di Lituania",
+            "common": "Lituania"
+        },
+        "jpn": {
+            "official": "リトアニア共和国",
+            "common": "リトアニア"
+        },
+        "kor": {
+            "official": "리투아니아 공화국",
+            "common": "리투아니아"
+        },
+        "nld": {
+            "official": "Republiek Litouwen",
+            "common": "Litouwen"
+        },
+        "per": {
+            "official": "لیتوانیایی‌ها",
+            "common": "لیتوانیایی‌ها"
+        },
+        "pol": {
+            "official": "Republika Litewska",
+            "common": "Litwa"
+        },
+        "por": {
+            "official": "República da Lituânia",
+            "common": "Lituânia"
+        },
+        "rus": {
+            "official": "Литовская Республика",
+            "common": "Литва"
+        },
+        "slk": {
+            "official": "Litovská republika",
+            "common": "Litva"
+        },
+        "spa": {
+            "official": "República de Lituania",
+            "common": "Lituania"
+        },
+        "swe": {
+            "official": "Republiken Litauen",
+            "common": "Litauen"
+        },
+        "urd": {
+            "official": "جمہوریہ لتھووینیا",
+            "common": "لتھووینیا"
+        },
+        "zho": {
+            "official": "立陶宛共和国",
+            "common": "立陶宛"
+        }
+    },
+    "latlng": [
+        56,
+        24
+    ],
+    "landlocked": false,
+    "borders": [
+        "BLR",
+        "LVA",
+        "POL",
+        "RUS"
+    ],
+    "area": 65300,
+    "demonyms": {
+        "eng": {
+            "f": "Lithuanian",
+            "m": "Lithuanian"
+        },
+        "fra": {
+            "f": "Lituanienne",
+            "m": "Lituanien"
+        }
+    },
+    "flag": "🇱🇹",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/72596"
+    },
+    "population": 2794700,
+    "gini": {
+        "2018": 35.7
+    },
+    "fifa": "LTU",
+    "car": {
+        "signs": [
+            "LT"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "continents": [
+        "Europe"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/lt.png",
+        "svg": "https://flagcdn.com/lt.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/lt.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/lt.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            54.68,
+            25.32
+        ]
+    },
+    "postalCode": {
+        "format": "LT-#####",
+        "regex": "^(?:LT)*(\\d{5})$"
+    },
+    "provinces": [
+        "Akmenė District Municipality",
+        "Alytus City Municipality",
+        "Alytus County",
+        "Alytus District Municipality",
+        "Birštonas Municipality",
+        "Biržai District Municipality",
+        "Druskininkai municipality",
+        "Elektrėnai municipality",
+        "Ignalina District Municipality",
+        "Jonava District Municipality",
+        "Joniškis District Municipality",
+        "Jurbarkas District Municipality",
+        "Kaišiadorys District Municipality",
+        "Kalvarija municipality",
+        "Kaunas City Municipality",
+        "Kaunas County",
+        "Kaunas District Municipality",
+        "Kazlų Rūda municipality",
+        "Kėdainiai District Municipality",
+        "Kelmė District Municipality",
+        "Klaipeda City Municipality",
+        "Klaipėda County",
+        "Klaipėda District Municipality",
+        "Kretinga District Municipality",
+        "Kupiškis District Municipality",
+        "Lazdijai District Municipality",
+        "Marijampolė County",
+        "Marijampolė Municipality",
+        "Mažeikiai District Municipality",
+        "Molėtai District Municipality",
+        "Neringa Municipality",
+        "Pagėgiai municipality",
+        "Pakruojis District Municipality",
+        "Palanga City Municipality",
+        "Panevėžys City Municipality",
+        "Panevėžys County",
+        "Panevėžys District Municipality",
+        "Pasvalys District Municipality",
+        "Plungė District Municipality",
+        "Prienai District Municipality",
+        "Radviliškis District Municipality",
+        "Raseiniai District Municipality",
+        "Rietavas municipality",
+        "Rokiškis District Municipality",
+        "Šakiai District Municipality",
+        "Šalčininkai District Municipality",
+        "Šiauliai City Municipality",
+        "Šiauliai County",
+        "Šiauliai District Municipality",
+        "Šilalė District Municipality",
+        "Šilutė District Municipality",
+        "Širvintos District Municipality",
+        "Skuodas District Municipality",
+        "Švenčionys District Municipality",
+        "Tauragė County",
+        "Tauragė District Municipality",
+        "Telšiai County",
+        "Telšiai District Municipality",
+        "Trakai District Municipality",
+        "Ukmergė District Municipality",
+        "Utena County",
+        "Utena District Municipality",
+        "Varėna District Municipality",
+        "Vilkaviškis District Municipality",
+        "Vilnius City Municipality",
+        "Vilnius County",
+        "Vilnius District Municipality",
+        "Visaginas Municipality",
+        "Zarasai District Municipality"
+    ]
+}

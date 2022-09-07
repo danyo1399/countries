@@ -1,0 +1,333 @@
+{
+    "name": {
+        "common": "Uganda",
+        "official": "Republic of Uganda",
+        "nativeName": {
+            "eng": {
+                "official": "Republic of Uganda",
+                "common": "Uganda"
+            },
+            "swa": {
+                "official": "Republic of Uganda",
+                "common": "Uganda"
+            }
+        }
+    },
+    "tld": [
+        ".ug"
+    ],
+    "cca2": "UG",
+    "ccn3": "800",
+    "cca3": "UGA",
+    "cioc": "UGA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "UGX": {
+            "name": "Ugandan shilling",
+            "symbol": "Sh"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "56"
+        ]
+    },
+    "capital": [
+        "Kampala"
+    ],
+    "altSpellings": [
+        "UG",
+        "Republic of Uganda",
+        "Jamhuri ya Uganda"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "eng": "English",
+        "swa": "Swahili"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية أوغندا",
+            "common": "أوغندا"
+        },
+        "bre": {
+            "official": "Republik Ouganda",
+            "common": "Ouganda"
+        },
+        "ces": {
+            "official": "Ugandská republika",
+            "common": "Uganda"
+        },
+        "cym": {
+            "official": "Republic of Uganda",
+            "common": "Uganda"
+        },
+        "deu": {
+            "official": "Republik Uganda",
+            "common": "Uganda"
+        },
+        "est": {
+            "official": "Uganda Vabariik",
+            "common": "Uganda"
+        },
+        "fin": {
+            "official": "Ugandan tasavalta",
+            "common": "Uganda"
+        },
+        "fra": {
+            "official": "République de l'Ouganda",
+            "common": "Ouganda"
+        },
+        "hrv": {
+            "official": "Republika Uganda",
+            "common": "Uganda"
+        },
+        "hun": {
+            "official": "Ugandai Köztársaság",
+            "common": "Uganda"
+        },
+        "ita": {
+            "official": "Repubblica di Uganda",
+            "common": "Uganda"
+        },
+        "jpn": {
+            "official": "ウガンダ共和国",
+            "common": "ウガンダ"
+        },
+        "kor": {
+            "official": "우간다 공화국",
+            "common": "우간다"
+        },
+        "nld": {
+            "official": "Republiek Uganda",
+            "common": "Oeganda"
+        },
+        "per": {
+            "official": "جمهوری اوگاندا",
+            "common": "اوگاندا"
+        },
+        "pol": {
+            "official": "Republika Ugandy",
+            "common": "Uganda"
+        },
+        "por": {
+            "official": "República do Uganda",
+            "common": "Uganda"
+        },
+        "rus": {
+            "official": "Республика Уганда",
+            "common": "Уганда"
+        },
+        "slk": {
+            "official": "Ugandská republika",
+            "common": "Uganda"
+        },
+        "spa": {
+            "official": "República de Uganda",
+            "common": "Uganda"
+        },
+        "swe": {
+            "official": "Republiken Uganda",
+            "common": "Uganda"
+        },
+        "urd": {
+            "official": "جمہوریہ یوگنڈا",
+            "common": "یوگنڈا"
+        },
+        "zho": {
+            "official": "乌干达共和国",
+            "common": "乌干达"
+        }
+    },
+    "latlng": [
+        1,
+        32
+    ],
+    "landlocked": true,
+    "borders": [
+        "COD",
+        "KEN",
+        "RWA",
+        "SSD",
+        "TZA"
+    ],
+    "area": 241550,
+    "demonyms": {
+        "eng": {
+            "f": "Ugandan",
+            "m": "Ugandan"
+        },
+        "fra": {
+            "f": "Ougandaise",
+            "m": "Ougandais"
+        }
+    },
+    "flag": "🇺🇬",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/Y7812hFiGa8LD9N68",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/192796"
+    },
+    "population": 45741000,
+    "gini": {
+        "2016": 42.8
+    },
+    "fifa": "UGA",
+    "car": {
+        "signs": [
+            "EAU"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+03:00"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/ug.png",
+        "svg": "https://flagcdn.com/ug.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ug.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ug.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            0.32,
+            32.55
+        ]
+    },
+    "provinces": [
+        "Abim District",
+        "Adjumani District",
+        "Agago District",
+        "Alebtong District",
+        "Amolatar District",
+        "Amudat District",
+        "Amuria District",
+        "Amuru District",
+        "Apac District",
+        "Arua District",
+        "Budaka District",
+        "Bududa District",
+        "Bugiri District",
+        "Buhweju District",
+        "Buikwe District",
+        "Bukedea District",
+        "Bukomansimbi District",
+        "Bukwo District",
+        "Bulambuli District",
+        "Buliisa District",
+        "Bundibugyo District",
+        "Bunyangabu District",
+        "Bushenyi District",
+        "Busia District",
+        "Butaleja District",
+        "Butambala District",
+        "Butebo District",
+        "Buvuma District",
+        "Buyende District",
+        "Central Region",
+        "Dokolo District",
+        "Eastern Region",
+        "Gomba District",
+        "Gulu District",
+        "Ibanda District",
+        "Iganga District",
+        "Isingiro District",
+        "Jinja District",
+        "Kaabong District",
+        "Kabale District",
+        "Kabarole District",
+        "Kaberamaido District",
+        "Kagadi District",
+        "Kakumiro District",
+        "Kalangala District",
+        "Kaliro District",
+        "Kalungu District",
+        "Kampala District",
+        "Kamuli District",
+        "Kamwenge District",
+        "Kanungu District",
+        "Kapchorwa District",
+        "Kasese District",
+        "Katakwi District",
+        "Kayunga District",
+        "Kibaale District",
+        "Kiboga District",
+        "Kibuku District",
+        "Kiruhura District",
+        "Kiryandongo District",
+        "Kisoro District",
+        "Kitgum District",
+        "Koboko District",
+        "Kole District",
+        "Kotido District",
+        "Kumi District",
+        "Kween District",
+        "Kyankwanzi District",
+        "Kyegegwa District",
+        "Kyenjojo District",
+        "Kyotera District",
+        "Lamwo District",
+        "Lira District",
+        "Luuka District",
+        "Luwero District",
+        "Lwengo District",
+        "Lyantonde District",
+        "Manafwa District",
+        "Maracha District",
+        "Masaka District",
+        "Masindi District",
+        "Mayuge District",
+        "Mbale District",
+        "Mbarara District",
+        "Mitooma District",
+        "Mityana District",
+        "Moroto District",
+        "Moyo District",
+        "Mpigi District",
+        "Mubende District",
+        "Mukono District",
+        "Nakapiripirit District",
+        "Nakaseke District",
+        "Nakasongola District",
+        "Namayingo District",
+        "Namisindwa District",
+        "Namutumba District",
+        "Napak District",
+        "Nebbi District",
+        "Ngora District",
+        "Northern Region",
+        "Ntoroko District",
+        "Ntungamo District",
+        "Nwoya District",
+        "Omoro District",
+        "Otuke District",
+        "Oyam District",
+        "Pader District",
+        "Pakwach District",
+        "Pallisa District",
+        "Rakai District",
+        "Rubanda District",
+        "Rubirizi District",
+        "Rukiga District",
+        "Rukungiri District",
+        "Sembabule District",
+        "Serere District",
+        "Sheema District",
+        "Sironko District",
+        "Soroti District",
+        "Tororo District",
+        "Wakiso District",
+        "Western Region",
+        "Yumbe District",
+        "Zombo District"
+    ]
+}

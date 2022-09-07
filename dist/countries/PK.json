@@ -1,0 +1,220 @@
+{
+    "name": {
+        "common": "Pakistan",
+        "official": "Islamic Republic of Pakistan",
+        "nativeName": {
+            "eng": {
+                "official": "Islamic Republic of Pakistan",
+                "common": "Pakistan"
+            },
+            "urd": {
+                "official": "اسلامی جمہوریۂ پاكستان",
+                "common": "پاكستان"
+            }
+        }
+    },
+    "tld": [
+        ".pk"
+    ],
+    "cca2": "PK",
+    "ccn3": "586",
+    "cca3": "PAK",
+    "cioc": "PAK",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "PKR": {
+            "name": "Pakistani rupee",
+            "symbol": "₨"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "2"
+        ]
+    },
+    "capital": [
+        "Islamabad"
+    ],
+    "altSpellings": [
+        "PK",
+        "Pākistān",
+        "Islamic Republic of Pakistan",
+        "Islāmī Jumhūriya'eh Pākistān"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+        "eng": "English",
+        "urd": "Urdu"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية باكستان الإسلامية",
+            "common": "باكستان"
+        },
+        "bre": {
+            "official": "Republik islamek Pakistan",
+            "common": "Pakistan"
+        },
+        "ces": {
+            "official": "Pákistánská islámská republika",
+            "common": "Pákistán"
+        },
+        "cym": {
+            "official": "Islamic Republic of Pakistan",
+            "common": "Pakistan"
+        },
+        "deu": {
+            "official": "Islamische Republik Pakistan",
+            "common": "Pakistan"
+        },
+        "est": {
+            "official": "Pakistani Islamivabariik",
+            "common": "Pakistan"
+        },
+        "fin": {
+            "official": "Pakistanin islamilainen tasavalta",
+            "common": "Pakistan"
+        },
+        "fra": {
+            "official": "République islamique du Pakistan",
+            "common": "Pakistan"
+        },
+        "hrv": {
+            "official": "Islamska Republika Pakistan",
+            "common": "Pakistan"
+        },
+        "hun": {
+            "official": "Pakisztán",
+            "common": "Pakisztán"
+        },
+        "ita": {
+            "official": "Repubblica islamica del Pakistan",
+            "common": "Pakistan"
+        },
+        "jpn": {
+            "official": "パキスタン",
+            "common": "パキスタン"
+        },
+        "kor": {
+            "official": "파키스탄 이슬람 공화국",
+            "common": "파키스탄"
+        },
+        "nld": {
+            "official": "Islamitische Republiek Pakistan",
+            "common": "Pakistan"
+        },
+        "per": {
+            "official": "جمهوری اسلامی پاکستان",
+            "common": "پاکستان"
+        },
+        "pol": {
+            "official": "Islamska Republika Pakistanu",
+            "common": "Pakistan"
+        },
+        "por": {
+            "official": "República Islâmica do Paquistão",
+            "common": "Paquistão"
+        },
+        "rus": {
+            "official": "Исламская Республика Пакистан",
+            "common": "Пакистан"
+        },
+        "slk": {
+            "official": "Pakistanská islamská republika",
+            "common": "Pakistan"
+        },
+        "spa": {
+            "official": "República Islámica de Pakistán",
+            "common": "Pakistán"
+        },
+        "swe": {
+            "official": "Islamiska republiken Pakistan",
+            "common": "Pakistan"
+        },
+        "urd": {
+            "official": "اسلامی جمہوریہ پاکستان",
+            "common": "پاکستان"
+        },
+        "zho": {
+            "official": "巴基斯坦伊斯兰共和国",
+            "common": "巴基斯坦"
+        }
+    },
+    "latlng": [
+        30,
+        70
+    ],
+    "landlocked": false,
+    "borders": [
+        "AFG",
+        "CHN",
+        "IND",
+        "IRN"
+    ],
+    "area": 881912,
+    "demonyms": {
+        "eng": {
+            "f": "Pakistani",
+            "m": "Pakistani"
+        },
+        "fra": {
+            "f": "Pakistanaise",
+            "m": "Pakistanais"
+        }
+    },
+    "flag": "🇵🇰",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/5LYujdfR5yLUXoERA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/307573"
+    },
+    "population": 220892331,
+    "gini": {
+        "2018": 31.6
+    },
+    "fifa": "PAK",
+    "car": {
+        "signs": [
+            "PK"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+05:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/pk.png",
+        "svg": "https://flagcdn.com/pk.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/pk.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/pk.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            33.68,
+            73.05
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^(\\d{5})$"
+    },
+    "provinces": [
+        "Azad Kashmir",
+        "Balochistan",
+        "Federally Administered Tribal Areas",
+        "Gilgit-Baltistan",
+        "Islamabad Capital Territory",
+        "Khyber Pakhtunkhwa",
+        "Punjab",
+        "Sindh"
+    ]
+}

@@ -1,0 +1,303 @@
+{
+    "name": {
+        "common": "Philippines",
+        "official": "Republic of the Philippines",
+        "nativeName": {
+            "eng": {
+                "official": "Republic of the Philippines",
+                "common": "Philippines"
+            },
+            "fil": {
+                "official": "Republic of the Philippines",
+                "common": "Pilipinas"
+            }
+        }
+    },
+    "tld": [
+        ".ph"
+    ],
+    "cca2": "PH",
+    "ccn3": "608",
+    "cca3": "PHL",
+    "cioc": "PHI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "PHP": {
+            "name": "Philippine peso",
+            "symbol": "₱"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "3"
+        ]
+    },
+    "capital": [
+        "Manila"
+    ],
+    "altSpellings": [
+        "PH",
+        "Republic of the Philippines",
+        "Repúblika ng Pilipinas"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+        "eng": "English",
+        "fil": "Filipino"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية الفلبين",
+            "common": "الفلبين"
+        },
+        "bre": {
+            "official": "Republik Filipinez",
+            "common": "Filipinez"
+        },
+        "ces": {
+            "official": "Filipínská republika",
+            "common": "Filipíny"
+        },
+        "cym": {
+            "official": "Republic of the Philippines",
+            "common": "Philippines"
+        },
+        "deu": {
+            "official": "Republik der Philippinen",
+            "common": "Philippinen"
+        },
+        "est": {
+            "official": "Filipiini Vabariik",
+            "common": "Filipiinid"
+        },
+        "fin": {
+            "official": "Filippiinien tasavalta",
+            "common": "Filippiinit"
+        },
+        "fra": {
+            "official": "République des Philippines",
+            "common": "Philippines"
+        },
+        "hrv": {
+            "official": "Republika Filipini",
+            "common": "Filipini"
+        },
+        "hun": {
+            "official": "Fülöp-szigeteki Köztársaság",
+            "common": "Fülöp-szigetek"
+        },
+        "ita": {
+            "official": "Repubblica delle Filippine",
+            "common": "Filippine"
+        },
+        "jpn": {
+            "official": "フィリピン共和国",
+            "common": "フィリピン"
+        },
+        "kor": {
+            "official": "필리핀 공화국",
+            "common": "필리핀"
+        },
+        "nld": {
+            "official": "Republiek der Filipijnen",
+            "common": "Filipijnen"
+        },
+        "per": {
+            "official": "جمهوری فیلیپین",
+            "common": "فیلیپین"
+        },
+        "pol": {
+            "official": "Republika Filipin",
+            "common": "Filipiny"
+        },
+        "por": {
+            "official": "República das Filipinas",
+            "common": "Filipinas"
+        },
+        "rus": {
+            "official": "Республика Филиппины",
+            "common": "Филиппины"
+        },
+        "slk": {
+            "official": "Filipínska republika",
+            "common": "Filipíny"
+        },
+        "spa": {
+            "official": "República de las Filipinas",
+            "common": "Filipinas"
+        },
+        "swe": {
+            "official": "Republiken Filippinerna",
+            "common": "Filippinerna"
+        },
+        "urd": {
+            "official": "جمہوریہ فلپائن",
+            "common": "فلپائن"
+        },
+        "zho": {
+            "official": "菲律宾共和国",
+            "common": "菲律宾"
+        }
+    },
+    "latlng": [
+        13,
+        122
+    ],
+    "landlocked": false,
+    "area": 342353,
+    "demonyms": {
+        "eng": {
+            "f": "Filipino",
+            "m": "Filipino"
+        },
+        "fra": {
+            "f": "Philippine",
+            "m": "Philippin"
+        }
+    },
+    "flag": "🇵🇭",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/443174"
+    },
+    "population": 109581085,
+    "gini": {
+        "2018": 42.3
+    },
+    "fifa": "PHI",
+    "car": {
+        "signs": [
+            "RP"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+08:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/ph.png",
+        "svg": "https://flagcdn.com/ph.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ph.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ph.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            14.6,
+            120.97
+        ]
+    },
+    "postalCode": {
+        "format": "####",
+        "regex": "^(\\d{4})$"
+    },
+    "provinces": [
+        "Abra",
+        "Agusan del Norte",
+        "Agusan del Sur",
+        "Aklan",
+        "Albay",
+        "Antique",
+        "Apayao",
+        "Aurora",
+        "Autonomous Region in Muslim Mindanao",
+        "Basilan",
+        "Bataan",
+        "Batanes",
+        "Batangas",
+        "Benguet",
+        "Bicol",
+        "Biliran",
+        "Bohol",
+        "Bukidnon",
+        "Bulacan",
+        "Cagayan",
+        "Cagayan Valley",
+        "Calabarzon",
+        "Camarines Norte",
+        "Camarines Sur",
+        "Camiguin",
+        "Capiz",
+        "Caraga",
+        "Catanduanes",
+        "Cavite",
+        "Cebu",
+        "Central Luzon",
+        "Central Visayas",
+        "Compostela Valley",
+        "Cordillera Administrative",
+        "Cotabato",
+        "Davao",
+        "Davao del Norte",
+        "Davao del Sur",
+        "Davao Occidental",
+        "Davao Oriental",
+        "Dinagat Islands",
+        "Eastern Samar",
+        "Eastern Visayas",
+        "Guimaras",
+        "Ifugao",
+        "Ilocos",
+        "Ilocos Norte",
+        "Ilocos Sur",
+        "Iloilo",
+        "Isabela",
+        "Kalinga",
+        "La Union",
+        "Laguna",
+        "Lanao del Norte",
+        "Lanao del Sur",
+        "Leyte",
+        "Maguindanao",
+        "Marinduque",
+        "Masbate",
+        "Metro Manila",
+        "Mimaropa",
+        "Misamis Occidental",
+        "Misamis Oriental",
+        "Mountain Province",
+        "Negros Occidental",
+        "Negros Oriental",
+        "Northern Mindanao",
+        "Northern Samar",
+        "Nueva Ecija",
+        "Nueva Vizcaya",
+        "Occidental Mindoro",
+        "Oriental Mindoro",
+        "Palawan",
+        "Pampanga",
+        "Pangasinan",
+        "Quezon",
+        "Quirino",
+        "Rizal",
+        "Romblon",
+        "Sarangani",
+        "Siquijor",
+        "Soccsksargen",
+        "Sorsogon",
+        "South Cotabato",
+        "Southern Leyte",
+        "Sultan Kudarat",
+        "Sulu",
+        "Surigao del Norte",
+        "Surigao del Sur",
+        "Tarlac",
+        "Tawi-Tawi",
+        "Western Samar",
+        "Western Visayas",
+        "Zambales",
+        "Zamboanga del Norte",
+        "Zamboanga del Sur",
+        "Zamboanga Peninsula",
+        "Zamboanga Sibugay"
+    ]
+}

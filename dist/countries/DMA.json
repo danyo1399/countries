@@ -1,0 +1,204 @@
+{
+    "name": {
+        "common": "Dominica",
+        "official": "Commonwealth of Dominica",
+        "nativeName": {
+            "eng": {
+                "official": "Commonwealth of Dominica",
+                "common": "Dominica"
+            }
+        }
+    },
+    "tld": [
+        ".dm"
+    ],
+    "cca2": "DM",
+    "ccn3": "212",
+    "cca3": "DMA",
+    "cioc": "DMA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "XCD": {
+            "name": "Eastern Caribbean dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "767"
+        ]
+    },
+    "capital": [
+        "Roseau"
+    ],
+    "altSpellings": [
+        "DM",
+        "Dominique",
+        "Wai‘tu kubuli",
+        "Commonwealth of Dominica"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "كومونولث دومينيكا",
+            "common": "دومينيكا"
+        },
+        "bre": {
+            "official": "Kenglad Dominika",
+            "common": "Dominika"
+        },
+        "ces": {
+            "official": "Dominikánské společenství",
+            "common": "Dominika"
+        },
+        "cym": {
+            "official": "Cymanwlad Dominica",
+            "common": "Dominica"
+        },
+        "deu": {
+            "official": "Commonwealth von Dominica",
+            "common": "Dominica"
+        },
+        "est": {
+            "official": "Dominica Ühendus",
+            "common": "Dominica"
+        },
+        "fin": {
+            "official": "Dominican liittovaltio",
+            "common": "Dominica"
+        },
+        "fra": {
+            "official": "Commonwealth de la Dominique",
+            "common": "Dominique"
+        },
+        "hrv": {
+            "official": "Zajednica Dominika",
+            "common": "Dominika"
+        },
+        "hun": {
+            "official": "Dominikai Közösség",
+            "common": "Dominikai Közösség"
+        },
+        "ita": {
+            "official": "Commonwealth di Dominica",
+            "common": "Dominica"
+        },
+        "jpn": {
+            "official": "ドミニカ国",
+            "common": "ドミニカ国"
+        },
+        "kor": {
+            "official": "도미니카 공화국",
+            "common": "도미니카 공화국"
+        },
+        "nld": {
+            "official": "Gemenebest Dominica",
+            "common": "Dominica"
+        },
+        "per": {
+            "official": "قلمرو همسود دومینیکا",
+            "common": "دومینیکا"
+        },
+        "pol": {
+            "official": "Wspólnota Dominiki",
+            "common": "Dominika"
+        },
+        "por": {
+            "official": "Comunidade da Dominica",
+            "common": "Dominica"
+        },
+        "rus": {
+            "official": "Содружество Доминики",
+            "common": "Доминика"
+        },
+        "slk": {
+            "official": "Dominické spoločenstvo",
+            "common": "Dominika"
+        },
+        "spa": {
+            "official": "Mancomunidad de Dominica",
+            "common": "Dominica"
+        },
+        "swe": {
+            "official": "Samväldet Dominica",
+            "common": "Dominica"
+        },
+        "urd": {
+            "official": "دولتِ مشترکہ ڈومینیکا",
+            "common": "ڈومینیکا"
+        },
+        "zho": {
+            "official": "多米尼加共和国",
+            "common": "多米尼加"
+        }
+    },
+    "latlng": [
+        15.41666666,
+        -61.33333333
+    ],
+    "landlocked": false,
+    "area": 751,
+    "demonyms": {
+        "eng": {
+            "f": "Dominican",
+            "m": "Dominican"
+        },
+        "fra": {
+            "f": "Dominiquaise",
+            "m": "Dominiquais"
+        }
+    },
+    "flag": "🇩🇲",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/307823"
+    },
+    "population": 71991,
+    "fifa": "DMA",
+    "car": {
+        "signs": [
+            "WD"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/dm.png",
+        "svg": "https://flagcdn.com/dm.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/dm.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/dm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            15.3,
+            -61.4
+        ]
+    },
+    "provinces": [
+        "Saint Andrew Parish",
+        "Saint David Parish",
+        "Saint George Parish",
+        "Saint John Parish",
+        "Saint Joseph Parish",
+        "Saint Luke Parish",
+        "Saint Mark Parish",
+        "Saint Patrick Parish",
+        "Saint Paul Parish",
+        "Saint Peter Parish"
+    ]
+}

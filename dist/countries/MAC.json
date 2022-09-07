@@ -1,0 +1,189 @@
+{
+    "name": {
+        "common": "Macau",
+        "official": "Macao Special Administrative Region of the People's Republic of China",
+        "nativeName": {
+            "por": {
+                "official": "Região Administrativa Especial de Macau da República Popular da China",
+                "common": "Macau"
+            },
+            "zho": {
+                "official": "中华人民共和国澳门特别行政区",
+                "common": "澳门"
+            }
+        }
+    },
+    "tld": [
+        ".mo"
+    ],
+    "cca2": "MO",
+    "ccn3": "446",
+    "cca3": "MAC",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "MOP": {
+            "name": "Macanese pataca",
+            "symbol": "P"
+        }
+    },
+    "idd": {
+        "root": "+8",
+        "suffixes": [
+            "53"
+        ]
+    },
+    "altSpellings": [
+        "MO",
+        "澳门",
+        "Macao",
+        "Macao Special Administrative Region of the People's Republic of China",
+        "中華人民共和國澳門特別行政區",
+        "Região Administrativa Especial de Macau da República Popular da China"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+        "por": "Portuguese",
+        "zho": "Chinese"
+    },
+    "translations": {
+        "ara": {
+            "official": "منطقة ماكاو الإدارية التابعة لجمهورية الصين الشعبية",
+            "common": "ماكاو"
+        },
+        "bre": {
+            "official": "Rannvro velestradurel arbennik Makao eus Republik pobl Sina",
+            "common": "Makao"
+        },
+        "ces": {
+            "official": "Zvláštní správní oblast Čínské lidové republiky Macao",
+            "common": "Macao"
+        },
+        "cym": {
+            "official": "Macao Special Administrative Region of the People's Republic of China",
+            "common": "Macau"
+        },
+        "deu": {
+            "official": "Sonderverwaltungsregion Macau der Volksrepublik China",
+            "common": "Macao"
+        },
+        "est": {
+            "official": "Macau erihalduspiirkond",
+            "common": "Macau"
+        },
+        "fin": {
+            "official": "Macaon Kiinan kansantasavallan erityishallintoalue",
+            "common": "Macao"
+        },
+        "fra": {
+            "official": "Région administrative spéciale de Macao de la République populaire de Chine",
+            "common": "Macao"
+        },
+        "hrv": {
+            "official": "Makao Posebnog upravnog područjaNarodne Republike Kine",
+            "common": "Makao"
+        },
+        "hun": {
+            "official": "Makaó",
+            "common": "Makaó"
+        },
+        "ita": {
+            "official": "Macao Regione amministrativa speciale della Repubblica Popolare Cinese",
+            "common": "Macao"
+        },
+        "jpn": {
+            "official": "中華人民共和国マカオ特別行政区",
+            "common": "マカオ"
+        },
+        "kor": {
+            "official": "중화인민공화국 마카오 특별행정구",
+            "common": "마카오"
+        },
+        "nld": {
+            "official": "Speciale Administratieve Regio Macau van de Volksrepubliek China",
+            "common": "Macao"
+        },
+        "per": {
+            "official": "ماکائو",
+            "common": "ماکائو"
+        },
+        "pol": {
+            "official": "Specjalny Region Administracyjny Chińskiej Republiki Ludowej Makau",
+            "common": "Makau"
+        },
+        "por": {
+            "official": "Macau Região Administrativa Especial da República Popular da China",
+            "common": "Macau"
+        },
+        "rus": {
+            "official": "Специальный административный район Макао Китайской Народной Республики Китай",
+            "common": "Макао"
+        },
+        "slk": {
+            "official": "Macao, Špeciàlna administratívna oblasŦ",
+            "common": "Macao"
+        },
+        "spa": {
+            "official": "Macao, Región Administrativa Especial de la República Popular China",
+            "common": "Macao"
+        },
+        "swe": {
+            "official": "Macao",
+            "common": "Macao"
+        },
+        "urd": {
+            "official": "مکاؤ عوامی جمہوریہ چین کا خصوصی انتظامی علاقہ",
+            "common": "مکاؤ"
+        }
+    },
+    "latlng": [
+        22.16666666,
+        113.55
+    ],
+    "landlocked": false,
+    "borders": [
+        "CHN"
+    ],
+    "area": 30,
+    "demonyms": {
+        "eng": {
+            "f": "Macanese",
+            "m": "Macanese"
+        },
+        "fra": {
+            "f": "Macanaise",
+            "m": "Macanais"
+        }
+    },
+    "flag": "🇲🇴",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/whymRdk3dZFfAAs4A",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/1867188"
+    },
+    "population": 649342,
+    "fifa": "MAC",
+    "car": {
+        "signs": [
+            "MO"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+08:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/mo.png",
+        "svg": "https://flagcdn.com/mo.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/mo.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/mo.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {}
+}

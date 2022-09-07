@@ -1,0 +1,180 @@
+{
+    "name": {
+        "common": "British Indian Ocean Territory",
+        "official": "British Indian Ocean Territory",
+        "nativeName": {
+            "eng": {
+                "official": "British Indian Ocean Territory",
+                "common": "British Indian Ocean Territory"
+            }
+        }
+    },
+    "tld": [
+        ".io"
+    ],
+    "cca2": "IO",
+    "ccn3": "086",
+    "cca3": "IOT",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "46"
+        ]
+    },
+    "capital": [
+        "Diego Garcia"
+    ],
+    "altSpellings": [
+        "IO"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "إقليم المحيط الهندي البريطاني",
+            "common": "إقليم المحيط الهندي البريطاني"
+        },
+        "bre": {
+            "official": "Tiriad breizhveurat Meurvor Indez",
+            "common": "Tiriad breizhveurat Meurvor Indez"
+        },
+        "ces": {
+            "official": "Britské indickooceánské území",
+            "common": "Britské indickooceánské území"
+        },
+        "cym": {
+            "official": "Tiriogaeth Brydeinig Cefnfor India",
+            "common": "Tiriogaeth Brydeinig Cefnfor India"
+        },
+        "deu": {
+            "official": "Britisches Territorium im Indischen Ozean",
+            "common": "Britisches Territorium im Indischen Ozean"
+        },
+        "est": {
+            "official": "Briti India ookeani ala",
+            "common": "Briti India ookeani ala"
+        },
+        "fin": {
+            "official": "Brittiläinen Intian valtameren alue",
+            "common": "Brittiläinen Intian valtameren alue"
+        },
+        "fra": {
+            "official": "Territoire britannique de l' océan Indien",
+            "common": "Territoire britannique de l'océan Indien"
+        },
+        "hrv": {
+            "official": "British Indian Ocean Territory",
+            "common": "Britanski Indijskooceanski teritorij"
+        },
+        "hun": {
+            "official": "Brit Indiai-óceáni Terület",
+            "common": "Brit Indiai-óceáni Terület"
+        },
+        "ita": {
+            "official": "Territorio britannico dell'Oceano Indiano",
+            "common": "Territorio britannico dell'oceano indiano"
+        },
+        "jpn": {
+            "official": "イギリス領インド洋地域",
+            "common": "イギリス領インド洋地域"
+        },
+        "kor": {
+            "official": "인도 공화국",
+            "common": "인도"
+        },
+        "nld": {
+            "official": "Brits Indische Oceaan Territorium",
+            "common": "Britse Gebieden in de Indische Oceaan"
+        },
+        "per": {
+            "official": "قلمرو بریتانیا در اقیانوس هند",
+            "common": "قلمرو بریتانیا در اقیانوس هند"
+        },
+        "pol": {
+            "official": "Brytyjskie Terytorium Oceanu Indyjskiego",
+            "common": "Brytyjskie Terytorium Oceanu Indyjskiego"
+        },
+        "por": {
+            "official": "British Indian Ocean Territory",
+            "common": "Território Britânico do Oceano Índico"
+        },
+        "rus": {
+            "official": "Британская территория Индийского океана",
+            "common": "Британская территория в Индийском океане"
+        },
+        "slk": {
+            "official": "Britské indickooceánske územie",
+            "common": "Britské indickooceánske územie"
+        },
+        "spa": {
+            "official": "Territorio Británico del Océano Índico",
+            "common": "Territorio Británico del Océano Índico"
+        },
+        "swe": {
+            "official": "Brittiska territoriet i Indiska Oceanen",
+            "common": "Brittiska territoriet i Indiska Oceanen"
+        },
+        "urd": {
+            "official": "برطانوی بحرہند خطہ",
+            "common": "برطانوی بحرہند خطہ"
+        },
+        "zho": {
+            "official": "英属印度洋领地",
+            "common": "英属印度洋领地"
+        }
+    },
+    "latlng": [
+        -6,
+        71.5
+    ],
+    "landlocked": false,
+    "area": 60,
+    "demonyms": {
+        "eng": {
+            "f": "Indian",
+            "m": "Indian"
+        }
+    },
+    "flag": "🇮🇴",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/bheNucgekVEYozoi6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/1993867"
+    },
+    "population": 3000,
+    "car": {
+        "signs": [
+            "GB"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+06:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/io.png",
+        "svg": "https://flagcdn.com/io.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -7.3,
+            72.4
+        ]
+    }
+}

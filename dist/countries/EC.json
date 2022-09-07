@@ -1,0 +1,229 @@
+{
+    "name": {
+        "common": "Ecuador",
+        "official": "Republic of Ecuador",
+        "nativeName": {
+            "spa": {
+                "official": "República del Ecuador",
+                "common": "Ecuador"
+            }
+        }
+    },
+    "tld": [
+        ".ec"
+    ],
+    "cca2": "EC",
+    "ccn3": "218",
+    "cca3": "ECU",
+    "cioc": "ECU",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "93"
+        ]
+    },
+    "capital": [
+        "Quito"
+    ],
+    "altSpellings": [
+        "EC",
+        "Republic of Ecuador",
+        "República del Ecuador"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية الإكوادور",
+            "common": "الإكوادور"
+        },
+        "bre": {
+            "official": "Republik Ecuador",
+            "common": "Ecuador"
+        },
+        "ces": {
+            "official": "Ekvádorská republika",
+            "common": "Ekvádor"
+        },
+        "cym": {
+            "official": "Gweriniaeth Ecwador",
+            "common": "Ecwador"
+        },
+        "deu": {
+            "official": "Republik Ecuador",
+            "common": "Ecuador"
+        },
+        "est": {
+            "official": "Ecuadori Vabariik",
+            "common": "Ecuador"
+        },
+        "fin": {
+            "official": "Ecuadorin tasavalta",
+            "common": "Ecuador"
+        },
+        "fra": {
+            "official": "République de l'Équateur",
+            "common": "Équateur"
+        },
+        "hrv": {
+            "official": "Republika Ekvador",
+            "common": "Ekvador"
+        },
+        "hun": {
+            "official": "Ecuadori Köztársaság",
+            "common": "Ecuador"
+        },
+        "ita": {
+            "official": "Repubblica dell'Ecuador",
+            "common": "Ecuador"
+        },
+        "jpn": {
+            "official": "エクアドル共和国",
+            "common": "エクアドル"
+        },
+        "kor": {
+            "official": "에콰도르 공화국",
+            "common": "에콰도르"
+        },
+        "nld": {
+            "official": "Republiek Ecuador",
+            "common": "Ecuador"
+        },
+        "per": {
+            "official": "جمهوری اکوادور",
+            "common": "اکوادور"
+        },
+        "pol": {
+            "official": "Ekwador",
+            "common": "Ekwador"
+        },
+        "por": {
+            "official": "República do Equador",
+            "common": "Equador"
+        },
+        "rus": {
+            "official": "Республика Эквадор",
+            "common": "Эквадор"
+        },
+        "slk": {
+            "official": "Ekvádorská republika",
+            "common": "Ekvádor"
+        },
+        "spa": {
+            "official": "República del Ecuador",
+            "common": "Ecuador"
+        },
+        "swe": {
+            "official": "Republiken Ecuador",
+            "common": "Ecuador"
+        },
+        "urd": {
+            "official": "جمہوریہ ایکوڈور",
+            "common": "ایکواڈور"
+        },
+        "zho": {
+            "official": "厄瓜多尔共和国",
+            "common": "厄瓜多尔"
+        }
+    },
+    "latlng": [
+        -2,
+        -77.5
+    ],
+    "landlocked": false,
+    "borders": [
+        "COL",
+        "PER"
+    ],
+    "area": 276841,
+    "demonyms": {
+        "eng": {
+            "f": "Ecuadorean",
+            "m": "Ecuadorean"
+        },
+        "fra": {
+            "f": "Équatorienne",
+            "m": "Équatorien"
+        }
+    },
+    "flag": "🇪🇨",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/108089"
+    },
+    "population": 17643060,
+    "gini": {
+        "2019": 45.7
+    },
+    "fifa": "ECU",
+    "car": {
+        "signs": [
+            "EC"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-06:00",
+        "UTC-05:00"
+    ],
+    "continents": [
+        "South America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/ec.png",
+        "svg": "https://flagcdn.com/ec.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ec.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ec.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -0.22,
+            -78.5
+        ]
+    },
+    "postalCode": {
+        "format": "@####@",
+        "regex": "^([a-zA-Z]\\d{4}[a-zA-Z])$"
+    },
+    "provinces": [
+        "Azuay",
+        "Bolívar",
+        "Cañar",
+        "Carchi",
+        "Chimborazo",
+        "Cotopaxi",
+        "El Oro",
+        "Esmeraldas",
+        "Galápagos",
+        "Guayas",
+        "Imbabura",
+        "Loja",
+        "Los Ríos",
+        "Manabí",
+        "Morona-Santiago",
+        "Napo",
+        "Orellana",
+        "Pastaza",
+        "Pichincha",
+        "Santa Elena",
+        "Santo Domingo de los Tsáchilas",
+        "Sucumbíos",
+        "Tungurahua",
+        "Zamora Chinchipe"
+    ]
+}

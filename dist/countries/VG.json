@@ -1,0 +1,186 @@
+{
+    "name": {
+        "common": "British Virgin Islands",
+        "official": "Virgin Islands",
+        "nativeName": {
+            "eng": {
+                "official": "Virgin Islands",
+                "common": "British Virgin Islands"
+            }
+        }
+    },
+    "tld": [
+        ".vg"
+    ],
+    "cca2": "VG",
+    "ccn3": "092",
+    "cca3": "VGB",
+    "cioc": "IVB",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "284"
+        ]
+    },
+    "capital": [
+        "Road Town"
+    ],
+    "altSpellings": [
+        "VG",
+        "Virgin Islands, British"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "جزر العذراء البريطانية",
+            "common": "جزر العذراء"
+        },
+        "bre": {
+            "official": "Inizi Gwerc'h Breizhveurat",
+            "common": "Inizi Gwerc'h Breizhveurat"
+        },
+        "ces": {
+            "official": "Britské Panenské ostrovy",
+            "common": "Britské Panenské ostrovy"
+        },
+        "cym": {
+            "official": "Virgin Islands",
+            "common": "British Virgin Islands"
+        },
+        "deu": {
+            "official": "Jungferninseln",
+            "common": "Britische Jungferninseln"
+        },
+        "est": {
+            "official": "Neitsisaared",
+            "common": "Briti Neitsisaared"
+        },
+        "fin": {
+            "official": "Brittiläiset Neitsytsaaret",
+            "common": "Neitsytsaaret"
+        },
+        "fra": {
+            "official": "îles Vierges",
+            "common": "Îles Vierges britanniques"
+        },
+        "hrv": {
+            "official": "Djevičanski Otoci",
+            "common": "Britanski Djevičanski Otoci"
+        },
+        "hun": {
+            "official": "Brit Virgin-szigetek",
+            "common": "Brit Virgin-szigetek"
+        },
+        "ita": {
+            "official": "Isole Vergini",
+            "common": "Isole Vergini Britanniche"
+        },
+        "jpn": {
+            "official": "バージン諸島",
+            "common": "イギリス領ヴァージン諸島"
+        },
+        "kor": {
+            "official": "영국령 버진아일랜드",
+            "common": "영국령 버진아일랜드"
+        },
+        "nld": {
+            "official": "Maagdeneilanden",
+            "common": "Britse Maagdeneilanden"
+        },
+        "per": {
+            "official": "جزایر ویرجین بریتانیا",
+            "common": "جزایر ویرجین بریتانیا"
+        },
+        "pol": {
+            "official": "Brytyjskie Wyspy Dziewicze",
+            "common": "Brytyjskie Wyspy Dziewicze"
+        },
+        "por": {
+            "official": "Ilhas Virgens",
+            "common": "Ilhas Virgens"
+        },
+        "rus": {
+            "official": "Виргинские острова",
+            "common": "Британские Виргинские острова"
+        },
+        "slk": {
+            "official": "Panenské ostrovy",
+            "common": "Panenské ostrovy"
+        },
+        "spa": {
+            "official": "Islas Vírgenes",
+            "common": "Islas Vírgenes del Reino Unido"
+        },
+        "swe": {
+            "official": "Brittiska Jungfruöarna",
+            "common": "Brittiska Jungfruöarna"
+        },
+        "urd": {
+            "official": "برطانوی جزائر ورجن",
+            "common": "برطانوی جزائر ورجن"
+        },
+        "zho": {
+            "official": "英属维尔京群岛",
+            "common": "英属维尔京群岛"
+        }
+    },
+    "latlng": [
+        18.431383,
+        -64.62305
+    ],
+    "landlocked": false,
+    "area": 151,
+    "demonyms": {
+        "eng": {
+            "f": "Virgin Islander",
+            "m": "Virgin Islander"
+        }
+    },
+    "flag": "🇻🇬",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/49C9cSesNVAR9DQk8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/285454"
+    },
+    "population": 30237,
+    "fifa": "VGB",
+    "car": {
+        "signs": [
+            "BVI"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/vg.png",
+        "svg": "https://flagcdn.com/vg.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/vg.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/vg.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            18.42,
+            -64.62
+        ]
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "name": {
+        "common": "Turkmenistan",
+        "official": "Turkmenistan",
+        "nativeName": {
+            "rus": {
+                "official": "Туркменистан",
+                "common": "Туркмения"
+            },
+            "tuk": {
+                "official": "Türkmenistan",
+                "common": "Türkmenistan"
+            }
+        }
+    },
+    "tld": [
+        ".tm"
+    ],
+    "cca2": "TM",
+    "ccn3": "795",
+    "cca3": "TKM",
+    "cioc": "TKM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "TMT": {
+            "name": "Turkmenistan manat",
+            "symbol": "m"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "93"
+        ]
+    },
+    "capital": [
+        "Ashgabat"
+    ],
+    "altSpellings": [
+        "TM"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": {
+        "rus": "Russian",
+        "tuk": "Turkmen"
+    },
+    "translations": {
+        "ara": {
+            "official": "تركمانستان",
+            "common": "تركمانستان"
+        },
+        "bre": {
+            "official": "Republik Turkmenistan",
+            "common": "Turkmenistan"
+        },
+        "ces": {
+            "official": "Turkmenistán",
+            "common": "Turkmenistán"
+        },
+        "cym": {
+            "official": "Turkmenistan",
+            "common": "Turkmenistan"
+        },
+        "deu": {
+            "official": "Turkmenistan",
+            "common": "Turkmenistan"
+        },
+        "est": {
+            "official": "Türkmenistan",
+            "common": "Türkmenistan"
+        },
+        "fin": {
+            "official": "Turkmenistan",
+            "common": "Turkmenistan"
+        },
+        "fra": {
+            "official": "Turkménistan",
+            "common": "Turkménistan"
+        },
+        "hrv": {
+            "official": "Turkmenistan",
+            "common": "Turkmenistan"
+        },
+        "hun": {
+            "official": "Türkmén Köztársaság",
+            "common": "Türkmenisztán"
+        },
+        "ita": {
+            "official": "Turkmenistan",
+            "common": "Turkmenistan"
+        },
+        "jpn": {
+            "official": "トルクメニスタン",
+            "common": "トルクメニスタン"
+        },
+        "kor": {
+            "official": "투르크메니스탄",
+            "common": "투르크메니스탄"
+        },
+        "nld": {
+            "official": "Turkmenistan",
+            "common": "Turkmenistan"
+        },
+        "per": {
+            "official": "جمهوری خلق ترکمنستان",
+            "common": "ترکمنستان"
+        },
+        "pol": {
+            "official": "Republika Turkmenistanu",
+            "common": "Turkmenistan"
+        },
+        "por": {
+            "official": "Turcomenistão",
+            "common": "Turquemenistão"
+        },
+        "rus": {
+            "official": "Туркменистан",
+            "common": "Туркмения"
+        },
+        "slk": {
+            "official": "Turkménsko",
+            "common": "Turkménsko"
+        },
+        "spa": {
+            "official": "Turkmenistán",
+            "common": "Turkmenistán"
+        },
+        "swe": {
+            "official": "Turkmenistan",
+            "common": "Turkmenistan"
+        },
+        "urd": {
+            "official": "ترکمانستان",
+            "common": "ترکمانستان"
+        },
+        "zho": {
+            "official": "土库曼斯坦",
+            "common": "土库曼斯坦"
+        }
+    },
+    "latlng": [
+        40,
+        60
+    ],
+    "landlocked": true,
+    "borders": [
+        "AFG",
+        "IRN",
+        "KAZ",
+        "UZB"
+    ],
+    "area": 488100,
+    "demonyms": {
+        "eng": {
+            "f": "Turkmen",
+            "m": "Turkmen"
+        },
+        "fra": {
+            "f": "Turkmène",
+            "m": "Turkmène"
+        }
+    },
+    "flag": "🇹🇲",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/223026"
+    },
+    "population": 6031187,
+    "gini": {
+        "1998": 40.8
+    },
+    "fifa": "TKM",
+    "car": {
+        "signs": [
+            "TM"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+05:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/tm.png",
+        "svg": "https://flagcdn.com/tm.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/tm.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/tm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            37.95,
+            58.38
+        ]
+    },
+    "postalCode": {
+        "format": "######",
+        "regex": "^(\\d{6})$"
+    },
+    "provinces": [
+        "Ahal Region",
+        "Ashgabat",
+        "Balkan Region",
+        "Daşoguz Region",
+        "Lebap Region",
+        "Mary Region"
+    ]
+}

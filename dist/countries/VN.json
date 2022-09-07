@@ -1,0 +1,269 @@
+{
+    "name": {
+        "common": "Vietnam",
+        "official": "Socialist Republic of Vietnam",
+        "nativeName": {
+            "vie": {
+                "official": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+                "common": "Việt Nam"
+            }
+        }
+    },
+    "tld": [
+        ".vn"
+    ],
+    "cca2": "VN",
+    "ccn3": "704",
+    "cca3": "VNM",
+    "cioc": "VIE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "VND": {
+            "name": "Vietnamese đồng",
+            "symbol": "₫"
+        }
+    },
+    "idd": {
+        "root": "+8",
+        "suffixes": [
+            "4"
+        ]
+    },
+    "capital": [
+        "Hanoi"
+    ],
+    "altSpellings": [
+        "VN",
+        "Socialist Republic of Vietnam",
+        "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+        "Viet Nam"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+        "vie": "Vietnamese"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية فيتنام الاشتراكية",
+            "common": "فيتنام"
+        },
+        "bre": {
+            "official": "Republik Sokialour Viêt Nam",
+            "common": "Viêt Nam"
+        },
+        "ces": {
+            "official": "Vietnamská socialistická republika",
+            "common": "Vietnam"
+        },
+        "cym": {
+            "official": "Socialist Republic of Vietnam",
+            "common": "Vietnam"
+        },
+        "deu": {
+            "official": "Sozialistische Republik Vietnam",
+            "common": "Vietnam"
+        },
+        "est": {
+            "official": "Vietnami Sotsialistlik Vabariik",
+            "common": "Vietnam"
+        },
+        "fin": {
+            "official": "Vietnamin sosialistinen tasavalta",
+            "common": "Vietnam"
+        },
+        "fra": {
+            "official": "République socialiste du Viêt Nam",
+            "common": "Viêt Nam"
+        },
+        "hrv": {
+            "official": "Socijalistička Republika Vijetnam",
+            "common": "Vijetnam"
+        },
+        "hun": {
+            "official": "Vietnámi Szocialista Köztársaság",
+            "common": "Vietnám"
+        },
+        "ita": {
+            "official": "Repubblica socialista del Vietnam",
+            "common": "Vietnam"
+        },
+        "jpn": {
+            "official": "ベトナム社会主義共和国",
+            "common": "ベトナム"
+        },
+        "kor": {
+            "official": "베트남 사회주의 공화국",
+            "common": "베트남"
+        },
+        "nld": {
+            "official": "Socialistische Republiek Vietnam",
+            "common": "Vietnam"
+        },
+        "per": {
+            "official": "جمهوری سوسیالیستی ویتنام",
+            "common": "ویتنام"
+        },
+        "pol": {
+            "official": "Socjalistyczna Republika Wietnamu",
+            "common": "Wietnam"
+        },
+        "por": {
+            "official": "República Socialista do Vietname",
+            "common": "Vietname"
+        },
+        "rus": {
+            "official": "Социалистическая Республика Вьетнам",
+            "common": "Вьетнам"
+        },
+        "slk": {
+            "official": "Vietnamská socialistická republika",
+            "common": "Vietnam"
+        },
+        "spa": {
+            "official": "República Socialista de Vietnam",
+            "common": "Vietnam"
+        },
+        "swe": {
+            "official": "Socialistiska republiken Vietnam",
+            "common": "Vietnam"
+        },
+        "urd": {
+            "official": "اشتراکی جمہوریہ ویتنام",
+            "common": "ویتنام"
+        },
+        "zho": {
+            "official": "越南社会主义共和国",
+            "common": "越南"
+        }
+    },
+    "latlng": [
+        16.16666666,
+        107.83333333
+    ],
+    "landlocked": false,
+    "borders": [
+        "KHM",
+        "CHN",
+        "LAO"
+    ],
+    "area": 331212,
+    "demonyms": {
+        "eng": {
+            "f": "Vietnamese",
+            "m": "Vietnamese"
+        },
+        "fra": {
+            "f": "Vietnamienne",
+            "m": "Vietnamien"
+        }
+    },
+    "flag": "🇻🇳",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/49915"
+    },
+    "population": 97338583,
+    "gini": {
+        "2018": 35.7
+    },
+    "fifa": "VIE",
+    "car": {
+        "signs": [
+            "VN"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+07:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/vn.png",
+        "svg": "https://flagcdn.com/vn.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/vn.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/vn.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            21.03,
+            105.85
+        ]
+    },
+    "postalCode": {
+        "format": "######",
+        "regex": "^(\\d{6})$"
+    },
+    "provinces": [
+        "An Giang",
+        "Bà Rịa-Vũng Tàu",
+        "Bắc Giang",
+        "Bắc Kạn",
+        "Bạc Liêu",
+        "Bắc Ninh",
+        "Bến Tre",
+        "Bình Dương",
+        "Bình Định",
+        "Bình Phước",
+        "Bình Thuận",
+        "Cà Mau",
+        "Cần Thơ",
+        "Cao Bằng",
+        "Đà Nẵng",
+        "Đắk Lắk",
+        "Đắk Nông",
+        "Điện Biên",
+        "Đồng Nai",
+        "Đồng Tháp",
+        "Gia Lai",
+        "Hà Giang",
+        "Hà Nam",
+        "Hà Nội",
+        "Hà Tĩnh",
+        "Hải Dương",
+        "Hải Phòng",
+        "Hậu Giang",
+        "Hồ Chí Minh",
+        "Hòa Bình",
+        "Hưng Yên",
+        "Khánh Hòa",
+        "Kiên Giang",
+        "Kon Tum",
+        "Lai Châu",
+        "Lâm Đồng",
+        "Lạng Sơn",
+        "Lào Cai",
+        "Long An",
+        "Nam Định",
+        "Nghệ An",
+        "Ninh Bình",
+        "Ninh Thuận",
+        "Phú Thọ",
+        "Phú Yên",
+        "Quảng Bình",
+        "Quảng Nam",
+        "Quảng Ngãi",
+        "Quảng Ninh",
+        "Quảng Trị",
+        "Sóc Trăng",
+        "Sơn La",
+        "Tây Ninh",
+        "Thái Bình",
+        "Thái Nguyên",
+        "Thanh Hóa",
+        "Thừa Thiên-Huế",
+        "Tiền Giang",
+        "Trà Vinh",
+        "Tuyên Quang",
+        "Vĩnh Long",
+        "Vĩnh Phúc",
+        "Yên Bái"
+    ]
+}

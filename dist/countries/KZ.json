@@ -1,0 +1,237 @@
+{
+    "name": {
+        "common": "Kazakhstan",
+        "official": "Republic of Kazakhstan",
+        "nativeName": {
+            "kaz": {
+                "official": "Қазақстан Республикасы",
+                "common": "Қазақстан"
+            },
+            "rus": {
+                "official": "Республика Казахстан",
+                "common": "Казахстан"
+            }
+        }
+    },
+    "tld": [
+        ".kz",
+        ".қаз"
+    ],
+    "cca2": "KZ",
+    "ccn3": "398",
+    "cca3": "KAZ",
+    "cioc": "KAZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "KZT": {
+            "name": "Kazakhstani tenge",
+            "symbol": "₸"
+        }
+    },
+    "idd": {
+        "root": "+7",
+        "suffixes": [
+            "6",
+            "7"
+        ]
+    },
+    "capital": [
+        "Nur-Sultan"
+    ],
+    "altSpellings": [
+        "KZ",
+        "Qazaqstan",
+        "Казахстан",
+        "Republic of Kazakhstan",
+        "Қазақстан Республикасы",
+        "Qazaqstan Respublïkası",
+        "Республика Казахстан",
+        "Respublika Kazakhstan"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": {
+        "kaz": "Kazakh",
+        "rus": "Russian"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية كازاخستان",
+            "common": "كازاخستان"
+        },
+        "bre": {
+            "official": "Republik Kazakstan",
+            "common": "Kazakstan"
+        },
+        "ces": {
+            "official": "Republika Kazachstán",
+            "common": "Kazachstán"
+        },
+        "cym": {
+            "official": "Republic of Kazakhstan",
+            "common": "Kazakhstan"
+        },
+        "deu": {
+            "official": "Republik Kasachstan",
+            "common": "Kasachstan"
+        },
+        "est": {
+            "official": "Kasahstani Vabariik",
+            "common": "Kasahstan"
+        },
+        "fin": {
+            "official": "Kazakstanin tasavalta",
+            "common": "Kazakstan"
+        },
+        "fra": {
+            "official": "République du Kazakhstan",
+            "common": "Kazakhstan"
+        },
+        "hrv": {
+            "official": "Republika Kazahstan",
+            "common": "Kazahstan"
+        },
+        "hun": {
+            "official": "Kazah Köztársaság",
+            "common": "Kazahsztán"
+        },
+        "ita": {
+            "official": "Repubblica del Kazakhstan",
+            "common": "Kazakistan"
+        },
+        "jpn": {
+            "official": "カザフスタン共和国",
+            "common": "カザフスタン"
+        },
+        "kor": {
+            "official": "카자흐스탄 공화국",
+            "common": "카자흐스탄"
+        },
+        "nld": {
+            "official": "Republiek Kazachstan",
+            "common": "Kazachstan"
+        },
+        "per": {
+            "official": "جمهوری قزاقستان",
+            "common": "قزاقستان"
+        },
+        "pol": {
+            "official": "Republika Kazachstanu",
+            "common": "Kazachstan"
+        },
+        "por": {
+            "official": "República do Cazaquistão",
+            "common": "Cazaquistão"
+        },
+        "rus": {
+            "official": "Республика Казахстан",
+            "common": "Казахстан"
+        },
+        "slk": {
+            "official": "Kazašská republika",
+            "common": "Kazachstan"
+        },
+        "spa": {
+            "official": "República de Kazajstán",
+            "common": "Kazajistán"
+        },
+        "swe": {
+            "official": "Republiken Kazakstan",
+            "common": "Kazakstan"
+        },
+        "urd": {
+            "official": "جمہوریہ قازقستان",
+            "common": "قازقستان"
+        },
+        "zho": {
+            "official": "哈萨克斯坦共和国",
+            "common": "哈萨克斯坦"
+        }
+    },
+    "latlng": [
+        48,
+        68
+    ],
+    "landlocked": true,
+    "borders": [
+        "CHN",
+        "KGZ",
+        "RUS",
+        "TKM",
+        "UZB"
+    ],
+    "area": 2724900,
+    "demonyms": {
+        "eng": {
+            "f": "Kazakhstani",
+            "m": "Kazakhstani"
+        },
+        "fra": {
+            "f": "Kazakhstanaise",
+            "m": "Kazakhstanais"
+        }
+    },
+    "flag": "🇰🇿",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/214665"
+    },
+    "population": 18754440,
+    "gini": {
+        "2018": 27.8
+    },
+    "fifa": "KAZ",
+    "car": {
+        "signs": [
+            "KZ"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+05:00",
+        "UTC+06:00"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/kz.png",
+        "svg": "https://flagcdn.com/kz.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/kz.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/kz.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            51.16,
+            71.45
+        ]
+    },
+    "postalCode": {
+        "format": "######",
+        "regex": "^(\\d{6})$"
+    },
+    "provinces": [
+        "Akmola Region",
+        "Aktobe Region",
+        "Almaty",
+        "Almaty Region",
+        "Atyrau Region",
+        "Baikonur",
+        "East Kazakhstan Region",
+        "Jambyl Region",
+        "Karaganda Region",
+        "Kostanay Region",
+        "Kyzylorda Region",
+        "Mangystau Region",
+        "North Kazakhstan Region",
+        "Nur-Sultan",
+        "Pavlodar Region",
+        "Turkestan Region",
+        "West Kazakhstan Province"
+    ]
+}

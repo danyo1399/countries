@@ -1,0 +1,235 @@
+{
+    "name": {
+        "common": "Malawi",
+        "official": "Republic of Malawi",
+        "nativeName": {
+            "eng": {
+                "official": "Republic of Malawi",
+                "common": "Malawi"
+            },
+            "nya": {
+                "official": "Chalo cha Malawi, Dziko la Malaŵi",
+                "common": "Malaŵi"
+            }
+        }
+    },
+    "tld": [
+        ".mw"
+    ],
+    "cca2": "MW",
+    "ccn3": "454",
+    "cca3": "MWI",
+    "cioc": "MAW",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "MWK": {
+            "name": "Malawian kwacha",
+            "symbol": "MK"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "65"
+        ]
+    },
+    "capital": [
+        "Lilongwe"
+    ],
+    "altSpellings": [
+        "MW",
+        "Republic of Malawi"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "eng": "English",
+        "nya": "Chewa"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية مالاوي",
+            "common": "مالاوي"
+        },
+        "bre": {
+            "official": "Republik Malawi",
+            "common": "Malawi"
+        },
+        "ces": {
+            "official": "Malawiská republika",
+            "common": "Malawi"
+        },
+        "cym": {
+            "official": "Republic of Malawi",
+            "common": "Malawi"
+        },
+        "deu": {
+            "official": "Republik Malawi",
+            "common": "Malawi"
+        },
+        "est": {
+            "official": "Malawi Vabariik",
+            "common": "Malawi"
+        },
+        "fin": {
+            "official": "Malawin tasavalta",
+            "common": "Malawi"
+        },
+        "fra": {
+            "official": "République du Malawi",
+            "common": "Malawi"
+        },
+        "hrv": {
+            "official": "Republika Malavi",
+            "common": "Malavi"
+        },
+        "hun": {
+            "official": "Malawi Köztársaság",
+            "common": "Malawi"
+        },
+        "ita": {
+            "official": "Repubblica del Malawi",
+            "common": "Malawi"
+        },
+        "jpn": {
+            "official": "マラウイ共和国",
+            "common": "マラウイ"
+        },
+        "kor": {
+            "official": "말라위 공화국",
+            "common": "말라위"
+        },
+        "nld": {
+            "official": "Republiek Malawi",
+            "common": "Malawi"
+        },
+        "per": {
+            "official": "جمهوری مالاوی",
+            "common": "مالاوی"
+        },
+        "pol": {
+            "official": "Republika Malawi",
+            "common": "Malawi"
+        },
+        "por": {
+            "official": "República do Malawi",
+            "common": "Malawi"
+        },
+        "rus": {
+            "official": "Республика Малави",
+            "common": "Малави"
+        },
+        "slk": {
+            "official": "Malawijská republika",
+            "common": "Malawi"
+        },
+        "spa": {
+            "official": "República de Malawi",
+            "common": "Malawi"
+        },
+        "swe": {
+            "official": "Republiken Malawi",
+            "common": "Malawi"
+        },
+        "urd": {
+            "official": "جمہوریہ ملاوی",
+            "common": "ملاوی"
+        },
+        "zho": {
+            "official": "马拉维共和国",
+            "common": "马拉维"
+        }
+    },
+    "latlng": [
+        -13.5,
+        34
+    ],
+    "landlocked": true,
+    "borders": [
+        "MOZ",
+        "TZA",
+        "ZMB"
+    ],
+    "area": 118484,
+    "demonyms": {
+        "eng": {
+            "f": "Malawian",
+            "m": "Malawian"
+        },
+        "fra": {
+            "f": "Malawienne",
+            "m": "Malawien"
+        }
+    },
+    "flag": "🇲🇼",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/195290"
+    },
+    "population": 19129955,
+    "gini": {
+        "2016": 44.7
+    },
+    "fifa": "MWI",
+    "car": {
+        "signs": [
+            "MW"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/mw.png",
+        "svg": "https://flagcdn.com/mw.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/mw.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/mw.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -13.97,
+            33.78
+        ]
+    },
+    "provinces": [
+        "Balaka District",
+        "Blantyre District",
+        "Central Region",
+        "Chikwawa District",
+        "Chiradzulu District",
+        "Chitipa district",
+        "Dedza District",
+        "Dowa District",
+        "Karonga District",
+        "Kasungu District",
+        "Likoma District",
+        "Lilongwe District",
+        "Machinga District",
+        "Mangochi District",
+        "Mchinji District",
+        "Mulanje District",
+        "Mwanza District",
+        "Mzimba District",
+        "Nkhata Bay District",
+        "Nkhotakota District",
+        "Northern Region",
+        "Nsanje District",
+        "Ntcheu District",
+        "Ntchisi District",
+        "Phalombe District",
+        "Rumphi District",
+        "Salima District",
+        "Southern Region",
+        "Thyolo District",
+        "Zomba District"
+    ]
+}

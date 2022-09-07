@@ -1,0 +1,192 @@
+{
+    "name": {
+        "common": "Guadeloupe",
+        "official": "Guadeloupe",
+        "nativeName": {
+            "fra": {
+                "official": "Guadeloupe",
+                "common": "Guadeloupe"
+            }
+        }
+    },
+    "tld": [
+        ".gp"
+    ],
+    "cca2": "GP",
+    "ccn3": "312",
+    "cca3": "GLP",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "90"
+        ]
+    },
+    "capital": [
+        "Basse-Terre"
+    ],
+    "altSpellings": [
+        "GP",
+        "Gwadloup"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ara": {
+            "official": "غوادلوب",
+            "common": "غوادلوب"
+        },
+        "bre": {
+            "official": "Gwadeloup",
+            "common": "Gwadeloup"
+        },
+        "ces": {
+            "official": "Guadeloupe",
+            "common": "Guadeloupe"
+        },
+        "cym": {
+            "official": "Guadeloupe",
+            "common": "Guadeloupe"
+        },
+        "deu": {
+            "official": "Guadeloupe",
+            "common": "Guadeloupe"
+        },
+        "est": {
+            "official": "Guadeloupe’i ja sõltkondade departemang",
+            "common": "Guadeloupe"
+        },
+        "fin": {
+            "official": "Guadeloupen departmentti",
+            "common": "Guadeloupe"
+        },
+        "fra": {
+            "official": "Guadeloupe",
+            "common": "Guadeloupe"
+        },
+        "hrv": {
+            "official": "Gvadalupa",
+            "common": "Gvadalupa"
+        },
+        "hun": {
+            "official": "Guadeloupe",
+            "common": "Guadeloupe"
+        },
+        "ita": {
+            "official": "Guadeloupe",
+            "common": "Guadeloupa"
+        },
+        "jpn": {
+            "official": "グアドループ島",
+            "common": "グアドループ"
+        },
+        "kor": {
+            "official": "과들루프",
+            "common": "과들루프"
+        },
+        "nld": {
+            "official": "Guadeloupe",
+            "common": "Guadeloupe"
+        },
+        "per": {
+            "official": "گوادلوپ",
+            "common": "گوادلوپ"
+        },
+        "pol": {
+            "official": "Gwadelupa",
+            "common": "Gwadelupa"
+        },
+        "por": {
+            "official": "Guadalupe",
+            "common": "Guadalupe"
+        },
+        "rus": {
+            "official": "Гваделупа",
+            "common": "Гваделупа"
+        },
+        "slk": {
+            "official": "Guadeloupe",
+            "common": "Guadeloupe"
+        },
+        "spa": {
+            "official": "Guadalupe",
+            "common": "Guadalupe"
+        },
+        "swe": {
+            "official": "Guadeloupe",
+            "common": "Guadeloupe"
+        },
+        "urd": {
+            "official": "گواڈیلوپ",
+            "common": "گواڈیلوپ"
+        },
+        "zho": {
+            "official": "瓜德罗普岛",
+            "common": "瓜德罗普岛"
+        }
+    },
+    "latlng": [
+        16.25,
+        -61.583333
+    ],
+    "landlocked": false,
+    "area": 1628,
+    "demonyms": {
+        "eng": {
+            "f": "Guadeloupian",
+            "m": "Guadeloupian"
+        },
+        "fra": {
+            "f": "Guadeloupéenne",
+            "m": "Guadeloupéen"
+        }
+    },
+    "flag": "🇬🇵",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/Dy9R2EufJtoWm8UN9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/7109289"
+    },
+    "population": 400132,
+    "car": {
+        "signs": [
+            "F"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC-04:00"
+    ],
+    "continents": [
+        "North America"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/gp.png",
+        "svg": "https://flagcdn.com/gp.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/gp.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/gp.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            16.03,
+            -61.73
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^((97|98)\\d{3})$"
+    }
+}

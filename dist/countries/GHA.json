@@ -1,0 +1,215 @@
+{
+    "name": {
+        "common": "Ghana",
+        "official": "Republic of Ghana",
+        "nativeName": {
+            "eng": {
+                "official": "Republic of Ghana",
+                "common": "Ghana"
+            }
+        }
+    },
+    "tld": [
+        ".gh"
+    ],
+    "cca2": "GH",
+    "ccn3": "288",
+    "cca3": "GHA",
+    "cioc": "GHA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "GHS": {
+            "name": "Ghanaian cedi",
+            "symbol": "₵"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "33"
+        ]
+    },
+    "capital": [
+        "Accra"
+    ],
+    "altSpellings": [
+        "GH"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية غانا",
+            "common": "غانا"
+        },
+        "bre": {
+            "official": "Republik Ghana",
+            "common": "Ghana"
+        },
+        "ces": {
+            "official": "Ghanská republika",
+            "common": "Ghana"
+        },
+        "cym": {
+            "official": "Republic of Ghana",
+            "common": "Ghana"
+        },
+        "deu": {
+            "official": "Republik Ghana",
+            "common": "Ghana"
+        },
+        "est": {
+            "official": "Ghana Vabariik",
+            "common": "Ghana"
+        },
+        "fin": {
+            "official": "Ghanan tasavalta",
+            "common": "Ghana"
+        },
+        "fra": {
+            "official": "République du Ghana",
+            "common": "Ghana"
+        },
+        "hrv": {
+            "official": "Republika Gana",
+            "common": "Gana"
+        },
+        "hun": {
+            "official": "Ghánai Köztársaság",
+            "common": "Ghána"
+        },
+        "ita": {
+            "official": "Repubblica del Ghana",
+            "common": "Ghana"
+        },
+        "jpn": {
+            "official": "ガーナ共和国",
+            "common": "ガーナ"
+        },
+        "kor": {
+            "official": "가나 공화국",
+            "common": "가나"
+        },
+        "nld": {
+            "official": "Republiek Ghana",
+            "common": "Ghana"
+        },
+        "per": {
+            "official": "جمهوری غنا",
+            "common": "غنا"
+        },
+        "pol": {
+            "official": "Republika Ghany",
+            "common": "Ghana"
+        },
+        "por": {
+            "official": "República do Gana",
+            "common": "Gana"
+        },
+        "rus": {
+            "official": "Республика Гана",
+            "common": "Гана"
+        },
+        "slk": {
+            "official": "Ghanská republika",
+            "common": "Ghana"
+        },
+        "spa": {
+            "official": "República de Ghana",
+            "common": "Ghana"
+        },
+        "swe": {
+            "official": "Republiken Ghana",
+            "common": "Ghana"
+        },
+        "urd": {
+            "official": "جمہوریہ گھانا",
+            "common": "گھانا"
+        },
+        "zho": {
+            "official": "加纳共和国",
+            "common": "加纳"
+        }
+    },
+    "latlng": [
+        8,
+        -2
+    ],
+    "landlocked": false,
+    "borders": [
+        "BFA",
+        "CIV",
+        "TGO"
+    ],
+    "area": 238533,
+    "demonyms": {
+        "eng": {
+            "f": "Ghanaian",
+            "m": "Ghanaian"
+        },
+        "fra": {
+            "f": "Ghanéenne",
+            "m": "Ghanéen"
+        }
+    },
+    "flag": "🇬🇭",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/192781"
+    },
+    "population": 31072945,
+    "gini": {
+        "2016": 43.5
+    },
+    "fifa": "GHA",
+    "car": {
+        "signs": [
+            "GH"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/gh.png",
+        "svg": "https://flagcdn.com/gh.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/gh.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/gh.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            5.55,
+            -0.22
+        ]
+    },
+    "provinces": [
+        "Ahafo",
+        "Ashanti",
+        "Bono",
+        "Bono East",
+        "Central",
+        "Eastern",
+        "Greater Accra",
+        "North East",
+        "Northern",
+        "Oti",
+        "Savannah",
+        "Upper East",
+        "Upper West",
+        "Volta",
+        "Western",
+        "Western North"
+    ]
+}

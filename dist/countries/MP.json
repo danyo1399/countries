@@ -1,0 +1,196 @@
+{
+    "name": {
+        "common": "Northern Mariana Islands",
+        "official": "Commonwealth of the Northern Mariana Islands",
+        "nativeName": {
+            "cal": {
+                "official": "Commonwealth of the Northern Mariana Islands",
+                "common": "Northern Mariana Islands"
+            },
+            "cha": {
+                "official": "Sankattan Siha Na Islas Mariånas",
+                "common": "Na Islas Mariånas"
+            },
+            "eng": {
+                "official": "Commonwealth of the Northern Mariana Islands",
+                "common": "Northern Mariana Islands"
+            }
+        }
+    },
+    "tld": [
+        ".mp"
+    ],
+    "cca2": "MP",
+    "ccn3": "580",
+    "cca3": "MNP",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "670"
+        ]
+    },
+    "capital": [
+        "Saipan"
+    ],
+    "altSpellings": [
+        "MP",
+        "Commonwealth of the Northern Mariana Islands",
+        "Sankattan Siha Na Islas Mariånas"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": {
+        "cal": "Carolinian",
+        "cha": "Chamorro",
+        "eng": "English"
+    },
+    "translations": {
+        "ara": {
+            "official": "كومونولث جزر ماريانا الشمالية",
+            "common": "جزر ماريانا الشمالية"
+        },
+        "bre": {
+            "official": "Kenglad Inizi Mariana an Norzh",
+            "common": "Inizi Mariana an Norzh"
+        },
+        "ces": {
+            "official": "Společenství Severních Marian",
+            "common": "Severní Mariany"
+        },
+        "cym": {
+            "official": "Commonwealth of the Northern Mariana Islands",
+            "common": "Northern Mariana Islands"
+        },
+        "deu": {
+            "official": "Commonwealth der Nördlichen Marianen",
+            "common": "Nördliche Marianen"
+        },
+        "est": {
+            "official": "Põhja-Mariaani Ühendus",
+            "common": "Põhja-Mariaanid"
+        },
+        "fin": {
+            "official": "Pohjois-Mariaanit",
+            "common": "Pohjois-Mariaanit"
+        },
+        "fra": {
+            "official": "Commonwealth des îles Mariannes du Nord",
+            "common": "Îles Mariannes du Nord"
+        },
+        "hrv": {
+            "official": "Zajednica je Sjeverni Marijanski otoci",
+            "common": "Sjevernomarijanski otoci"
+        },
+        "hun": {
+            "official": "Északi-Mariana-szigetek",
+            "common": "Északi-Mariana-szigetek"
+        },
+        "ita": {
+            "official": "Commonwealth delle Isole Marianne Settentrionali",
+            "common": "Isole Marianne Settentrionali"
+        },
+        "jpn": {
+            "official": "北マリアナ諸島",
+            "common": "北マリアナ諸島"
+        },
+        "kor": {
+            "official": "북마리아나 제도",
+            "common": "북마리아나 제도"
+        },
+        "nld": {
+            "official": "Commonwealth van de Noordelijke Marianen",
+            "common": "Noordelijke Marianeneilanden"
+        },
+        "per": {
+            "official": "جزایر ماریانای شمالی",
+            "common": "جزایر ماریانای شمالی"
+        },
+        "pol": {
+            "official": "Wspólnota Marianów Północnych",
+            "common": "Mariany Północne"
+        },
+        "por": {
+            "official": "Comunidade das Ilhas Marianas do Norte",
+            "common": "Marianas Setentrionais"
+        },
+        "rus": {
+            "official": "Содружество Северных Марианских островов",
+            "common": "Северные Марианские острова"
+        },
+        "slk": {
+            "official": "Spoločenstvo ostrovov Severné Mariány",
+            "common": "Severné Mariány"
+        },
+        "spa": {
+            "official": "Mancomunidad de las Islas Marianas del Norte",
+            "common": "Islas Marianas del Norte"
+        },
+        "swe": {
+            "official": "Nordmarianerna",
+            "common": "Nordmarianerna"
+        },
+        "urd": {
+            "official": "دولتِ مشترکہ جزائر شمالی ماریانا",
+            "common": "جزائر شمالی ماریانا"
+        },
+        "zho": {
+            "official": "北马里亚纳群岛",
+            "common": "北马里亚纳群岛"
+        }
+    },
+    "latlng": [
+        15.2,
+        145.75
+    ],
+    "landlocked": false,
+    "area": 464,
+    "demonyms": {
+        "eng": {
+            "f": "American",
+            "m": "American"
+        },
+        "fra": {
+            "f": "Américaine",
+            "m": "Américan"
+        }
+    },
+    "flag": "🇲🇵",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/cpZ67knoRAcfu1417",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/306004"
+    },
+    "population": 57557,
+    "car": {
+        "signs": [
+            "USA"
+        ],
+        "side": "right"
+    },
+    "timezones": [
+        "UTC+10:00"
+    ],
+    "continents": [
+        "Oceania"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/mp.png",
+        "svg": "https://flagcdn.com/mp.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            15.2,
+            145.75
+        ]
+    }
+}

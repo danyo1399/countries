@@ -1,0 +1,191 @@
+{
+    "name": {
+        "common": "Norfolk Island",
+        "official": "Territory of Norfolk Island",
+        "nativeName": {
+            "eng": {
+                "official": "Territory of Norfolk Island",
+                "common": "Norfolk Island"
+            },
+            "pih": {
+                "official": "Teratri of Norf'k Ailen",
+                "common": "Norf'k Ailen"
+            }
+        }
+    },
+    "tld": [
+        ".nf"
+    ],
+    "cca2": "NF",
+    "ccn3": "574",
+    "cca3": "NFK",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "AUD": {
+            "name": "Australian dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "72"
+        ]
+    },
+    "capital": [
+        "Kingston"
+    ],
+    "altSpellings": [
+        "NF",
+        "Territory of Norfolk Island",
+        "Teratri of Norf'k Ailen"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": {
+        "eng": "English",
+        "pih": "Norfuk"
+    },
+    "translations": {
+        "ara": {
+            "official": "إقليم جزيرة نورفولك",
+            "common": "جزيرة نورفولك"
+        },
+        "bre": {
+            "official": "Tiriad Enez Norfolk",
+            "common": "Enez Norfolk"
+        },
+        "ces": {
+            "official": "Teritorium ostrova Norfolk",
+            "common": "Norfolk"
+        },
+        "cym": {
+            "official": "Territory of Norfolk Island",
+            "common": "Norfolk Island"
+        },
+        "deu": {
+            "official": "Gebiet der Norfolkinsel",
+            "common": "Norfolkinsel"
+        },
+        "est": {
+            "official": "Norfolki saare ala",
+            "common": "Norfolk"
+        },
+        "fin": {
+            "official": "Norfolkinsaaren territorio",
+            "common": "Norfolkinsaari"
+        },
+        "fra": {
+            "official": "Territoire de l'île Norfolk",
+            "common": "Île Norfolk"
+        },
+        "hrv": {
+            "official": "Teritorij Norfolk Island",
+            "common": "Otok Norfolk"
+        },
+        "hun": {
+            "official": "Norfolk-sziget",
+            "common": "Norfolk-sziget"
+        },
+        "ita": {
+            "official": "Territorio di Norfolk Island",
+            "common": "Isola Norfolk"
+        },
+        "jpn": {
+            "official": "ノーフォーク島の領土",
+            "common": "ノーフォーク島"
+        },
+        "kor": {
+            "official": "노퍽 섬",
+            "common": "노퍽 섬"
+        },
+        "nld": {
+            "official": "Grondgebied van Norfolk Island",
+            "common": "Norfolkeiland"
+        },
+        "per": {
+            "official": "قلمرو جزایر نورفک",
+            "common": "جزیره نورفک"
+        },
+        "pol": {
+            "official": "Terytorium Wyspy Norfolk",
+            "common": "Wyspa Norfolk"
+        },
+        "por": {
+            "official": "Território da Ilha Norfolk",
+            "common": "Ilha Norfolk"
+        },
+        "rus": {
+            "official": "Территория острова Норфолк",
+            "common": "Норфолк"
+        },
+        "slk": {
+            "official": "Teritórium ostrova Norfolk",
+            "common": "Norfolk"
+        },
+        "spa": {
+            "official": "Territorio de la Isla Norfolk",
+            "common": "Isla de Norfolk"
+        },
+        "swe": {
+            "official": "Norfolkön",
+            "common": "Norfolkön"
+        },
+        "urd": {
+            "official": "جزیرہ نورفک خطہ",
+            "common": "جزیرہ نورفک"
+        },
+        "zho": {
+            "official": "诺福克岛",
+            "common": "诺福克岛"
+        }
+    },
+    "latlng": [
+        -29.03333333,
+        167.95
+    ],
+    "landlocked": false,
+    "area": 36,
+    "demonyms": {
+        "eng": {
+            "f": "Norfolk Islander",
+            "m": "Norfolk Islander"
+        },
+        "fra": {
+            "f": "Norfolkaise",
+            "m": "Norfolkais"
+        }
+    },
+    "flag": "🇳🇫",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/pbvtm6XYd1iZbjky5",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/2574988"
+    },
+    "population": 2302,
+    "car": {
+        "signs": [
+            "AUS"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+11:30"
+    ],
+    "continents": [
+        "Oceania"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/nf.png",
+        "svg": "https://flagcdn.com/nf.svg"
+    },
+    "coatOfArms": {},
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -29.05,
+            167.97
+        ]
+    }
+}

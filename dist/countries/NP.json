@@ -1,0 +1,223 @@
+{
+    "name": {
+        "common": "Nepal",
+        "official": "Federal Democratic Republic of Nepal",
+        "nativeName": {
+            "nep": {
+                "official": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
+                "common": "नेपाल"
+            }
+        }
+    },
+    "tld": [
+        ".np"
+    ],
+    "cca2": "NP",
+    "ccn3": "524",
+    "cca3": "NPL",
+    "cioc": "NEP",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "NPR": {
+            "name": "Nepalese rupee",
+            "symbol": "₨"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "77"
+        ]
+    },
+    "capital": [
+        "Kathmandu"
+    ],
+    "altSpellings": [
+        "NP",
+        "Federal Democratic Republic of Nepal",
+        "Loktāntrik Ganatantra Nepāl"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+        "nep": "Nepali"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية نيبال الديمقراطية الاتحادية",
+            "common": "نيبال"
+        },
+        "bre": {
+            "official": "Republik Demokratel Kevreadel Nepal",
+            "common": "Nepal"
+        },
+        "ces": {
+            "official": "Federativní demokratická republika Nepál",
+            "common": "Nepál"
+        },
+        "cym": {
+            "official": "Federal Democratic Republic of Nepal",
+            "common": "Nepal"
+        },
+        "deu": {
+            "official": "Demokratische Bundesrepublik Nepal",
+            "common": "Nepal"
+        },
+        "est": {
+            "official": "Nepali Demokraatlik Liitvabariik",
+            "common": "Nepal"
+        },
+        "fin": {
+            "official": "Nepalin demokraattinen liittotasavalta",
+            "common": "Nepal"
+        },
+        "fra": {
+            "official": "République du Népal",
+            "common": "Népal"
+        },
+        "hrv": {
+            "official": "Savezna Demokratska Republika Nepal",
+            "common": "Nepal"
+        },
+        "hun": {
+            "official": "Nepáli Szövetségi Demokratikus Köztársaság",
+            "common": "Nepál"
+        },
+        "ita": {
+            "official": "Repubblica federale democratica del Nepal",
+            "common": "Nepal"
+        },
+        "jpn": {
+            "official": "ネパール連邦民主共和国",
+            "common": "ネパール"
+        },
+        "kor": {
+            "official": "네팔 연방 민주 공화국",
+            "common": "네팔"
+        },
+        "nld": {
+            "official": "Federale Democratische Republiek Nepal",
+            "common": "Nepal"
+        },
+        "per": {
+            "official": "جمهوری فدرال دموکراتیک نپال",
+            "common": "نپال"
+        },
+        "pol": {
+            "official": "Federalna Demokratyczna Republika Nepalu",
+            "common": "Nepal"
+        },
+        "por": {
+            "official": "República Democrática Federal do Nepal",
+            "common": "Nepal"
+        },
+        "rus": {
+            "official": "Федеративная Демократическая Республика Непал",
+            "common": "Непал"
+        },
+        "slk": {
+            "official": "Nepálska federatívna demokratická republika",
+            "common": "Nepál"
+        },
+        "spa": {
+            "official": "República Democrática Federal de Nepal",
+            "common": "Nepal"
+        },
+        "swe": {
+            "official": "Demokratiska förbundsrepubliken Nepal",
+            "common": "Nepal"
+        },
+        "urd": {
+            "official": "وفاقی جمہوری جمہوریہ نیپال",
+            "common": "نیپال"
+        },
+        "zho": {
+            "official": "尼泊尔联邦民主共和国",
+            "common": "尼泊尔"
+        }
+    },
+    "latlng": [
+        28,
+        84
+    ],
+    "landlocked": true,
+    "borders": [
+        "CHN",
+        "IND"
+    ],
+    "area": 147181,
+    "demonyms": {
+        "eng": {
+            "f": "Nepalese",
+            "m": "Nepalese"
+        },
+        "fra": {
+            "f": "Népalaise",
+            "m": "Népalais"
+        }
+    },
+    "flag": "🇳🇵",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/UMj2zpbQp7B5c3yT7",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/184633"
+    },
+    "population": 29136808,
+    "gini": {
+        "2010": 32.8
+    },
+    "fifa": "NEP",
+    "car": {
+        "signs": [
+            "NEP"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+05:45"
+    ],
+    "continents": [
+        "Asia"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/np.png",
+        "svg": "https://flagcdn.com/np.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/np.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/np.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+        "latlng": [
+            27.72,
+            85.32
+        ]
+    },
+    "postalCode": {
+        "format": "#####",
+        "regex": "^(\\d{5})$"
+    },
+    "provinces": [
+        "Bagmati Zone",
+        "Bheri Zone",
+        "Central Region",
+        "Dhaulagiri Zone",
+        "Eastern Development Region",
+        "Far-Western Development Region",
+        "Gandaki Zone",
+        "Janakpur Zone",
+        "Karnali Zone",
+        "Kosi Zone",
+        "Lumbini Zone",
+        "Mahakali Zone",
+        "Mechi Zone",
+        "Mid-Western Region",
+        "Narayani Zone",
+        "Rapti Zone",
+        "Sagarmatha Zone",
+        "Seti Zone",
+        "Western Region"
+    ]
+}

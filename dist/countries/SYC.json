@@ -1,0 +1,231 @@
+{
+    "name": {
+        "common": "Seychelles",
+        "official": "Republic of Seychelles",
+        "nativeName": {
+            "crs": {
+                "official": "Repiblik Sesel",
+                "common": "Sesel"
+            },
+            "eng": {
+                "official": "Republic of Seychelles",
+                "common": "Seychelles"
+            },
+            "fra": {
+                "official": "République des Seychelles",
+                "common": "Seychelles"
+            }
+        }
+    },
+    "tld": [
+        ".sc"
+    ],
+    "cca2": "SC",
+    "ccn3": "690",
+    "cca3": "SYC",
+    "cioc": "SEY",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "SCR": {
+            "name": "Seychellois rupee",
+            "symbol": "₨"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "48"
+        ]
+    },
+    "capital": [
+        "Victoria"
+    ],
+    "altSpellings": [
+        "SC",
+        "Republic of Seychelles",
+        "Repiblik Sesel",
+        "République des Seychelles"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "crs": "Seychellois Creole",
+        "eng": "English",
+        "fra": "French"
+    },
+    "translations": {
+        "ara": {
+            "official": "جمهورية سيشل",
+            "common": "سيشل"
+        },
+        "bre": {
+            "official": "Republik Sechelez",
+            "common": "Sechelez"
+        },
+        "ces": {
+            "official": "Seychelská republika",
+            "common": "Seychely"
+        },
+        "cym": {
+            "official": "Republic of Seychelles",
+            "common": "Seychelles"
+        },
+        "deu": {
+            "official": "Republik der Seychellen",
+            "common": "Seychellen"
+        },
+        "est": {
+            "official": "Seišelli Vabariik",
+            "common": "Seišellid"
+        },
+        "fin": {
+            "official": "Seychellien tasavalta",
+            "common": "Seychellit"
+        },
+        "fra": {
+            "official": "République des Seychelles",
+            "common": "Seychelles"
+        },
+        "hrv": {
+            "official": "Republika Sejšeli",
+            "common": "Sejšeli"
+        },
+        "hun": {
+            "official": "Seychelle Köztársaság",
+            "common": "Seychelle-szigetek"
+        },
+        "ita": {
+            "official": "Repubblica delle Seychelles",
+            "common": "Seychelles"
+        },
+        "jpn": {
+            "official": "セイシェル共和国",
+            "common": "セーシェル"
+        },
+        "kor": {
+            "official": "세이셸 공화국",
+            "common": "세이셸"
+        },
+        "nld": {
+            "official": "Republiek der Seychellen",
+            "common": "Seychellen"
+        },
+        "per": {
+            "official": "جمهوری سیشل",
+            "common": "سیشل"
+        },
+        "pol": {
+            "official": "Republika Seszeli",
+            "common": "Seszele"
+        },
+        "por": {
+            "official": "República das Seychelles",
+            "common": "Seicheles"
+        },
+        "rus": {
+            "official": "Республика Сейшельские Острова",
+            "common": "Сейшельские Острова"
+        },
+        "slk": {
+            "official": "Seychelská republika",
+            "common": "Seychely"
+        },
+        "spa": {
+            "official": "República de las Seychelles",
+            "common": "Seychelles"
+        },
+        "swe": {
+            "official": "Republiken Seychellerna",
+            "common": "Seychellerna"
+        },
+        "urd": {
+            "official": "جمہوریہ سیچیلیس",
+            "common": "سیچیلیس"
+        },
+        "zho": {
+            "official": "塞舌尔共和国",
+            "common": "塞舌尔"
+        }
+    },
+    "latlng": [
+        -4.58333333,
+        55.66666666
+    ],
+    "landlocked": false,
+    "area": 452,
+    "demonyms": {
+        "eng": {
+            "f": "Seychellois",
+            "m": "Seychellois"
+        },
+        "fra": {
+            "f": "Seychelloise",
+            "m": "Seychellois"
+        }
+    },
+    "flag": "🇸🇨",
+    "maps": {
+        "googleMaps": "https://goo.gl/maps/aqCcy2TKh5TV5MAX8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/536765"
+    },
+    "population": 98462,
+    "gini": {
+        "2018": 32.1
+    },
+    "fifa": "SEY",
+    "car": {
+        "signs": [
+            "SY"
+        ],
+        "side": "left"
+    },
+    "timezones": [
+        "UTC+04:00"
+    ],
+    "continents": [
+        "Africa"
+    ],
+    "flags": {
+        "png": "https://flagcdn.com/w320/sc.png",
+        "svg": "https://flagcdn.com/sc.svg"
+    },
+    "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/sc.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/sc.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+        "latlng": [
+            -4.62,
+            55.45
+        ]
+    },
+    "provinces": [
+        "Anse Boileau",
+        "Anse Royale",
+        "Anse-aux-Pins",
+        "Au Cap",
+        "Baie Lazare",
+        "Baie Sainte Anne",
+        "Beau Vallon",
+        "Bel Air",
+        "Bel Ombre",
+        "Cascade",
+        "Glacis",
+        "Grand'Anse Mahé",
+        "Grand'Anse Praslin",
+        "La Digue",
+        "La Rivière Anglaise",
+        "Les Mamelles",
+        "Mont Buxton",
+        "Mont Fleuri",
+        "Plaisance",
+        "Pointe La Rue",
+        "Port Glaud",
+        "Roche Caiman",
+        "Saint Louis",
+        "Takamaka"
+    ]
+}
