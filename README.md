@@ -12,9 +12,15 @@ be consumed via API
 - https://countries-api.pages.dev/provinces-alpha-2.json
 - https://countries-api.pages.dev/provinces-alpha-3.json
 
-Or to get regions for specific country. eg
+To get regions for specific country. eg
 - https://countries-api.pages.dev/provinces/NZ.json
 - https://countries-api.pages.dev/provinces/AUS.json
+
+To get specific country info 
+- https://countries-api.pages.dev/countries/NZ.json
+- https://countries-api.pages.dev/countries/AUS.json
+ 
+
 
 If you want the data refreshed, raise a PR bumping the package version.
 Triggering a build will refresh the data
