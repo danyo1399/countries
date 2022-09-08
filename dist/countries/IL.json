@@ -207,12 +207,48 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Central District",
-        "Haifa District",
-        "Jerusalem District",
-        "Northern District",
-        "Southern District",
-        "Tel Aviv District"
+    "states": [
+        {
+            "name": "Central District",
+            "type": null,
+            "latitude": "47.60875830",
+            "longitude": "-122.29642350",
+            "code": "M"
+        },
+        {
+            "name": "Haifa District",
+            "type": null,
+            "latitude": "32.48141110",
+            "longitude": "34.99475100",
+            "code": "HA"
+        },
+        {
+            "name": "Jerusalem District",
+            "type": null,
+            "latitude": "31.76482430",
+            "longitude": "34.99475100",
+            "code": "JM"
+        },
+        {
+            "name": "Northern District",
+            "type": null,
+            "latitude": "36.15118640",
+            "longitude": "-95.99517630",
+            "code": "Z"
+        },
+        {
+            "name": "Southern District",
+            "type": null,
+            "latitude": "40.71375860",
+            "longitude": "-74.00090590",
+            "code": "D"
+        },
+        {
+            "name": "Tel Aviv District",
+            "type": null,
+            "latitude": "32.09290750",
+            "longitude": "34.80721650",
+            "code": "TA"
+        }
     ]
 }

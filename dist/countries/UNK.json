@@ -192,13 +192,55 @@
             21.17
         ]
     },
-    "provinces": [
-        "Đakovica District (Gjakove)",
-        "Gjilan District",
-        "Kosovska Mitrovica District",
-        "Peć District",
-        "Pristina (Priştine)",
-        "Prizren District",
-        "Uroševac District (Ferizaj)"
+    "states": [
+        {
+            "name": "Đakovica District (Gjakove)",
+            "type": null,
+            "latitude": "42.43757560",
+            "longitude": "20.37854380",
+            "code": "XDG"
+        },
+        {
+            "name": "Gjilan District",
+            "type": null,
+            "latitude": "42.46352060",
+            "longitude": "21.46940110",
+            "code": "XGJ"
+        },
+        {
+            "name": "Kosovska Mitrovica District",
+            "type": null,
+            "latitude": "42.89139090",
+            "longitude": "20.86599950",
+            "code": "XKM"
+        },
+        {
+            "name": "Peć District",
+            "type": null,
+            "latitude": "42.65921550",
+            "longitude": "20.28876240",
+            "code": "XPE"
+        },
+        {
+            "name": "Pristina (Priştine)",
+            "type": null,
+            "latitude": "42.66291380",
+            "longitude": "21.16550280",
+            "code": "XPI"
+        },
+        {
+            "name": "Prizren District",
+            "type": null,
+            "latitude": "42.21525220",
+            "longitude": "20.74147720",
+            "code": "XPR"
+        },
+        {
+            "name": "Uroševac District (Ferizaj)",
+            "type": null,
+            "latitude": "42.37018440",
+            "longitude": "21.14832810",
+            "code": "XUF"
+        }
     ]
 }

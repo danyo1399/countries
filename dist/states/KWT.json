@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Al Ahmadi",
+        "type": null,
+        "latitude": "28.57451250",
+        "longitude": "48.10247430",
+        "code": "AH"
+    },
+    {
+        "name": "Al Farwaniyah",
+        "type": null,
+        "latitude": "29.27335700",
+        "longitude": "47.94001540",
+        "code": "FA"
+    },
+    {
+        "name": "Al Jahra",
+        "type": null,
+        "latitude": "29.99318310",
+        "longitude": "47.76347310",
+        "code": "JA"
+    },
+    {
+        "name": "Capital",
+        "type": null,
+        "latitude": "26.22851610",
+        "longitude": "50.58604970",
+        "code": "KU"
+    },
+    {
+        "name": "Hawalli",
+        "type": null,
+        "latitude": "29.30567160",
+        "longitude": "48.03076130",
+        "code": "HA"
+    },
+    {
+        "name": "Mubarak Al-Kabeer",
+        "type": null,
+        "latitude": "29.21224000",
+        "longitude": "48.06051080",
+        "code": "MU"
+    }
+]

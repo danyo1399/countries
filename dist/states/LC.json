@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Anse la Raye Quarter",
+        "type": null,
+        "latitude": "13.94594240",
+        "longitude": "-61.03694680",
+        "code": "01"
+    },
+    {
+        "name": "Canaries",
+        "type": null,
+        "latitude": "28.29156370",
+        "longitude": "-16.62913040",
+        "code": "12"
+    },
+    {
+        "name": "Castries Quarter",
+        "type": null,
+        "latitude": "14.01010940",
+        "longitude": "-60.98746870",
+        "code": "02"
+    },
+    {
+        "name": "Choiseul Quarter",
+        "type": null,
+        "latitude": "13.77501540",
+        "longitude": "-61.04859100",
+        "code": "03"
+    },
+    {
+        "name": "Dauphin Quarter",
+        "type": null,
+        "latitude": "14.01033960",
+        "longitude": "-60.91909880",
+        "code": "04"
+    },
+    {
+        "name": "Dennery Quarter",
+        "type": null,
+        "latitude": "13.92673930",
+        "longitude": "-60.91909880",
+        "code": "05"
+    },
+    {
+        "name": "Gros Islet Quarter",
+        "type": null,
+        "latitude": "14.08435780",
+        "longitude": "-60.94527940",
+        "code": "06"
+    },
+    {
+        "name": "Laborie Quarter",
+        "type": null,
+        "latitude": "13.75227830",
+        "longitude": "-60.99328890",
+        "code": "07"
+    },
+    {
+        "name": "Micoud Quarter",
+        "type": null,
+        "latitude": "13.82118710",
+        "longitude": "-60.90019340",
+        "code": "08"
+    },
+    {
+        "name": "Praslin Quarter",
+        "type": null,
+        "latitude": "13.87523920",
+        "longitude": "-60.89946630",
+        "code": "09"
+    },
+    {
+        "name": "Soufrière Quarter",
+        "type": null,
+        "latitude": "13.85709860",
+        "longitude": "-61.05732480",
+        "code": "10"
+    },
+    {
+        "name": "Vieux Fort Quarter",
+        "type": null,
+        "latitude": "13.72060800",
+        "longitude": "-60.94964330",
+        "code": "11"
+    }
+]

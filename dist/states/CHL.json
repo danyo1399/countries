@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Aisén del General Carlos Ibañez del Campo",
+        "type": null,
+        "latitude": "-46.37834500",
+        "longitude": "-72.30076230",
+        "code": "AI"
+    },
+    {
+        "name": "Antofagasta",
+        "type": null,
+        "latitude": "-23.83691040",
+        "longitude": "-69.28775350",
+        "code": "AN"
+    },
+    {
+        "name": "Arica y Parinacota",
+        "type": null,
+        "latitude": "-18.59404850",
+        "longitude": "-69.47845410",
+        "code": "AP"
+    },
+    {
+        "name": "Atacama",
+        "type": null,
+        "latitude": "-27.56605580",
+        "longitude": "-70.05031400",
+        "code": "AT"
+    },
+    {
+        "name": "Biobío",
+        "type": null,
+        "latitude": "-37.44644280",
+        "longitude": "-72.14161320",
+        "code": "BI"
+    },
+    {
+        "name": "Coquimbo",
+        "type": null,
+        "latitude": "-30.54018100",
+        "longitude": "-70.81199530",
+        "code": "CO"
+    },
+    {
+        "name": "La Araucanía",
+        "type": null,
+        "latitude": "-38.94892100",
+        "longitude": "-72.33111300",
+        "code": "AR"
+    },
+    {
+        "name": "Libertador General Bernardo O'Higgins",
+        "type": null,
+        "latitude": "-34.57553740",
+        "longitude": "-71.00223110",
+        "code": "LI"
+    },
+    {
+        "name": "Los Lagos",
+        "type": null,
+        "latitude": "-41.91977790",
+        "longitude": "-72.14161320",
+        "code": "LL"
+    },
+    {
+        "name": "Los Ríos",
+        "type": null,
+        "latitude": "-40.23102170",
+        "longitude": "-72.33111300",
+        "code": "LR"
+    },
+    {
+        "name": "Magallanes y de la Antártica Chilena",
+        "type": null,
+        "latitude": "-52.20643160",
+        "longitude": "-72.16850010",
+        "code": "MA"
+    },
+    {
+        "name": "Maule",
+        "type": null,
+        "latitude": "-35.51636030",
+        "longitude": "-71.57239530",
+        "code": "ML"
+    },
+    {
+        "name": "Ñuble",
+        "type": null,
+        "latitude": "-36.72257430",
+        "longitude": "-71.76224810",
+        "code": "NB"
+    },
+    {
+        "name": "Región Metropolitana de Santiago",
+        "type": null,
+        "latitude": "-33.43755450",
+        "longitude": "-70.65048960",
+        "code": "RM"
+    },
+    {
+        "name": "Tarapacá",
+        "type": null,
+        "latitude": "-20.20287990",
+        "longitude": "-69.28775350",
+        "code": "TA"
+    },
+    {
+        "name": "Valparaíso",
+        "type": null,
+        "latitude": "-33.04723800",
+        "longitude": "-71.61268850",
+        "code": "VS"
+    }
+]

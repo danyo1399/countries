@@ -205,39 +205,237 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Ampara District",
-        "Anuradhapura District",
-        "Badulla District",
-        "Batticaloa District",
-        "Central Province",
-        "Colombo District",
-        "Eastern Province",
-        "Galle District",
-        "Gampaha District",
-        "Hambantota District",
-        "Jaffna District",
-        "Kalutara District",
-        "Kandy District",
-        "Kegalle District",
-        "Kilinochchi District",
-        "Mannar District",
-        "Matale District",
-        "Matara District",
-        "Monaragala District",
-        "Mullaitivu District",
-        "North Central Province",
-        "North Western Province",
-        "Northern Province",
-        "Nuwara Eliya District",
-        "Polonnaruwa District",
-        "Puttalam District",
-        "Ratnapura district",
-        "Sabaragamuwa Province",
-        "Southern Province",
-        "Trincomalee District",
-        "Uva Province",
-        "Vavuniya District",
-        "Western Province"
+    "states": [
+        {
+            "name": "Ampara District",
+            "type": null,
+            "latitude": "7.29116850",
+            "longitude": "81.67237610",
+            "code": "52"
+        },
+        {
+            "name": "Anuradhapura District",
+            "type": null,
+            "latitude": "8.33183050",
+            "longitude": "80.40290170",
+            "code": "71"
+        },
+        {
+            "name": "Badulla District",
+            "type": null,
+            "latitude": "6.99340090",
+            "longitude": "81.05498150",
+            "code": "81"
+        },
+        {
+            "name": "Batticaloa District",
+            "type": null,
+            "latitude": "7.82927810",
+            "longitude": "81.47183870",
+            "code": "51"
+        },
+        {
+            "name": "Central Province",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "2"
+        },
+        {
+            "name": "Colombo District",
+            "type": null,
+            "latitude": "6.92695570",
+            "longitude": "79.86173060",
+            "code": "11"
+        },
+        {
+            "name": "Eastern Province",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "5"
+        },
+        {
+            "name": "Galle District",
+            "type": null,
+            "latitude": "6.05774900",
+            "longitude": "80.21755720",
+            "code": "31"
+        },
+        {
+            "name": "Gampaha District",
+            "type": null,
+            "latitude": "7.07126190",
+            "longitude": "80.00877460",
+            "code": "12"
+        },
+        {
+            "name": "Hambantota District",
+            "type": null,
+            "latitude": "6.15358160",
+            "longitude": "81.12714900",
+            "code": "33"
+        },
+        {
+            "name": "Jaffna District",
+            "type": null,
+            "latitude": "9.69304680",
+            "longitude": "80.16518540",
+            "code": "41"
+        },
+        {
+            "name": "Kalutara District",
+            "type": null,
+            "latitude": "6.60846860",
+            "longitude": "80.14285840",
+            "code": "13"
+        },
+        {
+            "name": "Kandy District",
+            "type": null,
+            "latitude": "7.29315880",
+            "longitude": "80.63501070",
+            "code": "21"
+        },
+        {
+            "name": "Kegalle District",
+            "type": null,
+            "latitude": "7.12040530",
+            "longitude": "80.32131060",
+            "code": "92"
+        },
+        {
+            "name": "Kilinochchi District",
+            "type": null,
+            "latitude": "9.36779710",
+            "longitude": "80.32131060",
+            "code": "42"
+        },
+        {
+            "name": "Mannar District",
+            "type": null,
+            "latitude": "8.98095310",
+            "longitude": "79.90439750",
+            "code": "43"
+        },
+        {
+            "name": "Matale District",
+            "type": null,
+            "latitude": "7.46596460",
+            "longitude": "80.62342590",
+            "code": "22"
+        },
+        {
+            "name": "Matara District",
+            "type": null,
+            "latitude": "5.94493480",
+            "longitude": "80.54879970",
+            "code": "32"
+        },
+        {
+            "name": "Monaragala District",
+            "type": null,
+            "latitude": "6.87277810",
+            "longitude": "81.35068320",
+            "code": "82"
+        },
+        {
+            "name": "Mullaitivu District",
+            "type": null,
+            "latitude": "9.26753880",
+            "longitude": "80.81282540",
+            "code": "45"
+        },
+        {
+            "name": "North Central Province",
+            "type": null,
+            "latitude": "8.19956380",
+            "longitude": "80.63269160",
+            "code": "7"
+        },
+        {
+            "name": "North Western Province",
+            "type": null,
+            "latitude": "7.75840910",
+            "longitude": "80.18750650",
+            "code": "6"
+        },
+        {
+            "name": "Northern Province",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "4"
+        },
+        {
+            "name": "Nuwara Eliya District",
+            "type": null,
+            "latitude": "6.96065320",
+            "longitude": "80.76927580",
+            "code": "23"
+        },
+        {
+            "name": "Polonnaruwa District",
+            "type": null,
+            "latitude": "7.93955670",
+            "longitude": "81.00034030",
+            "code": "72"
+        },
+        {
+            "name": "Puttalam District",
+            "type": null,
+            "latitude": "8.02599150",
+            "longitude": "79.84712720",
+            "code": "62"
+        },
+        {
+            "name": "Ratnapura district",
+            "type": null,
+            "latitude": "6.70551680",
+            "longitude": "80.38483890",
+            "code": "91"
+        },
+        {
+            "name": "Sabaragamuwa Province",
+            "type": null,
+            "latitude": "6.73959410",
+            "longitude": "80.36586500",
+            "code": "9"
+        },
+        {
+            "name": "Southern Province",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "3"
+        },
+        {
+            "name": "Trincomalee District",
+            "type": null,
+            "latitude": "8.60130690",
+            "longitude": "81.11960750",
+            "code": "53"
+        },
+        {
+            "name": "Uva Province",
+            "type": null,
+            "latitude": "6.84276120",
+            "longitude": "81.33994140",
+            "code": "8"
+        },
+        {
+            "name": "Vavuniya District",
+            "type": null,
+            "latitude": "8.75947390",
+            "longitude": "80.50003340",
+            "code": "44"
+        },
+        {
+            "name": "Western Province",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "1"
+        }
     ]
 }

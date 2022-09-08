@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Abu Dhabi Emirate",
+        "type": null,
+        "latitude": "24.45388400",
+        "longitude": "54.37734380",
+        "code": "AZ"
+    },
+    {
+        "name": "Ajman Emirate",
+        "type": null,
+        "latitude": "25.40521650",
+        "longitude": "55.51364330",
+        "code": "AJ"
+    },
+    {
+        "name": "Dubai",
+        "type": null,
+        "latitude": "25.20484930",
+        "longitude": "55.27078280",
+        "code": "DU"
+    },
+    {
+        "name": "Fujairah",
+        "type": null,
+        "latitude": "25.12880990",
+        "longitude": "56.32648490",
+        "code": "FU"
+    },
+    {
+        "name": "Ras al-Khaimah",
+        "type": null,
+        "latitude": "25.67413430",
+        "longitude": "55.98041730",
+        "code": "RK"
+    },
+    {
+        "name": "Sharjah Emirate",
+        "type": null,
+        "latitude": "25.07539740",
+        "longitude": "55.75784030",
+        "code": "SH"
+    },
+    {
+        "name": "Umm al-Quwain",
+        "type": null,
+        "latitude": "25.54263240",
+        "longitude": "55.54753480",
+        "code": "UQ"
+    }
+]

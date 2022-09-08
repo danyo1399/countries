@@ -207,53 +207,335 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Baringo",
-        "Bomet",
-        "Bungoma",
-        "Busia",
-        "Elgeyo-Marakwet",
-        "Embu",
-        "Garissa",
-        "Homa Bay",
-        "Isiolo",
-        "Kajiado",
-        "Kakamega",
-        "Kericho",
-        "Kiambu",
-        "Kilifi",
-        "Kirinyaga",
-        "Kisii",
-        "Kisumu",
-        "Kitui",
-        "Kwale",
-        "Laikipia",
-        "Lamu",
-        "Machakos",
-        "Makueni",
-        "Mandera",
-        "Marsabit",
-        "Meru",
-        "Migori",
-        "Mombasa",
-        "Murang'a",
-        "Nairobi City",
-        "Nakuru",
-        "Nandi",
-        "Narok",
-        "Nyamira",
-        "Nyandarua",
-        "Nyeri",
-        "Samburu",
-        "Siaya",
-        "Taita–Taveta",
-        "Tana River",
-        "Tharaka-Nithi",
-        "Trans Nzoia",
-        "Turkana",
-        "Uasin Gishu",
-        "Vihiga",
-        "Wajir",
-        "West Pokot"
+    "states": [
+        {
+            "name": "Baringo",
+            "type": "county",
+            "latitude": "0.85549880",
+            "longitude": "36.08934060",
+            "code": "01"
+        },
+        {
+            "name": "Bomet",
+            "type": "county",
+            "latitude": "-0.80150090",
+            "longitude": "35.30272260",
+            "code": "02"
+        },
+        {
+            "name": "Bungoma",
+            "type": "county",
+            "latitude": "0.56952520",
+            "longitude": "34.55837660",
+            "code": "03"
+        },
+        {
+            "name": "Busia",
+            "type": "county",
+            "latitude": "0.43465060",
+            "longitude": "34.24215970",
+            "code": "04"
+        },
+        {
+            "name": "Elgeyo-Marakwet",
+            "type": "county",
+            "latitude": "1.04982370",
+            "longitude": "35.47819260",
+            "code": "05"
+        },
+        {
+            "name": "Embu",
+            "type": "county",
+            "latitude": "-0.65604770",
+            "longitude": "37.72376780",
+            "code": "06"
+        },
+        {
+            "name": "Garissa",
+            "type": "county",
+            "latitude": "-0.45322930",
+            "longitude": "39.64609880",
+            "code": "07"
+        },
+        {
+            "name": "Homa Bay",
+            "type": "county",
+            "latitude": "-0.62206550",
+            "longitude": "34.33103640",
+            "code": "08"
+        },
+        {
+            "name": "Isiolo",
+            "type": "county",
+            "latitude": "0.35243520",
+            "longitude": "38.48499230",
+            "code": "09"
+        },
+        {
+            "name": "Kajiado",
+            "type": "county",
+            "latitude": "-2.09807510",
+            "longitude": "36.78195050",
+            "code": "10"
+        },
+        {
+            "name": "Kakamega",
+            "type": "county",
+            "latitude": "0.30789400",
+            "longitude": "34.77407930",
+            "code": "11"
+        },
+        {
+            "name": "Kericho",
+            "type": "county",
+            "latitude": "-0.18279130",
+            "longitude": "35.47819260",
+            "code": "12"
+        },
+        {
+            "name": "Kiambu",
+            "type": "county",
+            "latitude": "-1.03137010",
+            "longitude": "36.86807910",
+            "code": "13"
+        },
+        {
+            "name": "Kilifi",
+            "type": "county",
+            "latitude": "-3.51065080",
+            "longitude": "39.90932690",
+            "code": "14"
+        },
+        {
+            "name": "Kirinyaga",
+            "type": "county",
+            "latitude": "-0.65905650",
+            "longitude": "37.38272340",
+            "code": "15"
+        },
+        {
+            "name": "Kisii",
+            "type": "county",
+            "latitude": "-0.67733400",
+            "longitude": "34.77960300",
+            "code": "16"
+        },
+        {
+            "name": "Kisumu",
+            "type": "county",
+            "latitude": "-0.09170160",
+            "longitude": "34.76795680",
+            "code": "17"
+        },
+        {
+            "name": "Kitui",
+            "type": "county",
+            "latitude": "-1.68328220",
+            "longitude": "38.31657250",
+            "code": "18"
+        },
+        {
+            "name": "Kwale",
+            "type": "county",
+            "latitude": "-4.18161150",
+            "longitude": "39.46056120",
+            "code": "19"
+        },
+        {
+            "name": "Laikipia",
+            "type": "county",
+            "latitude": "0.36060630",
+            "longitude": "36.78195050",
+            "code": "20"
+        },
+        {
+            "name": "Lamu",
+            "type": "county",
+            "latitude": "-2.23550580",
+            "longitude": "40.47200040",
+            "code": "21"
+        },
+        {
+            "name": "Machakos",
+            "type": "county",
+            "latitude": "-1.51768370",
+            "longitude": "37.26341460",
+            "code": "22"
+        },
+        {
+            "name": "Makueni",
+            "type": "county",
+            "latitude": "-2.25587340",
+            "longitude": "37.89366630",
+            "code": "23"
+        },
+        {
+            "name": "Mandera",
+            "type": "county",
+            "latitude": "3.57379910",
+            "longitude": "40.95868800",
+            "code": "24"
+        },
+        {
+            "name": "Marsabit",
+            "type": "county",
+            "latitude": "2.44264030",
+            "longitude": "37.97845850",
+            "code": "25"
+        },
+        {
+            "name": "Meru",
+            "type": "county",
+            "latitude": "0.35571740",
+            "longitude": "37.80876930",
+            "code": "26"
+        },
+        {
+            "name": "Migori",
+            "type": "county",
+            "latitude": "-0.93657020",
+            "longitude": "34.41982430",
+            "code": "27"
+        },
+        {
+            "name": "Mombasa",
+            "type": "county",
+            "latitude": "-3.97682910",
+            "longitude": "39.71371810",
+            "code": "28"
+        },
+        {
+            "name": "Murang'a",
+            "type": "county",
+            "latitude": "-0.78392810",
+            "longitude": "37.04003390",
+            "code": "29"
+        },
+        {
+            "name": "Nairobi City",
+            "type": "county",
+            "latitude": "-1.29206590",
+            "longitude": "36.82194620",
+            "code": "30"
+        },
+        {
+            "name": "Nakuru",
+            "type": "county",
+            "latitude": "-0.30309880",
+            "longitude": "36.08002600",
+            "code": "31"
+        },
+        {
+            "name": "Nandi",
+            "type": "county",
+            "latitude": "0.18358670",
+            "longitude": "35.12687810",
+            "code": "32"
+        },
+        {
+            "name": "Narok",
+            "type": "county",
+            "latitude": "-1.10411100",
+            "longitude": "36.08934060",
+            "code": "33"
+        },
+        {
+            "name": "Nyamira",
+            "type": "county",
+            "latitude": "-0.56694050",
+            "longitude": "34.93412340",
+            "code": "34"
+        },
+        {
+            "name": "Nyandarua",
+            "type": "county",
+            "latitude": "-0.18038550",
+            "longitude": "36.52296410",
+            "code": "35"
+        },
+        {
+            "name": "Nyeri",
+            "type": "county",
+            "latitude": "-0.41969150",
+            "longitude": "37.04003390",
+            "code": "36"
+        },
+        {
+            "name": "Samburu",
+            "type": "county",
+            "latitude": "1.21545060",
+            "longitude": "36.95410700",
+            "code": "37"
+        },
+        {
+            "name": "Siaya",
+            "type": "county",
+            "latitude": "-0.06173280",
+            "longitude": "34.24215970",
+            "code": "38"
+        },
+        {
+            "name": "Taita–Taveta",
+            "type": "county",
+            "latitude": "-3.31606870",
+            "longitude": "38.48499230",
+            "code": "39"
+        },
+        {
+            "name": "Tana River",
+            "type": "county",
+            "latitude": "-1.65184680",
+            "longitude": "39.65181650",
+            "code": "40"
+        },
+        {
+            "name": "Tharaka-Nithi",
+            "type": "county",
+            "latitude": "-0.29648510",
+            "longitude": "37.72376780",
+            "code": "41"
+        },
+        {
+            "name": "Trans Nzoia",
+            "type": "county",
+            "latitude": "1.05666670",
+            "longitude": "34.95066250",
+            "code": "42"
+        },
+        {
+            "name": "Turkana",
+            "type": "county",
+            "latitude": "3.31224770",
+            "longitude": "35.56578620",
+            "code": "43"
+        },
+        {
+            "name": "Uasin Gishu",
+            "type": "county",
+            "latitude": "0.55276380",
+            "longitude": "35.30272260",
+            "code": "44"
+        },
+        {
+            "name": "Vihiga",
+            "type": "county",
+            "latitude": "0.07675530",
+            "longitude": "34.70776650",
+            "code": "45"
+        },
+        {
+            "name": "Wajir",
+            "type": "county",
+            "latitude": "1.63604750",
+            "longitude": "40.30886260",
+            "code": "46"
+        },
+        {
+            "name": "West Pokot",
+            "type": "county",
+            "latitude": "1.62100760",
+            "longitude": "35.39050460",
+            "code": "47"
+        }
     ]
 }

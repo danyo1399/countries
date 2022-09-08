@@ -1,0 +1,254 @@
+[
+    {
+        "name": "Anenii Noi District",
+        "type": null,
+        "latitude": "46.87956630",
+        "longitude": "29.23121750",
+        "code": "AN"
+    },
+    {
+        "name": "Bălți Municipality",
+        "type": null,
+        "latitude": "47.75399470",
+        "longitude": "27.91841480",
+        "code": "BA"
+    },
+    {
+        "name": "Basarabeasca District",
+        "type": null,
+        "latitude": "46.42370600",
+        "longitude": "28.89354920",
+        "code": "BS"
+    },
+    {
+        "name": "Bender Municipality",
+        "type": null,
+        "latitude": "46.82275510",
+        "longitude": "29.46201010",
+        "code": "BD"
+    },
+    {
+        "name": "Briceni District",
+        "type": null,
+        "latitude": "48.36320220",
+        "longitude": "27.07503980",
+        "code": "BR"
+    },
+    {
+        "name": "Cahul District",
+        "type": null,
+        "latitude": "45.89394040",
+        "longitude": "28.18902750",
+        "code": "CA"
+    },
+    {
+        "name": "Călărași District",
+        "type": null,
+        "latitude": "47.28694600",
+        "longitude": "28.27453100",
+        "code": "CL"
+    },
+    {
+        "name": "Cantemir District",
+        "type": null,
+        "latitude": "46.27717420",
+        "longitude": "28.20096530",
+        "code": "CT"
+    },
+    {
+        "name": "Căușeni District",
+        "type": null,
+        "latitude": "46.65547150",
+        "longitude": "29.40912220",
+        "code": "CS"
+    },
+    {
+        "name": "Chișinău Municipality",
+        "type": null,
+        "latitude": "47.01045290",
+        "longitude": "28.86381020",
+        "code": "CU"
+    },
+    {
+        "name": "Cimișlia District",
+        "type": null,
+        "latitude": "46.52508510",
+        "longitude": "28.77218350",
+        "code": "CM"
+    },
+    {
+        "name": "Criuleni District",
+        "type": null,
+        "latitude": "47.21361140",
+        "longitude": "29.15575190",
+        "code": "CR"
+    },
+    {
+        "name": "Dondușeni District",
+        "type": null,
+        "latitude": "48.23383050",
+        "longitude": "27.59980870",
+        "code": "DO"
+    },
+    {
+        "name": "Drochia District",
+        "type": null,
+        "latitude": "48.07977880",
+        "longitude": "27.86041140",
+        "code": "DR"
+    },
+    {
+        "name": "Dubăsari District",
+        "type": null,
+        "latitude": "47.26439420",
+        "longitude": "29.15503480",
+        "code": "DU"
+    },
+    {
+        "name": "Edineț District",
+        "type": null,
+        "latitude": "48.16789910",
+        "longitude": "27.29361430",
+        "code": "ED"
+    },
+    {
+        "name": "Fălești District",
+        "type": null,
+        "latitude": "47.56477250",
+        "longitude": "27.72655930",
+        "code": "FA"
+    },
+    {
+        "name": "Florești District",
+        "type": null,
+        "latitude": "47.86678490",
+        "longitude": "28.33918640",
+        "code": "FL"
+    },
+    {
+        "name": "Gagauzia",
+        "type": null,
+        "latitude": "46.09794350",
+        "longitude": "28.63846450",
+        "code": "GA"
+    },
+    {
+        "name": "Glodeni District",
+        "type": null,
+        "latitude": "47.77901560",
+        "longitude": "27.51680100",
+        "code": "GL"
+    },
+    {
+        "name": "Hîncești District",
+        "type": null,
+        "latitude": "46.82811470",
+        "longitude": "28.58508890",
+        "code": "HI"
+    },
+    {
+        "name": "Ialoveni District",
+        "type": null,
+        "latitude": "46.86308600",
+        "longitude": "28.82342180",
+        "code": "IA"
+    },
+    {
+        "name": "Nisporeni District",
+        "type": null,
+        "latitude": "47.07513490",
+        "longitude": "28.17681550",
+        "code": "NI"
+    },
+    {
+        "name": "Ocnița District",
+        "type": null,
+        "latitude": "48.41104350",
+        "longitude": "27.47680920",
+        "code": "OC"
+    },
+    {
+        "name": "Orhei District",
+        "type": null,
+        "latitude": "47.38604000",
+        "longitude": "28.83030820",
+        "code": "OR"
+    },
+    {
+        "name": "Rezina District",
+        "type": null,
+        "latitude": "47.71804470",
+        "longitude": "28.88710240",
+        "code": "RE"
+    },
+    {
+        "name": "Rîșcani District",
+        "type": null,
+        "latitude": "47.90701530",
+        "longitude": "27.53749960",
+        "code": "RI"
+    },
+    {
+        "name": "Sîngerei District",
+        "type": null,
+        "latitude": "47.63891340",
+        "longitude": "28.13718160",
+        "code": "SI"
+    },
+    {
+        "name": "Șoldănești District",
+        "type": null,
+        "latitude": "47.81473890",
+        "longitude": "28.78895860",
+        "code": "SD"
+    },
+    {
+        "name": "Soroca District",
+        "type": null,
+        "latitude": "48.15497430",
+        "longitude": "28.28707830",
+        "code": "SO"
+    },
+    {
+        "name": "Ștefan Vodă District",
+        "type": null,
+        "latitude": "46.55404880",
+        "longitude": "29.70224200",
+        "code": "SV"
+    },
+    {
+        "name": "Strășeni District",
+        "type": null,
+        "latitude": "47.14502670",
+        "longitude": "28.61367360",
+        "code": "ST"
+    },
+    {
+        "name": "Taraclia District",
+        "type": null,
+        "latitude": "45.89865100",
+        "longitude": "28.66716440",
+        "code": "TA"
+    },
+    {
+        "name": "Telenești District",
+        "type": null,
+        "latitude": "47.49839620",
+        "longitude": "28.36760190",
+        "code": "TE"
+    },
+    {
+        "name": "Transnistria autonomous territorial unit",
+        "type": null,
+        "latitude": "47.21529720",
+        "longitude": "29.46380540",
+        "code": "SN"
+    },
+    {
+        "name": "Ungheni District",
+        "type": null,
+        "latitude": "47.23057670",
+        "longitude": "27.78926610",
+        "code": "UN"
+    }
+]

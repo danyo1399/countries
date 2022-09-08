@@ -207,37 +207,223 @@
             35.75
         ]
     },
-    "provinces": [
-        "Arusha",
-        "Dar es Salaam",
-        "Dodoma",
-        "Geita",
-        "Iringa",
-        "Kagera",
-        "Katavi",
-        "Kigoma",
-        "Kilimanjaro",
-        "Lindi",
-        "Manyara",
-        "Mara",
-        "Mbeya",
-        "Morogoro",
-        "Mtwara",
-        "Mwanza",
-        "Njombe",
-        "Pemba North",
-        "Pemba South",
-        "Pwani",
-        "Rukwa",
-        "Ruvuma",
-        "Shinyanga",
-        "Simiyu",
-        "Singida",
-        "Songwe",
-        "Tabora",
-        "Tanga",
-        "Zanzibar North",
-        "Zanzibar South",
-        "Zanzibar West"
+    "states": [
+        {
+            "name": "Arusha",
+            "type": "Region",
+            "latitude": "-3.38692540",
+            "longitude": "36.68299270",
+            "code": "01"
+        },
+        {
+            "name": "Dar es Salaam",
+            "type": "Region",
+            "latitude": "-6.79235400",
+            "longitude": "39.20832840",
+            "code": "02"
+        },
+        {
+            "name": "Dodoma",
+            "type": "Region",
+            "latitude": "-6.57382280",
+            "longitude": "36.26308460",
+            "code": "03"
+        },
+        {
+            "name": "Geita",
+            "type": "Region",
+            "latitude": "-2.82422570",
+            "longitude": "32.26538870",
+            "code": "27"
+        },
+        {
+            "name": "Iringa",
+            "type": "Region",
+            "latitude": "-7.78874420",
+            "longitude": "35.56578620",
+            "code": "04"
+        },
+        {
+            "name": "Kagera",
+            "type": "Region",
+            "latitude": "-1.30011150",
+            "longitude": "31.26263660",
+            "code": "05"
+        },
+        {
+            "name": "Katavi",
+            "type": "Region",
+            "latitude": "-6.36771250",
+            "longitude": "31.26263660",
+            "code": "28"
+        },
+        {
+            "name": "Kigoma",
+            "type": "Region",
+            "latitude": "-4.88240920",
+            "longitude": "29.66150550",
+            "code": "08"
+        },
+        {
+            "name": "Kilimanjaro",
+            "type": "Region",
+            "latitude": "-4.13369270",
+            "longitude": "37.80876930",
+            "code": "09"
+        },
+        {
+            "name": "Lindi",
+            "type": "Region",
+            "latitude": "-9.23433940",
+            "longitude": "38.31657250",
+            "code": "12"
+        },
+        {
+            "name": "Manyara",
+            "type": "Region",
+            "latitude": "-4.31500580",
+            "longitude": "36.95410700",
+            "code": "26"
+        },
+        {
+            "name": "Mara",
+            "type": "Region",
+            "latitude": "-1.77535380",
+            "longitude": "34.15319470",
+            "code": "13"
+        },
+        {
+            "name": "Mbeya",
+            "type": "Region",
+            "latitude": "-8.28661120",
+            "longitude": "32.81325370",
+            "code": "14"
+        },
+        {
+            "name": "Morogoro",
+            "type": "Region",
+            "latitude": "-8.81371730",
+            "longitude": "36.95410700",
+            "code": "16"
+        },
+        {
+            "name": "Mtwara",
+            "type": "Region",
+            "latitude": "-10.33984550",
+            "longitude": "40.16574660",
+            "code": "17"
+        },
+        {
+            "name": "Mwanza",
+            "type": "Region",
+            "latitude": "-2.46711970",
+            "longitude": "32.89868120",
+            "code": "18"
+        },
+        {
+            "name": "Njombe",
+            "type": "Region",
+            "latitude": "-9.24226320",
+            "longitude": "35.12687810",
+            "code": "29"
+        },
+        {
+            "name": "Pemba North",
+            "type": "Region",
+            "latitude": "-5.03193520",
+            "longitude": "39.77555710",
+            "code": "06"
+        },
+        {
+            "name": "Pemba South",
+            "type": "Region",
+            "latitude": "-5.31469610",
+            "longitude": "39.75495110",
+            "code": "10"
+        },
+        {
+            "name": "Pwani",
+            "type": "Region",
+            "latitude": "-7.32377140",
+            "longitude": "38.82054540",
+            "code": "19"
+        },
+        {
+            "name": "Rukwa",
+            "type": "Region",
+            "latitude": "-8.01094440",
+            "longitude": "31.44561790",
+            "code": "20"
+        },
+        {
+            "name": "Ruvuma",
+            "type": "Region",
+            "latitude": "-10.68787170",
+            "longitude": "36.26308460",
+            "code": "21"
+        },
+        {
+            "name": "Shinyanga",
+            "type": "Region",
+            "latitude": "-3.68099610",
+            "longitude": "33.42714030",
+            "code": "22"
+        },
+        {
+            "name": "Simiyu",
+            "type": "Region",
+            "latitude": "-2.83087380",
+            "longitude": "34.15319470",
+            "code": "30"
+        },
+        {
+            "name": "Singida",
+            "type": "Region",
+            "latitude": "-6.74533520",
+            "longitude": "34.15319470",
+            "code": "23"
+        },
+        {
+            "name": "Songwe",
+            "type": "Region",
+            "latitude": "-8.27261200",
+            "longitude": "31.71131740",
+            "code": "31"
+        },
+        {
+            "name": "Tabora",
+            "type": "Region",
+            "latitude": "-5.03421380",
+            "longitude": "32.80844960",
+            "code": "24"
+        },
+        {
+            "name": "Tanga",
+            "type": "Region",
+            "latitude": "-5.30497890",
+            "longitude": "38.31657250",
+            "code": "25"
+        },
+        {
+            "name": "Zanzibar North",
+            "type": "Region",
+            "latitude": "-5.93950930",
+            "longitude": "39.27910110",
+            "code": "07"
+        },
+        {
+            "name": "Zanzibar South",
+            "type": "Region",
+            "latitude": "-6.26428510",
+            "longitude": "39.44502810",
+            "code": "11"
+        },
+        {
+            "name": "Zanzibar West",
+            "type": "Region",
+            "latitude": "-6.22981360",
+            "longitude": "39.25832930",
+            "code": "15"
+        }
     ]
 }

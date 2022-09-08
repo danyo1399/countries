@@ -199,30 +199,174 @@
         "format": "####",
         "regex": "^(\\d{4})$"
     },
-    "provinces": [
-        "Ariana",
-        "Ben Arous",
-        "Bizerte",
-        "Gabès",
-        "Gafsa",
-        "Jendouba",
-        "Kairouan",
-        "Kasserine",
-        "Kassrine",
-        "Kebili",
-        "Kef",
-        "Mahdia",
-        "Manouba",
-        "Medenine",
-        "Monastir",
-        "Nabeul",
-        "Sfax",
-        "Sidi Bouzid",
-        "Siliana",
-        "Sousse",
-        "Tataouine",
-        "Tozeur",
-        "Tunis",
-        "Zaghouan"
+    "states": [
+        {
+            "name": "Ariana",
+            "type": "governorate",
+            "latitude": "36.99227510",
+            "longitude": "10.12551640",
+            "code": "12"
+        },
+        {
+            "name": "Ben Arous",
+            "type": "governorate",
+            "latitude": "36.64356060",
+            "longitude": "10.21515780",
+            "code": "13"
+        },
+        {
+            "name": "Bizerte",
+            "type": "governorate",
+            "latitude": "37.16093970",
+            "longitude": "9.63413500",
+            "code": "23"
+        },
+        {
+            "name": "Gabès",
+            "type": "governorate",
+            "latitude": "33.94596480",
+            "longitude": "9.72326730",
+            "code": "81"
+        },
+        {
+            "name": "Gafsa",
+            "type": "governorate",
+            "latitude": "34.37885050",
+            "longitude": "8.66005860",
+            "code": "71"
+        },
+        {
+            "name": "Jendouba",
+            "type": "governorate",
+            "latitude": "36.71818620",
+            "longitude": "8.74811670",
+            "code": "32"
+        },
+        {
+            "name": "Kairouan",
+            "type": "governorate",
+            "latitude": "35.67116630",
+            "longitude": "10.10054690",
+            "code": "41"
+        },
+        {
+            "name": "Kasserine",
+            "type": "governorate",
+            "latitude": "35.08091480",
+            "longitude": "8.66005860",
+            "code": "42"
+        },
+        {
+            "name": "Kassrine",
+            "type": "governorate",
+            "latitude": "35.17227160",
+            "longitude": "8.83076260",
+            "code": "31"
+        },
+        {
+            "name": "Kebili",
+            "type": "governorate",
+            "latitude": "33.70715510",
+            "longitude": "8.97146230",
+            "code": "73"
+        },
+        {
+            "name": "Kef",
+            "type": "governorate",
+            "latitude": "36.12305120",
+            "longitude": "8.66005860",
+            "code": "33"
+        },
+        {
+            "name": "Mahdia",
+            "type": "governorate",
+            "latitude": "35.33525580",
+            "longitude": "10.89030990",
+            "code": "53"
+        },
+        {
+            "name": "Manouba",
+            "type": "governorate",
+            "latitude": "36.84465040",
+            "longitude": "9.85714160",
+            "code": "14"
+        },
+        {
+            "name": "Medenine",
+            "type": "governorate",
+            "latitude": "33.22805650",
+            "longitude": "10.89030990",
+            "code": "82"
+        },
+        {
+            "name": "Monastir",
+            "type": "governorate",
+            "latitude": "35.76425150",
+            "longitude": "10.81128850",
+            "code": "52"
+        },
+        {
+            "name": "Nabeul",
+            "type": "governorate",
+            "latitude": "36.45245910",
+            "longitude": "10.68032220",
+            "code": "21"
+        },
+        {
+            "name": "Sfax",
+            "type": "governorate",
+            "latitude": "34.86065810",
+            "longitude": "10.34978950",
+            "code": "61"
+        },
+        {
+            "name": "Sidi Bouzid",
+            "type": "governorate",
+            "latitude": "35.03543860",
+            "longitude": "9.48393920",
+            "code": "43"
+        },
+        {
+            "name": "Siliana",
+            "type": "governorate",
+            "latitude": "36.08872080",
+            "longitude": "9.36453350",
+            "code": "34"
+        },
+        {
+            "name": "Sousse",
+            "type": "governorate",
+            "latitude": "35.90222670",
+            "longitude": "10.34978950",
+            "code": "51"
+        },
+        {
+            "name": "Tataouine",
+            "type": "governorate",
+            "latitude": "32.13441220",
+            "longitude": "10.08072980",
+            "code": "83"
+        },
+        {
+            "name": "Tozeur",
+            "type": "governorate",
+            "latitude": "33.97894910",
+            "longitude": "8.04651850",
+            "code": "72"
+        },
+        {
+            "name": "Tunis",
+            "type": "governorate",
+            "latitude": "36.83749460",
+            "longitude": "10.19273890",
+            "code": "11"
+        },
+        {
+            "name": "Zaghouan",
+            "type": "governorate",
+            "latitude": "36.40911880",
+            "longitude": "10.14231720",
+            "code": "22"
+        }
     ]
 }

@@ -198,39 +198,237 @@
             -74.07
         ]
     },
-    "provinces": [
-        "Amazonas",
-        "Antioquia",
-        "Arauca",
-        "Archipiélago de San Andrés, Providencia y Santa Catalina",
-        "Atlántico",
-        "Bogotá D.C.",
-        "Bolívar",
-        "Boyacá",
-        "Caldas",
-        "Caquetá",
-        "Casanare",
-        "Cauca",
-        "Cesar",
-        "Chocó",
-        "Córdoba",
-        "Cundinamarca",
-        "Guainía",
-        "Guaviare",
-        "Huila",
-        "La Guajira",
-        "Magdalena",
-        "Meta",
-        "Nariño",
-        "Norte de Santander",
-        "Putumayo",
-        "Quindío",
-        "Risaralda",
-        "Santander",
-        "Sucre",
-        "Tolima",
-        "Valle del Cauca",
-        "Vaupés",
-        "Vichada"
+    "states": [
+        {
+            "name": "Amazonas",
+            "type": null,
+            "latitude": "-1.44291230",
+            "longitude": "-71.57239530",
+            "code": "AMA"
+        },
+        {
+            "name": "Antioquia",
+            "type": null,
+            "latitude": "7.19860640",
+            "longitude": "-75.34121790",
+            "code": "ANT"
+        },
+        {
+            "name": "Arauca",
+            "type": null,
+            "latitude": "6.54730600",
+            "longitude": "-71.00223110",
+            "code": "ARA"
+        },
+        {
+            "name": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+            "type": null,
+            "latitude": "12.55673240",
+            "longitude": "-81.71852530",
+            "code": "SAP"
+        },
+        {
+            "name": "Atlántico",
+            "type": null,
+            "latitude": "10.69661590",
+            "longitude": "-74.87410450",
+            "code": "ATL"
+        },
+        {
+            "name": "Bogotá D.C.",
+            "type": "capital district",
+            "latitude": "4.28204150",
+            "longitude": "-74.50270420",
+            "code": "DC"
+        },
+        {
+            "name": "Bolívar",
+            "type": null,
+            "latitude": "8.67043820",
+            "longitude": "-74.03001220",
+            "code": "BOL"
+        },
+        {
+            "name": "Boyacá",
+            "type": null,
+            "latitude": "5.45451100",
+            "longitude": "-73.36200300",
+            "code": "BOY"
+        },
+        {
+            "name": "Caldas",
+            "type": null,
+            "latitude": "5.29826000",
+            "longitude": "-75.24790610",
+            "code": "CAL"
+        },
+        {
+            "name": "Caquetá",
+            "type": null,
+            "latitude": "0.86989200",
+            "longitude": "-73.84190630",
+            "code": "CAQ"
+        },
+        {
+            "name": "Casanare",
+            "type": null,
+            "latitude": "5.75892690",
+            "longitude": "-71.57239530",
+            "code": "CAS"
+        },
+        {
+            "name": "Cauca",
+            "type": null,
+            "latitude": "2.70498130",
+            "longitude": "-76.82596520",
+            "code": "CAU"
+        },
+        {
+            "name": "Cesar",
+            "type": null,
+            "latitude": "9.33729480",
+            "longitude": "-73.65362090",
+            "code": "CES"
+        },
+        {
+            "name": "Chocó",
+            "type": null,
+            "latitude": "5.25280330",
+            "longitude": "-76.82596520",
+            "code": "CHO"
+        },
+        {
+            "name": "Córdoba",
+            "type": null,
+            "latitude": "8.04929300",
+            "longitude": "-75.57405000",
+            "code": "COR"
+        },
+        {
+            "name": "Cundinamarca",
+            "type": null,
+            "latitude": "5.02600300",
+            "longitude": "-74.03001220",
+            "code": "CUN"
+        },
+        {
+            "name": "Guainía",
+            "type": null,
+            "latitude": "2.58539300",
+            "longitude": "-68.52471490",
+            "code": "GUA"
+        },
+        {
+            "name": "Guaviare",
+            "type": null,
+            "latitude": "2.04392400",
+            "longitude": "-72.33111300",
+            "code": "GUV"
+        },
+        {
+            "name": "Huila",
+            "type": "department",
+            "latitude": "2.53593490",
+            "longitude": "-75.52766990",
+            "code": "HUI"
+        },
+        {
+            "name": "La Guajira",
+            "type": null,
+            "latitude": "11.35477430",
+            "longitude": "-72.52048270",
+            "code": "LAG"
+        },
+        {
+            "name": "Magdalena",
+            "type": null,
+            "latitude": "10.41130140",
+            "longitude": "-74.40566120",
+            "code": "MAG"
+        },
+        {
+            "name": "Meta",
+            "type": null,
+            "latitude": "39.76732580",
+            "longitude": "-104.97535950",
+            "code": "MET"
+        },
+        {
+            "name": "Nariño",
+            "type": null,
+            "latitude": "1.28915100",
+            "longitude": "-77.35794000",
+            "code": "NAR"
+        },
+        {
+            "name": "Norte de Santander",
+            "type": null,
+            "latitude": "7.94628310",
+            "longitude": "-72.89880690",
+            "code": "NSA"
+        },
+        {
+            "name": "Putumayo",
+            "type": null,
+            "latitude": "0.43595060",
+            "longitude": "-75.52766990",
+            "code": "PUT"
+        },
+        {
+            "name": "Quindío",
+            "type": null,
+            "latitude": "4.46101910",
+            "longitude": "-75.66735600",
+            "code": "QUI"
+        },
+        {
+            "name": "Risaralda",
+            "type": null,
+            "latitude": "5.31584750",
+            "longitude": "-75.99276520",
+            "code": "RIS"
+        },
+        {
+            "name": "Santander",
+            "type": null,
+            "latitude": "6.64370760",
+            "longitude": "-73.65362090",
+            "code": "SAN"
+        },
+        {
+            "name": "Sucre",
+            "type": null,
+            "latitude": "8.81397700",
+            "longitude": "-74.72328300",
+            "code": "SUC"
+        },
+        {
+            "name": "Tolima",
+            "type": null,
+            "latitude": "4.09251680",
+            "longitude": "-75.15453810",
+            "code": "TOL"
+        },
+        {
+            "name": "Valle del Cauca",
+            "type": null,
+            "latitude": "3.80088930",
+            "longitude": "-76.64127120",
+            "code": "VAC"
+        },
+        {
+            "name": "Vaupés",
+            "type": null,
+            "latitude": "0.85535610",
+            "longitude": "-70.81199530",
+            "code": "VAU"
+        },
+        {
+            "name": "Vichada",
+            "type": null,
+            "latitude": "4.42344520",
+            "longitude": "-69.28775350",
+            "code": "VID"
+        }
     ]
 }

@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Addis Ababa",
+        "type": null,
+        "latitude": "8.98060340",
+        "longitude": "38.75776050",
+        "code": "AA"
+    },
+    {
+        "name": "Afar Region",
+        "type": null,
+        "latitude": "11.75593880",
+        "longitude": "40.95868800",
+        "code": "AF"
+    },
+    {
+        "name": "Amhara Region",
+        "type": null,
+        "latitude": "11.34942470",
+        "longitude": "37.97845850",
+        "code": "AM"
+    },
+    {
+        "name": "Benishangul-Gumuz Region",
+        "type": null,
+        "latitude": "10.78028890",
+        "longitude": "35.56578620",
+        "code": "BE"
+    },
+    {
+        "name": "Dire Dawa",
+        "type": null,
+        "latitude": "9.60087470",
+        "longitude": "41.85014200",
+        "code": "DD"
+    },
+    {
+        "name": "Gambela Region",
+        "type": null,
+        "latitude": "7.92196870",
+        "longitude": "34.15319470",
+        "code": "GA"
+    },
+    {
+        "name": "Harari Region",
+        "type": null,
+        "latitude": "9.31486600",
+        "longitude": "42.19677160",
+        "code": "HA"
+    },
+    {
+        "name": "Oromia Region",
+        "type": null,
+        "latitude": "7.54603770",
+        "longitude": "40.63468510",
+        "code": "OR"
+    },
+    {
+        "name": "Somali Region",
+        "type": null,
+        "latitude": "6.66122930",
+        "longitude": "43.79084530",
+        "code": "SO"
+    },
+    {
+        "name": "Southern Nations, Nationalities, and Peoples' Region",
+        "type": null,
+        "latitude": "6.51569110",
+        "longitude": "36.95410700",
+        "code": "SN"
+    },
+    {
+        "name": "Tigray Region",
+        "type": null,
+        "latitude": "14.03233360",
+        "longitude": "38.31657250",
+        "code": "TI"
+    }
+]

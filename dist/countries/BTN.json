@@ -198,25 +198,139 @@
             89.63
         ]
     },
-    "provinces": [
-        "Bumthang District",
-        "Chukha District",
-        "Dagana District",
-        "Gasa District",
-        "Haa District",
-        "Lhuntse District",
-        "Mongar District",
-        "Paro District",
-        "Pemagatshel District",
-        "Punakha District",
-        "Samdrup Jongkhar District",
-        "Samtse District",
-        "Sarpang District",
-        "Thimphu District",
-        "Trashigang District",
-        "Trongsa District",
-        "Tsirang District",
-        "Wangdue Phodrang District",
-        "Zhemgang District"
+    "states": [
+        {
+            "name": "Bumthang District",
+            "type": null,
+            "latitude": "27.64183900",
+            "longitude": "90.67730460",
+            "code": "33"
+        },
+        {
+            "name": "Chukha District",
+            "type": null,
+            "latitude": "27.07843040",
+            "longitude": "89.47421770",
+            "code": "12"
+        },
+        {
+            "name": "Dagana District",
+            "type": null,
+            "latitude": "27.03228610",
+            "longitude": "89.88793040",
+            "code": "22"
+        },
+        {
+            "name": "Gasa District",
+            "type": null,
+            "latitude": "28.01858860",
+            "longitude": "89.92532330",
+            "code": "GA"
+        },
+        {
+            "name": "Haa District",
+            "type": null,
+            "latitude": "27.26516690",
+            "longitude": "89.17059980",
+            "code": "13"
+        },
+        {
+            "name": "Lhuntse District",
+            "type": null,
+            "latitude": "27.82649890",
+            "longitude": "91.13530200",
+            "code": "44"
+        },
+        {
+            "name": "Mongar District",
+            "type": null,
+            "latitude": "27.26170590",
+            "longitude": "91.28910360",
+            "code": "42"
+        },
+        {
+            "name": "Paro District",
+            "type": null,
+            "latitude": "27.42859490",
+            "longitude": "89.41665160",
+            "code": "11"
+        },
+        {
+            "name": "Pemagatshel District",
+            "type": null,
+            "latitude": "27.00238200",
+            "longitude": "91.34692470",
+            "code": "43"
+        },
+        {
+            "name": "Punakha District",
+            "type": null,
+            "latitude": "27.69037160",
+            "longitude": "89.88793040",
+            "code": "23"
+        },
+        {
+            "name": "Samdrup Jongkhar District",
+            "type": null,
+            "latitude": "26.80356820",
+            "longitude": "91.50392070",
+            "code": "45"
+        },
+        {
+            "name": "Samtse District",
+            "type": null,
+            "latitude": "27.02918320",
+            "longitude": "89.05615320",
+            "code": "14"
+        },
+        {
+            "name": "Sarpang District",
+            "type": null,
+            "latitude": "26.93730410",
+            "longitude": "90.48799160",
+            "code": "31"
+        },
+        {
+            "name": "Thimphu District",
+            "type": null,
+            "latitude": "27.47122160",
+            "longitude": "89.63390410",
+            "code": "15"
+        },
+        {
+            "name": "Trashigang District",
+            "type": null,
+            "latitude": "27.25667950",
+            "longitude": "91.75388170",
+            "code": "41"
+        },
+        {
+            "name": "Trongsa District",
+            "type": null,
+            "latitude": "27.50022690",
+            "longitude": "90.50806340",
+            "code": "32"
+        },
+        {
+            "name": "Tsirang District",
+            "type": null,
+            "latitude": "27.03220700",
+            "longitude": "90.18696440",
+            "code": "21"
+        },
+        {
+            "name": "Wangdue Phodrang District",
+            "type": null,
+            "latitude": "27.45260460",
+            "longitude": "90.06749280",
+            "code": "24"
+        },
+        {
+            "name": "Zhemgang District",
+            "type": null,
+            "latitude": "27.07697500",
+            "longitude": "90.82940020",
+            "code": "34"
+        }
     ]
 }

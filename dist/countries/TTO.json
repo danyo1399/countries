@@ -190,22 +190,118 @@
             -61.52
         ]
     },
-    "provinces": [
-        "Arima",
-        "Chaguanas",
-        "Couva-Tabaquite-Talparo Regional Corporation",
-        "Diego Martin Regional Corporation",
-        "Eastern Tobago",
-        "Penal-Debe Regional Corporation",
-        "Point Fortin",
-        "Port of Spain",
-        "Princes Town Regional Corporation",
-        "Rio Claro-Mayaro Regional Corporation",
-        "San Fernando",
-        "San Juan-Laventille Regional Corporation",
-        "Sangre Grande Regional Corporation",
-        "Siparia Regional Corporation",
-        "Tunapuna-Piarco Regional Corporation",
-        "Western Tobago"
+    "states": [
+        {
+            "name": "Arima",
+            "type": null,
+            "latitude": "46.79316040",
+            "longitude": "-71.25843110",
+            "code": "ARI"
+        },
+        {
+            "name": "Chaguanas",
+            "type": null,
+            "latitude": "10.51683870",
+            "longitude": "-61.41144820",
+            "code": "CHA"
+        },
+        {
+            "name": "Couva-Tabaquite-Talparo Regional Corporation",
+            "type": null,
+            "latitude": "10.42971450",
+            "longitude": "-61.37352100",
+            "code": "CTT"
+        },
+        {
+            "name": "Diego Martin Regional Corporation",
+            "type": null,
+            "latitude": "10.73622860",
+            "longitude": "-61.55448360",
+            "code": "DMN"
+        },
+        {
+            "name": "Eastern Tobago",
+            "type": null,
+            "latitude": "11.29793480",
+            "longitude": "-60.55885240",
+            "code": "ETO"
+        },
+        {
+            "name": "Penal-Debe Regional Corporation",
+            "type": null,
+            "latitude": "10.13374020",
+            "longitude": "-61.44354740",
+            "code": "PED"
+        },
+        {
+            "name": "Point Fortin",
+            "type": null,
+            "latitude": "10.17027370",
+            "longitude": "-61.67133860",
+            "code": "PTF"
+        },
+        {
+            "name": "Port of Spain",
+            "type": null,
+            "latitude": "10.66031960",
+            "longitude": "-61.50856250",
+            "code": "POS"
+        },
+        {
+            "name": "Princes Town Regional Corporation",
+            "type": null,
+            "latitude": "10.17867460",
+            "longitude": "-61.28019960",
+            "code": "PRT"
+        },
+        {
+            "name": "Rio Claro-Mayaro Regional Corporation",
+            "type": null,
+            "latitude": "10.24128320",
+            "longitude": "-61.09372060",
+            "code": "MRC"
+        },
+        {
+            "name": "San Fernando",
+            "type": null,
+            "latitude": "34.28194610",
+            "longitude": "-118.43897190",
+            "code": "SFO"
+        },
+        {
+            "name": "San Juan-Laventille Regional Corporation",
+            "type": null,
+            "latitude": "10.69085780",
+            "longitude": "-61.45522130",
+            "code": "SJL"
+        },
+        {
+            "name": "Sangre Grande Regional Corporation",
+            "type": null,
+            "latitude": "10.58529390",
+            "longitude": "-61.13158130",
+            "code": "SGE"
+        },
+        {
+            "name": "Siparia Regional Corporation",
+            "type": null,
+            "latitude": "10.12456260",
+            "longitude": "-61.56032440",
+            "code": "SIP"
+        },
+        {
+            "name": "Tunapuna-Piarco Regional Corporation",
+            "type": null,
+            "latitude": "10.68590960",
+            "longitude": "-61.30352480",
+            "code": "TUP"
+        },
+        {
+            "name": "Western Tobago",
+            "type": null,
+            "latitude": "11.18970720",
+            "longitude": "-60.77954520",
+            "code": "WTO"
+        }
     ]
 }

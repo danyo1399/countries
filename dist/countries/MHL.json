@@ -192,8 +192,20 @@
             171.38
         ]
     },
-    "provinces": [
-        "Ralik Chain",
-        "Ratak Chain"
+    "states": [
+        {
+            "name": "Ralik Chain",
+            "type": null,
+            "latitude": "8.13614600",
+            "longitude": "164.88679560",
+            "code": "L"
+        },
+        {
+            "name": "Ratak Chain",
+            "type": null,
+            "latitude": "10.27632760",
+            "longitude": "170.55009370",
+            "code": "T"
+        }
     ]
 }

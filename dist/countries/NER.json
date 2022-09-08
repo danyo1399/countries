@@ -203,13 +203,55 @@
         "format": "####",
         "regex": "^(\\d{4})$"
     },
-    "provinces": [
-        "Agadez Region",
-        "Diffa Region",
-        "Dosso Region",
-        "Maradi Region",
-        "Tahoua Region",
-        "Tillabéri Region",
-        "Zinder Region"
+    "states": [
+        {
+            "name": "Agadez Region",
+            "type": null,
+            "latitude": "20.66707520",
+            "longitude": "12.07182810",
+            "code": "1"
+        },
+        {
+            "name": "Diffa Region",
+            "type": null,
+            "latitude": "13.67686470",
+            "longitude": "12.71351210",
+            "code": "2"
+        },
+        {
+            "name": "Dosso Region",
+            "type": null,
+            "latitude": "13.15139470",
+            "longitude": "3.41955270",
+            "code": "3"
+        },
+        {
+            "name": "Maradi Region",
+            "type": null,
+            "latitude": "13.80180740",
+            "longitude": "7.43813550",
+            "code": "4"
+        },
+        {
+            "name": "Tahoua Region",
+            "type": null,
+            "latitude": "16.09025430",
+            "longitude": "5.39395510",
+            "code": "5"
+        },
+        {
+            "name": "Tillabéri Region",
+            "type": null,
+            "latitude": "14.64895250",
+            "longitude": "2.14502450",
+            "code": "6"
+        },
+        {
+            "name": "Zinder Region",
+            "type": null,
+            "latitude": "15.17188810",
+            "longitude": "10.26001250",
+            "code": "7"
+        }
     ]
 }

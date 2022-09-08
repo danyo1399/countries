@@ -205,12 +205,48 @@
             43.15
         ]
     },
-    "provinces": [
-        "Ali Sabieh Region",
-        "Arta Region",
-        "Dikhil Region",
-        "Djibouti",
-        "Obock Region",
-        "Tadjourah Region"
+    "states": [
+        {
+            "name": "Ali Sabieh Region",
+            "type": null,
+            "latitude": "11.19289730",
+            "longitude": "42.94169800",
+            "code": "AS"
+        },
+        {
+            "name": "Arta Region",
+            "type": null,
+            "latitude": "11.52555280",
+            "longitude": "42.84794740",
+            "code": "AR"
+        },
+        {
+            "name": "Dikhil Region",
+            "type": null,
+            "latitude": "11.10543360",
+            "longitude": "42.37047440",
+            "code": "DI"
+        },
+        {
+            "name": "Djibouti",
+            "type": null,
+            "latitude": "11.82513800",
+            "longitude": "42.59027500",
+            "code": "DJ"
+        },
+        {
+            "name": "Obock Region",
+            "type": null,
+            "latitude": "12.38956910",
+            "longitude": "43.01948970",
+            "code": "OB"
+        },
+        {
+            "name": "Tadjourah Region",
+            "type": null,
+            "latitude": "11.93388850",
+            "longitude": "42.39383750",
+            "code": "TA"
+        }
     ]
 }

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Arecibo",
+        "type": "state",
+        "latitude": "18.47055556",
+        "longitude": "-66.72083333",
+        "code": "AR"
+    },
+    {
+        "name": "Bayamon",
+        "type": "state",
+        "latitude": "18.17777778",
+        "longitude": "-66.11333333",
+        "code": "BY"
+    },
+    {
+        "name": "Caguas",
+        "type": "state",
+        "latitude": "18.23333333",
+        "longitude": "-66.03333333",
+        "code": "CG"
+    },
+    {
+        "name": "Carolina",
+        "type": "state",
+        "latitude": "18.38888889",
+        "longitude": "-65.96666667",
+        "code": "CL"
+    },
+    {
+        "name": "Guaynabo",
+        "type": "state",
+        "latitude": "18.36666667",
+        "longitude": "-66.10000000",
+        "code": "GN"
+    },
+    {
+        "name": "Mayagüez",
+        "type": "state",
+        "latitude": "18.20111111",
+        "longitude": "-67.13972222",
+        "code": "MG"
+    },
+    {
+        "name": "Ponce",
+        "type": "state",
+        "latitude": "18.00000000",
+        "longitude": "-66.61666667",
+        "code": "PO"
+    },
+    {
+        "name": "San Juan",
+        "type": "state",
+        "latitude": "18.45000000",
+        "longitude": "-66.06666667",
+        "code": "SJ"
+    },
+    {
+        "name": "Toa Baja",
+        "type": "state",
+        "latitude": "18.44388900",
+        "longitude": "-66.25972200",
+        "code": "TB"
+    },
+    {
+        "name": "Trujillo Alto",
+        "type": "state",
+        "latitude": "18.36277800",
+        "longitude": "-66.01750000",
+        "code": "TA"
+    }
+]

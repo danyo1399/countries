@@ -1,0 +1,149 @@
+[
+    {
+        "name": "Bjelovar-Bilogora",
+        "type": "county",
+        "latitude": "45.89879720",
+        "longitude": "16.84230930",
+        "code": "07"
+    },
+    {
+        "name": "Brod-Posavina",
+        "type": "county",
+        "latitude": "45.26379510",
+        "longitude": "17.32645620",
+        "code": "12"
+    },
+    {
+        "name": "Dubrovnik-Neretva",
+        "type": "county",
+        "latitude": "43.07665880",
+        "longitude": "17.52684710",
+        "code": "19"
+    },
+    {
+        "name": "Istria",
+        "type": "county",
+        "latitude": "45.12864550",
+        "longitude": "13.90154200",
+        "code": "18"
+    },
+    {
+        "name": "Karlovac",
+        "type": "county",
+        "latitude": "45.26133520",
+        "longitude": "15.52542016",
+        "code": "04"
+    },
+    {
+        "name": "Koprivnica-Križevci",
+        "type": "county",
+        "latitude": "46.15689190",
+        "longitude": "16.83908260",
+        "code": "06"
+    },
+    {
+        "name": "Krapina-Zagorje",
+        "type": "county",
+        "latitude": "46.10133930",
+        "longitude": "15.88096930",
+        "code": "02"
+    },
+    {
+        "name": "Lika-Senj",
+        "type": "county",
+        "latitude": "44.61922180",
+        "longitude": "15.47016080",
+        "code": "09"
+    },
+    {
+        "name": "Međimurje",
+        "type": "county",
+        "latitude": "46.37666440",
+        "longitude": "16.42132980",
+        "code": "20"
+    },
+    {
+        "name": "Osijek-Baranja",
+        "type": "county",
+        "latitude": "45.55764280",
+        "longitude": "18.39421410",
+        "code": "14"
+    },
+    {
+        "name": "Požega-Slavonia",
+        "type": "county",
+        "latitude": "45.34178680",
+        "longitude": "17.81143590",
+        "code": "11"
+    },
+    {
+        "name": "Primorje-Gorski Kotar",
+        "type": "county",
+        "latitude": "45.31739960",
+        "longitude": "14.81674660",
+        "code": "08"
+    },
+    {
+        "name": "Šibenik-Knin",
+        "type": "county",
+        "latitude": "43.92814850",
+        "longitude": "16.10376940",
+        "code": "15"
+    },
+    {
+        "name": "Sisak-Moslavina",
+        "type": "county",
+        "latitude": "45.38379260",
+        "longitude": "16.53809940",
+        "code": "03"
+    },
+    {
+        "name": "Split-Dalmatia",
+        "type": "county",
+        "latitude": "43.52403280",
+        "longitude": "16.81783770",
+        "code": "17"
+    },
+    {
+        "name": "Varaždin",
+        "type": "county",
+        "latitude": "46.23174730",
+        "longitude": "16.33605590",
+        "code": "05"
+    },
+    {
+        "name": "Virovitica-Podravina",
+        "type": "county",
+        "latitude": "45.65579850",
+        "longitude": "17.79324720",
+        "code": "10"
+    },
+    {
+        "name": "Vukovar-Syrmia",
+        "type": "county",
+        "latitude": "45.17735520",
+        "longitude": "18.80535270",
+        "code": "16"
+    },
+    {
+        "name": "Zadar",
+        "type": "county",
+        "latitude": "44.14693900",
+        "longitude": "15.61649430",
+        "code": "13"
+    },
+    {
+        "name": "Zagreb",
+        "type": "county",
+        "latitude": "45.87066120",
+        "longitude": "16.39549100",
+        "code": "01"
+    },
+    {
+        "name": "Zagreb",
+        "type": "city",
+        "latitude": "45.81501080",
+        "longitude": "15.98191890",
+        "code": "21"
+    }
+]

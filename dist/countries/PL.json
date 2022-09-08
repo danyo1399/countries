@@ -204,22 +204,118 @@
         "format": "##-###",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Greater Poland Voivodeship",
-        "Kuyavian-Pomeranian Voivodeship",
-        "Lesser Poland Voivodeship",
-        "Lower Silesian Voivodeship",
-        "Lublin Voivodeship",
-        "Lubusz Voivodeship",
-        "Łódź Voivodeship",
-        "Masovian Voivodeship",
-        "Opole Voivodeship",
-        "Podkarpackie Voivodeship",
-        "Podlaskie Voivodeship",
-        "Pomeranian Voivodeship",
-        "Silesian Voivodeship",
-        "Świętokrzyskie Voivodeship",
-        "Warmian-Masurian Voivodeship",
-        "West Pomeranian Voivodeship"
+    "states": [
+        {
+            "name": "Greater Poland Voivodeship",
+            "type": null,
+            "latitude": "52.27998600",
+            "longitude": "17.35229390",
+            "code": "WP"
+        },
+        {
+            "name": "Kuyavian-Pomeranian Voivodeship",
+            "type": null,
+            "latitude": "53.16483630",
+            "longitude": "18.48342240",
+            "code": "KP"
+        },
+        {
+            "name": "Lesser Poland Voivodeship",
+            "type": null,
+            "latitude": "49.72253060",
+            "longitude": "20.25033580",
+            "code": "MA"
+        },
+        {
+            "name": "Lower Silesian Voivodeship",
+            "type": null,
+            "latitude": "51.13398610",
+            "longitude": "16.88419610",
+            "code": "DS"
+        },
+        {
+            "name": "Lublin Voivodeship",
+            "type": null,
+            "latitude": "51.24935190",
+            "longitude": "23.10113920",
+            "code": "LU"
+        },
+        {
+            "name": "Lubusz Voivodeship",
+            "type": null,
+            "latitude": "52.22746120",
+            "longitude": "15.25591030",
+            "code": "LB"
+        },
+        {
+            "name": "Łódź Voivodeship",
+            "type": null,
+            "latitude": "51.46347710",
+            "longitude": "19.17269740",
+            "code": "LD"
+        },
+        {
+            "name": "Masovian Voivodeship",
+            "type": null,
+            "latitude": "51.89271820",
+            "longitude": "21.00216790",
+            "code": "MZ"
+        },
+        {
+            "name": "Opole Voivodeship",
+            "type": null,
+            "latitude": "50.80037610",
+            "longitude": "17.93798900",
+            "code": "OP"
+        },
+        {
+            "name": "Podkarpackie Voivodeship",
+            "type": null,
+            "latitude": "50.05747490",
+            "longitude": "22.08956910",
+            "code": "PK"
+        },
+        {
+            "name": "Podlaskie Voivodeship",
+            "type": null,
+            "latitude": "53.06971590",
+            "longitude": "22.96746390",
+            "code": "PD"
+        },
+        {
+            "name": "Pomeranian Voivodeship",
+            "type": null,
+            "latitude": "54.29442520",
+            "longitude": "18.15311640",
+            "code": "PM"
+        },
+        {
+            "name": "Silesian Voivodeship",
+            "type": null,
+            "latitude": "50.57165950",
+            "longitude": "19.32197680",
+            "code": "SL"
+        },
+        {
+            "name": "Świętokrzyskie Voivodeship",
+            "type": null,
+            "latitude": "50.62610410",
+            "longitude": "20.94062790",
+            "code": "SK"
+        },
+        {
+            "name": "Warmian-Masurian Voivodeship",
+            "type": null,
+            "latitude": "53.86711170",
+            "longitude": "20.70278610",
+            "code": "WN"
+        },
+        {
+            "name": "West Pomeranian Voivodeship",
+            "type": null,
+            "latitude": "53.46578910",
+            "longitude": "15.18225810",
+            "code": "ZP"
+        }
     ]
 }

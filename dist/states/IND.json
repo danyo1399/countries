@@ -1,0 +1,254 @@
+[
+    {
+        "name": "Andaman and Nicobar Islands",
+        "type": "Union territory",
+        "latitude": "11.74008670",
+        "longitude": "92.65864010",
+        "code": "AN"
+    },
+    {
+        "name": "Andhra Pradesh",
+        "type": "state",
+        "latitude": "15.91289980",
+        "longitude": "79.73998750",
+        "code": "AP"
+    },
+    {
+        "name": "Arunachal Pradesh",
+        "type": "state",
+        "latitude": "28.21799940",
+        "longitude": "94.72775280",
+        "code": "AR"
+    },
+    {
+        "name": "Assam",
+        "type": "state",
+        "latitude": "26.20060430",
+        "longitude": "92.93757390",
+        "code": "AS"
+    },
+    {
+        "name": "Bihar",
+        "type": "state",
+        "latitude": "25.09607420",
+        "longitude": "85.31311940",
+        "code": "BR"
+    },
+    {
+        "name": "Chandigarh",
+        "type": "Union territory",
+        "latitude": "30.73331480",
+        "longitude": "76.77941790",
+        "code": "CH"
+    },
+    {
+        "name": "Chhattisgarh",
+        "type": "state",
+        "latitude": "21.27865670",
+        "longitude": "81.86614420",
+        "code": "CT"
+    },
+    {
+        "name": "Dadra and Nagar Haveli and Daman and Diu",
+        "type": "Union territory",
+        "latitude": "20.39737360",
+        "longitude": "72.83279910",
+        "code": "DH"
+    },
+    {
+        "name": "Delhi",
+        "type": "Union territory",
+        "latitude": "28.70405920",
+        "longitude": "77.10249020",
+        "code": "DL"
+    },
+    {
+        "name": "Goa",
+        "type": "state",
+        "latitude": "15.29932650",
+        "longitude": "74.12399600",
+        "code": "GA"
+    },
+    {
+        "name": "Gujarat",
+        "type": "state",
+        "latitude": "22.25865200",
+        "longitude": "71.19238050",
+        "code": "GJ"
+    },
+    {
+        "name": "Haryana",
+        "type": "state",
+        "latitude": "29.05877570",
+        "longitude": "76.08560100",
+        "code": "HR"
+    },
+    {
+        "name": "Himachal Pradesh",
+        "type": "state",
+        "latitude": "31.10482940",
+        "longitude": "77.17339010",
+        "code": "HP"
+    },
+    {
+        "name": "Jammu and Kashmir",
+        "type": "Union territory",
+        "latitude": "33.27783900",
+        "longitude": "75.34121790",
+        "code": "JK"
+    },
+    {
+        "name": "Jharkhand",
+        "type": "state",
+        "latitude": "23.61018080",
+        "longitude": "85.27993540",
+        "code": "JH"
+    },
+    {
+        "name": "Karnataka",
+        "type": "state",
+        "latitude": "15.31727750",
+        "longitude": "75.71388840",
+        "code": "KA"
+    },
+    {
+        "name": "Kerala",
+        "type": "state",
+        "latitude": "10.85051590",
+        "longitude": "76.27108330",
+        "code": "KL"
+    },
+    {
+        "name": "Ladakh",
+        "type": "Union territory",
+        "latitude": "34.22684750",
+        "longitude": "77.56194190",
+        "code": "LA"
+    },
+    {
+        "name": "Lakshadweep",
+        "type": "Union territory",
+        "latitude": "10.32802650",
+        "longitude": "72.78463360",
+        "code": "LD"
+    },
+    {
+        "name": "Madhya Pradesh",
+        "type": "state",
+        "latitude": "22.97342290",
+        "longitude": "78.65689420",
+        "code": "MP"
+    },
+    {
+        "name": "Maharashtra",
+        "type": "state",
+        "latitude": "19.75147980",
+        "longitude": "75.71388840",
+        "code": "MH"
+    },
+    {
+        "name": "Manipur",
+        "type": "state",
+        "latitude": "24.66371730",
+        "longitude": "93.90626880",
+        "code": "MN"
+    },
+    {
+        "name": "Meghalaya",
+        "type": "state",
+        "latitude": "25.46703080",
+        "longitude": "91.36621600",
+        "code": "ML"
+    },
+    {
+        "name": "Mizoram",
+        "type": "state",
+        "latitude": "23.16454300",
+        "longitude": "92.93757390",
+        "code": "MZ"
+    },
+    {
+        "name": "Nagaland",
+        "type": "state",
+        "latitude": "26.15843540",
+        "longitude": "94.56244260",
+        "code": "NL"
+    },
+    {
+        "name": "Odisha",
+        "type": "state",
+        "latitude": "20.95166580",
+        "longitude": "85.09852360",
+        "code": "OR"
+    },
+    {
+        "name": "Puducherry",
+        "type": "Union territory",
+        "latitude": "11.94159150",
+        "longitude": "79.80831330",
+        "code": "PY"
+    },
+    {
+        "name": "Punjab",
+        "type": "state",
+        "latitude": "31.14713050",
+        "longitude": "75.34121790",
+        "code": "PB"
+    },
+    {
+        "name": "Rajasthan",
+        "type": "state",
+        "latitude": "27.02380360",
+        "longitude": "74.21793260",
+        "code": "RJ"
+    },
+    {
+        "name": "Sikkim",
+        "type": "state",
+        "latitude": "27.53297180",
+        "longitude": "88.51221780",
+        "code": "SK"
+    },
+    {
+        "name": "Tamil Nadu",
+        "type": "state",
+        "latitude": "11.12712250",
+        "longitude": "78.65689420",
+        "code": "TN"
+    },
+    {
+        "name": "Telangana",
+        "type": "state",
+        "latitude": "18.11243720",
+        "longitude": "79.01929970",
+        "code": "TG"
+    },
+    {
+        "name": "Tripura",
+        "type": "state",
+        "latitude": "23.94084820",
+        "longitude": "91.98815270",
+        "code": "TR"
+    },
+    {
+        "name": "Uttar Pradesh",
+        "type": "state",
+        "latitude": "26.84670880",
+        "longitude": "80.94615920",
+        "code": "UP"
+    },
+    {
+        "name": "Uttarakhand",
+        "type": "state",
+        "latitude": "30.06675300",
+        "longitude": "79.01929970",
+        "code": "UT"
+    },
+    {
+        "name": "West Bengal",
+        "type": "state",
+        "latitude": "22.98675690",
+        "longitude": "87.85497550",
+        "code": "WB"
+    }
+]

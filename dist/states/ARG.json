@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Buenos Aires",
+        "type": "province",
+        "latitude": "-37.20172850",
+        "longitude": "-59.84106970",
+        "code": "B"
+    },
+    {
+        "name": "Catamarca",
+        "type": "province",
+        "latitude": "-28.47158770",
+        "longitude": "-65.78772090",
+        "code": "K"
+    },
+    {
+        "name": "Chaco",
+        "type": "province",
+        "latitude": "-27.42571750",
+        "longitude": "-59.02437840",
+        "code": "H"
+    },
+    {
+        "name": "Chubut",
+        "type": "province",
+        "latitude": "-43.29342460",
+        "longitude": "-65.11148180",
+        "code": "U"
+    },
+    {
+        "name": "Ciudad Autónoma de Buenos Aires",
+        "type": "city",
+        "latitude": "-34.60368440",
+        "longitude": "-58.38155910",
+        "code": "C"
+    },
+    {
+        "name": "Córdoba",
+        "type": "province",
+        "latitude": "-31.39928760",
+        "longitude": "-64.26438420",
+        "code": "X"
+    },
+    {
+        "name": "Corrientes",
+        "type": "province",
+        "latitude": "-27.46921310",
+        "longitude": "-58.83063490",
+        "code": "W"
+    },
+    {
+        "name": "Entre Ríos",
+        "type": "province",
+        "latitude": "-31.77466540",
+        "longitude": "-60.49564610",
+        "code": "E"
+    },
+    {
+        "name": "Formosa",
+        "type": "province",
+        "latitude": "-26.18948040",
+        "longitude": "-58.22428060",
+        "code": "P"
+    },
+    {
+        "name": "Jujuy",
+        "type": "province",
+        "latitude": "-24.18433970",
+        "longitude": "-65.30217700",
+        "code": "Y"
+    },
+    {
+        "name": "La Pampa",
+        "type": "province",
+        "latitude": "-36.61475730",
+        "longitude": "-64.28392090",
+        "code": "L"
+    },
+    {
+        "name": "La Rioja",
+        "type": "province",
+        "latitude": "-29.41937930",
+        "longitude": "-66.85599320",
+        "code": "F"
+    },
+    {
+        "name": "Mendoza",
+        "type": "province",
+        "latitude": "-32.88945870",
+        "longitude": "-68.84583860",
+        "code": "M"
+    },
+    {
+        "name": "Misiones",
+        "type": "province",
+        "latitude": "-27.42692550",
+        "longitude": "-55.94670760",
+        "code": "N"
+    },
+    {
+        "name": "Neuquén",
+        "type": "province",
+        "latitude": "-38.94587000",
+        "longitude": "-68.07309250",
+        "code": "Q"
+    },
+    {
+        "name": "Río Negro",
+        "type": "province",
+        "latitude": "-40.82614340",
+        "longitude": "-63.02663390",
+        "code": "R"
+    },
+    {
+        "name": "Salta",
+        "type": "province",
+        "latitude": "-24.79976880",
+        "longitude": "-65.41503670",
+        "code": "A"
+    },
+    {
+        "name": "San Juan",
+        "type": "province",
+        "latitude": "-31.53169760",
+        "longitude": "-68.56769620",
+        "code": "J"
+    },
+    {
+        "name": "San Luis",
+        "type": "province",
+        "latitude": "-33.29620420",
+        "longitude": "-66.32949480",
+        "code": "D"
+    },
+    {
+        "name": "Santa Cruz",
+        "type": "province",
+        "latitude": "-51.63528210",
+        "longitude": "-69.24743530",
+        "code": "Z"
+    },
+    {
+        "name": "Santa Fe",
+        "type": "province",
+        "latitude": "-31.58551090",
+        "longitude": "-60.72380160",
+        "code": "S"
+    },
+    {
+        "name": "Santiago del Estero",
+        "type": "province",
+        "latitude": "-27.78335740",
+        "longitude": "-64.26416700",
+        "code": "G"
+    },
+    {
+        "name": "Tierra del Fuego",
+        "type": "province",
+        "latitude": "-54.80539980",
+        "longitude": "-68.32420610",
+        "code": "V"
+    },
+    {
+        "name": "Tucumán",
+        "type": "province",
+        "latitude": "-26.82211270",
+        "longitude": "-65.21929030",
+        "code": "T"
+    }
+]

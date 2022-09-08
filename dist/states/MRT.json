@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Adrar",
+        "type": "region",
+        "latitude": "19.86521760",
+        "longitude": "-12.80547530",
+        "code": "07"
+    },
+    {
+        "name": "Assaba",
+        "type": "region",
+        "latitude": "16.77595580",
+        "longitude": "-11.52480550",
+        "code": "03"
+    },
+    {
+        "name": "Brakna",
+        "type": "region",
+        "latitude": "17.23175610",
+        "longitude": "-13.17403480",
+        "code": "05"
+    },
+    {
+        "name": "Dakhlet Nouadhibou",
+        "type": "region",
+        "latitude": "20.59855880",
+        "longitude": "-16.25221430",
+        "code": "08"
+    },
+    {
+        "name": "Gorgol",
+        "type": "region",
+        "latitude": "15.97173570",
+        "longitude": "-12.62162110",
+        "code": "04"
+    },
+    {
+        "name": "Guidimaka",
+        "type": "region",
+        "latitude": "15.25573310",
+        "longitude": "-12.25479190",
+        "code": "10"
+    },
+    {
+        "name": "Hodh Ech Chargui",
+        "type": "region",
+        "latitude": "18.67370260",
+        "longitude": "-7.09287700",
+        "code": "01"
+    },
+    {
+        "name": "Hodh El Gharbi",
+        "type": "region",
+        "latitude": "16.69121490",
+        "longitude": "-9.54509740",
+        "code": "02"
+    },
+    {
+        "name": "Inchiri",
+        "type": "region",
+        "latitude": "20.02805610",
+        "longitude": "-15.40680790",
+        "code": "12"
+    },
+    {
+        "name": "Nouakchott-Nord",
+        "type": "region",
+        "latitude": "18.11302050",
+        "longitude": "-15.89949560",
+        "code": "14"
+    },
+    {
+        "name": "Nouakchott-Ouest",
+        "type": "region",
+        "latitude": "18.15113570",
+        "longitude": "-15.99349100",
+        "code": "13"
+    },
+    {
+        "name": "Nouakchott-Sud",
+        "type": "region",
+        "latitude": "17.97092880",
+        "longitude": "-15.94648740",
+        "code": "15"
+    },
+    {
+        "name": "Tagant",
+        "type": "region",
+        "latitude": "18.54675270",
+        "longitude": "-9.90181310",
+        "code": "09"
+    },
+    {
+        "name": "Tiris Zemmour",
+        "type": "region",
+        "latitude": "24.57737640",
+        "longitude": "-9.90181310",
+        "code": "11"
+    },
+    {
+        "name": "Trarza",
+        "type": "region",
+        "latitude": "17.86649640",
+        "longitude": "-14.65878210",
+        "code": "06"
+    }
+]

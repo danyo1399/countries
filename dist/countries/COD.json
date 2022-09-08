@@ -225,32 +225,188 @@
             15.3
         ]
     },
-    "provinces": [
-        "Bas-Uélé",
-        "Équateur",
-        "Haut-Katanga",
-        "Haut-Lomami",
-        "Haut-Uélé",
-        "Ituri",
-        "Kasaï",
-        "Kasaï Central",
-        "Kasaï Oriental",
-        "Kinshasa",
-        "Kongo Central",
-        "Kwango",
-        "Kwilu",
-        "Lomami",
-        "Lualaba",
-        "Mai-Ndombe",
-        "Maniema",
-        "Mongala",
-        "Nord-Kivu",
-        "Nord-Ubangi",
-        "Sankuru",
-        "Sud-Kivu",
-        "Sud-Ubangi",
-        "Tanganyika",
-        "Tshopo",
-        "Tshuapa"
+    "states": [
+        {
+            "name": "Bas-Uélé",
+            "type": null,
+            "latitude": "3.99010090",
+            "longitude": "24.90422080",
+            "code": "BU"
+        },
+        {
+            "name": "Équateur",
+            "type": null,
+            "latitude": "-1.83123900",
+            "longitude": "-78.18340600",
+            "code": "EQ"
+        },
+        {
+            "name": "Haut-Katanga",
+            "type": null,
+            "latitude": "-10.41020750",
+            "longitude": "27.54958460",
+            "code": "HK"
+        },
+        {
+            "name": "Haut-Lomami",
+            "type": null,
+            "latitude": "-7.70527520",
+            "longitude": "24.90422080",
+            "code": "HL"
+        },
+        {
+            "name": "Haut-Uélé",
+            "type": null,
+            "latitude": "3.58451540",
+            "longitude": "28.29943500",
+            "code": "HU"
+        },
+        {
+            "name": "Ituri",
+            "type": null,
+            "latitude": "1.59576820",
+            "longitude": "29.41793240",
+            "code": "IT"
+        },
+        {
+            "name": "Kasaï",
+            "type": null,
+            "latitude": "-5.04719790",
+            "longitude": "20.71224650",
+            "code": "KS"
+        },
+        {
+            "name": "Kasaï Central",
+            "type": null,
+            "latitude": "-8.44045910",
+            "longitude": "20.41659340",
+            "code": "KC"
+        },
+        {
+            "name": "Kasaï Oriental",
+            "type": null,
+            "latitude": "-6.03362300",
+            "longitude": "23.57285010",
+            "code": "KE"
+        },
+        {
+            "name": "Kinshasa",
+            "type": null,
+            "latitude": "-4.44193110",
+            "longitude": "15.26629310",
+            "code": "KN"
+        },
+        {
+            "name": "Kongo Central",
+            "type": null,
+            "latitude": "-5.23656850",
+            "longitude": "13.91439900",
+            "code": "BC"
+        },
+        {
+            "name": "Kwango",
+            "type": null,
+            "latitude": "-6.43374090",
+            "longitude": "17.66888700",
+            "code": "KG"
+        },
+        {
+            "name": "Kwilu",
+            "type": null,
+            "latitude": "-5.11888250",
+            "longitude": "18.42760470",
+            "code": "KL"
+        },
+        {
+            "name": "Lomami",
+            "type": null,
+            "latitude": "-6.14539310",
+            "longitude": "24.52426400",
+            "code": "LO"
+        },
+        {
+            "name": "Lualaba",
+            "type": null,
+            "latitude": "-10.48086980",
+            "longitude": "25.62978160",
+            "code": "LU"
+        },
+        {
+            "name": "Mai-Ndombe",
+            "type": null,
+            "latitude": "-2.63574340",
+            "longitude": "18.42760470",
+            "code": "MN"
+        },
+        {
+            "name": "Maniema",
+            "type": null,
+            "latitude": "-3.07309290",
+            "longitude": "26.04138890",
+            "code": "MA"
+        },
+        {
+            "name": "Mongala",
+            "type": null,
+            "latitude": "1.99623240",
+            "longitude": "21.47528510",
+            "code": "MO"
+        },
+        {
+            "name": "Nord-Kivu",
+            "type": null,
+            "latitude": "-0.79177290",
+            "longitude": "29.04599270",
+            "code": "NK"
+        },
+        {
+            "name": "Nord-Ubangi",
+            "type": null,
+            "latitude": "3.78787260",
+            "longitude": "21.47528510",
+            "code": "NU"
+        },
+        {
+            "name": "Sankuru",
+            "type": null,
+            "latitude": "-2.84374530",
+            "longitude": "23.38235450",
+            "code": "SA"
+        },
+        {
+            "name": "Sud-Kivu",
+            "type": null,
+            "latitude": "-3.01165800",
+            "longitude": "28.29943500",
+            "code": "SK"
+        },
+        {
+            "name": "Sud-Ubangi",
+            "type": null,
+            "latitude": "3.22999420",
+            "longitude": "19.18800470",
+            "code": "SU"
+        },
+        {
+            "name": "Tanganyika",
+            "type": null,
+            "latitude": "-6.27401180",
+            "longitude": "27.92490020",
+            "code": "TA"
+        },
+        {
+            "name": "Tshopo",
+            "type": null,
+            "latitude": "0.54554620",
+            "longitude": "24.90422080",
+            "code": "TO"
+        },
+        {
+            "name": "Tshuapa",
+            "type": null,
+            "latitude": "-0.99030230",
+            "longitude": "23.02888440",
+            "code": "TU"
+        }
     ]
 }

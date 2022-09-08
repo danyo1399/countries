@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Anse Boileau",
+        "type": null,
+        "latitude": "-4.70472680",
+        "longitude": "55.48593630",
+        "code": "02"
+    },
+    {
+        "name": "Anse Royale",
+        "type": null,
+        "latitude": "-4.74079880",
+        "longitude": "55.50810120",
+        "code": "05"
+    },
+    {
+        "name": "Anse-aux-Pins",
+        "type": null,
+        "latitude": "-4.69004430",
+        "longitude": "55.51502890",
+        "code": "01"
+    },
+    {
+        "name": "Au Cap",
+        "type": null,
+        "latitude": "-4.70597230",
+        "longitude": "55.50810120",
+        "code": "04"
+    },
+    {
+        "name": "Baie Lazare",
+        "type": null,
+        "latitude": "-4.74825250",
+        "longitude": "55.48593630",
+        "code": "06"
+    },
+    {
+        "name": "Baie Sainte Anne",
+        "type": null,
+        "latitude": "47.05259000",
+        "longitude": "-64.95245790",
+        "code": "07"
+    },
+    {
+        "name": "Beau Vallon",
+        "type": null,
+        "latitude": "-4.62109670",
+        "longitude": "55.42778020",
+        "code": "08"
+    },
+    {
+        "name": "Bel Air",
+        "type": null,
+        "latitude": "34.10024550",
+        "longitude": "-118.45946300",
+        "code": "09"
+    },
+    {
+        "name": "Bel Ombre",
+        "type": null,
+        "latitude": "-20.50100950",
+        "longitude": "57.42596240",
+        "code": "10"
+    },
+    {
+        "name": "Cascade",
+        "type": null,
+        "latitude": "44.51628210",
+        "longitude": "-116.04179830",
+        "code": "11"
+    },
+    {
+        "name": "Glacis",
+        "type": null,
+        "latitude": "47.11573030",
+        "longitude": "-70.30281830",
+        "code": "12"
+    },
+    {
+        "name": "Grand'Anse Mahé",
+        "type": null,
+        "latitude": "-4.67739200",
+        "longitude": "55.46377700",
+        "code": "13"
+    },
+    {
+        "name": "Grand'Anse Praslin",
+        "type": null,
+        "latitude": "-4.31762190",
+        "longitude": "55.70783630",
+        "code": "14"
+    },
+    {
+        "name": "La Digue",
+        "type": null,
+        "latitude": "49.76669220",
+        "longitude": "-97.15466290",
+        "code": "15"
+    },
+    {
+        "name": "La Rivière Anglaise",
+        "type": null,
+        "latitude": "-4.61061500",
+        "longitude": "55.45408410",
+        "code": "16"
+    },
+    {
+        "name": "Les Mamelles",
+        "type": null,
+        "latitude": "38.82505050",
+        "longitude": "-90.48345170",
+        "code": "24"
+    },
+    {
+        "name": "Mont Buxton",
+        "type": null,
+        "latitude": "-4.61666670",
+        "longitude": "55.44577680",
+        "code": "17"
+    },
+    {
+        "name": "Mont Fleuri",
+        "type": null,
+        "latitude": "-4.63565430",
+        "longitude": "55.45546880",
+        "code": "18"
+    },
+    {
+        "name": "Plaisance",
+        "type": null,
+        "latitude": "45.60709500",
+        "longitude": "-75.11427450",
+        "code": "19"
+    },
+    {
+        "name": "Pointe La Rue",
+        "type": null,
+        "latitude": "-4.68048900",
+        "longitude": "55.51918570",
+        "code": "20"
+    },
+    {
+        "name": "Port Glaud",
+        "type": null,
+        "latitude": "-4.64885230",
+        "longitude": "55.41947530",
+        "code": "21"
+    },
+    {
+        "name": "Roche Caiman",
+        "type": null,
+        "latitude": "-4.63960280",
+        "longitude": "55.46793150",
+        "code": "25"
+    },
+    {
+        "name": "Saint Louis",
+        "type": null,
+        "latitude": "38.62700250",
+        "longitude": "-90.19940420",
+        "code": "22"
+    },
+    {
+        "name": "Takamaka",
+        "type": null,
+        "latitude": "37.96459170",
+        "longitude": "-1.22177270",
+        "code": "23"
+    }
+]

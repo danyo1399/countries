@@ -204,16 +204,76 @@
             11.5
         ]
     },
-    "provinces": [
-        "Adamawa",
-        "Centre",
-        "East",
-        "Far North",
-        "Littoral",
-        "North",
-        "Northwest",
-        "South",
-        "Southwest",
-        "West"
+    "states": [
+        {
+            "name": "Adamawa",
+            "type": null,
+            "latitude": "9.32647510",
+            "longitude": "12.39838530",
+            "code": "AD"
+        },
+        {
+            "name": "Centre",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "CE"
+        },
+        {
+            "name": "East",
+            "type": null,
+            "latitude": "39.01853360",
+            "longitude": "-94.27924110",
+            "code": "ES"
+        },
+        {
+            "name": "Far North",
+            "type": null,
+            "latitude": "66.76134510",
+            "longitude": "124.12375300",
+            "code": "EN"
+        },
+        {
+            "name": "Littoral",
+            "type": null,
+            "latitude": "48.46227570",
+            "longitude": "-68.51780710",
+            "code": "LT"
+        },
+        {
+            "name": "North",
+            "type": null,
+            "latitude": "37.09024000",
+            "longitude": "-95.71289100",
+            "code": "NO"
+        },
+        {
+            "name": "Northwest",
+            "type": null,
+            "latitude": "36.37118570",
+            "longitude": "-94.19346060",
+            "code": "NW"
+        },
+        {
+            "name": "South",
+            "type": null,
+            "latitude": "37.63159500",
+            "longitude": "-97.34584090",
+            "code": "SU"
+        },
+        {
+            "name": "Southwest",
+            "type": null,
+            "latitude": "36.19088130",
+            "longitude": "-95.88974480",
+            "code": "SW"
+        },
+        {
+            "name": "West",
+            "type": null,
+            "latitude": "37.03649890",
+            "longitude": "-95.67059870",
+            "code": "OU"
+        }
     ]
 }

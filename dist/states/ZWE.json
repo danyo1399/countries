@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Bulawayo Province",
+        "type": null,
+        "latitude": "-20.14895050",
+        "longitude": "28.53310380",
+        "code": "BU"
+    },
+    {
+        "name": "Harare Province",
+        "type": null,
+        "latitude": "-17.82162880",
+        "longitude": "31.04922590",
+        "code": "HA"
+    },
+    {
+        "name": "Manicaland",
+        "type": null,
+        "latitude": "-18.92163860",
+        "longitude": "32.17460500",
+        "code": "MA"
+    },
+    {
+        "name": "Mashonaland Central Province",
+        "type": null,
+        "latitude": "-16.76442950",
+        "longitude": "31.07937050",
+        "code": "MC"
+    },
+    {
+        "name": "Mashonaland East Province",
+        "type": null,
+        "latitude": "-18.58716420",
+        "longitude": "31.26263660",
+        "code": "ME"
+    },
+    {
+        "name": "Mashonaland West Province",
+        "type": null,
+        "latitude": "-17.48510290",
+        "longitude": "29.78892480",
+        "code": "MW"
+    },
+    {
+        "name": "Masvingo Province",
+        "type": null,
+        "latitude": "-20.62415090",
+        "longitude": "31.26263660",
+        "code": "MV"
+    },
+    {
+        "name": "Matabeleland North Province",
+        "type": null,
+        "latitude": "-18.53315660",
+        "longitude": "27.54958460",
+        "code": "MN"
+    },
+    {
+        "name": "Matabeleland South Province",
+        "type": null,
+        "latitude": "-21.05233700",
+        "longitude": "29.04599270",
+        "code": "MS"
+    },
+    {
+        "name": "Midlands Province",
+        "type": null,
+        "latitude": "-19.05520090",
+        "longitude": "29.60354950",
+        "code": "MI"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Al Anbar",
+        "type": "governorate",
+        "latitude": "32.55976140",
+        "longitude": "41.91964710",
+        "code": "AN"
+    },
+    {
+        "name": "Al Muthanna",
+        "type": "governorate",
+        "latitude": "29.91331710",
+        "longitude": "45.29938620",
+        "code": "MU"
+    },
+    {
+        "name": "Al-Qādisiyyah",
+        "type": "governorate",
+        "latitude": "32.04369100",
+        "longitude": "45.14945050",
+        "code": "QA"
+    },
+    {
+        "name": "Babylon",
+        "type": "governorate",
+        "latitude": "32.46819100",
+        "longitude": "44.55019350",
+        "code": "BB"
+    },
+    {
+        "name": "Baghdad",
+        "type": "governorate",
+        "latitude": "33.31526180",
+        "longitude": "44.36606530",
+        "code": "BG"
+    },
+    {
+        "name": "Basra",
+        "type": "governorate",
+        "latitude": "30.51142520",
+        "longitude": "47.82962530",
+        "code": "BA"
+    },
+    {
+        "name": "Dhi Qar",
+        "type": "governorate",
+        "latitude": "31.10422920",
+        "longitude": "46.36246860",
+        "code": "DQ"
+    },
+    {
+        "name": "Diyala",
+        "type": "governorate",
+        "latitude": "33.77334870",
+        "longitude": "45.14945050",
+        "code": "DI"
+    },
+    {
+        "name": "Dohuk",
+        "type": "governorate",
+        "latitude": "36.90772520",
+        "longitude": "43.06316890",
+        "code": "DA"
+    },
+    {
+        "name": "Erbil",
+        "type": "governorate",
+        "latitude": "36.55706280",
+        "longitude": "44.38512630",
+        "code": "AR"
+    },
+    {
+        "name": "Karbala",
+        "type": "governorate",
+        "latitude": "32.40454930",
+        "longitude": "43.86732220",
+        "code": "KA"
+    },
+    {
+        "name": "Kirkuk",
+        "type": "governorate",
+        "latitude": "35.32920140",
+        "longitude": "43.94367880",
+        "code": "KI"
+    },
+    {
+        "name": "Maysan",
+        "type": "governorate",
+        "latitude": "31.87340020",
+        "longitude": "47.13621250",
+        "code": "MA"
+    },
+    {
+        "name": "Najaf",
+        "type": "governorate",
+        "latitude": "31.35174860",
+        "longitude": "44.09603110",
+        "code": "NA"
+    },
+    {
+        "name": "Nineveh",
+        "type": "governorate",
+        "latitude": "36.22957400",
+        "longitude": "42.23624350",
+        "code": "NI"
+    },
+    {
+        "name": "Saladin",
+        "type": "governorate",
+        "latitude": "34.53375270",
+        "longitude": "43.48373800",
+        "code": "SD"
+    },
+    {
+        "name": "Sulaymaniyah",
+        "type": "governorate",
+        "latitude": "35.54663480",
+        "longitude": "45.30036830",
+        "code": "SU"
+    },
+    {
+        "name": "Wasit",
+        "type": "governorate",
+        "latitude": "32.60240940",
+        "longitude": "45.75209850",
+        "code": "WA"
+    }
+]

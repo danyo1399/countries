@@ -1,0 +1,205 @@
+[
+    {
+        "name": "Carlow",
+        "type": "county",
+        "latitude": "52.72322170",
+        "longitude": "-6.81082950",
+        "code": "CW"
+    },
+    {
+        "name": "Cavan",
+        "type": "county",
+        "latitude": "53.97654240",
+        "longitude": "-7.29966230",
+        "code": "CN"
+    },
+    {
+        "name": "Clare",
+        "type": "county",
+        "latitude": "43.04664000",
+        "longitude": "-87.89958100",
+        "code": "CE"
+    },
+    {
+        "name": "Connacht",
+        "type": "province",
+        "latitude": "53.83762430",
+        "longitude": "-8.95844810",
+        "code": "C"
+    },
+    {
+        "name": "Cork",
+        "type": "county",
+        "latitude": "51.89851430",
+        "longitude": "-8.47560350",
+        "code": "CO"
+    },
+    {
+        "name": "Donegal",
+        "type": "county",
+        "latitude": "54.65489930",
+        "longitude": "-8.10409670",
+        "code": "DL"
+    },
+    {
+        "name": "Dublin",
+        "type": "county",
+        "latitude": "53.34980530",
+        "longitude": "-6.26030970",
+        "code": "D"
+    },
+    {
+        "name": "Galway",
+        "type": "county",
+        "latitude": "53.35645090",
+        "longitude": "-8.85341130",
+        "code": "G"
+    },
+    {
+        "name": "Kerry",
+        "type": "county",
+        "latitude": "52.15446070",
+        "longitude": "-9.56686330",
+        "code": "KY"
+    },
+    {
+        "name": "Kildare",
+        "type": "county",
+        "latitude": "53.21204340",
+        "longitude": "-6.81947080",
+        "code": "KE"
+    },
+    {
+        "name": "Kilkenny",
+        "type": "county",
+        "latitude": "52.57769570",
+        "longitude": "-7.21800200",
+        "code": "KK"
+    },
+    {
+        "name": "Laois",
+        "type": "county",
+        "latitude": "52.99429500",
+        "longitude": "-7.33230070",
+        "code": "LS"
+    },
+    {
+        "name": "Leinster",
+        "type": "province",
+        "latitude": "53.32715380",
+        "longitude": "-7.51408410",
+        "code": "L"
+    },
+    {
+        "name": "Limerick",
+        "type": "county",
+        "latitude": "52.50905170",
+        "longitude": "-8.74749550",
+        "code": "LK"
+    },
+    {
+        "name": "Longford",
+        "type": "county",
+        "latitude": "53.72749820",
+        "longitude": "-7.79315270",
+        "code": "LD"
+    },
+    {
+        "name": "Louth",
+        "type": "county",
+        "latitude": "53.92523240",
+        "longitude": "-6.48894230",
+        "code": "LH"
+    },
+    {
+        "name": "Mayo",
+        "type": "county",
+        "latitude": "54.01526040",
+        "longitude": "-9.42893690",
+        "code": "MO"
+    },
+    {
+        "name": "Meath",
+        "type": "county",
+        "latitude": "53.60554800",
+        "longitude": "-6.65641690",
+        "code": "MH"
+    },
+    {
+        "name": "Monaghan",
+        "type": "county",
+        "latitude": "54.24920460",
+        "longitude": "-6.96831320",
+        "code": "MN"
+    },
+    {
+        "name": "Munster",
+        "type": "province",
+        "latitude": "51.94711970",
+        "longitude": "7.58453200",
+        "code": "M"
+    },
+    {
+        "name": "Offaly",
+        "type": "county",
+        "latitude": "53.23568710",
+        "longitude": "-7.71222290",
+        "code": "OY"
+    },
+    {
+        "name": "Roscommon",
+        "type": "county",
+        "latitude": "53.75926040",
+        "longitude": "-8.26816210",
+        "code": "RN"
+    },
+    {
+        "name": "Sligo",
+        "type": "county",
+        "latitude": "54.15532770",
+        "longitude": "-8.60645320",
+        "code": "SO"
+    },
+    {
+        "name": "Tipperary",
+        "type": "county",
+        "latitude": "52.47378940",
+        "longitude": "-8.16185140",
+        "code": "TA"
+    },
+    {
+        "name": "Ulster",
+        "type": "province",
+        "latitude": "54.76165550",
+        "longitude": "-6.96122730",
+        "code": "U"
+    },
+    {
+        "name": "Waterford",
+        "type": "county",
+        "latitude": "52.19435490",
+        "longitude": "-7.62275120",
+        "code": "WD"
+    },
+    {
+        "name": "Westmeath",
+        "type": "county",
+        "latitude": "53.53453080",
+        "longitude": "-7.46532170",
+        "code": "WH"
+    },
+    {
+        "name": "Wexford",
+        "type": "county",
+        "latitude": "52.47936030",
+        "longitude": "-6.58399130",
+        "code": "WX"
+    },
+    {
+        "name": "Wicklow",
+        "type": "county",
+        "latitude": "52.98623130",
+        "longitude": "-6.36725430",
+        "code": "WW"
+    }
+]

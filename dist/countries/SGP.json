@@ -206,11 +206,41 @@
         "format": "######",
         "regex": "^(\\d{6})$"
     },
-    "provinces": [
-        "Central Singapore Community Development Council",
-        "North East Community Development Council",
-        "North West Community Development Council",
-        "South East Community Development Council",
-        "South West Community Development Council"
+    "states": [
+        {
+            "name": "Central Singapore Community Development Council",
+            "type": null,
+            "latitude": "1.28951400",
+            "longitude": "103.81438790",
+            "code": "01"
+        },
+        {
+            "name": "North East Community Development Council",
+            "type": null,
+            "latitude": "45.01181130",
+            "longitude": "-93.24681070",
+            "code": "02"
+        },
+        {
+            "name": "North West Community Development Council",
+            "type": null,
+            "latitude": "39.10709300",
+            "longitude": "-94.45733600",
+            "code": "03"
+        },
+        {
+            "name": "South East Community Development Council",
+            "type": null,
+            "latitude": "39.28630700",
+            "longitude": "-76.56912370",
+            "code": "04"
+        },
+        {
+            "name": "South West Community Development Council",
+            "type": null,
+            "latitude": "39.92569100",
+            "longitude": "-75.23105800",
+            "code": "05"
+        }
     ]
 }

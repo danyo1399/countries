@@ -211,33 +211,195 @@
         "format": "#####-###",
         "regex": "^(\\d{8})$"
     },
-    "provinces": [
-        "Acre",
-        "Alagoas",
-        "Amapá",
-        "Amazonas",
-        "Bahia",
-        "Ceará",
-        "Distrito Federal",
-        "Espírito Santo",
-        "Goiás",
-        "Maranhão",
-        "Mato Grosso",
-        "Mato Grosso do Sul",
-        "Minas Gerais",
-        "Pará",
-        "Paraíba",
-        "Paraná",
-        "Pernambuco",
-        "Piauí",
-        "Rio de Janeiro",
-        "Rio Grande do Norte",
-        "Rio Grande do Sul",
-        "Rondônia",
-        "Roraima",
-        "Santa Catarina",
-        "São Paulo",
-        "Sergipe",
-        "Tocantins"
+    "states": [
+        {
+            "name": "Acre",
+            "type": null,
+            "latitude": "-9.02379600",
+            "longitude": "-70.81199500",
+            "code": "AC"
+        },
+        {
+            "name": "Alagoas",
+            "type": null,
+            "latitude": "-9.57130580",
+            "longitude": "-36.78195050",
+            "code": "AL"
+        },
+        {
+            "name": "Amapá",
+            "type": null,
+            "latitude": "0.90199250",
+            "longitude": "-52.00295650",
+            "code": "AP"
+        },
+        {
+            "name": "Amazonas",
+            "type": null,
+            "latitude": "-3.07000000",
+            "longitude": "-61.66000000",
+            "code": "AM"
+        },
+        {
+            "name": "Bahia",
+            "type": null,
+            "latitude": "-11.40987400",
+            "longitude": "-41.28085700",
+            "code": "BA"
+        },
+        {
+            "name": "Ceará",
+            "type": null,
+            "latitude": "-5.49839770",
+            "longitude": "-39.32062410",
+            "code": "CE"
+        },
+        {
+            "name": "Distrito Federal",
+            "type": null,
+            "latitude": "-15.79976540",
+            "longitude": "-47.86447150",
+            "code": "DF"
+        },
+        {
+            "name": "Espírito Santo",
+            "type": null,
+            "latitude": "-19.18342290",
+            "longitude": "-40.30886260",
+            "code": "ES"
+        },
+        {
+            "name": "Goiás",
+            "type": null,
+            "latitude": "-15.82703690",
+            "longitude": "-49.83622370",
+            "code": "GO"
+        },
+        {
+            "name": "Maranhão",
+            "type": null,
+            "latitude": "-4.96094980",
+            "longitude": "-45.27441590",
+            "code": "MA"
+        },
+        {
+            "name": "Mato Grosso",
+            "type": null,
+            "latitude": "-12.68187120",
+            "longitude": "-56.92109900",
+            "code": "MT"
+        },
+        {
+            "name": "Mato Grosso do Sul",
+            "type": null,
+            "latitude": "-20.77222950",
+            "longitude": "-54.78515310",
+            "code": "MS"
+        },
+        {
+            "name": "Minas Gerais",
+            "type": null,
+            "latitude": "-18.51217800",
+            "longitude": "-44.55503080",
+            "code": "MG"
+        },
+        {
+            "name": "Pará",
+            "type": null,
+            "latitude": "-1.99812710",
+            "longitude": "-54.93061520",
+            "code": "PA"
+        },
+        {
+            "name": "Paraíba",
+            "type": null,
+            "latitude": "-7.23996090",
+            "longitude": "-36.78195050",
+            "code": "PB"
+        },
+        {
+            "name": "Paraná",
+            "type": null,
+            "latitude": "-25.25208880",
+            "longitude": "-52.02154150",
+            "code": "PR"
+        },
+        {
+            "name": "Pernambuco",
+            "type": null,
+            "latitude": "-8.81371730",
+            "longitude": "-36.95410700",
+            "code": "PE"
+        },
+        {
+            "name": "Piauí",
+            "type": null,
+            "latitude": "-7.71834010",
+            "longitude": "-42.72892360",
+            "code": "PI"
+        },
+        {
+            "name": "Rio de Janeiro",
+            "type": null,
+            "latitude": "-22.90684670",
+            "longitude": "-43.17289650",
+            "code": "RJ"
+        },
+        {
+            "name": "Rio Grande do Norte",
+            "type": null,
+            "latitude": "-5.40258030",
+            "longitude": "-36.95410700",
+            "code": "RN"
+        },
+        {
+            "name": "Rio Grande do Sul",
+            "type": null,
+            "latitude": "-30.03463160",
+            "longitude": "-51.21769860",
+            "code": "RS"
+        },
+        {
+            "name": "Rondônia",
+            "type": null,
+            "latitude": "-11.50573410",
+            "longitude": "-63.58061100",
+            "code": "RO"
+        },
+        {
+            "name": "Roraima",
+            "type": null,
+            "latitude": "2.73759710",
+            "longitude": "-62.07509980",
+            "code": "RR"
+        },
+        {
+            "name": "Santa Catarina",
+            "type": null,
+            "latitude": "-27.33000000",
+            "longitude": "-49.44000000",
+            "code": "SC"
+        },
+        {
+            "name": "São Paulo",
+            "type": null,
+            "latitude": "-23.55051990",
+            "longitude": "-46.63330940",
+            "code": "SP"
+        },
+        {
+            "name": "Sergipe",
+            "type": null,
+            "latitude": "-10.57409340",
+            "longitude": "-37.38565810",
+            "code": "SE"
+        },
+        {
+            "name": "Tocantins",
+            "type": null,
+            "latitude": "-10.17528000",
+            "longitude": "-48.29824740",
+            "code": "TO"
+        }
     ]
 }

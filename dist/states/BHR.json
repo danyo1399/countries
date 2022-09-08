@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Capital",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "13"
+    },
+    {
+        "name": "Central",
+        "type": null,
+        "latitude": "26.14260930",
+        "longitude": "50.56532940",
+        "code": "16"
+    },
+    {
+        "name": "Muharraq",
+        "type": null,
+        "latitude": "26.26856530",
+        "longitude": "50.64825170",
+        "code": "15"
+    },
+    {
+        "name": "Northern",
+        "type": null,
+        "latitude": "26.15519140",
+        "longitude": "50.48251730",
+        "code": "17"
+    },
+    {
+        "name": "Southern",
+        "type": null,
+        "latitude": "25.93810180",
+        "longitude": "50.57568870",
+        "code": "14"
+    }
+]

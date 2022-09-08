@@ -208,11 +208,41 @@
             30.05
         ]
     },
-    "provinces": [
-        "Eastern Province",
-        "Kigali district",
-        "Northern Province",
-        "Southern Province",
-        "Western Province"
+    "states": [
+        {
+            "name": "Eastern Province",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "02"
+        },
+        {
+            "name": "Kigali district",
+            "type": null,
+            "latitude": "-1.94407270",
+            "longitude": "30.06188510",
+            "code": "01"
+        },
+        {
+            "name": "Northern Province",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "03"
+        },
+        {
+            "name": "Southern Province",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "05"
+        },
+        {
+            "name": "Western Province",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "04"
+        }
     ]
 }

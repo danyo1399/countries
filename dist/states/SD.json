@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Al Jazirah",
+        "type": null,
+        "latitude": "14.88596110",
+        "longitude": "33.43835300",
+        "code": "GZ"
+    },
+    {
+        "name": "Al Qadarif",
+        "type": null,
+        "latitude": "14.02430700",
+        "longitude": "35.36856790",
+        "code": "GD"
+    },
+    {
+        "name": "Blue Nile",
+        "type": null,
+        "latitude": "47.59867300",
+        "longitude": "-122.33441900",
+        "code": "NB"
+    },
+    {
+        "name": "Central Darfur",
+        "type": null,
+        "latitude": "14.37827470",
+        "longitude": "24.90422080",
+        "code": "DC"
+    },
+    {
+        "name": "East Darfur",
+        "type": null,
+        "latitude": "14.37827470",
+        "longitude": "24.90422080",
+        "code": "DE"
+    },
+    {
+        "name": "Kassala",
+        "type": null,
+        "latitude": "15.45813320",
+        "longitude": "36.40396290",
+        "code": "KA"
+    },
+    {
+        "name": "Khartoum",
+        "type": null,
+        "latitude": "15.50065440",
+        "longitude": "32.55989940",
+        "code": "KH"
+    },
+    {
+        "name": "North Darfur",
+        "type": null,
+        "latitude": "15.76619690",
+        "longitude": "24.90422080",
+        "code": "DN"
+    },
+    {
+        "name": "North Kordofan",
+        "type": null,
+        "latitude": "13.83064410",
+        "longitude": "29.41793240",
+        "code": "KN"
+    },
+    {
+        "name": "Northern",
+        "type": null,
+        "latitude": "38.06381700",
+        "longitude": "-84.46286480",
+        "code": "NO"
+    },
+    {
+        "name": "Red Sea",
+        "type": null,
+        "latitude": "20.28023200",
+        "longitude": "38.51257300",
+        "code": "RS"
+    },
+    {
+        "name": "River Nile",
+        "type": null,
+        "latitude": "23.97275950",
+        "longitude": "32.87492060",
+        "code": "NR"
+    },
+    {
+        "name": "Sennar",
+        "type": null,
+        "latitude": "13.56746900",
+        "longitude": "33.56720450",
+        "code": "SI"
+    },
+    {
+        "name": "South Darfur",
+        "type": null,
+        "latitude": "11.64886390",
+        "longitude": "24.90422080",
+        "code": "DS"
+    },
+    {
+        "name": "South Kordofan",
+        "type": null,
+        "latitude": "11.19901920",
+        "longitude": "29.41793240",
+        "code": "KS"
+    },
+    {
+        "name": "West Darfur",
+        "type": null,
+        "latitude": "12.84635610",
+        "longitude": "23.00119890",
+        "code": "DW"
+    },
+    {
+        "name": "West Kordofan",
+        "type": null,
+        "latitude": "11.19901920",
+        "longitude": "29.41793240",
+        "code": "GK"
+    },
+    {
+        "name": "White Nile",
+        "type": null,
+        "latitude": "9.33215160",
+        "longitude": "31.46153000",
+        "code": "NW"
+    }
+]

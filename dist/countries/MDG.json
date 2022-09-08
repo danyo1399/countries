@@ -201,12 +201,48 @@
         "format": "###",
         "regex": "^(\\d{3})$"
     },
-    "provinces": [
-        "Antananarivo Province",
-        "Antsiranana Province",
-        "Fianarantsoa Province",
-        "Mahajanga Province",
-        "Toamasina Province",
-        "Toliara Province"
+    "states": [
+        {
+            "name": "Antananarivo Province",
+            "type": null,
+            "latitude": "-18.70514740",
+            "longitude": "46.82528380",
+            "code": "T"
+        },
+        {
+            "name": "Antsiranana Province",
+            "type": null,
+            "latitude": "-13.77153900",
+            "longitude": "49.52799960",
+            "code": "D"
+        },
+        {
+            "name": "Fianarantsoa Province",
+            "type": null,
+            "latitude": "-22.35362400",
+            "longitude": "46.82528380",
+            "code": "F"
+        },
+        {
+            "name": "Mahajanga Province",
+            "type": null,
+            "latitude": "-16.52388300",
+            "longitude": "46.51626200",
+            "code": "M"
+        },
+        {
+            "name": "Toamasina Province",
+            "type": null,
+            "latitude": "-18.14428110",
+            "longitude": "49.39578360",
+            "code": "A"
+        },
+        {
+            "name": "Toliara Province",
+            "type": null,
+            "latitude": "-23.35161910",
+            "longitude": "43.68549360",
+            "code": "U"
+        }
     ]
 }

@@ -199,25 +199,139 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Artigas Department",
-        "Canelones Department",
-        "Cerro Largo Department",
-        "Colonia Department",
-        "Durazno Department",
-        "Flores Department",
-        "Florida Department",
-        "Lavalleja Department",
-        "Maldonado Department",
-        "Montevideo Department",
-        "Paysandú Department",
-        "Río Negro Department",
-        "Rivera Department",
-        "Rocha Department",
-        "Salto Department",
-        "San José Department",
-        "Soriano Department",
-        "Tacuarembó Department",
-        "Treinta y Tres Department"
+    "states": [
+        {
+            "name": "Artigas Department",
+            "type": null,
+            "latitude": "-30.61751120",
+            "longitude": "-56.95945590",
+            "code": "AR"
+        },
+        {
+            "name": "Canelones Department",
+            "type": null,
+            "latitude": "-34.54087170",
+            "longitude": "-55.93076000",
+            "code": "CA"
+        },
+        {
+            "name": "Cerro Largo Department",
+            "type": null,
+            "latitude": "-32.44110320",
+            "longitude": "-54.35217530",
+            "code": "CL"
+        },
+        {
+            "name": "Colonia Department",
+            "type": null,
+            "latitude": "-34.12946780",
+            "longitude": "-57.66051840",
+            "code": "CO"
+        },
+        {
+            "name": "Durazno Department",
+            "type": null,
+            "latitude": "-33.02324540",
+            "longitude": "-56.02846440",
+            "code": "DU"
+        },
+        {
+            "name": "Flores Department",
+            "type": null,
+            "latitude": "-33.57337530",
+            "longitude": "-56.89450280",
+            "code": "FS"
+        },
+        {
+            "name": "Florida Department",
+            "type": null,
+            "latitude": "28.03594950",
+            "longitude": "-82.45792890",
+            "code": "FD"
+        },
+        {
+            "name": "Lavalleja Department",
+            "type": null,
+            "latitude": "-33.92261750",
+            "longitude": "-54.97657940",
+            "code": "LA"
+        },
+        {
+            "name": "Maldonado Department",
+            "type": null,
+            "latitude": "-34.55979320",
+            "longitude": "-54.86285520",
+            "code": "MA"
+        },
+        {
+            "name": "Montevideo Department",
+            "type": null,
+            "latitude": "-34.81815870",
+            "longitude": "-56.21382560",
+            "code": "MO"
+        },
+        {
+            "name": "Paysandú Department",
+            "type": null,
+            "latitude": "-32.06673660",
+            "longitude": "-57.33647890",
+            "code": "PA"
+        },
+        {
+            "name": "Río Negro Department",
+            "type": null,
+            "latitude": "-32.76763560",
+            "longitude": "-57.42952070",
+            "code": "RN"
+        },
+        {
+            "name": "Rivera Department",
+            "type": null,
+            "latitude": "-31.48174210",
+            "longitude": "-55.24357590",
+            "code": "RV"
+        },
+        {
+            "name": "Rocha Department",
+            "type": null,
+            "latitude": "-33.96900810",
+            "longitude": "-54.02148500",
+            "code": "RO"
+        },
+        {
+            "name": "Salto Department",
+            "type": null,
+            "latitude": "-31.38802800",
+            "longitude": "-57.96124550",
+            "code": "SA"
+        },
+        {
+            "name": "San José Department",
+            "type": null,
+            "latitude": "37.34929680",
+            "longitude": "-121.90560490",
+            "code": "SJ"
+        },
+        {
+            "name": "Soriano Department",
+            "type": null,
+            "latitude": "-33.51027920",
+            "longitude": "-57.74981030",
+            "code": "SO"
+        },
+        {
+            "name": "Tacuarembó Department",
+            "type": null,
+            "latitude": "-31.72068370",
+            "longitude": "-55.98598870",
+            "code": "TA"
+        },
+        {
+            "name": "Treinta y Tres Department",
+            "type": null,
+            "latitude": "-33.06850860",
+            "longitude": "-54.28586270",
+            "code": "TT"
+        }
     ]
 }

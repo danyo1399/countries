@@ -1,0 +1,485 @@
+[
+    {
+        "name": "Akmenė District Municipality",
+        "type": null,
+        "latitude": "56.24550290",
+        "longitude": "22.74711690",
+        "code": "01"
+    },
+    {
+        "name": "Alytus City Municipality",
+        "type": null,
+        "latitude": "54.39629380",
+        "longitude": "24.04587610",
+        "code": "02"
+    },
+    {
+        "name": "Alytus County",
+        "type": null,
+        "latitude": "54.20002140",
+        "longitude": "24.15126340",
+        "code": "AL"
+    },
+    {
+        "name": "Alytus District Municipality",
+        "type": null,
+        "latitude": "54.32974960",
+        "longitude": "24.19609310",
+        "code": "03"
+    },
+    {
+        "name": "Birštonas Municipality",
+        "type": null,
+        "latitude": "54.56696640",
+        "longitude": "24.00930980",
+        "code": "05"
+    },
+    {
+        "name": "Biržai District Municipality",
+        "type": null,
+        "latitude": "56.20177190",
+        "longitude": "24.75601180",
+        "code": "06"
+    },
+    {
+        "name": "Druskininkai municipality",
+        "type": null,
+        "latitude": "53.99336850",
+        "longitude": "24.03424380",
+        "code": "07"
+    },
+    {
+        "name": "Elektrėnai municipality",
+        "type": null,
+        "latitude": "54.76539340",
+        "longitude": "24.77405830",
+        "code": "08"
+    },
+    {
+        "name": "Ignalina District Municipality",
+        "type": null,
+        "latitude": "55.40903420",
+        "longitude": "26.32848930",
+        "code": "09"
+    },
+    {
+        "name": "Jonava District Municipality",
+        "type": null,
+        "latitude": "55.07272420",
+        "longitude": "24.27933370",
+        "code": "10"
+    },
+    {
+        "name": "Joniškis District Municipality",
+        "type": null,
+        "latitude": "56.23607300",
+        "longitude": "23.61365790",
+        "code": "11"
+    },
+    {
+        "name": "Jurbarkas District Municipality",
+        "type": null,
+        "latitude": "55.07740700",
+        "longitude": "22.74195690",
+        "code": "12"
+    },
+    {
+        "name": "Kaišiadorys District Municipality",
+        "type": null,
+        "latitude": "54.85886690",
+        "longitude": "24.42779290",
+        "code": "13"
+    },
+    {
+        "name": "Kalvarija municipality",
+        "type": null,
+        "latitude": "54.37616740",
+        "longitude": "23.19203210",
+        "code": "14"
+    },
+    {
+        "name": "Kaunas City Municipality",
+        "type": null,
+        "latitude": "54.91453260",
+        "longitude": "23.90535180",
+        "code": "15"
+    },
+    {
+        "name": "Kaunas County",
+        "type": null,
+        "latitude": "54.98728630",
+        "longitude": "23.95257360",
+        "code": "KU"
+    },
+    {
+        "name": "Kaunas District Municipality",
+        "type": null,
+        "latitude": "54.99362360",
+        "longitude": "23.63249410",
+        "code": "16"
+    },
+    {
+        "name": "Kazlų Rūda municipality",
+        "type": null,
+        "latitude": "54.78075260",
+        "longitude": "23.48402430",
+        "code": "17"
+    },
+    {
+        "name": "Kėdainiai District Municipality",
+        "type": null,
+        "latitude": "55.35609470",
+        "longitude": "23.98326830",
+        "code": "18"
+    },
+    {
+        "name": "Kelmė District Municipality",
+        "type": null,
+        "latitude": "55.62663520",
+        "longitude": "22.87817200",
+        "code": "19"
+    },
+    {
+        "name": "Klaipeda City Municipality",
+        "type": null,
+        "latitude": "55.70329480",
+        "longitude": "21.14427950",
+        "code": "20"
+    },
+    {
+        "name": "Klaipėda County",
+        "type": null,
+        "latitude": "55.65197440",
+        "longitude": "21.37439560",
+        "code": "KL"
+    },
+    {
+        "name": "Klaipėda District Municipality",
+        "type": null,
+        "latitude": "55.68416150",
+        "longitude": "21.44164640",
+        "code": "21"
+    },
+    {
+        "name": "Kretinga District Municipality",
+        "type": null,
+        "latitude": "55.88384200",
+        "longitude": "21.23509190",
+        "code": "22"
+    },
+    {
+        "name": "Kupiškis District Municipality",
+        "type": null,
+        "latitude": "55.84287410",
+        "longitude": "25.02958160",
+        "code": "23"
+    },
+    {
+        "name": "Lazdijai District Municipality",
+        "type": null,
+        "latitude": "54.23432670",
+        "longitude": "23.51565050",
+        "code": "24"
+    },
+    {
+        "name": "Marijampolė County",
+        "type": null,
+        "latitude": "54.78199710",
+        "longitude": "23.13413650",
+        "code": "MR"
+    },
+    {
+        "name": "Marijampolė Municipality",
+        "type": null,
+        "latitude": "54.57110940",
+        "longitude": "23.48593710",
+        "code": "25"
+    },
+    {
+        "name": "Mažeikiai District Municipality",
+        "type": null,
+        "latitude": "56.30924390",
+        "longitude": "22.34146800",
+        "code": "26"
+    },
+    {
+        "name": "Molėtai District Municipality",
+        "type": null,
+        "latitude": "55.22653090",
+        "longitude": "25.41800110",
+        "code": "27"
+    },
+    {
+        "name": "Neringa Municipality",
+        "type": null,
+        "latitude": "55.45724030",
+        "longitude": "21.08390050",
+        "code": "28"
+    },
+    {
+        "name": "Pagėgiai municipality",
+        "type": null,
+        "latitude": "55.17213200",
+        "longitude": "21.96836140",
+        "code": "29"
+    },
+    {
+        "name": "Pakruojis District Municipality",
+        "type": null,
+        "latitude": "56.07326050",
+        "longitude": "23.93899060",
+        "code": "30"
+    },
+    {
+        "name": "Palanga City Municipality",
+        "type": null,
+        "latitude": "55.92019800",
+        "longitude": "21.06776140",
+        "code": "31"
+    },
+    {
+        "name": "Panevėžys City Municipality",
+        "type": null,
+        "latitude": "55.73479150",
+        "longitude": "24.35747740",
+        "code": "32"
+    },
+    {
+        "name": "Panevėžys County",
+        "type": null,
+        "latitude": "55.97480490",
+        "longitude": "25.07947670",
+        "code": "PN"
+    },
+    {
+        "name": "Panevėžys District Municipality",
+        "type": null,
+        "latitude": "55.61667280",
+        "longitude": "24.31422830",
+        "code": "33"
+    },
+    {
+        "name": "Pasvalys District Municipality",
+        "type": null,
+        "latitude": "56.06046190",
+        "longitude": "24.39629100",
+        "code": "34"
+    },
+    {
+        "name": "Plungė District Municipality",
+        "type": null,
+        "latitude": "55.91078400",
+        "longitude": "21.84540690",
+        "code": "35"
+    },
+    {
+        "name": "Prienai District Municipality",
+        "type": null,
+        "latitude": "54.63835800",
+        "longitude": "23.94680090",
+        "code": "36"
+    },
+    {
+        "name": "Radviliškis District Municipality",
+        "type": null,
+        "latitude": "55.81083990",
+        "longitude": "23.54648700",
+        "code": "37"
+    },
+    {
+        "name": "Raseiniai District Municipality",
+        "type": null,
+        "latitude": "55.38194990",
+        "longitude": "23.11561290",
+        "code": "38"
+    },
+    {
+        "name": "Rietavas municipality",
+        "type": null,
+        "latitude": "55.70217190",
+        "longitude": "21.99865640",
+        "code": "39"
+    },
+    {
+        "name": "Rokiškis District Municipality",
+        "type": null,
+        "latitude": "55.95550390",
+        "longitude": "25.58592490",
+        "code": "40"
+    },
+    {
+        "name": "Šakiai District Municipality",
+        "type": null,
+        "latitude": "54.95267100",
+        "longitude": "23.04801990",
+        "code": "41"
+    },
+    {
+        "name": "Šalčininkai District Municipality",
+        "type": null,
+        "latitude": "54.30976700",
+        "longitude": "25.38756400",
+        "code": "42"
+    },
+    {
+        "name": "Šiauliai City Municipality",
+        "type": null,
+        "latitude": "55.93490850",
+        "longitude": "23.31368230",
+        "code": "43"
+    },
+    {
+        "name": "Šiauliai County",
+        "type": null,
+        "latitude": "55.99857510",
+        "longitude": "23.13800510",
+        "code": "SA"
+    },
+    {
+        "name": "Šiauliai District Municipality",
+        "type": null,
+        "latitude": "55.97214560",
+        "longitude": "23.03323710",
+        "code": "44"
+    },
+    {
+        "name": "Šilalė District Municipality",
+        "type": null,
+        "latitude": "55.49268000",
+        "longitude": "22.18455590",
+        "code": "45"
+    },
+    {
+        "name": "Šilutė District Municipality",
+        "type": null,
+        "latitude": "55.35041400",
+        "longitude": "21.46598590",
+        "code": "46"
+    },
+    {
+        "name": "Širvintos District Municipality",
+        "type": null,
+        "latitude": "55.04310200",
+        "longitude": "24.95698100",
+        "code": "47"
+    },
+    {
+        "name": "Skuodas District Municipality",
+        "type": null,
+        "latitude": "56.27021690",
+        "longitude": "21.52143310",
+        "code": "48"
+    },
+    {
+        "name": "Švenčionys District Municipality",
+        "type": null,
+        "latitude": "55.10280980",
+        "longitude": "26.00718550",
+        "code": "49"
+    },
+    {
+        "name": "Tauragė County",
+        "type": null,
+        "latitude": "55.30725860",
+        "longitude": "22.35729390",
+        "code": "TA"
+    },
+    {
+        "name": "Tauragė District Municipality",
+        "type": null,
+        "latitude": "55.25036600",
+        "longitude": "22.29095000",
+        "code": "50"
+    },
+    {
+        "name": "Telšiai County",
+        "type": null,
+        "latitude": "56.10266160",
+        "longitude": "22.11139150",
+        "code": "TE"
+    },
+    {
+        "name": "Telšiai District Municipality",
+        "type": null,
+        "latitude": "55.91752150",
+        "longitude": "22.34518400",
+        "code": "51"
+    },
+    {
+        "name": "Trakai District Municipality",
+        "type": null,
+        "latitude": "54.63791130",
+        "longitude": "24.93468940",
+        "code": "52"
+    },
+    {
+        "name": "Ukmergė District Municipality",
+        "type": null,
+        "latitude": "55.24526500",
+        "longitude": "24.77607490",
+        "code": "53"
+    },
+    {
+        "name": "Utena County",
+        "type": null,
+        "latitude": "55.53189690",
+        "longitude": "25.79046990",
+        "code": "UT"
+    },
+    {
+        "name": "Utena District Municipality",
+        "type": null,
+        "latitude": "55.50846140",
+        "longitude": "25.68326420",
+        "code": "54"
+    },
+    {
+        "name": "Varėna District Municipality",
+        "type": null,
+        "latitude": "54.22033300",
+        "longitude": "24.57899700",
+        "code": "55"
+    },
+    {
+        "name": "Vilkaviškis District Municipality",
+        "type": null,
+        "latitude": "54.65194500",
+        "longitude": "23.03515500",
+        "code": "56"
+    },
+    {
+        "name": "Vilnius City Municipality",
+        "type": null,
+        "latitude": "54.67107610",
+        "longitude": "25.28787210",
+        "code": "57"
+    },
+    {
+        "name": "Vilnius County",
+        "type": null,
+        "latitude": "54.80865020",
+        "longitude": "25.21821390",
+        "code": "VL"
+    },
+    {
+        "name": "Vilnius District Municipality",
+        "type": null,
+        "latitude": "54.77325780",
+        "longitude": "25.58671130",
+        "code": "58"
+    },
+    {
+        "name": "Visaginas Municipality",
+        "type": null,
+        "latitude": "55.59411800",
+        "longitude": "26.43079540",
+        "code": "59"
+    },
+    {
+        "name": "Zarasai District Municipality",
+        "type": null,
+        "latitude": "55.73096090",
+        "longitude": "26.24529500",
+        "code": "60"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Aimeliik",
+        "type": null,
+        "latitude": "7.44558590",
+        "longitude": "134.50308780",
+        "code": "002"
+    },
+    {
+        "name": "Airai",
+        "type": null,
+        "latitude": "7.39661180",
+        "longitude": "134.56902250",
+        "code": "004"
+    },
+    {
+        "name": "Angaur",
+        "type": null,
+        "latitude": "6.90922300",
+        "longitude": "134.13879340",
+        "code": "010"
+    },
+    {
+        "name": "Hatohobei",
+        "type": null,
+        "latitude": "3.00706580",
+        "longitude": "131.12377810",
+        "code": "050"
+    },
+    {
+        "name": "Kayangel",
+        "type": null,
+        "latitude": "8.07000000",
+        "longitude": "134.70277800",
+        "code": "100"
+    },
+    {
+        "name": "Koror",
+        "type": null,
+        "latitude": "7.33756460",
+        "longitude": "134.48894690",
+        "code": "150"
+    },
+    {
+        "name": "Melekeok",
+        "type": null,
+        "latitude": "7.51502860",
+        "longitude": "134.59725180",
+        "code": "212"
+    },
+    {
+        "name": "Ngaraard",
+        "type": null,
+        "latitude": "7.60794000",
+        "longitude": "134.63486450",
+        "code": "214"
+    },
+    {
+        "name": "Ngarchelong",
+        "type": null,
+        "latitude": "7.71054690",
+        "longitude": "134.63016460",
+        "code": "218"
+    },
+    {
+        "name": "Ngardmau",
+        "type": null,
+        "latitude": "7.58504860",
+        "longitude": "134.55960890",
+        "code": "222"
+    },
+    {
+        "name": "Ngatpang",
+        "type": null,
+        "latitude": "7.47109940",
+        "longitude": "134.52664660",
+        "code": "224"
+    },
+    {
+        "name": "Ngchesar",
+        "type": null,
+        "latitude": "7.45232800",
+        "longitude": "134.57843420",
+        "code": "226"
+    },
+    {
+        "name": "Ngeremlengui",
+        "type": null,
+        "latitude": "7.51983970",
+        "longitude": "134.55960890",
+        "code": "227"
+    },
+    {
+        "name": "Ngiwal",
+        "type": null,
+        "latitude": "7.56147640",
+        "longitude": "134.61606190",
+        "code": "228"
+    },
+    {
+        "name": "Peleliu",
+        "type": null,
+        "latitude": "7.00229060",
+        "longitude": "134.24316280",
+        "code": "350"
+    },
+    {
+        "name": "Sonsorol",
+        "type": null,
+        "latitude": "5.32681190",
+        "longitude": "132.22391170",
+        "code": "370"
+    }
+]

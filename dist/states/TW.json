@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Changhua",
+        "type": "county",
+        "latitude": "24.05179630",
+        "longitude": "120.51613520",
+        "code": "CHA"
+    },
+    {
+        "name": "Chiayi",
+        "type": "city",
+        "latitude": "23.45184280",
+        "longitude": "120.25546150",
+        "code": "CYI"
+    },
+    {
+        "name": "Chiayi",
+        "type": "county",
+        "latitude": "23.48007510",
+        "longitude": "120.44911130",
+        "code": "CYQ"
+    },
+    {
+        "name": "Hsinchu",
+        "type": "county",
+        "latitude": "24.83872260",
+        "longitude": "121.01772460",
+        "code": "HSQ"
+    },
+    {
+        "name": "Hsinchu",
+        "type": "city",
+        "latitude": "24.81382870",
+        "longitude": "120.96747980",
+        "code": "HSZ"
+    },
+    {
+        "name": "Hualien",
+        "type": "county",
+        "latitude": "23.98715890",
+        "longitude": "121.60157140",
+        "code": "HUA"
+    },
+    {
+        "name": "Kaohsiung",
+        "type": "special municipality",
+        "latitude": "22.62727840",
+        "longitude": "120.30143530",
+        "code": "KHH"
+    },
+    {
+        "name": "Keelung",
+        "type": "city",
+        "latitude": "25.12418620",
+        "longitude": "121.64758340",
+        "code": "KEE"
+    },
+    {
+        "name": "Kinmen",
+        "type": "county",
+        "latitude": "24.34877920",
+        "longitude": "118.32856440",
+        "code": "KIN"
+    },
+    {
+        "name": "Lienchiang",
+        "type": "county",
+        "latitude": "26.15055560",
+        "longitude": "119.92888890",
+        "code": "LIE"
+    },
+    {
+        "name": "Miaoli",
+        "type": "county",
+        "latitude": "24.56015900",
+        "longitude": "120.82142650",
+        "code": "MIA"
+    },
+    {
+        "name": "Nantou",
+        "type": "county",
+        "latitude": "23.96099810",
+        "longitude": "120.97186380",
+        "code": "NAN"
+    },
+    {
+        "name": "New Taipei",
+        "type": "special municipality",
+        "latitude": "24.98752780",
+        "longitude": "121.36459470",
+        "code": "NWT"
+    },
+    {
+        "name": "Penghu",
+        "type": "county",
+        "latitude": "23.57118990",
+        "longitude": "119.57931570",
+        "code": "PEN"
+    },
+    {
+        "name": "Pingtung",
+        "type": "county",
+        "latitude": "22.55197590",
+        "longitude": "120.54875970",
+        "code": "PIF"
+    },
+    {
+        "name": "Taichung",
+        "type": "special municipality",
+        "latitude": "24.14773580",
+        "longitude": "120.67364820",
+        "code": "TXG"
+    },
+    {
+        "name": "Tainan",
+        "type": "special municipality",
+        "latitude": "22.99972810",
+        "longitude": "120.22702770",
+        "code": "TNN"
+    },
+    {
+        "name": "Taipei",
+        "type": "special municipality",
+        "latitude": "25.03296940",
+        "longitude": "121.56541770",
+        "code": "TPE"
+    },
+    {
+        "name": "Taitung",
+        "type": "county",
+        "latitude": "22.79724470",
+        "longitude": "121.07137020",
+        "code": "TTT"
+    },
+    {
+        "name": "Taoyuan",
+        "type": "special municipality",
+        "latitude": "24.99362810",
+        "longitude": "121.30097980",
+        "code": "TAO"
+    },
+    {
+        "name": "Yilan",
+        "type": "county",
+        "latitude": "24.70210730",
+        "longitude": "121.73775020",
+        "code": "ILA"
+    },
+    {
+        "name": "Yunlin",
+        "type": "county",
+        "latitude": "23.70920330",
+        "longitude": "120.43133730",
+        "code": "YUN"
+    }
+]

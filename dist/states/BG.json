@@ -1,0 +1,198 @@
+[
+    {
+        "name": "Blagoevgrad Province",
+        "type": null,
+        "latitude": "42.02086140",
+        "longitude": "23.09433560",
+        "code": "01"
+    },
+    {
+        "name": "Burgas Province",
+        "type": null,
+        "latitude": "42.50480000",
+        "longitude": "27.46260790",
+        "code": "02"
+    },
+    {
+        "name": "Dobrich Province",
+        "type": null,
+        "latitude": "43.57278600",
+        "longitude": "27.82728020",
+        "code": "08"
+    },
+    {
+        "name": "Gabrovo Province",
+        "type": null,
+        "latitude": "42.86847000",
+        "longitude": "25.31688900",
+        "code": "07"
+    },
+    {
+        "name": "Haskovo Province",
+        "type": null,
+        "latitude": "41.93441780",
+        "longitude": "25.55546720",
+        "code": "26"
+    },
+    {
+        "name": "Kardzhali Province",
+        "type": null,
+        "latitude": "41.63384160",
+        "longitude": "25.37766870",
+        "code": "09"
+    },
+    {
+        "name": "Kyustendil Province",
+        "type": null,
+        "latitude": "42.28687990",
+        "longitude": "22.69396350",
+        "code": "10"
+    },
+    {
+        "name": "Lovech Province",
+        "type": null,
+        "latitude": "43.13677980",
+        "longitude": "24.71393350",
+        "code": "11"
+    },
+    {
+        "name": "Montana Province",
+        "type": null,
+        "latitude": "43.40851480",
+        "longitude": "23.22575890",
+        "code": "12"
+    },
+    {
+        "name": "Pazardzhik Province",
+        "type": null,
+        "latitude": "42.19275670",
+        "longitude": "24.33362260",
+        "code": "13"
+    },
+    {
+        "name": "Pernik Province",
+        "type": null,
+        "latitude": "42.60519900",
+        "longitude": "23.03779160",
+        "code": "14"
+    },
+    {
+        "name": "Pleven Province",
+        "type": null,
+        "latitude": "43.41701690",
+        "longitude": "24.60667080",
+        "code": "15"
+    },
+    {
+        "name": "Plovdiv Province",
+        "type": null,
+        "latitude": "42.13540790",
+        "longitude": "24.74529040",
+        "code": "16"
+    },
+    {
+        "name": "Razgrad Province",
+        "type": null,
+        "latitude": "43.52717050",
+        "longitude": "26.52412280",
+        "code": "17"
+    },
+    {
+        "name": "Ruse Province",
+        "type": null,
+        "latitude": "43.83559640",
+        "longitude": "25.96561440",
+        "code": "18"
+    },
+    {
+        "name": "Shumen",
+        "type": null,
+        "latitude": "43.27123980",
+        "longitude": "26.93612860",
+        "code": "27"
+    },
+    {
+        "name": "Silistra Province",
+        "type": null,
+        "latitude": "44.11471010",
+        "longitude": "27.26714540",
+        "code": "19"
+    },
+    {
+        "name": "Sliven Province",
+        "type": null,
+        "latitude": "42.68167020",
+        "longitude": "26.32285690",
+        "code": "20"
+    },
+    {
+        "name": "Smolyan Province",
+        "type": null,
+        "latitude": "41.57741480",
+        "longitude": "24.70108710",
+        "code": "21"
+    },
+    {
+        "name": "Sofia City Province",
+        "type": null,
+        "latitude": "42.75701090",
+        "longitude": "23.45046830",
+        "code": "22"
+    },
+    {
+        "name": "Sofia Province",
+        "type": null,
+        "latitude": "42.67344000",
+        "longitude": "23.83349370",
+        "code": "23"
+    },
+    {
+        "name": "Stara Zagora Province",
+        "type": null,
+        "latitude": "42.42577090",
+        "longitude": "25.63448550",
+        "code": "24"
+    },
+    {
+        "name": "Targovishte Province",
+        "type": null,
+        "latitude": "43.24623490",
+        "longitude": "26.56912510",
+        "code": "25"
+    },
+    {
+        "name": "Varna Province",
+        "type": null,
+        "latitude": "43.20464770",
+        "longitude": "27.91054880",
+        "code": "03"
+    },
+    {
+        "name": "Veliko Tarnovo Province",
+        "type": null,
+        "latitude": "43.07565390",
+        "longitude": "25.61715000",
+        "code": "04"
+    },
+    {
+        "name": "Vidin Province",
+        "type": null,
+        "latitude": "43.99617390",
+        "longitude": "22.86795150",
+        "code": "05"
+    },
+    {
+        "name": "Vratsa Province",
+        "type": null,
+        "latitude": "43.21018060",
+        "longitude": "23.55292100",
+        "code": "06"
+    },
+    {
+        "name": "Yambol Province",
+        "type": null,
+        "latitude": "42.48414940",
+        "longitude": "26.50352960",
+        "code": "28"
+    }
+]

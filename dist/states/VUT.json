@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Malampa",
+        "type": null,
+        "latitude": "-16.40114050",
+        "longitude": "167.60778650",
+        "code": "MAP"
+    },
+    {
+        "name": "Penama",
+        "type": null,
+        "latitude": "-15.37957580",
+        "longitude": "167.90531820",
+        "code": "PAM"
+    },
+    {
+        "name": "Sanma",
+        "type": null,
+        "latitude": "-15.48400170",
+        "longitude": "166.91820970",
+        "code": "SAM"
+    },
+    {
+        "name": "Shefa",
+        "type": null,
+        "latitude": "32.80576500",
+        "longitude": "35.16997100",
+        "code": "SEE"
+    },
+    {
+        "name": "Tafea",
+        "type": null,
+        "latitude": "-18.72378270",
+        "longitude": "169.06450560",
+        "code": "TAE"
+    },
+    {
+        "name": "Torba",
+        "type": null,
+        "latitude": "37.07653000",
+        "longitude": "27.45657300",
+        "code": "TOB"
+    }
+]

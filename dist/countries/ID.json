@@ -202,40 +202,244 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Aceh",
-        "Bali",
-        "Banten",
-        "Bengkulu",
-        "DI Yogyakarta",
-        "DKI Jakarta",
-        "Gorontalo",
-        "Jambi",
-        "Jawa Barat",
-        "Jawa Tengah",
-        "Jawa Timur",
-        "Kalimantan Barat",
-        "Kalimantan Selatan",
-        "Kalimantan Tengah",
-        "Kalimantan Timur",
-        "Kalimantan Utara",
-        "Kepulauan Bangka Belitung",
-        "Kepulauan Riau",
-        "Lampung",
-        "Maluku",
-        "Maluku Utara",
-        "Nusa Tenggara Barat",
-        "Nusa Tenggara Timur",
-        "Papua",
-        "Papua Barat",
-        "Riau",
-        "Sulawesi Barat",
-        "Sulawesi Selatan",
-        "Sulawesi Tengah",
-        "Sulawesi Tenggara",
-        "Sulawesi Utara",
-        "Sumatera Barat",
-        "Sumatera Selatan",
-        "Sumatera Utara"
+    "states": [
+        {
+            "name": "Aceh",
+            "type": "province",
+            "latitude": "4.69513500",
+            "longitude": "96.74939930",
+            "code": "AC"
+        },
+        {
+            "name": "Bali",
+            "type": "province",
+            "latitude": "-8.34053890",
+            "longitude": "115.09195090",
+            "code": "BA"
+        },
+        {
+            "name": "Banten",
+            "type": "province",
+            "latitude": "-6.40581720",
+            "longitude": "106.06401790",
+            "code": "BT"
+        },
+        {
+            "name": "Bengkulu",
+            "type": "province",
+            "latitude": "-3.79284510",
+            "longitude": "102.26076410",
+            "code": "BE"
+        },
+        {
+            "name": "DI Yogyakarta",
+            "type": "province",
+            "latitude": "-7.87538490",
+            "longitude": "110.42620880",
+            "code": "YO"
+        },
+        {
+            "name": "DKI Jakarta",
+            "type": "capital district",
+            "latitude": "-6.20876340",
+            "longitude": "106.84559900",
+            "code": "JK"
+        },
+        {
+            "name": "Gorontalo",
+            "type": "province",
+            "latitude": "0.54354420",
+            "longitude": "123.05676930",
+            "code": "GO"
+        },
+        {
+            "name": "Jambi",
+            "type": "province",
+            "latitude": "-1.61012290",
+            "longitude": "103.61312030",
+            "code": "JA"
+        },
+        {
+            "name": "Jawa Barat",
+            "type": "province",
+            "latitude": "-7.09091100",
+            "longitude": "107.66888700",
+            "code": "JB"
+        },
+        {
+            "name": "Jawa Tengah",
+            "type": "province",
+            "latitude": "-7.15097500",
+            "longitude": "110.14025940",
+            "code": "JT"
+        },
+        {
+            "name": "Jawa Timur",
+            "type": "province",
+            "latitude": "-7.53606390",
+            "longitude": "112.23840170",
+            "code": "JI"
+        },
+        {
+            "name": "Kalimantan Barat",
+            "type": "province",
+            "latitude": "0.47734750",
+            "longitude": "106.61314050",
+            "code": "KB"
+        },
+        {
+            "name": "Kalimantan Selatan",
+            "type": "province",
+            "latitude": "-3.09264150",
+            "longitude": "115.28375850",
+            "code": "KS"
+        },
+        {
+            "name": "Kalimantan Tengah",
+            "type": "province",
+            "latitude": "-1.68148780",
+            "longitude": "113.38235450",
+            "code": "KT"
+        },
+        {
+            "name": "Kalimantan Timur",
+            "type": "province",
+            "latitude": "0.53865860",
+            "longitude": "116.41938900",
+            "code": "KI"
+        },
+        {
+            "name": "Kalimantan Utara",
+            "type": "province",
+            "latitude": "3.07309290",
+            "longitude": "116.04138890",
+            "code": "KU"
+        },
+        {
+            "name": "Kepulauan Bangka Belitung",
+            "type": "province",
+            "latitude": "-2.74105130",
+            "longitude": "106.44058720",
+            "code": "BB"
+        },
+        {
+            "name": "Kepulauan Riau",
+            "type": "province",
+            "latitude": "3.94565140",
+            "longitude": "108.14286690",
+            "code": "KR"
+        },
+        {
+            "name": "Lampung",
+            "type": "province",
+            "latitude": "-4.55858490",
+            "longitude": "105.40680790",
+            "code": "LA"
+        },
+        {
+            "name": "Maluku",
+            "type": "province",
+            "latitude": "-3.23846160",
+            "longitude": "130.14527340",
+            "code": "MA"
+        },
+        {
+            "name": "Maluku Utara",
+            "type": "province",
+            "latitude": "1.57099930",
+            "longitude": "127.80876930",
+            "code": "MU"
+        },
+        {
+            "name": "Nusa Tenggara Barat",
+            "type": "province",
+            "latitude": "-8.65293340",
+            "longitude": "117.36164760",
+            "code": "NB"
+        },
+        {
+            "name": "Nusa Tenggara Timur",
+            "type": "province",
+            "latitude": "-8.65738190",
+            "longitude": "121.07937050",
+            "code": "NT"
+        },
+        {
+            "name": "Papua",
+            "type": "province",
+            "latitude": "-5.01222020",
+            "longitude": "141.34701590",
+            "code": "PA"
+        },
+        {
+            "name": "Papua Barat",
+            "type": "province",
+            "latitude": "-1.33611540",
+            "longitude": "133.17471620",
+            "code": "PB"
+        },
+        {
+            "name": "Riau",
+            "type": "province",
+            "latitude": "0.29334690",
+            "longitude": "101.70682940",
+            "code": "RI"
+        },
+        {
+            "name": "Sulawesi Barat",
+            "type": "province",
+            "latitude": "-2.84413710",
+            "longitude": "119.23207840",
+            "code": "SR"
+        },
+        {
+            "name": "Sulawesi Selatan",
+            "type": "province",
+            "latitude": "-3.66879940",
+            "longitude": "119.97405340",
+            "code": "SN"
+        },
+        {
+            "name": "Sulawesi Tengah",
+            "type": "province",
+            "latitude": "-1.43002540",
+            "longitude": "121.44561790",
+            "code": "ST"
+        },
+        {
+            "name": "Sulawesi Tenggara",
+            "type": "province",
+            "latitude": "-4.14491000",
+            "longitude": "122.17460500",
+            "code": "SG"
+        },
+        {
+            "name": "Sulawesi Utara",
+            "type": "province",
+            "latitude": "0.62469320",
+            "longitude": "123.97500180",
+            "code": "SA"
+        },
+        {
+            "name": "Sumatera Barat",
+            "type": "province",
+            "latitude": "-0.73993970",
+            "longitude": "100.80000510",
+            "code": "SB"
+        },
+        {
+            "name": "Sumatera Selatan",
+            "type": "province",
+            "latitude": "-3.31943740",
+            "longitude": "103.91439900",
+            "code": "SS"
+        },
+        {
+            "name": "Sumatera Utara",
+            "type": "province",
+            "latitude": "2.11535470",
+            "longitude": "99.54509740",
+            "code": "SU"
+        }
     ]
 }

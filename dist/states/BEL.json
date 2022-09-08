@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Antwerp",
+        "type": null,
+        "latitude": "51.21944750",
+        "longitude": "4.40246430",
+        "code": "VAN"
+    },
+    {
+        "name": "Brussels-Capital Region",
+        "type": null,
+        "latitude": "50.85034630",
+        "longitude": "4.35172110",
+        "code": "BRU"
+    },
+    {
+        "name": "East Flanders",
+        "type": null,
+        "latitude": "51.03621010",
+        "longitude": "3.73731240",
+        "code": "VOV"
+    },
+    {
+        "name": "Flanders",
+        "type": null,
+        "latitude": "51.01087060",
+        "longitude": "3.72646130",
+        "code": "VLG"
+    },
+    {
+        "name": "Flemish Brabant",
+        "type": null,
+        "latitude": "50.88154340",
+        "longitude": "4.56459700",
+        "code": "VBR"
+    },
+    {
+        "name": "Hainaut",
+        "type": null,
+        "latitude": "50.52570760",
+        "longitude": "4.06210170",
+        "code": "WHT"
+    },
+    {
+        "name": "Liège",
+        "type": null,
+        "latitude": "50.63255740",
+        "longitude": "5.57966620",
+        "code": "WLG"
+    },
+    {
+        "name": "Limburg",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "VLI"
+    },
+    {
+        "name": "Luxembourg",
+        "type": null,
+        "latitude": "49.81527300",
+        "longitude": "6.12958300",
+        "code": "WLX"
+    },
+    {
+        "name": "Namur",
+        "type": null,
+        "latitude": "50.46738830",
+        "longitude": "4.87198540",
+        "code": "WNA"
+    },
+    {
+        "name": "Wallonia",
+        "type": null,
+        "latitude": "50.41756370",
+        "longitude": "4.45100660",
+        "code": "WAL"
+    },
+    {
+        "name": "Walloon Brabant",
+        "type": null,
+        "latitude": "50.63324100",
+        "longitude": "4.52431500",
+        "code": "WBR"
+    },
+    {
+        "name": "West Flanders",
+        "type": null,
+        "latitude": "40.01793340",
+        "longitude": "-105.28067330",
+        "code": "VWV"
+    }
+]

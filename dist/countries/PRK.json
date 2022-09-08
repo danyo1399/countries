@@ -202,17 +202,83 @@
         "format": "###-###",
         "regex": "^(\\d{6})$"
     },
-    "provinces": [
-        "Chagang Province",
-        "Kangwon Province",
-        "North Hamgyong Province",
-        "North Hwanghae Province",
-        "North Pyongan Province",
-        "Pyongyang",
-        "Rason",
-        "Ryanggang Province",
-        "South Hamgyong Province",
-        "South Hwanghae Province",
-        "South Pyongan Province"
+    "states": [
+        {
+            "name": "Chagang Province",
+            "type": null,
+            "latitude": "40.72028090",
+            "longitude": "126.56211370",
+            "code": "04"
+        },
+        {
+            "name": "Kangwon Province",
+            "type": null,
+            "latitude": "38.84323930",
+            "longitude": "127.55970670",
+            "code": "07"
+        },
+        {
+            "name": "North Hamgyong Province",
+            "type": null,
+            "latitude": "41.81487580",
+            "longitude": "129.45819550",
+            "code": "09"
+        },
+        {
+            "name": "North Hwanghae Province",
+            "type": null,
+            "latitude": "38.37860850",
+            "longitude": "126.43643630",
+            "code": "06"
+        },
+        {
+            "name": "North Pyongan Province",
+            "type": null,
+            "latitude": "39.92556180",
+            "longitude": "125.39280250",
+            "code": "03"
+        },
+        {
+            "name": "Pyongyang",
+            "type": null,
+            "latitude": "39.03921930",
+            "longitude": "125.76252410",
+            "code": "01"
+        },
+        {
+            "name": "Rason",
+            "type": null,
+            "latitude": "42.25690630",
+            "longitude": "130.29771860",
+            "code": "13"
+        },
+        {
+            "name": "Ryanggang Province",
+            "type": null,
+            "latitude": "41.23189210",
+            "longitude": "128.50763590",
+            "code": "10"
+        },
+        {
+            "name": "South Hamgyong Province",
+            "type": null,
+            "latitude": "40.37253390",
+            "longitude": "128.29888400",
+            "code": "08"
+        },
+        {
+            "name": "South Hwanghae Province",
+            "type": null,
+            "latitude": "38.20072150",
+            "longitude": "125.47819260",
+            "code": "05"
+        },
+        {
+            "name": "South Pyongan Province",
+            "type": null,
+            "latitude": "39.35391780",
+            "longitude": "126.16827100",
+            "code": "02"
+        }
     ]
 }

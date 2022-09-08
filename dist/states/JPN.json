@@ -1,0 +1,331 @@
+[
+    {
+        "name": "Aichi Prefecture",
+        "type": null,
+        "latitude": "35.01825050",
+        "longitude": "137.29238930",
+        "code": "23"
+    },
+    {
+        "name": "Akita Prefecture",
+        "type": null,
+        "latitude": "40.13762930",
+        "longitude": "140.33434100",
+        "code": "05"
+    },
+    {
+        "name": "Aomori Prefecture",
+        "type": null,
+        "latitude": "40.76570770",
+        "longitude": "140.91758790",
+        "code": "02"
+    },
+    {
+        "name": "Chiba Prefecture",
+        "type": null,
+        "latitude": "35.33541550",
+        "longitude": "140.18325160",
+        "code": "12"
+    },
+    {
+        "name": "Ehime Prefecture",
+        "type": null,
+        "latitude": "33.60253060",
+        "longitude": "132.78575830",
+        "code": "38"
+    },
+    {
+        "name": "Fukui Prefecture",
+        "type": null,
+        "latitude": "35.89622700",
+        "longitude": "136.21115790",
+        "code": "18"
+    },
+    {
+        "name": "Fukuoka Prefecture",
+        "type": null,
+        "latitude": "33.56625590",
+        "longitude": "130.71585700",
+        "code": "40"
+    },
+    {
+        "name": "Fukushima Prefecture",
+        "type": null,
+        "latitude": "37.38343730",
+        "longitude": "140.18325160",
+        "code": "07"
+    },
+    {
+        "name": "Gifu Prefecture",
+        "type": null,
+        "latitude": "35.74374910",
+        "longitude": "136.98051030",
+        "code": "21"
+    },
+    {
+        "name": "Gunma Prefecture",
+        "type": null,
+        "latitude": "36.56053880",
+        "longitude": "138.87999720",
+        "code": "10"
+    },
+    {
+        "name": "Hiroshima Prefecture",
+        "type": null,
+        "latitude": "34.88234080",
+        "longitude": "133.01948970",
+        "code": "34"
+    },
+    {
+        "name": "Hokkaidō Prefecture",
+        "type": null,
+        "latitude": "43.22032660",
+        "longitude": "142.86347370",
+        "code": "01"
+    },
+    {
+        "name": "Hyōgo Prefecture",
+        "type": null,
+        "latitude": "34.85795180",
+        "longitude": "134.54537870",
+        "code": "28"
+    },
+    {
+        "name": "Ibaraki Prefecture",
+        "type": null,
+        "latitude": "36.21935710",
+        "longitude": "140.18325160",
+        "code": "08"
+    },
+    {
+        "name": "Ishikawa Prefecture",
+        "type": null,
+        "latitude": "36.32603170",
+        "longitude": "136.52896530",
+        "code": "17"
+    },
+    {
+        "name": "Iwate Prefecture",
+        "type": null,
+        "latitude": "39.58329890",
+        "longitude": "141.25345740",
+        "code": "03"
+    },
+    {
+        "name": "Kagawa Prefecture",
+        "type": null,
+        "latitude": "34.22259150",
+        "longitude": "134.01991520",
+        "code": "37"
+    },
+    {
+        "name": "Kagoshima Prefecture",
+        "type": null,
+        "latitude": "31.39119580",
+        "longitude": "130.87785860",
+        "code": "46"
+    },
+    {
+        "name": "Kanagawa Prefecture",
+        "type": null,
+        "latitude": "35.49135350",
+        "longitude": "139.28414300",
+        "code": "14"
+    },
+    {
+        "name": "Kōchi Prefecture",
+        "type": null,
+        "latitude": "33.28791610",
+        "longitude": "132.27592620",
+        "code": "39"
+    },
+    {
+        "name": "Kumamoto Prefecture",
+        "type": null,
+        "latitude": "32.85944270",
+        "longitude": "130.79691490",
+        "code": "43"
+    },
+    {
+        "name": "Kyōto Prefecture",
+        "type": null,
+        "latitude": "35.15666090",
+        "longitude": "135.52519820",
+        "code": "26"
+    },
+    {
+        "name": "Mie Prefecture",
+        "type": null,
+        "latitude": "33.81439010",
+        "longitude": "136.04870470",
+        "code": "24"
+    },
+    {
+        "name": "Miyagi Prefecture",
+        "type": null,
+        "latitude": "38.63061200",
+        "longitude": "141.11930480",
+        "code": "04"
+    },
+    {
+        "name": "Miyazaki Prefecture",
+        "type": null,
+        "latitude": "32.60360220",
+        "longitude": "131.44125100",
+        "code": "45"
+    },
+    {
+        "name": "Nagano Prefecture",
+        "type": null,
+        "latitude": "36.15439410",
+        "longitude": "137.92182040",
+        "code": "20"
+    },
+    {
+        "name": "Nagasaki Prefecture",
+        "type": null,
+        "latitude": "33.24885250",
+        "longitude": "129.69309120",
+        "code": "42"
+    },
+    {
+        "name": "Nara Prefecture",
+        "type": null,
+        "latitude": "34.29755280",
+        "longitude": "135.82797340",
+        "code": "29"
+    },
+    {
+        "name": "Niigata Prefecture",
+        "type": null,
+        "latitude": "37.51783860",
+        "longitude": "138.92697940",
+        "code": "15"
+    },
+    {
+        "name": "Ōita Prefecture",
+        "type": null,
+        "latitude": "33.15892990",
+        "longitude": "131.36111210",
+        "code": "44"
+    },
+    {
+        "name": "Okayama Prefecture",
+        "type": null,
+        "latitude": "34.89634070",
+        "longitude": "133.63753140",
+        "code": "33"
+    },
+    {
+        "name": "Okinawa Prefecture",
+        "type": null,
+        "latitude": "26.12019110",
+        "longitude": "127.70250120",
+        "code": "47"
+    },
+    {
+        "name": "Ōsaka Prefecture",
+        "type": null,
+        "latitude": "34.64133150",
+        "longitude": "135.56293940",
+        "code": "27"
+    },
+    {
+        "name": "Saga Prefecture",
+        "type": null,
+        "latitude": "33.30783710",
+        "longitude": "130.22712430",
+        "code": "41"
+    },
+    {
+        "name": "Saitama Prefecture",
+        "type": null,
+        "latitude": "35.99625130",
+        "longitude": "139.44660050",
+        "code": "11"
+    },
+    {
+        "name": "Shiga Prefecture",
+        "type": null,
+        "latitude": "35.32920140",
+        "longitude": "136.05632120",
+        "code": "25"
+    },
+    {
+        "name": "Shimane Prefecture",
+        "type": null,
+        "latitude": "35.12440940",
+        "longitude": "132.62934460",
+        "code": "32"
+    },
+    {
+        "name": "Shizuoka Prefecture",
+        "type": null,
+        "latitude": "35.09293970",
+        "longitude": "138.31902760",
+        "code": "22"
+    },
+    {
+        "name": "Tochigi Prefecture",
+        "type": null,
+        "latitude": "36.67147390",
+        "longitude": "139.85472660",
+        "code": "09"
+    },
+    {
+        "name": "Tokushima Prefecture",
+        "type": null,
+        "latitude": "33.94196550",
+        "longitude": "134.32365570",
+        "code": "36"
+    },
+    {
+        "name": "Tokyo",
+        "type": null,
+        "latitude": "35.67619190",
+        "longitude": "139.65031060",
+        "code": "13"
+    },
+    {
+        "name": "Tottori Prefecture",
+        "type": null,
+        "latitude": "35.35731610",
+        "longitude": "133.40666180",
+        "code": "31"
+    },
+    {
+        "name": "Toyama Prefecture",
+        "type": null,
+        "latitude": "36.69582660",
+        "longitude": "137.21370710",
+        "code": "16"
+    },
+    {
+        "name": "Wakayama Prefecture",
+        "type": null,
+        "latitude": "33.94809140",
+        "longitude": "135.37453580",
+        "code": "30"
+    },
+    {
+        "name": "Yamagata Prefecture",
+        "type": null,
+        "latitude": "38.53705640",
+        "longitude": "140.14351980",
+        "code": "06"
+    },
+    {
+        "name": "Yamaguchi Prefecture",
+        "type": null,
+        "latitude": "34.27967690",
+        "longitude": "131.52127420",
+        "code": "35"
+    },
+    {
+        "name": "Yamanashi Prefecture",
+        "type": null,
+        "latitude": "35.66351130",
+        "longitude": "138.63888790",
+        "code": "19"
+    }
+]

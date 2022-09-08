@@ -195,10 +195,34 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Chuuk State",
-        "Kosrae State",
-        "Pohnpei State",
-        "Yap State"
+    "states": [
+        {
+            "name": "Chuuk State",
+            "type": null,
+            "latitude": "7.13867590",
+            "longitude": "151.55930650",
+            "code": "TRK"
+        },
+        {
+            "name": "Kosrae State",
+            "type": null,
+            "latitude": "5.30956180",
+            "longitude": "162.98148770",
+            "code": "KSA"
+        },
+        {
+            "name": "Pohnpei State",
+            "type": null,
+            "latitude": "6.85412540",
+            "longitude": "158.26238220",
+            "code": "PNI"
+        },
+        {
+            "name": "Yap State",
+            "type": null,
+            "latitude": "8.67164900",
+            "longitude": "142.84393350",
+            "code": "YAP"
+        }
     ]
 }

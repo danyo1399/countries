@@ -197,16 +197,76 @@
             31.62
         ]
     },
-    "provinces": [
-        "Central Equatoria",
-        "Eastern Equatoria",
-        "Jonglei State",
-        "Lakes",
-        "Northern Bahr el Ghazal",
-        "Unity",
-        "Upper Nile",
-        "Warrap",
-        "Western Bahr el Ghazal",
-        "Western Equatoria"
+    "states": [
+        {
+            "name": "Central Equatoria",
+            "type": null,
+            "latitude": "4.61440630",
+            "longitude": "31.26263660",
+            "code": "EC"
+        },
+        {
+            "name": "Eastern Equatoria",
+            "type": null,
+            "latitude": "5.06929950",
+            "longitude": "33.43835300",
+            "code": "EE"
+        },
+        {
+            "name": "Jonglei State",
+            "type": null,
+            "latitude": "7.18196190",
+            "longitude": "32.35609520",
+            "code": "JG"
+        },
+        {
+            "name": "Lakes",
+            "type": null,
+            "latitude": "37.16282550",
+            "longitude": "-95.69116230",
+            "code": "LK"
+        },
+        {
+            "name": "Northern Bahr el Ghazal",
+            "type": null,
+            "latitude": "8.53604490",
+            "longitude": "26.79678490",
+            "code": "BN"
+        },
+        {
+            "name": "Unity",
+            "type": null,
+            "latitude": "37.78712760",
+            "longitude": "-122.40340790",
+            "code": "UY"
+        },
+        {
+            "name": "Upper Nile",
+            "type": null,
+            "latitude": "9.88942020",
+            "longitude": "32.71813750",
+            "code": "NU"
+        },
+        {
+            "name": "Warrap",
+            "type": null,
+            "latitude": "8.08862380",
+            "longitude": "28.64106410",
+            "code": "WR"
+        },
+        {
+            "name": "Western Bahr el Ghazal",
+            "type": null,
+            "latitude": "8.64523990",
+            "longitude": "25.28375850",
+            "code": "BW"
+        },
+        {
+            "name": "Western Equatoria",
+            "type": null,
+            "latitude": "5.34717990",
+            "longitude": "28.29943500",
+            "code": "EW"
+        }
     ]
 }

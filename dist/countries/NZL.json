@@ -205,23 +205,125 @@
         "format": "####",
         "regex": "^(\\d{4})$"
     },
-    "provinces": [
-        "Auckland Region",
-        "Bay of Plenty Region",
-        "Canterbury Region",
-        "Chatham Islands",
-        "Gisborne District",
-        "Hawke's Bay Region",
-        "Manawatu-Wanganui Region",
-        "Marlborough Region",
-        "Nelson Region",
-        "Northland Region",
-        "Otago Region",
-        "Southland Region",
-        "Taranaki Region",
-        "Tasman District",
-        "Waikato Region",
-        "Wellington Region",
-        "West Coast Region"
+    "states": [
+        {
+            "name": "Auckland Region",
+            "type": null,
+            "latitude": "-36.66753280",
+            "longitude": "174.77333250",
+            "code": "AUK"
+        },
+        {
+            "name": "Bay of Plenty Region",
+            "type": null,
+            "latitude": "-37.42339170",
+            "longitude": "176.74163740",
+            "code": "BOP"
+        },
+        {
+            "name": "Canterbury Region",
+            "type": null,
+            "latitude": "-43.75422750",
+            "longitude": "171.16372450",
+            "code": "CAN"
+        },
+        {
+            "name": "Chatham Islands",
+            "type": null,
+            "latitude": "-44.00575230",
+            "longitude": "-176.54006740",
+            "code": "CIT"
+        },
+        {
+            "name": "Gisborne District",
+            "type": null,
+            "latitude": "-38.13581740",
+            "longitude": "178.32393090",
+            "code": "GIS"
+        },
+        {
+            "name": "Hawke's Bay Region",
+            "type": null,
+            "latitude": "-39.60165970",
+            "longitude": "176.58044730",
+            "code": "HKB"
+        },
+        {
+            "name": "Manawatu-Wanganui Region",
+            "type": null,
+            "latitude": "-39.72733560",
+            "longitude": "175.43755740",
+            "code": "MWT"
+        },
+        {
+            "name": "Marlborough Region",
+            "type": null,
+            "latitude": "-41.59168830",
+            "longitude": "173.76240530",
+            "code": "MBH"
+        },
+        {
+            "name": "Nelson Region",
+            "type": null,
+            "latitude": "-41.29853970",
+            "longitude": "173.24414910",
+            "code": "NSN"
+        },
+        {
+            "name": "Northland Region",
+            "type": null,
+            "latitude": "-35.41361720",
+            "longitude": "173.93208060",
+            "code": "NTL"
+        },
+        {
+            "name": "Otago Region",
+            "type": null,
+            "latitude": "-45.47906710",
+            "longitude": "170.15475670",
+            "code": "OTA"
+        },
+        {
+            "name": "Southland Region",
+            "type": null,
+            "latitude": "-45.84891590",
+            "longitude": "167.67553870",
+            "code": "STL"
+        },
+        {
+            "name": "Taranaki Region",
+            "type": null,
+            "latitude": "-39.35381490",
+            "longitude": "174.43827210",
+            "code": "TKI"
+        },
+        {
+            "name": "Tasman District",
+            "type": null,
+            "latitude": "-41.45711840",
+            "longitude": "172.82097400",
+            "code": "TAS"
+        },
+        {
+            "name": "Waikato Region",
+            "type": null,
+            "latitude": "-37.61908620",
+            "longitude": "175.02334600",
+            "code": "WKO"
+        },
+        {
+            "name": "Wellington Region",
+            "type": null,
+            "latitude": "-41.02993230",
+            "longitude": "175.43755740",
+            "code": "WGN"
+        },
+        {
+            "name": "West Coast Region",
+            "type": null,
+            "latitude": "62.41136340",
+            "longitude": "-149.07297140",
+            "code": "WTC"
+        }
     ]
 }

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Devonshire Parish",
+        "type": null,
+        "latitude": "32.30380620",
+        "longitude": "-64.76069540",
+        "code": "DEV"
+    },
+    {
+        "name": "Hamilton Parish",
+        "type": null,
+        "latitude": "32.34494320",
+        "longitude": "-64.72365000",
+        "code": "HA"
+    },
+    {
+        "name": "Paget Parish",
+        "type": null,
+        "latitude": "32.28107400",
+        "longitude": "-64.77847870",
+        "code": "PAG"
+    },
+    {
+        "name": "Pembroke Parish",
+        "type": null,
+        "latitude": "32.30076720",
+        "longitude": "-64.79626300",
+        "code": "PEM"
+    },
+    {
+        "name": "Saint George's Parish",
+        "type": null,
+        "latitude": "17.12577590",
+        "longitude": "-62.56198110",
+        "code": "SGE"
+    },
+    {
+        "name": "Sandys Parish",
+        "type": null,
+        "latitude": "32.29995280",
+        "longitude": "-64.86741030",
+        "code": "SAN"
+    },
+    {
+        "name": "Smith's Parish,",
+        "type": null,
+        "latitude": "32.31339660",
+        "longitude": "-64.73105880",
+        "code": "SMI"
+    },
+    {
+        "name": "Southampton Parish",
+        "type": null,
+        "latitude": "32.25400950",
+        "longitude": "-64.82590580",
+        "code": "SOU"
+    },
+    {
+        "name": "Warwick Parish",
+        "type": null,
+        "latitude": "32.26615340",
+        "longitude": "-64.80811980",
+        "code": "WAR"
+    }
+]

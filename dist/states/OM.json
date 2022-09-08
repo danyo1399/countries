@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Ad Dakhiliyah",
+        "type": null,
+        "latitude": "22.85887580",
+        "longitude": "57.53943560",
+        "code": "DA"
+    },
+    {
+        "name": "Ad Dhahirah",
+        "type": null,
+        "latitude": "23.21616740",
+        "longitude": "56.49074440",
+        "code": "ZA"
+    },
+    {
+        "name": "Al Batinah North",
+        "type": null,
+        "latitude": "24.34198460",
+        "longitude": "56.72989040",
+        "code": "BS"
+    },
+    {
+        "name": "Al Batinah Region",
+        "type": null,
+        "latitude": "24.34198460",
+        "longitude": "56.72989040",
+        "code": "BA"
+    },
+    {
+        "name": "Al Batinah South",
+        "type": null,
+        "latitude": "23.43149030",
+        "longitude": "57.42397960",
+        "code": "BJ"
+    },
+    {
+        "name": "Al Buraimi",
+        "type": null,
+        "latitude": "24.16714130",
+        "longitude": "56.11422530",
+        "code": "BU"
+    },
+    {
+        "name": "Al Wusta",
+        "type": null,
+        "latitude": "19.95710780",
+        "longitude": "56.27568460",
+        "code": "WU"
+    },
+    {
+        "name": "Ash Sharqiyah North",
+        "type": null,
+        "latitude": "22.71411960",
+        "longitude": "58.53080640",
+        "code": "SS"
+    },
+    {
+        "name": "Ash Sharqiyah Region",
+        "type": null,
+        "latitude": "22.71411960",
+        "longitude": "58.53080640",
+        "code": "SH"
+    },
+    {
+        "name": "Ash Sharqiyah South",
+        "type": null,
+        "latitude": "22.01582490",
+        "longitude": "59.32519220",
+        "code": "SJ"
+    },
+    {
+        "name": "Dhofar",
+        "type": null,
+        "latitude": "17.03221210",
+        "longitude": "54.14252140",
+        "code": "ZU"
+    },
+    {
+        "name": "Musandam",
+        "type": null,
+        "latitude": "26.19861440",
+        "longitude": "56.24609490",
+        "code": "MU"
+    },
+    {
+        "name": "Muscat",
+        "type": null,
+        "latitude": "23.58803070",
+        "longitude": "58.38287170",
+        "code": "MA"
+    }
+]

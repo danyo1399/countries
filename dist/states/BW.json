@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Central District",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "CE"
+    },
+    {
+        "name": "Ghanzi District",
+        "type": null,
+        "latitude": "-21.86523140",
+        "longitude": "21.85685860",
+        "code": "GH"
+    },
+    {
+        "name": "Kgalagadi District",
+        "type": null,
+        "latitude": "-24.75502850",
+        "longitude": "21.85685860",
+        "code": "KG"
+    },
+    {
+        "name": "Kgatleng District",
+        "type": null,
+        "latitude": "-24.19704450",
+        "longitude": "26.23046160",
+        "code": "KL"
+    },
+    {
+        "name": "Kweneng District",
+        "type": null,
+        "latitude": "-23.83672490",
+        "longitude": "25.28375850",
+        "code": "KW"
+    },
+    {
+        "name": "Ngamiland",
+        "type": null,
+        "latitude": "-19.19053210",
+        "longitude": "23.00119890",
+        "code": "NG"
+    },
+    {
+        "name": "North-East District",
+        "type": null,
+        "latitude": "37.58844610",
+        "longitude": "-94.68637820",
+        "code": "NE"
+    },
+    {
+        "name": "North-West District",
+        "type": null,
+        "latitude": "39.34463070",
+        "longitude": "-76.68542830",
+        "code": "NW"
+    },
+    {
+        "name": "South-East District",
+        "type": null,
+        "latitude": "31.21637980",
+        "longitude": "-82.35270440",
+        "code": "SE"
+    },
+    {
+        "name": "Southern District",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "SO"
+    }
+]

@@ -197,18 +197,90 @@
             2.62
         ]
     },
-    "provinces": [
-        "Alibori Department",
-        "Atakora Department",
-        "Atlantique Department",
-        "Borgou Department",
-        "Collines Department",
-        "Donga Department",
-        "Kouffo Department",
-        "Littoral Department",
-        "Mono Department",
-        "Ouémé Department",
-        "Plateau Department",
-        "Zou Department"
+    "states": [
+        {
+            "name": "Alibori Department",
+            "type": null,
+            "latitude": "10.96810930",
+            "longitude": "2.77798130",
+            "code": "AL"
+        },
+        {
+            "name": "Atakora Department",
+            "type": null,
+            "latitude": "10.79549310",
+            "longitude": "1.67606910",
+            "code": "AK"
+        },
+        {
+            "name": "Atlantique Department",
+            "type": null,
+            "latitude": "6.65883910",
+            "longitude": "2.22366670",
+            "code": "AQ"
+        },
+        {
+            "name": "Borgou Department",
+            "type": null,
+            "latitude": "9.53408640",
+            "longitude": "2.77798130",
+            "code": "BO"
+        },
+        {
+            "name": "Collines Department",
+            "type": null,
+            "latitude": "8.30222970",
+            "longitude": "2.30244600",
+            "code": "CO"
+        },
+        {
+            "name": "Donga Department",
+            "type": null,
+            "latitude": "9.71918670",
+            "longitude": "1.67606910",
+            "code": "DO"
+        },
+        {
+            "name": "Kouffo Department",
+            "type": null,
+            "latitude": "7.00358940",
+            "longitude": "1.75388170",
+            "code": "KO"
+        },
+        {
+            "name": "Littoral Department",
+            "type": null,
+            "latitude": "6.38069730",
+            "longitude": "2.44063870",
+            "code": "LI"
+        },
+        {
+            "name": "Mono Department",
+            "type": null,
+            "latitude": "37.92186080",
+            "longitude": "-118.95286450",
+            "code": "MO"
+        },
+        {
+            "name": "Ouémé Department",
+            "type": null,
+            "latitude": "6.61481520",
+            "longitude": "2.49999180",
+            "code": "OU"
+        },
+        {
+            "name": "Plateau Department",
+            "type": null,
+            "latitude": "7.34451410",
+            "longitude": "2.53960300",
+            "code": "PL"
+        },
+        {
+            "name": "Zou Department",
+            "type": null,
+            "latitude": "7.34692680",
+            "longitude": "2.06651970",
+            "code": "ZO"
+        }
     ]
 }

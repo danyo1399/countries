@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Bonaire",
+        "type": "special municipality",
+        "latitude": "12.20189020",
+        "longitude": "-68.26238220",
+        "code": "BQ1"
+    },
+    {
+        "name": "Saba",
+        "type": "special municipality",
+        "latitude": "17.63546420",
+        "longitude": "-63.23267630",
+        "code": "BQ2"
+    },
+    {
+        "name": "Sint Eustatius",
+        "type": "special municipality",
+        "latitude": "17.48903060",
+        "longitude": "-62.97355500",
+        "code": "BQ3"
+    }
+]

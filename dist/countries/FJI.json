@@ -203,25 +203,139 @@
             178.42
         ]
     },
-    "provinces": [
-        "Ba",
-        "Bua",
-        "Cakaudrove",
-        "Central Division",
-        "Eastern Division",
-        "Kadavu",
-        "Lau",
-        "Lomaiviti",
-        "Macuata",
-        "Nadroga-Navosa",
-        "Naitasiri",
-        "Namosi",
-        "Northern Division",
-        "Ra",
-        "Rewa",
-        "Rotuma",
-        "Serua",
-        "Tailevu",
-        "Western Division"
+    "states": [
+        {
+            "name": "Ba",
+            "type": null,
+            "latitude": "36.06138930",
+            "longitude": "-95.80058720",
+            "code": "01"
+        },
+        {
+            "name": "Bua",
+            "type": null,
+            "latitude": "43.09645840",
+            "longitude": "-89.50088000",
+            "code": "02"
+        },
+        {
+            "name": "Cakaudrove",
+            "type": null,
+            "latitude": "-16.58141050",
+            "longitude": "179.51200840",
+            "code": "03"
+        },
+        {
+            "name": "Central Division",
+            "type": null,
+            "latitude": "34.04400660",
+            "longitude": "-118.24727380",
+            "code": "C"
+        },
+        {
+            "name": "Eastern Division",
+            "type": null,
+            "latitude": "32.80943050",
+            "longitude": "-117.12899370",
+            "code": "E"
+        },
+        {
+            "name": "Kadavu",
+            "type": null,
+            "latitude": "-19.01271220",
+            "longitude": "178.18766760",
+            "code": "04"
+        },
+        {
+            "name": "Lau",
+            "type": null,
+            "latitude": "31.66870150",
+            "longitude": "-106.39557630",
+            "code": "05"
+        },
+        {
+            "name": "Lomaiviti",
+            "type": null,
+            "latitude": "-17.70900000",
+            "longitude": "179.09100000",
+            "code": "06"
+        },
+        {
+            "name": "Macuata",
+            "type": null,
+            "latitude": "-16.48649220",
+            "longitude": "179.28472510",
+            "code": "07"
+        },
+        {
+            "name": "Nadroga-Navosa",
+            "type": null,
+            "latitude": "-17.98652780",
+            "longitude": "177.65811300",
+            "code": "08"
+        },
+        {
+            "name": "Naitasiri",
+            "type": null,
+            "latitude": "-17.89757540",
+            "longitude": "178.20715980",
+            "code": "09"
+        },
+        {
+            "name": "Namosi",
+            "type": null,
+            "latitude": "-18.08641760",
+            "longitude": "178.12913870",
+            "code": "10"
+        },
+        {
+            "name": "Northern Division",
+            "type": null,
+            "latitude": "32.87687660",
+            "longitude": "-117.21563450",
+            "code": "N"
+        },
+        {
+            "name": "Ra",
+            "type": null,
+            "latitude": "37.10031530",
+            "longitude": "-95.67442460",
+            "code": "11"
+        },
+        {
+            "name": "Rewa",
+            "type": null,
+            "latitude": "34.79235170",
+            "longitude": "-82.36092640",
+            "code": "12"
+        },
+        {
+            "name": "Rotuma",
+            "type": null,
+            "latitude": "-12.50250690",
+            "longitude": "177.07241640",
+            "code": "R"
+        },
+        {
+            "name": "Serua",
+            "type": null,
+            "latitude": "-18.18047490",
+            "longitude": "178.05097900",
+            "code": "13"
+        },
+        {
+            "name": "Tailevu",
+            "type": null,
+            "latitude": "-17.82691110",
+            "longitude": "178.29324800",
+            "code": "14"
+        },
+        {
+            "name": "Western Division",
+            "type": null,
+            "latitude": "42.96621980",
+            "longitude": "-78.70211340",
+            "code": "W"
+        }
     ]
 }

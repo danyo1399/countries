@@ -1,0 +1,1731 @@
+[
+    {
+        "name": "Aberdeen",
+        "type": null,
+        "latitude": "57.14971700",
+        "longitude": "-2.09427800",
+        "code": "ABE"
+    },
+    {
+        "name": "Aberdeenshire",
+        "type": null,
+        "latitude": "57.28687230",
+        "longitude": "-2.38156840",
+        "code": "ABD"
+    },
+    {
+        "name": "Angus",
+        "type": null,
+        "latitude": "37.27578860",
+        "longitude": "-95.65010330",
+        "code": "ANS"
+    },
+    {
+        "name": "Antrim",
+        "type": null,
+        "latitude": "54.71953380",
+        "longitude": "-6.20724980",
+        "code": "ANT"
+    },
+    {
+        "name": "Antrim and Newtownabbey",
+        "type": null,
+        "latitude": "54.69568870",
+        "longitude": "-5.94810690",
+        "code": "ANN"
+    },
+    {
+        "name": "Ards",
+        "type": null,
+        "latitude": "42.13918510",
+        "longitude": "-87.86149720",
+        "code": "ARD"
+    },
+    {
+        "name": "Ards and North Down",
+        "type": null,
+        "latitude": "54.58996450",
+        "longitude": "-5.59849720",
+        "code": "AND"
+    },
+    {
+        "name": "Argyll and Bute",
+        "type": null,
+        "latitude": "56.40062140",
+        "longitude": "-5.48074800",
+        "code": "AGB"
+    },
+    {
+        "name": "Armagh City and District Council",
+        "type": null,
+        "latitude": "54.39325920",
+        "longitude": "-6.45634010",
+        "code": "ARM"
+    },
+    {
+        "name": "Armagh, Banbridge and Craigavon",
+        "type": null,
+        "latitude": "54.39325920",
+        "longitude": "-6.45634010",
+        "code": "ABC"
+    },
+    {
+        "name": "Ascension Island",
+        "type": null,
+        "latitude": "-7.94671660",
+        "longitude": "-14.35591580",
+        "code": "SH-AC"
+    },
+    {
+        "name": "Ballymena Borough",
+        "type": null,
+        "latitude": "54.86426000",
+        "longitude": "-6.27910740",
+        "code": "BLA"
+    },
+    {
+        "name": "Ballymoney",
+        "type": null,
+        "latitude": "55.07048880",
+        "longitude": "-6.51737080",
+        "code": "BLY"
+    },
+    {
+        "name": "Banbridge",
+        "type": null,
+        "latitude": "54.34872900",
+        "longitude": "-6.27048030",
+        "code": "BNB"
+    },
+    {
+        "name": "Barnsley",
+        "type": null,
+        "latitude": "34.29949560",
+        "longitude": "-84.98458090",
+        "code": "BNS"
+    },
+    {
+        "name": "Bath and North East Somerset",
+        "type": null,
+        "latitude": "51.32501020",
+        "longitude": "-2.47662410",
+        "code": "BAS"
+    },
+    {
+        "name": "Bedford",
+        "type": null,
+        "latitude": "32.84401700",
+        "longitude": "-97.14306710",
+        "code": "BDF"
+    },
+    {
+        "name": "Belfast district",
+        "type": null,
+        "latitude": "54.61703660",
+        "longitude": "-5.95318610",
+        "code": "BFS"
+    },
+    {
+        "name": "Birmingham",
+        "type": null,
+        "latitude": "33.51858920",
+        "longitude": "-86.81035670",
+        "code": "BIR"
+    },
+    {
+        "name": "Blackburn with Darwen",
+        "type": null,
+        "latitude": "53.69575220",
+        "longitude": "-2.46829850",
+        "code": "BBD"
+    },
+    {
+        "name": "Blackpool",
+        "type": null,
+        "latitude": "53.81750530",
+        "longitude": "-3.03567480",
+        "code": "BPL"
+    },
+    {
+        "name": "Blaenau Gwent County Borough",
+        "type": null,
+        "latitude": "51.78757790",
+        "longitude": "-3.20439310",
+        "code": "BGW"
+    },
+    {
+        "name": "Bolton",
+        "type": null,
+        "latitude": "44.37264760",
+        "longitude": "-72.87876250",
+        "code": "BOL"
+    },
+    {
+        "name": "Bournemouth",
+        "type": null,
+        "latitude": "50.71916400",
+        "longitude": "-1.88076900",
+        "code": "BMH"
+    },
+    {
+        "name": "Bracknell Forest",
+        "type": null,
+        "latitude": "51.41538280",
+        "longitude": "-0.75364950",
+        "code": "BRC"
+    },
+    {
+        "name": "Bradford",
+        "type": null,
+        "latitude": "53.79598400",
+        "longitude": "-1.75939800",
+        "code": "BRD"
+    },
+    {
+        "name": "Bridgend County Borough",
+        "type": null,
+        "latitude": "51.50831990",
+        "longitude": "-3.58120750",
+        "code": "BGE"
+    },
+    {
+        "name": "Brighton and Hove",
+        "type": null,
+        "latitude": "50.82262880",
+        "longitude": "-0.13704700",
+        "code": "BNH"
+    },
+    {
+        "name": "Buckinghamshire",
+        "type": null,
+        "latitude": "51.80722040",
+        "longitude": "-0.81276640",
+        "code": "BKM"
+    },
+    {
+        "name": "Bury",
+        "type": null,
+        "latitude": "53.59334980",
+        "longitude": "-2.29660540",
+        "code": "BUR"
+    },
+    {
+        "name": "Caerphilly County Borough",
+        "type": null,
+        "latitude": "51.66044650",
+        "longitude": "-3.21787240",
+        "code": "CAY"
+    },
+    {
+        "name": "Calderdale",
+        "type": null,
+        "latitude": "53.72478450",
+        "longitude": "-1.86583570",
+        "code": "CLD"
+    },
+    {
+        "name": "Cambridgeshire",
+        "type": null,
+        "latitude": "52.20529730",
+        "longitude": "0.12181950",
+        "code": "CAM"
+    },
+    {
+        "name": "Carmarthenshire",
+        "type": null,
+        "latitude": "51.85723090",
+        "longitude": "-4.31159590",
+        "code": "CMN"
+    },
+    {
+        "name": "Carrickfergus Borough Council",
+        "type": null,
+        "latitude": "54.72568430",
+        "longitude": "-5.80937190",
+        "code": "CKF"
+    },
+    {
+        "name": "Castlereagh",
+        "type": null,
+        "latitude": "54.57567900",
+        "longitude": "-5.88840280",
+        "code": "CSR"
+    },
+    {
+        "name": "Causeway Coast and Glens",
+        "type": null,
+        "latitude": "55.04318300",
+        "longitude": "-6.67412880",
+        "code": "CCG"
+    },
+    {
+        "name": "Central Bedfordshire",
+        "type": null,
+        "latitude": "52.00297440",
+        "longitude": "-0.46513890",
+        "code": "CBF"
+    },
+    {
+        "name": "Ceredigion",
+        "type": null,
+        "latitude": "52.21914290",
+        "longitude": "-3.93212560",
+        "code": "CGN"
+    },
+    {
+        "name": "Cheshire East",
+        "type": null,
+        "latitude": "53.16104460",
+        "longitude": "-2.21859320",
+        "code": "CHE"
+    },
+    {
+        "name": "Cheshire West and Chester",
+        "type": null,
+        "latitude": "53.23029740",
+        "longitude": "-2.71511170",
+        "code": "CHW"
+    },
+    {
+        "name": "City and County of Cardiff",
+        "type": null,
+        "latitude": "51.48158100",
+        "longitude": "-3.17909000",
+        "code": "CRF"
+    },
+    {
+        "name": "City and County of Swansea",
+        "type": null,
+        "latitude": "51.62144000",
+        "longitude": "-3.94364600",
+        "code": "SWA"
+    },
+    {
+        "name": "City of Bristol",
+        "type": null,
+        "latitude": "41.67352200",
+        "longitude": "-72.94653750",
+        "code": "BST"
+    },
+    {
+        "name": "City of Derby",
+        "type": null,
+        "latitude": "37.54837550",
+        "longitude": "-97.24851910",
+        "code": "DER"
+    },
+    {
+        "name": "City of Kingston upon Hull",
+        "type": null,
+        "latitude": "53.76762360",
+        "longitude": "-0.32741980",
+        "code": "KHL"
+    },
+    {
+        "name": "City of Leicester",
+        "type": null,
+        "latitude": "52.63687780",
+        "longitude": "-1.13975920",
+        "code": "LCE"
+    },
+    {
+        "name": "City of London",
+        "type": null,
+        "latitude": "51.51234430",
+        "longitude": "-0.09098520",
+        "code": "LND"
+    },
+    {
+        "name": "City of Nottingham",
+        "type": null,
+        "latitude": "52.95478320",
+        "longitude": "-1.15810860",
+        "code": "NGM"
+    },
+    {
+        "name": "City of Peterborough",
+        "type": null,
+        "latitude": "44.30936360",
+        "longitude": "-78.32015300",
+        "code": "PTE"
+    },
+    {
+        "name": "City of Plymouth",
+        "type": null,
+        "latitude": "42.37089410",
+        "longitude": "-83.46971410",
+        "code": "PLY"
+    },
+    {
+        "name": "City of Portsmouth",
+        "type": null,
+        "latitude": "36.83291500",
+        "longitude": "-76.29755490",
+        "code": "POR"
+    },
+    {
+        "name": "City of Southampton",
+        "type": null,
+        "latitude": "50.90970040",
+        "longitude": "-1.40435090",
+        "code": "STH"
+    },
+    {
+        "name": "City of Stoke-on-Trent",
+        "type": null,
+        "latitude": "53.00266800",
+        "longitude": "-2.17940400",
+        "code": "STE"
+    },
+    {
+        "name": "City of Sunderland",
+        "type": null,
+        "latitude": "54.88614890",
+        "longitude": "-1.47857970",
+        "code": "SND"
+    },
+    {
+        "name": "City of Westminster",
+        "type": null,
+        "latitude": "39.57659770",
+        "longitude": "-76.99721260",
+        "code": "WSM"
+    },
+    {
+        "name": "City of Wolverhampton",
+        "type": null,
+        "latitude": "52.58891200",
+        "longitude": "-2.15646300",
+        "code": "WLV"
+    },
+    {
+        "name": "City of York",
+        "type": null,
+        "latitude": "53.95996510",
+        "longitude": "-1.08729790",
+        "code": "YOR"
+    },
+    {
+        "name": "Clackmannanshire",
+        "type": null,
+        "latitude": "56.10753510",
+        "longitude": "-3.75294090",
+        "code": "CLK"
+    },
+    {
+        "name": "Coleraine Borough Council",
+        "type": null,
+        "latitude": "55.14515700",
+        "longitude": "-6.67598140",
+        "code": "CLR"
+    },
+    {
+        "name": "Conwy County Borough",
+        "type": null,
+        "latitude": "53.29350130",
+        "longitude": "-3.72651610",
+        "code": "CWY"
+    },
+    {
+        "name": "Cookstown District Council",
+        "type": null,
+        "latitude": "54.64181580",
+        "longitude": "-6.74438950",
+        "code": "CKT"
+    },
+    {
+        "name": "Cornwall",
+        "type": null,
+        "latitude": "50.26604710",
+        "longitude": "-5.05271250",
+        "code": "CON"
+    },
+    {
+        "name": "County Durham",
+        "type": null,
+        "latitude": "54.72940990",
+        "longitude": "-1.88115980",
+        "code": "DUR"
+    },
+    {
+        "name": "Coventry",
+        "type": null,
+        "latitude": "52.40682200",
+        "longitude": "-1.51969300",
+        "code": "COV"
+    },
+    {
+        "name": "Craigavon Borough Council",
+        "type": null,
+        "latitude": "54.39325920",
+        "longitude": "-6.45634010",
+        "code": "CGV"
+    },
+    {
+        "name": "Cumbria",
+        "type": null,
+        "latitude": "54.57723230",
+        "longitude": "-2.79748350",
+        "code": "CMA"
+    },
+    {
+        "name": "Darlington",
+        "type": null,
+        "latitude": "34.29987620",
+        "longitude": "-79.87617410",
+        "code": "DAL"
+    },
+    {
+        "name": "Denbighshire",
+        "type": null,
+        "latitude": "53.18422880",
+        "longitude": "-3.42249850",
+        "code": "DEN"
+    },
+    {
+        "name": "Derbyshire",
+        "type": null,
+        "latitude": "53.10467820",
+        "longitude": "-1.56238850",
+        "code": "DBY"
+    },
+    {
+        "name": "Derry City and Strabane",
+        "type": null,
+        "latitude": "55.00474430",
+        "longitude": "-7.32092220",
+        "code": "DRS"
+    },
+    {
+        "name": "Derry City Council",
+        "type": null,
+        "latitude": "54.96907780",
+        "longitude": "-7.19583510",
+        "code": "DRY"
+    },
+    {
+        "name": "Devon",
+        "type": null,
+        "latitude": "50.71555910",
+        "longitude": "-3.53087500",
+        "code": "DEV"
+    },
+    {
+        "name": "Doncaster",
+        "type": null,
+        "latitude": "53.52282000",
+        "longitude": "-1.12846200",
+        "code": "DNC"
+    },
+    {
+        "name": "Dorset",
+        "type": null,
+        "latitude": "50.74876350",
+        "longitude": "-2.34447860",
+        "code": "DOR"
+    },
+    {
+        "name": "Down District Council",
+        "type": null,
+        "latitude": "54.24342870",
+        "longitude": "-5.95779590",
+        "code": "DOW"
+    },
+    {
+        "name": "Dudley",
+        "type": null,
+        "latitude": "42.04336610",
+        "longitude": "-71.92760330",
+        "code": "DUD"
+    },
+    {
+        "name": "Dumfries and Galloway",
+        "type": null,
+        "latitude": "55.07010730",
+        "longitude": "-3.60525810",
+        "code": "DGY"
+    },
+    {
+        "name": "Dundee",
+        "type": null,
+        "latitude": "56.46201800",
+        "longitude": "-2.97072100",
+        "code": "DND"
+    },
+    {
+        "name": "Dungannon and South Tyrone Borough Council",
+        "type": null,
+        "latitude": "54.50826840",
+        "longitude": "-6.76658910",
+        "code": "DGN"
+    },
+    {
+        "name": "East Ayrshire",
+        "type": null,
+        "latitude": "55.45184960",
+        "longitude": "-4.26444780",
+        "code": "EAY"
+    },
+    {
+        "name": "East Dunbartonshire",
+        "type": null,
+        "latitude": "55.97431620",
+        "longitude": "-4.20229800",
+        "code": "EDU"
+    },
+    {
+        "name": "East Lothian",
+        "type": null,
+        "latitude": "55.94933830",
+        "longitude": "-2.77044640",
+        "code": "ELN"
+    },
+    {
+        "name": "East Renfrewshire",
+        "type": null,
+        "latitude": "55.77047350",
+        "longitude": "-4.33598210",
+        "code": "ERW"
+    },
+    {
+        "name": "East Riding of Yorkshire",
+        "type": null,
+        "latitude": "53.84161680",
+        "longitude": "-0.43441060",
+        "code": "ERY"
+    },
+    {
+        "name": "East Sussex",
+        "type": null,
+        "latitude": "50.90859550",
+        "longitude": "0.24941660",
+        "code": "ESX"
+    },
+    {
+        "name": "Edinburgh",
+        "type": null,
+        "latitude": "55.95325200",
+        "longitude": "-3.18826700",
+        "code": "EDH"
+    },
+    {
+        "name": "England",
+        "type": null,
+        "latitude": "52.35551770",
+        "longitude": "-1.17431970",
+        "code": "ENG"
+    },
+    {
+        "name": "Essex",
+        "type": null,
+        "latitude": "51.57424470",
+        "longitude": "0.48567810",
+        "code": "ESS"
+    },
+    {
+        "name": "Falkirk",
+        "type": null,
+        "latitude": "56.00187750",
+        "longitude": "-3.78391310",
+        "code": "FAL"
+    },
+    {
+        "name": "Fermanagh and Omagh",
+        "type": null,
+        "latitude": "54.45135240",
+        "longitude": "-7.71250180",
+        "code": "FMO"
+    },
+    {
+        "name": "Fermanagh District Council",
+        "type": null,
+        "latitude": "54.34479780",
+        "longitude": "-7.63842180",
+        "code": "FER"
+    },
+    {
+        "name": "Fife",
+        "type": null,
+        "latitude": "56.20820780",
+        "longitude": "-3.14951750",
+        "code": "FIF"
+    },
+    {
+        "name": "Flintshire",
+        "type": null,
+        "latitude": "53.16686580",
+        "longitude": "-3.14189080",
+        "code": "FLN"
+    },
+    {
+        "name": "Gateshead",
+        "type": null,
+        "latitude": "54.95268000",
+        "longitude": "-1.60341100",
+        "code": "GAT"
+    },
+    {
+        "name": "Glasgow",
+        "type": null,
+        "latitude": "55.86423700",
+        "longitude": "-4.25180600",
+        "code": "GLG"
+    },
+    {
+        "name": "Gloucestershire",
+        "type": null,
+        "latitude": "51.86421120",
+        "longitude": "-2.23803350",
+        "code": "GLS"
+    },
+    {
+        "name": "Gwynedd",
+        "type": null,
+        "latitude": "52.92772660",
+        "longitude": "-4.13348360",
+        "code": "GWN"
+    },
+    {
+        "name": "Halton",
+        "type": null,
+        "latitude": "43.53253720",
+        "longitude": "-79.87448360",
+        "code": "HAL"
+    },
+    {
+        "name": "Hampshire",
+        "type": null,
+        "latitude": "51.05769480",
+        "longitude": "-1.30806290",
+        "code": "HAM"
+    },
+    {
+        "name": "Hartlepool",
+        "type": null,
+        "latitude": "54.69174500",
+        "longitude": "-1.21292600",
+        "code": "HPL"
+    },
+    {
+        "name": "Herefordshire",
+        "type": null,
+        "latitude": "52.07651640",
+        "longitude": "-2.65441820",
+        "code": "HEF"
+    },
+    {
+        "name": "Hertfordshire",
+        "type": null,
+        "latitude": "51.80978230",
+        "longitude": "-0.23767440",
+        "code": "HRT"
+    },
+    {
+        "name": "Highland",
+        "type": null,
+        "latitude": "36.29675080",
+        "longitude": "-95.83803660",
+        "code": "HLD"
+    },
+    {
+        "name": "Inverclyde",
+        "type": null,
+        "latitude": "55.93165690",
+        "longitude": "-4.68001580",
+        "code": "IVC"
+    },
+    {
+        "name": "Isle of Wight",
+        "type": null,
+        "latitude": "50.69384790",
+        "longitude": "-1.30473400",
+        "code": "IOW"
+    },
+    {
+        "name": "Isles of Scilly",
+        "type": null,
+        "latitude": "49.92772610",
+        "longitude": "-6.32749660",
+        "code": "IOS"
+    },
+    {
+        "name": "Kent",
+        "type": null,
+        "latitude": "41.15366740",
+        "longitude": "-81.35788590",
+        "code": "KEN"
+    },
+    {
+        "name": "Kirklees",
+        "type": null,
+        "latitude": "53.59334320",
+        "longitude": "-1.80095090",
+        "code": "KIR"
+    },
+    {
+        "name": "Knowsley",
+        "type": null,
+        "latitude": "53.45459400",
+        "longitude": "-2.85290700",
+        "code": "KWL"
+    },
+    {
+        "name": "Lancashire",
+        "type": null,
+        "latitude": "53.76322540",
+        "longitude": "-2.70440520",
+        "code": "LAN"
+    },
+    {
+        "name": "Larne Borough Council",
+        "type": null,
+        "latitude": "54.85780030",
+        "longitude": "-5.82362240",
+        "code": "LRN"
+    },
+    {
+        "name": "Leeds",
+        "type": null,
+        "latitude": "53.80075540",
+        "longitude": "-1.54907740",
+        "code": "LDS"
+    },
+    {
+        "name": "Leicestershire",
+        "type": null,
+        "latitude": "52.77257100",
+        "longitude": "-1.20521260",
+        "code": "LEC"
+    },
+    {
+        "name": "Limavady Borough Council",
+        "type": null,
+        "latitude": "55.05168200",
+        "longitude": "-6.94919440",
+        "code": "LMV"
+    },
+    {
+        "name": "Lincolnshire",
+        "type": null,
+        "latitude": "52.94518890",
+        "longitude": "-0.16012460",
+        "code": "LIN"
+    },
+    {
+        "name": "Lisburn and Castlereagh",
+        "type": null,
+        "latitude": "54.49815840",
+        "longitude": "-6.13067910",
+        "code": "LBC"
+    },
+    {
+        "name": "Lisburn City Council",
+        "type": null,
+        "latitude": "54.49815840",
+        "longitude": "-6.13067910",
+        "code": "LSB"
+    },
+    {
+        "name": "Liverpool",
+        "type": null,
+        "latitude": "32.65649810",
+        "longitude": "-115.47632410",
+        "code": "LIV"
+    },
+    {
+        "name": "London Borough of Barking and Dagenham",
+        "type": null,
+        "latitude": "51.55406660",
+        "longitude": "0.13401700",
+        "code": "BDG"
+    },
+    {
+        "name": "London Borough of Barnet",
+        "type": null,
+        "latitude": "51.60496730",
+        "longitude": "-0.20762950",
+        "code": "BNE"
+    },
+    {
+        "name": "London Borough of Bexley",
+        "type": null,
+        "latitude": "51.45190210",
+        "longitude": "0.11717860",
+        "code": "BEX"
+    },
+    {
+        "name": "London Borough of Brent",
+        "type": null,
+        "latitude": "51.56728080",
+        "longitude": "-0.27105680",
+        "code": "BEN"
+    },
+    {
+        "name": "London Borough of Bromley",
+        "type": null,
+        "latitude": "51.36797050",
+        "longitude": "0.07006200",
+        "code": "BRY"
+    },
+    {
+        "name": "London Borough of Camden",
+        "type": null,
+        "latitude": "51.54547360",
+        "longitude": "-0.16279020",
+        "code": "CMD"
+    },
+    {
+        "name": "London Borough of Croydon",
+        "type": null,
+        "latitude": "51.38274460",
+        "longitude": "-0.09851630",
+        "code": "CRY"
+    },
+    {
+        "name": "London Borough of Ealing",
+        "type": null,
+        "latitude": "51.52503660",
+        "longitude": "-0.34139650",
+        "code": "EAL"
+    },
+    {
+        "name": "London Borough of Enfield",
+        "type": null,
+        "latitude": "51.66229090",
+        "longitude": "-0.11806510",
+        "code": "ENF"
+    },
+    {
+        "name": "London Borough of Hackney",
+        "type": null,
+        "latitude": "51.57344500",
+        "longitude": "-0.07243760",
+        "code": "HCK"
+    },
+    {
+        "name": "London Borough of Hammersmith and Fulham",
+        "type": null,
+        "latitude": "51.49901560",
+        "longitude": "-0.22915000",
+        "code": "HMF"
+    },
+    {
+        "name": "London Borough of Haringey",
+        "type": null,
+        "latitude": "51.59061130",
+        "longitude": "-0.11097090",
+        "code": "HRY"
+    },
+    {
+        "name": "London Borough of Harrow",
+        "type": null,
+        "latitude": "51.58816270",
+        "longitude": "-0.34228510",
+        "code": "HRW"
+    },
+    {
+        "name": "London Borough of Havering",
+        "type": null,
+        "latitude": "51.57792400",
+        "longitude": "0.21208290",
+        "code": "HAV"
+    },
+    {
+        "name": "London Borough of Hillingdon",
+        "type": null,
+        "latitude": "51.53518320",
+        "longitude": "-0.44813780",
+        "code": "HIL"
+    },
+    {
+        "name": "London Borough of Hounslow",
+        "type": null,
+        "latitude": "51.48283580",
+        "longitude": "-0.38820620",
+        "code": "HNS"
+    },
+    {
+        "name": "London Borough of Islington",
+        "type": null,
+        "latitude": "51.54650630",
+        "longitude": "-0.10580580",
+        "code": "ISL"
+    },
+    {
+        "name": "London Borough of Lambeth",
+        "type": null,
+        "latitude": "51.45714770",
+        "longitude": "-0.12306810",
+        "code": "LBH"
+    },
+    {
+        "name": "London Borough of Lewisham",
+        "type": null,
+        "latitude": "51.44145790",
+        "longitude": "-0.01170060",
+        "code": "LEW"
+    },
+    {
+        "name": "London Borough of Merton",
+        "type": null,
+        "latitude": "51.40977420",
+        "longitude": "-0.21080840",
+        "code": "MRT"
+    },
+    {
+        "name": "London Borough of Newham",
+        "type": null,
+        "latitude": "51.52551620",
+        "longitude": "0.03521630",
+        "code": "NWM"
+    },
+    {
+        "name": "London Borough of Redbridge",
+        "type": null,
+        "latitude": "51.58861210",
+        "longitude": "0.08239820",
+        "code": "RDB"
+    },
+    {
+        "name": "London Borough of Richmond upon Thames",
+        "type": null,
+        "latitude": "51.46130540",
+        "longitude": "-0.30377090",
+        "code": "RIC"
+    },
+    {
+        "name": "London Borough of Southwark",
+        "type": null,
+        "latitude": "51.48805720",
+        "longitude": "-0.07628380",
+        "code": "SWK"
+    },
+    {
+        "name": "London Borough of Sutton",
+        "type": null,
+        "latitude": "51.35737620",
+        "longitude": "-0.17527960",
+        "code": "STN"
+    },
+    {
+        "name": "London Borough of Tower Hamlets",
+        "type": null,
+        "latitude": "51.52026070",
+        "longitude": "-0.02933960",
+        "code": "TWH"
+    },
+    {
+        "name": "London Borough of Waltham Forest",
+        "type": null,
+        "latitude": "51.58863830",
+        "longitude": "-0.01176250",
+        "code": "WFT"
+    },
+    {
+        "name": "London Borough of Wandsworth",
+        "type": null,
+        "latitude": "51.45682740",
+        "longitude": "-0.18966380",
+        "code": "WND"
+    },
+    {
+        "name": "Magherafelt District Council",
+        "type": null,
+        "latitude": "54.75532790",
+        "longitude": "-6.60774870",
+        "code": "MFT"
+    },
+    {
+        "name": "Manchester",
+        "type": null,
+        "latitude": "53.48075930",
+        "longitude": "-2.24263050",
+        "code": "MAN"
+    },
+    {
+        "name": "Medway",
+        "type": null,
+        "latitude": "42.14176410",
+        "longitude": "-71.39672560",
+        "code": "MDW"
+    },
+    {
+        "name": "Merthyr Tydfil County Borough",
+        "type": null,
+        "latitude": "51.74674740",
+        "longitude": "-3.38132750",
+        "code": "MTY"
+    },
+    {
+        "name": "Metropolitan Borough of Wigan",
+        "type": null,
+        "latitude": "53.51348120",
+        "longitude": "-2.61069990",
+        "code": "WGN"
+    },
+    {
+        "name": "Mid and East Antrim",
+        "type": null,
+        "latitude": "54.93993410",
+        "longitude": "-6.11374230",
+        "code": "MEA"
+    },
+    {
+        "name": "Mid Ulster",
+        "type": null,
+        "latitude": "54.64113010",
+        "longitude": "-6.75225490",
+        "code": "MUL"
+    },
+    {
+        "name": "Middlesbrough",
+        "type": null,
+        "latitude": "54.57422700",
+        "longitude": "-1.23495600",
+        "code": "MDB"
+    },
+    {
+        "name": "Midlothian",
+        "type": null,
+        "latitude": "32.47533500",
+        "longitude": "-97.01031810",
+        "code": "MLN"
+    },
+    {
+        "name": "Milton Keynes",
+        "type": null,
+        "latitude": "52.08520380",
+        "longitude": "-0.73331330",
+        "code": "MIK"
+    },
+    {
+        "name": "Monmouthshire",
+        "type": null,
+        "latitude": "51.81161000",
+        "longitude": "-2.71634170",
+        "code": "MON"
+    },
+    {
+        "name": "Moray",
+        "type": null,
+        "latitude": "57.64984760",
+        "longitude": "-3.31680390",
+        "code": "MRY"
+    },
+    {
+        "name": "Moyle District Council",
+        "type": null,
+        "latitude": "55.20473270",
+        "longitude": "-6.25317400",
+        "code": "MYL"
+    },
+    {
+        "name": "Neath Port Talbot County Borough",
+        "type": null,
+        "latitude": "51.59785190",
+        "longitude": "-3.78396680",
+        "code": "NTL"
+    },
+    {
+        "name": "Newcastle upon Tyne",
+        "type": null,
+        "latitude": "54.97825200",
+        "longitude": "-1.61778000",
+        "code": "NET"
+    },
+    {
+        "name": "Newport",
+        "type": null,
+        "latitude": "37.52782340",
+        "longitude": "-94.10438760",
+        "code": "NWP"
+    },
+    {
+        "name": "Newry and Mourne District Council",
+        "type": null,
+        "latitude": "54.17425050",
+        "longitude": "-6.33919920",
+        "code": "NYM"
+    },
+    {
+        "name": "Newry, Mourne and Down",
+        "type": null,
+        "latitude": "54.24342870",
+        "longitude": "-5.95779590",
+        "code": "NMD"
+    },
+    {
+        "name": "Newtownabbey Borough Council",
+        "type": null,
+        "latitude": "54.67924220",
+        "longitude": "-5.95911020",
+        "code": "NTA"
+    },
+    {
+        "name": "Norfolk",
+        "type": null,
+        "latitude": "36.85076890",
+        "longitude": "-76.28587260",
+        "code": "NFK"
+    },
+    {
+        "name": "North Ayrshire",
+        "type": null,
+        "latitude": "55.64167310",
+        "longitude": "-4.75946000",
+        "code": "NAY"
+    },
+    {
+        "name": "North Down Borough Council",
+        "type": null,
+        "latitude": "54.65362970",
+        "longitude": "-5.67249250",
+        "code": "NDN"
+    },
+    {
+        "name": "North East Lincolnshire",
+        "type": null,
+        "latitude": "53.56682010",
+        "longitude": "-0.08150660",
+        "code": "NEL"
+    },
+    {
+        "name": "North Lanarkshire",
+        "type": null,
+        "latitude": "55.86624320",
+        "longitude": "-3.96131440",
+        "code": "NLK"
+    },
+    {
+        "name": "North Lincolnshire",
+        "type": null,
+        "latitude": "53.60555920",
+        "longitude": "-0.55965820",
+        "code": "NLN"
+    },
+    {
+        "name": "North Somerset",
+        "type": null,
+        "latitude": "51.38790280",
+        "longitude": "-2.77810910",
+        "code": "NSM"
+    },
+    {
+        "name": "North Tyneside",
+        "type": null,
+        "latitude": "55.01823990",
+        "longitude": "-1.48584360",
+        "code": "NTY"
+    },
+    {
+        "name": "North Yorkshire",
+        "type": null,
+        "latitude": "53.99150280",
+        "longitude": "-1.54120150",
+        "code": "NYK"
+    },
+    {
+        "name": "Northamptonshire",
+        "type": null,
+        "latitude": "52.27299440",
+        "longitude": "-0.87555150",
+        "code": "NTH"
+    },
+    {
+        "name": "Northern Ireland",
+        "type": null,
+        "latitude": "54.78771490",
+        "longitude": "-6.49231450",
+        "code": "NIR"
+    },
+    {
+        "name": "Northumberland",
+        "type": null,
+        "latitude": "55.20825420",
+        "longitude": "-2.07841380",
+        "code": "NBL"
+    },
+    {
+        "name": "Nottinghamshire",
+        "type": null,
+        "latitude": "53.10031900",
+        "longitude": "-0.99363060",
+        "code": "NTT"
+    },
+    {
+        "name": "Oldham",
+        "type": null,
+        "latitude": "42.20405980",
+        "longitude": "-71.20481190",
+        "code": "OLD"
+    },
+    {
+        "name": "Omagh District Council",
+        "type": null,
+        "latitude": "54.45135240",
+        "longitude": "-7.71250180",
+        "code": "OMH"
+    },
+    {
+        "name": "Orkney Islands",
+        "type": null,
+        "latitude": "58.98094010",
+        "longitude": "-2.96052060",
+        "code": "ORK"
+    },
+    {
+        "name": "Outer Hebrides",
+        "type": null,
+        "latitude": "57.75989180",
+        "longitude": "-7.01940340",
+        "code": "ELS"
+    },
+    {
+        "name": "Oxfordshire",
+        "type": null,
+        "latitude": "51.76120560",
+        "longitude": "-1.24646740",
+        "code": "OXF"
+    },
+    {
+        "name": "Pembrokeshire",
+        "type": null,
+        "latitude": "51.67407800",
+        "longitude": "-4.90887850",
+        "code": "PEM"
+    },
+    {
+        "name": "Perth and Kinross",
+        "type": null,
+        "latitude": "56.39538170",
+        "longitude": "-3.42835470",
+        "code": "PKN"
+    },
+    {
+        "name": "Poole",
+        "type": null,
+        "latitude": "50.71505000",
+        "longitude": "-1.98724800",
+        "code": "POL"
+    },
+    {
+        "name": "Powys",
+        "type": null,
+        "latitude": "52.64642490",
+        "longitude": "-3.32609040",
+        "code": "POW"
+    },
+    {
+        "name": "Reading",
+        "type": null,
+        "latitude": "36.14866590",
+        "longitude": "-95.98400120",
+        "code": "RDG"
+    },
+    {
+        "name": "Redcar and Cleveland",
+        "type": null,
+        "latitude": "54.59713440",
+        "longitude": "-1.07759970",
+        "code": "RCC"
+    },
+    {
+        "name": "Renfrewshire",
+        "type": null,
+        "latitude": "55.84665400",
+        "longitude": "-4.53312590",
+        "code": "RFW"
+    },
+    {
+        "name": "Rhondda Cynon Taf",
+        "type": null,
+        "latitude": "51.64902070",
+        "longitude": "-3.42886920",
+        "code": "RCT"
+    },
+    {
+        "name": "Rochdale",
+        "type": null,
+        "latitude": "53.60971360",
+        "longitude": "-2.15610000",
+        "code": "RCH"
+    },
+    {
+        "name": "Rotherham",
+        "type": null,
+        "latitude": "53.43260350",
+        "longitude": "-1.36350090",
+        "code": "ROT"
+    },
+    {
+        "name": "Royal Borough of Greenwich",
+        "type": null,
+        "latitude": "51.48346270",
+        "longitude": "0.05862020",
+        "code": "GRE"
+    },
+    {
+        "name": "Royal Borough of Kensington and Chelsea",
+        "type": null,
+        "latitude": "51.49908050",
+        "longitude": "-0.19382530",
+        "code": "KEC"
+    },
+    {
+        "name": "Royal Borough of Kingston upon Thames",
+        "type": null,
+        "latitude": "51.37811700",
+        "longitude": "-0.29270900",
+        "code": "KTT"
+    },
+    {
+        "name": "Rutland",
+        "type": null,
+        "latitude": "43.61062370",
+        "longitude": "-72.97260650",
+        "code": "RUT"
+    },
+    {
+        "name": "Saint Helena",
+        "type": null,
+        "latitude": "-15.96501040",
+        "longitude": "-5.70892410",
+        "code": "SH-HL"
+    },
+    {
+        "name": "Salford",
+        "type": null,
+        "latitude": "53.48752350",
+        "longitude": "-2.29012640",
+        "code": "SLF"
+    },
+    {
+        "name": "Sandwell",
+        "type": null,
+        "latitude": "52.53616740",
+        "longitude": "-2.01079300",
+        "code": "SAW"
+    },
+    {
+        "name": "Scotland",
+        "type": null,
+        "latitude": "56.49067120",
+        "longitude": "-4.20264580",
+        "code": "SCT"
+    },
+    {
+        "name": "Scottish Borders",
+        "type": null,
+        "latitude": "55.54856970",
+        "longitude": "-2.78613880",
+        "code": "SCB"
+    },
+    {
+        "name": "Sefton",
+        "type": null,
+        "latitude": "53.50344490",
+        "longitude": "-2.97035900",
+        "code": "SFT"
+    },
+    {
+        "name": "Sheffield",
+        "type": null,
+        "latitude": "36.09507430",
+        "longitude": "-80.27884660",
+        "code": "SHF"
+    },
+    {
+        "name": "Shetland Islands",
+        "type": null,
+        "latitude": "60.52965070",
+        "longitude": "-1.26594090",
+        "code": "ZET"
+    },
+    {
+        "name": "Shropshire",
+        "type": null,
+        "latitude": "52.70636570",
+        "longitude": "-2.74178490",
+        "code": "SHR"
+    },
+    {
+        "name": "Slough",
+        "type": null,
+        "latitude": "51.51053840",
+        "longitude": "-0.59504060",
+        "code": "SLG"
+    },
+    {
+        "name": "Solihull",
+        "type": null,
+        "latitude": "52.41181100",
+        "longitude": "-1.77761000",
+        "code": "SOL"
+    },
+    {
+        "name": "Somerset",
+        "type": null,
+        "latitude": "51.10509700",
+        "longitude": "-2.92623070",
+        "code": "SOM"
+    },
+    {
+        "name": "South Ayrshire",
+        "type": null,
+        "latitude": "55.45889880",
+        "longitude": "-4.62919940",
+        "code": "SAY"
+    },
+    {
+        "name": "South Gloucestershire",
+        "type": null,
+        "latitude": "51.52643610",
+        "longitude": "-2.47284870",
+        "code": "SGC"
+    },
+    {
+        "name": "South Lanarkshire",
+        "type": null,
+        "latitude": "55.67359090",
+        "longitude": "-3.78196610",
+        "code": "SLK"
+    },
+    {
+        "name": "South Tyneside",
+        "type": null,
+        "latitude": "54.96366930",
+        "longitude": "-1.44186340",
+        "code": "STY"
+    },
+    {
+        "name": "Southend-on-Sea",
+        "type": null,
+        "latitude": "51.54592690",
+        "longitude": "0.70771230",
+        "code": "SOS"
+    },
+    {
+        "name": "St Helens",
+        "type": null,
+        "latitude": "45.85896100",
+        "longitude": "-122.82123560",
+        "code": "SHN"
+    },
+    {
+        "name": "Staffordshire",
+        "type": null,
+        "latitude": "52.87927450",
+        "longitude": "-2.05718680",
+        "code": "STS"
+    },
+    {
+        "name": "Stirling",
+        "type": null,
+        "latitude": "56.11652270",
+        "longitude": "-3.93690290",
+        "code": "STG"
+    },
+    {
+        "name": "Stockport",
+        "type": null,
+        "latitude": "53.41063160",
+        "longitude": "-2.15753320",
+        "code": "SKP"
+    },
+    {
+        "name": "Stockton-on-Tees",
+        "type": null,
+        "latitude": "54.57045510",
+        "longitude": "-1.32898210",
+        "code": "STT"
+    },
+    {
+        "name": "Strabane District Council",
+        "type": null,
+        "latitude": "54.82738650",
+        "longitude": "-7.46331030",
+        "code": "STB"
+    },
+    {
+        "name": "Suffolk",
+        "type": null,
+        "latitude": "52.18724720",
+        "longitude": "0.97078010",
+        "code": "SFK"
+    },
+    {
+        "name": "Surrey",
+        "type": null,
+        "latitude": "51.31475930",
+        "longitude": "-0.55995010",
+        "code": "SRY"
+    },
+    {
+        "name": "Swindon",
+        "type": null,
+        "latitude": "51.55577390",
+        "longitude": "-1.77971760",
+        "code": "SWD"
+    },
+    {
+        "name": "Tameside",
+        "type": null,
+        "latitude": "53.48058280",
+        "longitude": "-2.08098910",
+        "code": "TAM"
+    },
+    {
+        "name": "Telford and Wrekin",
+        "type": null,
+        "latitude": "52.74099160",
+        "longitude": "-2.48685860",
+        "code": "TFW"
+    },
+    {
+        "name": "Thurrock",
+        "type": null,
+        "latitude": "51.49345570",
+        "longitude": "0.35291970",
+        "code": "THR"
+    },
+    {
+        "name": "Torbay",
+        "type": null,
+        "latitude": "50.43923290",
+        "longitude": "-3.53698990",
+        "code": "TOB"
+    },
+    {
+        "name": "Torfaen",
+        "type": null,
+        "latitude": "51.70022530",
+        "longitude": "-3.04460150",
+        "code": "TOF"
+    },
+    {
+        "name": "Trafford",
+        "type": null,
+        "latitude": "40.38562460",
+        "longitude": "-79.75893470",
+        "code": "TRF"
+    },
+    {
+        "name": "United Kingdom",
+        "type": null,
+        "latitude": "55.37805100",
+        "longitude": "-3.43597300",
+        "code": "UKM"
+    },
+    {
+        "name": "Vale of Glamorgan",
+        "type": null,
+        "latitude": "51.40959580",
+        "longitude": "-3.48481670",
+        "code": "VGL"
+    },
+    {
+        "name": "Wakefield",
+        "type": null,
+        "latitude": "42.50393950",
+        "longitude": "-71.07233910",
+        "code": "WKF"
+    },
+    {
+        "name": "Wales",
+        "type": null,
+        "latitude": "52.13066070",
+        "longitude": "-3.78371170",
+        "code": "WLS"
+    },
+    {
+        "name": "Walsall",
+        "type": null,
+        "latitude": "52.58621400",
+        "longitude": "-1.98291900",
+        "code": "WLL"
+    },
+    {
+        "name": "Warrington",
+        "type": null,
+        "latitude": "40.24927410",
+        "longitude": "-75.13406040",
+        "code": "WRT"
+    },
+    {
+        "name": "Warwickshire",
+        "type": null,
+        "latitude": "52.26713530",
+        "longitude": "-1.46752160",
+        "code": "WAR"
+    },
+    {
+        "name": "West Berkshire",
+        "type": null,
+        "latitude": "51.43082550",
+        "longitude": "-1.14449270",
+        "code": "WBK"
+    },
+    {
+        "name": "West Dunbartonshire",
+        "type": null,
+        "latitude": "55.94509250",
+        "longitude": "-4.56462590",
+        "code": "WDU"
+    },
+    {
+        "name": "West Lothian",
+        "type": null,
+        "latitude": "55.90701980",
+        "longitude": "-3.55171670",
+        "code": "WLN"
+    },
+    {
+        "name": "West Sussex",
+        "type": null,
+        "latitude": "50.92801430",
+        "longitude": "-0.46170750",
+        "code": "WSX"
+    },
+    {
+        "name": "Wiltshire",
+        "type": null,
+        "latitude": "51.34919960",
+        "longitude": "-1.99271050",
+        "code": "WIL"
+    },
+    {
+        "name": "Windsor and Maidenhead",
+        "type": null,
+        "latitude": "51.47997120",
+        "longitude": "-0.62425650",
+        "code": "WNM"
+    },
+    {
+        "name": "Wirral",
+        "type": null,
+        "latitude": "53.37271810",
+        "longitude": "-3.07375400",
+        "code": "WRL"
+    },
+    {
+        "name": "Wokingham",
+        "type": null,
+        "latitude": "51.41045700",
+        "longitude": "-0.83386100",
+        "code": "WOK"
+    },
+    {
+        "name": "Worcestershire",
+        "type": null,
+        "latitude": "52.25452250",
+        "longitude": "-2.26683820",
+        "code": "WOR"
+    },
+    {
+        "name": "Wrexham County Borough",
+        "type": null,
+        "latitude": "53.03013780",
+        "longitude": "-3.02614870",
+        "code": "WRX"
+    }
+]

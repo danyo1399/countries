@@ -206,22 +206,118 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Baden-Württemberg",
-        "Bavaria",
-        "Berlin",
-        "Brandenburg",
-        "Bremen",
-        "Hamburg",
-        "Hesse",
-        "Lower Saxony",
-        "Mecklenburg-Vorpommern",
-        "North Rhine-Westphalia",
-        "Rhineland-Palatinate",
-        "Saarland",
-        "Saxony",
-        "Saxony-Anhalt",
-        "Schleswig-Holstein",
-        "Thuringia"
+    "states": [
+        {
+            "name": "Baden-Württemberg",
+            "type": null,
+            "latitude": "48.66160370",
+            "longitude": "9.35013360",
+            "code": "BW"
+        },
+        {
+            "name": "Bavaria",
+            "type": null,
+            "latitude": "48.79044720",
+            "longitude": "11.49788950",
+            "code": "BY"
+        },
+        {
+            "name": "Berlin",
+            "type": null,
+            "latitude": "52.52000660",
+            "longitude": "13.40495400",
+            "code": "BE"
+        },
+        {
+            "name": "Brandenburg",
+            "type": null,
+            "latitude": "52.41252870",
+            "longitude": "12.53164440",
+            "code": "BB"
+        },
+        {
+            "name": "Bremen",
+            "type": null,
+            "latitude": "53.07929620",
+            "longitude": "8.80169360",
+            "code": "HB"
+        },
+        {
+            "name": "Hamburg",
+            "type": null,
+            "latitude": "53.55108460",
+            "longitude": "9.99368190",
+            "code": "HH"
+        },
+        {
+            "name": "Hesse",
+            "type": null,
+            "latitude": "50.65205150",
+            "longitude": "9.16243760",
+            "code": "HE"
+        },
+        {
+            "name": "Lower Saxony",
+            "type": null,
+            "latitude": "52.63670360",
+            "longitude": "9.84507660",
+            "code": "NI"
+        },
+        {
+            "name": "Mecklenburg-Vorpommern",
+            "type": null,
+            "latitude": "53.61265050",
+            "longitude": "12.42959530",
+            "code": "MV"
+        },
+        {
+            "name": "North Rhine-Westphalia",
+            "type": null,
+            "latitude": "51.43323670",
+            "longitude": "7.66159380",
+            "code": "NW"
+        },
+        {
+            "name": "Rhineland-Palatinate",
+            "type": null,
+            "latitude": "50.11834600",
+            "longitude": "7.30895270",
+            "code": "RP"
+        },
+        {
+            "name": "Saarland",
+            "type": null,
+            "latitude": "49.39642340",
+            "longitude": "7.02296070",
+            "code": "SL"
+        },
+        {
+            "name": "Saxony",
+            "type": null,
+            "latitude": "51.10454070",
+            "longitude": "13.20173840",
+            "code": "SN"
+        },
+        {
+            "name": "Saxony-Anhalt",
+            "type": null,
+            "latitude": "51.95026490",
+            "longitude": "11.69227340",
+            "code": "ST"
+        },
+        {
+            "name": "Schleswig-Holstein",
+            "type": null,
+            "latitude": "54.21936720",
+            "longitude": "9.69611670",
+            "code": "SH"
+        },
+        {
+            "name": "Thuringia",
+            "type": null,
+            "latitude": "51.01098920",
+            "longitude": "10.84534600",
+            "code": "TH"
+        }
     ]
 }

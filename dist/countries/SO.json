@@ -207,22 +207,118 @@
         "format": "@@  #####",
         "regex": "^([A-Z]{2}\\d{5})$"
     },
-    "provinces": [
-        "Awdal Region",
-        "Bakool",
-        "Banaadir",
-        "Bari",
-        "Bay",
-        "Galguduud",
-        "Gedo",
-        "Hiran",
-        "Lower Juba",
-        "Lower Shebelle",
-        "Middle Juba",
-        "Middle Shebelle",
-        "Mudug",
-        "Nugal",
-        "Sanaag Region",
-        "Togdheer Region"
+    "states": [
+        {
+            "name": "Awdal Region",
+            "type": null,
+            "latitude": "10.63342850",
+            "longitude": "43.32946600",
+            "code": "AW"
+        },
+        {
+            "name": "Bakool",
+            "type": null,
+            "latitude": "4.36572210",
+            "longitude": "44.09603110",
+            "code": "BK"
+        },
+        {
+            "name": "Banaadir",
+            "type": null,
+            "latitude": "2.11873750",
+            "longitude": "45.33694590",
+            "code": "BN"
+        },
+        {
+            "name": "Bari",
+            "type": null,
+            "latitude": "41.11714320",
+            "longitude": "16.87187150",
+            "code": "BR"
+        },
+        {
+            "name": "Bay",
+            "type": null,
+            "latitude": "37.03655340",
+            "longitude": "-95.61747670",
+            "code": "BY"
+        },
+        {
+            "name": "Galguduud",
+            "type": null,
+            "latitude": "5.18501280",
+            "longitude": "46.82528380",
+            "code": "GA"
+        },
+        {
+            "name": "Gedo",
+            "type": null,
+            "latitude": "3.50392270",
+            "longitude": "42.23624350",
+            "code": "GE"
+        },
+        {
+            "name": "Hiran",
+            "type": null,
+            "latitude": "4.32101500",
+            "longitude": "45.29938620",
+            "code": "HI"
+        },
+        {
+            "name": "Lower Juba",
+            "type": null,
+            "latitude": "0.22402100",
+            "longitude": "41.60118140",
+            "code": "JH"
+        },
+        {
+            "name": "Lower Shebelle",
+            "type": null,
+            "latitude": "1.87664580",
+            "longitude": "44.24790150",
+            "code": "SH"
+        },
+        {
+            "name": "Middle Juba",
+            "type": null,
+            "latitude": "2.07804880",
+            "longitude": "41.60118140",
+            "code": "JD"
+        },
+        {
+            "name": "Middle Shebelle",
+            "type": null,
+            "latitude": "2.92502470",
+            "longitude": "45.90396890",
+            "code": "SD"
+        },
+        {
+            "name": "Mudug",
+            "type": null,
+            "latitude": "6.56567260",
+            "longitude": "47.76375650",
+            "code": "MU"
+        },
+        {
+            "name": "Nugal",
+            "type": null,
+            "latitude": "43.27938610",
+            "longitude": "17.03392050",
+            "code": "NU"
+        },
+        {
+            "name": "Sanaag Region",
+            "type": null,
+            "latitude": "10.39382180",
+            "longitude": "47.76375650",
+            "code": "SA"
+        },
+        {
+            "name": "Togdheer Region",
+            "type": null,
+            "latitude": "9.44605870",
+            "longitude": "45.29938620",
+            "code": "TO"
+        }
     ]
 }

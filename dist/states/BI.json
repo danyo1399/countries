@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Bubanza Province",
+        "type": null,
+        "latitude": "-3.15724030",
+        "longitude": "29.37149090",
+        "code": "BB"
+    },
+    {
+        "name": "Bujumbura Mairie Province",
+        "type": null,
+        "latitude": "-3.38841410",
+        "longitude": "29.34826460",
+        "code": "BM"
+    },
+    {
+        "name": "Bujumbura Rural Province",
+        "type": null,
+        "latitude": "-3.50901440",
+        "longitude": "29.46435900",
+        "code": "BL"
+    },
+    {
+        "name": "Bururi Province",
+        "type": null,
+        "latitude": "-3.90068510",
+        "longitude": "29.51077080",
+        "code": "BR"
+    },
+    {
+        "name": "Cankuzo Province",
+        "type": null,
+        "latitude": "-3.15277880",
+        "longitude": "30.61998950",
+        "code": "CA"
+    },
+    {
+        "name": "Cibitoke Province",
+        "type": null,
+        "latitude": "-2.81028970",
+        "longitude": "29.18557850",
+        "code": "CI"
+    },
+    {
+        "name": "Gitega Province",
+        "type": null,
+        "latitude": "-3.49290510",
+        "longitude": "29.92779470",
+        "code": "GI"
+    },
+    {
+        "name": "Karuzi Province",
+        "type": null,
+        "latitude": "-3.13403470",
+        "longitude": "30.11273500",
+        "code": "KR"
+    },
+    {
+        "name": "Kayanza Province",
+        "type": null,
+        "latitude": "-3.00779810",
+        "longitude": "29.64991620",
+        "code": "KY"
+    },
+    {
+        "name": "Kirundo Province",
+        "type": null,
+        "latitude": "-2.57628820",
+        "longitude": "30.11273500",
+        "code": "KI"
+    },
+    {
+        "name": "Makamba Province",
+        "type": null,
+        "latitude": "-4.32570620",
+        "longitude": "29.69626770",
+        "code": "MA"
+    },
+    {
+        "name": "Muramvya Province",
+        "type": null,
+        "latitude": "-3.28983980",
+        "longitude": "29.64991620",
+        "code": "MU"
+    },
+    {
+        "name": "Muyinga Province",
+        "type": null,
+        "latitude": "-2.77935110",
+        "longitude": "30.29741990",
+        "code": "MY"
+    },
+    {
+        "name": "Mwaro Province",
+        "type": null,
+        "latitude": "-3.50259180",
+        "longitude": "29.64991620",
+        "code": "MW"
+    },
+    {
+        "name": "Ngozi Province",
+        "type": null,
+        "latitude": "-2.89582430",
+        "longitude": "29.88152030",
+        "code": "NG"
+    },
+    {
+        "name": "Rumonge Province",
+        "type": null,
+        "latitude": "-3.97540490",
+        "longitude": "29.43880140",
+        "code": "RM"
+    },
+    {
+        "name": "Rutana Province",
+        "type": null,
+        "latitude": "-3.87915230",
+        "longitude": "30.06652360",
+        "code": "RT"
+    },
+    {
+        "name": "Ruyigi Province",
+        "type": null,
+        "latitude": "-3.44620700",
+        "longitude": "30.25127280",
+        "code": "RY"
+    }
+]

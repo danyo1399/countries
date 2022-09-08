@@ -206,23 +206,125 @@
         "format": "####",
         "regex": "^(\\d{4})$"
     },
-    "provinces": [
-        "Alto Paraguay Department",
-        "Alto Paraná Department",
-        "Amambay Department",
-        "Boquerón Department",
-        "Caaguazú",
-        "Caazapá",
-        "Canindeyú",
-        "Central Department",
-        "Concepción Department",
-        "Cordillera Department",
-        "Guairá Department",
-        "Itapúa",
-        "Misiones Department",
-        "Ñeembucú Department",
-        "Paraguarí Department",
-        "Presidente Hayes Department",
-        "San Pedro Department"
+    "states": [
+        {
+            "name": "Alto Paraguay Department",
+            "type": null,
+            "latitude": "-20.08525080",
+            "longitude": "-59.47209040",
+            "code": "16"
+        },
+        {
+            "name": "Alto Paraná Department",
+            "type": null,
+            "latitude": "-25.60755460",
+            "longitude": "-54.96118360",
+            "code": "10"
+        },
+        {
+            "name": "Amambay Department",
+            "type": null,
+            "latitude": "-22.55902720",
+            "longitude": "-56.02499820",
+            "code": "13"
+        },
+        {
+            "name": "Boquerón Department",
+            "type": null,
+            "latitude": "-21.74492540",
+            "longitude": "-60.95400730",
+            "code": "19"
+        },
+        {
+            "name": "Caaguazú",
+            "type": null,
+            "latitude": "-25.46458180",
+            "longitude": "-56.01385100",
+            "code": "5"
+        },
+        {
+            "name": "Caazapá",
+            "type": null,
+            "latitude": "-26.18277130",
+            "longitude": "-56.37123270",
+            "code": "6"
+        },
+        {
+            "name": "Canindeyú",
+            "type": null,
+            "latitude": "-24.13787350",
+            "longitude": "-55.66896360",
+            "code": "14"
+        },
+        {
+            "name": "Central Department",
+            "type": null,
+            "latitude": "36.15592290",
+            "longitude": "-95.96620750",
+            "code": "11"
+        },
+        {
+            "name": "Concepción Department",
+            "type": null,
+            "latitude": "-23.42142640",
+            "longitude": "-57.43444510",
+            "code": "1"
+        },
+        {
+            "name": "Cordillera Department",
+            "type": null,
+            "latitude": "-25.22894910",
+            "longitude": "-57.01116810",
+            "code": "3"
+        },
+        {
+            "name": "Guairá Department",
+            "type": null,
+            "latitude": "-25.88109320",
+            "longitude": "-56.29293810",
+            "code": "4"
+        },
+        {
+            "name": "Itapúa",
+            "type": null,
+            "latitude": "-26.79236230",
+            "longitude": "-55.66896360",
+            "code": "7"
+        },
+        {
+            "name": "Misiones Department",
+            "type": null,
+            "latitude": "-26.84335120",
+            "longitude": "-57.10131880",
+            "code": "8"
+        },
+        {
+            "name": "Ñeembucú Department",
+            "type": null,
+            "latitude": "-27.02991140",
+            "longitude": "-57.82539500",
+            "code": "12"
+        },
+        {
+            "name": "Paraguarí Department",
+            "type": null,
+            "latitude": "-25.62621740",
+            "longitude": "-57.15206420",
+            "code": "9"
+        },
+        {
+            "name": "Presidente Hayes Department",
+            "type": null,
+            "latitude": "-23.35126050",
+            "longitude": "-58.73736340",
+            "code": "15"
+        },
+        {
+            "name": "San Pedro Department",
+            "type": null,
+            "latitude": "-24.19486680",
+            "longitude": "-56.56164700",
+            "code": "2"
+        }
     ]
 }

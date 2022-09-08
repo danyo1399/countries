@@ -220,32 +220,188 @@
         "format": "####",
         "regex": "^(\\d{4})$"
     },
-    "provinces": [
-        "Aargau",
-        "Appenzell Ausserrhoden",
-        "Appenzell Innerrhoden",
-        "Basel-Land",
-        "Basel-Stadt",
-        "Bern",
-        "Fribourg",
-        "Geneva",
-        "Glarus",
-        "Graubünden",
-        "Jura",
-        "Lucerne",
-        "Neuchâtel",
-        "Nidwalden",
-        "Obwalden",
-        "Schaffhausen",
-        "Schwyz",
-        "Solothurn",
-        "St. Gallen",
-        "Thurgau",
-        "Ticino",
-        "Uri",
-        "Valais",
-        "Vaud",
-        "Zug",
-        "Zürich"
+    "states": [
+        {
+            "name": "Aargau",
+            "type": "canton",
+            "latitude": "47.38766640",
+            "longitude": "8.25542950",
+            "code": "AG"
+        },
+        {
+            "name": "Appenzell Ausserrhoden",
+            "type": "canton",
+            "latitude": "47.36648100",
+            "longitude": "9.30009160",
+            "code": "AR"
+        },
+        {
+            "name": "Appenzell Innerrhoden",
+            "type": "canton",
+            "latitude": "47.31619250",
+            "longitude": "9.43165730",
+            "code": "AI"
+        },
+        {
+            "name": "Basel-Land",
+            "type": "canton",
+            "latitude": "47.44181220",
+            "longitude": "7.76440020",
+            "code": "BL"
+        },
+        {
+            "name": "Basel-Stadt",
+            "type": "canton",
+            "latitude": "47.56666700",
+            "longitude": "7.60000000",
+            "code": "BS"
+        },
+        {
+            "name": "Bern",
+            "type": "canton",
+            "latitude": "46.79886210",
+            "longitude": "7.70807010",
+            "code": "BE"
+        },
+        {
+            "name": "Fribourg",
+            "type": "canton",
+            "latitude": "46.68167480",
+            "longitude": "7.11726350",
+            "code": "FR"
+        },
+        {
+            "name": "Geneva",
+            "type": "canton",
+            "latitude": "46.21800730",
+            "longitude": "6.12169250",
+            "code": "GE"
+        },
+        {
+            "name": "Glarus",
+            "type": "canton",
+            "latitude": "47.04112320",
+            "longitude": "9.06790000",
+            "code": "GL"
+        },
+        {
+            "name": "Graubünden",
+            "type": "canton",
+            "latitude": "46.65698710",
+            "longitude": "9.57802570",
+            "code": "GR"
+        },
+        {
+            "name": "Jura",
+            "type": "canton",
+            "latitude": "47.34444740",
+            "longitude": "7.14306080",
+            "code": "JU"
+        },
+        {
+            "name": "Lucerne",
+            "type": "canton",
+            "latitude": "47.07956710",
+            "longitude": "8.16624450",
+            "code": "LU"
+        },
+        {
+            "name": "Neuchâtel",
+            "type": "canton",
+            "latitude": "46.98998740",
+            "longitude": "6.92927320",
+            "code": "NE"
+        },
+        {
+            "name": "Nidwalden",
+            "type": "canton",
+            "latitude": "46.92670160",
+            "longitude": "8.38499820",
+            "code": "NW"
+        },
+        {
+            "name": "Obwalden",
+            "type": "canton",
+            "latitude": "46.87785800",
+            "longitude": "8.25124900",
+            "code": "OW"
+        },
+        {
+            "name": "Schaffhausen",
+            "type": "canton",
+            "latitude": "47.70093640",
+            "longitude": "8.56800400",
+            "code": "SH"
+        },
+        {
+            "name": "Schwyz",
+            "type": "canton",
+            "latitude": "47.02071380",
+            "longitude": "8.65298840",
+            "code": "SZ"
+        },
+        {
+            "name": "Solothurn",
+            "type": "canton",
+            "latitude": "47.33207170",
+            "longitude": "7.63883850",
+            "code": "SO"
+        },
+        {
+            "name": "St. Gallen",
+            "type": "canton",
+            "latitude": "47.14562540",
+            "longitude": "9.35043320",
+            "code": "SG"
+        },
+        {
+            "name": "Thurgau",
+            "type": "canton",
+            "latitude": "47.60378560",
+            "longitude": "9.05573710",
+            "code": "TG"
+        },
+        {
+            "name": "Ticino",
+            "type": "canton",
+            "latitude": "46.33173400",
+            "longitude": "8.80045290",
+            "code": "TI"
+        },
+        {
+            "name": "Uri",
+            "type": "canton",
+            "latitude": "41.48606470",
+            "longitude": "-71.53085370",
+            "code": "UR"
+        },
+        {
+            "name": "Valais",
+            "type": "canton",
+            "latitude": "46.19046140",
+            "longitude": "7.54492260",
+            "code": "VS"
+        },
+        {
+            "name": "Vaud",
+            "type": "canton",
+            "latitude": "46.56131350",
+            "longitude": "6.53676500",
+            "code": "VD"
+        },
+        {
+            "name": "Zug",
+            "type": "canton",
+            "latitude": "47.16615050",
+            "longitude": "8.51547490",
+            "code": "ZG"
+        },
+        {
+            "name": "Zürich",
+            "type": "canton",
+            "latitude": "47.35953600",
+            "longitude": "8.63564520",
+            "code": "ZH"
+        }
     ]
 }

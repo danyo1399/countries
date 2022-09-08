@@ -206,12 +206,48 @@
             38.93
         ]
     },
-    "provinces": [
-        "Anseba Region",
-        "Debub Region",
-        "Gash-Barka Region",
-        "Maekel Region",
-        "Northern Red Sea Region",
-        "Southern Red Sea Region"
+    "states": [
+        {
+            "name": "Anseba Region",
+            "type": null,
+            "latitude": "16.47455310",
+            "longitude": "37.80876930",
+            "code": "AN"
+        },
+        {
+            "name": "Debub Region",
+            "type": null,
+            "latitude": "14.94786920",
+            "longitude": "39.15436770",
+            "code": "DU"
+        },
+        {
+            "name": "Gash-Barka Region",
+            "type": null,
+            "latitude": "15.40688250",
+            "longitude": "37.63866220",
+            "code": "GB"
+        },
+        {
+            "name": "Maekel Region",
+            "type": null,
+            "latitude": "15.35514090",
+            "longitude": "38.86236830",
+            "code": "MA"
+        },
+        {
+            "name": "Northern Red Sea Region",
+            "type": null,
+            "latitude": "16.25839970",
+            "longitude": "38.82054540",
+            "code": "SK"
+        },
+        {
+            "name": "Southern Red Sea Region",
+            "type": null,
+            "latitude": "13.51371030",
+            "longitude": "41.76064720",
+            "code": "DK"
+        }
     ]
 }

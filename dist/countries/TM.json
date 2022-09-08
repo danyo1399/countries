@@ -204,12 +204,48 @@
         "format": "######",
         "regex": "^(\\d{6})$"
     },
-    "provinces": [
-        "Ahal Region",
-        "Ashgabat",
-        "Balkan Region",
-        "Daşoguz Region",
-        "Lebap Region",
-        "Mary Region"
+    "states": [
+        {
+            "name": "Ahal Region",
+            "type": null,
+            "latitude": "38.63993980",
+            "longitude": "59.47209040",
+            "code": "A"
+        },
+        {
+            "name": "Ashgabat",
+            "type": null,
+            "latitude": "37.96007660",
+            "longitude": "58.32606290",
+            "code": "S"
+        },
+        {
+            "name": "Balkan Region",
+            "type": null,
+            "latitude": "41.81014720",
+            "longitude": "21.09373110",
+            "code": "B"
+        },
+        {
+            "name": "Daşoguz Region",
+            "type": null,
+            "latitude": "41.83687370",
+            "longitude": "59.96519040",
+            "code": "D"
+        },
+        {
+            "name": "Lebap Region",
+            "type": null,
+            "latitude": "38.12724620",
+            "longitude": "64.71624150",
+            "code": "L"
+        },
+        {
+            "name": "Mary Region",
+            "type": null,
+            "latitude": "36.94816230",
+            "longitude": "62.45041540",
+            "code": "M"
+        }
     ]
 }

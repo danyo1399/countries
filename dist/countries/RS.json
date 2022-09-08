@@ -208,32 +208,188 @@
         "format": "######",
         "regex": "^(\\d{6})$"
     },
-    "provinces": [
-        "Belgrade",
-        "Bor District",
-        "Braničevo District",
-        "Central Banat District",
-        "Jablanica District",
-        "Kolubara District",
-        "Mačva District",
-        "Moravica District",
-        "Nišava District",
-        "North Bačka District",
-        "North Banat District",
-        "Pčinja District",
-        "Pirot District",
-        "Podunavlje District",
-        "Pomoravlje District",
-        "Rasina District",
-        "Raška District",
-        "South Bačka District",
-        "South Banat District",
-        "Srem District",
-        "Šumadija District",
-        "Toplica District",
-        "Vojvodina",
-        "West Bačka District",
-        "Zaječar District",
-        "Zlatibor District"
+    "states": [
+        {
+            "name": "Belgrade",
+            "type": null,
+            "latitude": "44.78656800",
+            "longitude": "20.44892160",
+            "code": "00"
+        },
+        {
+            "name": "Bor District",
+            "type": null,
+            "latitude": "44.06989180",
+            "longitude": "22.09850860",
+            "code": "14"
+        },
+        {
+            "name": "Braničevo District",
+            "type": null,
+            "latitude": "44.69822460",
+            "longitude": "21.54467750",
+            "code": "11"
+        },
+        {
+            "name": "Central Banat District",
+            "type": null,
+            "latitude": "45.47884850",
+            "longitude": "20.60825220",
+            "code": "02"
+        },
+        {
+            "name": "Jablanica District",
+            "type": null,
+            "latitude": "42.94815600",
+            "longitude": "21.81293210",
+            "code": "23"
+        },
+        {
+            "name": "Kolubara District",
+            "type": null,
+            "latitude": "44.35098110",
+            "longitude": "20.00043050",
+            "code": "09"
+        },
+        {
+            "name": "Mačva District",
+            "type": null,
+            "latitude": "44.59253140",
+            "longitude": "19.50822460",
+            "code": "08"
+        },
+        {
+            "name": "Moravica District",
+            "type": null,
+            "latitude": "43.84147000",
+            "longitude": "20.29049870",
+            "code": "17"
+        },
+        {
+            "name": "Nišava District",
+            "type": null,
+            "latitude": "43.37389020",
+            "longitude": "21.93223310",
+            "code": "20"
+        },
+        {
+            "name": "North Bačka District",
+            "type": null,
+            "latitude": "45.98033940",
+            "longitude": "19.59070010",
+            "code": "01"
+        },
+        {
+            "name": "North Banat District",
+            "type": null,
+            "latitude": "45.90683900",
+            "longitude": "19.99934170",
+            "code": "03"
+        },
+        {
+            "name": "Pčinja District",
+            "type": null,
+            "latitude": "42.58363620",
+            "longitude": "22.14302150",
+            "code": "24"
+        },
+        {
+            "name": "Pirot District",
+            "type": null,
+            "latitude": "43.08740360",
+            "longitude": "22.59830440",
+            "code": "22"
+        },
+        {
+            "name": "Podunavlje District",
+            "type": null,
+            "latitude": "44.47291560",
+            "longitude": "20.99014260",
+            "code": "10"
+        },
+        {
+            "name": "Pomoravlje District",
+            "type": null,
+            "latitude": "43.95913790",
+            "longitude": "21.27135300",
+            "code": "13"
+        },
+        {
+            "name": "Rasina District",
+            "type": null,
+            "latitude": "43.52635250",
+            "longitude": "21.15881780",
+            "code": "19"
+        },
+        {
+            "name": "Raška District",
+            "type": null,
+            "latitude": "43.33734610",
+            "longitude": "20.57340050",
+            "code": "18"
+        },
+        {
+            "name": "South Bačka District",
+            "type": null,
+            "latitude": "45.48903440",
+            "longitude": "19.69761870",
+            "code": "06"
+        },
+        {
+            "name": "South Banat District",
+            "type": null,
+            "latitude": "45.00274570",
+            "longitude": "21.05425090",
+            "code": "04"
+        },
+        {
+            "name": "Srem District",
+            "type": null,
+            "latitude": "45.00291710",
+            "longitude": "19.80137730",
+            "code": "07"
+        },
+        {
+            "name": "Šumadija District",
+            "type": null,
+            "latitude": "44.20506780",
+            "longitude": "20.78565650",
+            "code": "12"
+        },
+        {
+            "name": "Toplica District",
+            "type": null,
+            "latitude": "43.19065920",
+            "longitude": "21.34077620",
+            "code": "21"
+        },
+        {
+            "name": "Vojvodina",
+            "type": null,
+            "latitude": "45.26086510",
+            "longitude": "19.83193380",
+            "code": "VO"
+        },
+        {
+            "name": "West Bačka District",
+            "type": null,
+            "latitude": "45.73553850",
+            "longitude": "19.18973640",
+            "code": "05"
+        },
+        {
+            "name": "Zaječar District",
+            "type": null,
+            "latitude": "43.90150480",
+            "longitude": "22.27380110",
+            "code": "15"
+        },
+        {
+            "name": "Zlatibor District",
+            "type": null,
+            "latitude": "43.64541700",
+            "longitude": "19.71014550",
+            "code": "16"
+        }
     ]
 }

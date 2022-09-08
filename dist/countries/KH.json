@@ -200,31 +200,181 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Banteay Meanchey",
-        "Battambang",
-        "Kampong Cham",
-        "Kampong Chhnang",
-        "Kampong Speu",
-        "Kampong Thom",
-        "Kampot",
-        "Kandal",
-        "Kep",
-        "Koh Kong",
-        "Kratie",
-        "Mondulkiri",
-        "Oddar Meanchey",
-        "Pailin",
-        "Phnom Penh",
-        "Preah Vihear",
-        "Prey Veng",
-        "Pursat",
-        "Ratanakiri",
-        "Siem Reap",
-        "Sihanoukville",
-        "Stung Treng",
-        "Svay Rieng",
-        "Takeo",
-        "Tai Po District"
+    "states": [
+        {
+            "name": "Banteay Meanchey",
+            "type": "province",
+            "latitude": "13.75319140",
+            "longitude": "102.98961500",
+            "code": "1"
+        },
+        {
+            "name": "Battambang",
+            "type": "province",
+            "latitude": "13.02869710",
+            "longitude": "102.98961500",
+            "code": "2"
+        },
+        {
+            "name": "Kampong Cham",
+            "type": "province",
+            "latitude": "12.09829180",
+            "longitude": "105.31311850",
+            "code": "3"
+        },
+        {
+            "name": "Kampong Chhnang",
+            "type": "province",
+            "latitude": "12.13923520",
+            "longitude": "104.56552730",
+            "code": "4"
+        },
+        {
+            "name": "Kampong Speu",
+            "type": "province",
+            "latitude": "11.61551090",
+            "longitude": "104.37919120",
+            "code": "5"
+        },
+        {
+            "name": "Kampong Thom",
+            "type": "province",
+            "latitude": "12.81674850",
+            "longitude": "103.84131040",
+            "code": "6"
+        },
+        {
+            "name": "Kampot",
+            "type": "province",
+            "latitude": "10.73253510",
+            "longitude": "104.37919120",
+            "code": "7"
+        },
+        {
+            "name": "Kandal",
+            "type": "province",
+            "latitude": "11.22373830",
+            "longitude": "105.12589550",
+            "code": "8"
+        },
+        {
+            "name": "Kep",
+            "type": "province",
+            "latitude": "10.53608900",
+            "longitude": "104.35591580",
+            "code": "23"
+        },
+        {
+            "name": "Koh Kong",
+            "type": "province",
+            "latitude": "11.57628040",
+            "longitude": "103.35872880",
+            "code": "9"
+        },
+        {
+            "name": "Kratie",
+            "type": "province",
+            "latitude": "12.50436080",
+            "longitude": "105.96998780",
+            "code": "10"
+        },
+        {
+            "name": "Mondulkiri",
+            "type": "province",
+            "latitude": "12.78794270",
+            "longitude": "107.10119310",
+            "code": "11"
+        },
+        {
+            "name": "Oddar Meanchey",
+            "type": "province",
+            "latitude": "14.16097380",
+            "longitude": "103.82162610",
+            "code": "22"
+        },
+        {
+            "name": "Pailin",
+            "type": "province",
+            "latitude": "12.90929620",
+            "longitude": "102.66755750",
+            "code": "24"
+        },
+        {
+            "name": "Phnom Penh",
+            "type": "autonomous municipality",
+            "latitude": "11.55637380",
+            "longitude": "104.92820990",
+            "code": "12"
+        },
+        {
+            "name": "Preah Vihear",
+            "type": "province",
+            "latitude": "14.00857970",
+            "longitude": "104.84546190",
+            "code": "13"
+        },
+        {
+            "name": "Prey Veng",
+            "type": "province",
+            "latitude": "11.38024420",
+            "longitude": "105.50054830",
+            "code": "14"
+        },
+        {
+            "name": "Pursat",
+            "type": "province",
+            "latitude": "12.27209560",
+            "longitude": "103.72891670",
+            "code": "15"
+        },
+        {
+            "name": "Ratanakiri",
+            "type": "province",
+            "latitude": "13.85766070",
+            "longitude": "107.10119310",
+            "code": "16"
+        },
+        {
+            "name": "Siem Reap",
+            "type": "province",
+            "latitude": "13.33026600",
+            "longitude": "104.10013260",
+            "code": "17"
+        },
+        {
+            "name": "Sihanoukville",
+            "type": "province",
+            "latitude": "10.75818990",
+            "longitude": "103.82162610",
+            "code": "18"
+        },
+        {
+            "name": "Stung Treng",
+            "type": "province",
+            "latitude": "13.57647300",
+            "longitude": "105.96998780",
+            "code": "19"
+        },
+        {
+            "name": "Svay Rieng",
+            "type": "province",
+            "latitude": "11.14272200",
+            "longitude": "105.82902980",
+            "code": "20"
+        },
+        {
+            "name": "Takeo",
+            "type": "province",
+            "latitude": "10.93215190",
+            "longitude": "104.79877100",
+            "code": "21"
+        },
+        {
+            "name": "Tai Po District",
+            "type": null,
+            "latitude": "22.45085000",
+            "longitude": "114.16422000",
+            "code": "NTP"
+        }
     ]
 }

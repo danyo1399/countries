@@ -203,18 +203,90 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Ajloun",
-        "Amman",
-        "Aqaba",
-        "Balqa",
-        "Irbid",
-        "Jerash",
-        "Karak",
-        "Ma'an",
-        "Madaba",
-        "Mafraq",
-        "Tafilah",
-        "Zarqa"
+    "states": [
+        {
+            "name": "Ajloun",
+            "type": null,
+            "latitude": "32.33255840",
+            "longitude": "35.75168440",
+            "code": "AJ"
+        },
+        {
+            "name": "Amman",
+            "type": null,
+            "latitude": "31.94536330",
+            "longitude": "35.92838950",
+            "code": "AM"
+        },
+        {
+            "name": "Aqaba",
+            "type": null,
+            "latitude": "29.53208600",
+            "longitude": "35.00628210",
+            "code": "AQ"
+        },
+        {
+            "name": "Balqa",
+            "type": null,
+            "latitude": "32.03668060",
+            "longitude": "35.72884800",
+            "code": "BA"
+        },
+        {
+            "name": "Irbid",
+            "type": null,
+            "latitude": "32.55696360",
+            "longitude": "35.84789650",
+            "code": "IR"
+        },
+        {
+            "name": "Jerash",
+            "type": null,
+            "latitude": "32.27472370",
+            "longitude": "35.89609540",
+            "code": "JA"
+        },
+        {
+            "name": "Karak",
+            "type": null,
+            "latitude": "31.18535270",
+            "longitude": "35.70476820",
+            "code": "KA"
+        },
+        {
+            "name": "Ma'an",
+            "type": null,
+            "latitude": "30.19267890",
+            "longitude": "35.72493190",
+            "code": "MN"
+        },
+        {
+            "name": "Madaba",
+            "type": null,
+            "latitude": "31.71960970",
+            "longitude": "35.79327540",
+            "code": "MD"
+        },
+        {
+            "name": "Mafraq",
+            "type": null,
+            "latitude": "32.34169230",
+            "longitude": "36.20201750",
+            "code": "MA"
+        },
+        {
+            "name": "Tafilah",
+            "type": null,
+            "latitude": "30.83380630",
+            "longitude": "35.61605130",
+            "code": "AT"
+        },
+        {
+            "name": "Zarqa",
+            "type": null,
+            "latitude": "32.06085050",
+            "longitude": "36.09421210",
+            "code": "AZ"
+        }
     ]
 }

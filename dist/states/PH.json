@@ -1,0 +1,688 @@
+[
+    {
+        "name": "Abra",
+        "type": "province",
+        "latitude": "42.49708300",
+        "longitude": "-96.38441000",
+        "code": "ABR"
+    },
+    {
+        "name": "Agusan del Norte",
+        "type": "province",
+        "latitude": "8.94562590",
+        "longitude": "125.53192340",
+        "code": "AGN"
+    },
+    {
+        "name": "Agusan del Sur",
+        "type": "province",
+        "latitude": "8.04638880",
+        "longitude": "126.06153840",
+        "code": "AGS"
+    },
+    {
+        "name": "Aklan",
+        "type": "province",
+        "latitude": "11.81661090",
+        "longitude": "122.09415410",
+        "code": "AKL"
+    },
+    {
+        "name": "Albay",
+        "type": "province",
+        "latitude": "13.17748270",
+        "longitude": "123.52800720",
+        "code": "ALB"
+    },
+    {
+        "name": "Antique",
+        "type": "province",
+        "latitude": "37.03586950",
+        "longitude": "-95.63616940",
+        "code": "ANT"
+    },
+    {
+        "name": "Apayao",
+        "type": "province",
+        "latitude": "18.01203040",
+        "longitude": "121.17103890",
+        "code": "APA"
+    },
+    {
+        "name": "Aurora",
+        "type": "province",
+        "latitude": "36.97089100",
+        "longitude": "-93.71797900",
+        "code": "AUR"
+    },
+    {
+        "name": "Autonomous Region in Muslim Mindanao",
+        "type": "region",
+        "latitude": "6.95683130",
+        "longitude": "124.24215970",
+        "code": "14"
+    },
+    {
+        "name": "Basilan",
+        "type": "province",
+        "latitude": "6.42963490",
+        "longitude": "121.98701650",
+        "code": "BAS"
+    },
+    {
+        "name": "Bataan",
+        "type": "province",
+        "latitude": "14.64168420",
+        "longitude": "120.48184460",
+        "code": "BAN"
+    },
+    {
+        "name": "Batanes",
+        "type": "province",
+        "latitude": "20.44850740",
+        "longitude": "121.97081290",
+        "code": "BTN"
+    },
+    {
+        "name": "Batangas",
+        "type": "province",
+        "latitude": "13.75646510",
+        "longitude": "121.05830760",
+        "code": "BTG"
+    },
+    {
+        "name": "Benguet",
+        "type": "province",
+        "latitude": "16.55772570",
+        "longitude": "120.80394740",
+        "code": "BEN"
+    },
+    {
+        "name": "Bicol",
+        "type": "region",
+        "latitude": "13.42098850",
+        "longitude": "123.41367360",
+        "code": "05"
+    },
+    {
+        "name": "Biliran",
+        "type": "province",
+        "latitude": "11.58331520",
+        "longitude": "124.46418480",
+        "code": "BIL"
+    },
+    {
+        "name": "Bohol",
+        "type": "province",
+        "latitude": "9.84999110",
+        "longitude": "124.14354270",
+        "code": "BOH"
+    },
+    {
+        "name": "Bukidnon",
+        "type": "province",
+        "latitude": "8.05150540",
+        "longitude": "124.92299460",
+        "code": "BUK"
+    },
+    {
+        "name": "Bulacan",
+        "type": "province",
+        "latitude": "14.79427350",
+        "longitude": "120.87990080",
+        "code": "BUL"
+    },
+    {
+        "name": "Cagayan",
+        "type": "province",
+        "latitude": "18.24896290",
+        "longitude": "121.87878330",
+        "code": "CAG"
+    },
+    {
+        "name": "Cagayan Valley",
+        "type": "region",
+        "latitude": "16.97537580",
+        "longitude": "121.81070790",
+        "code": "02"
+    },
+    {
+        "name": "Calabarzon",
+        "type": "region",
+        "latitude": "14.10078030",
+        "longitude": "121.07937050",
+        "code": "40"
+    },
+    {
+        "name": "Camarines Norte",
+        "type": "province",
+        "latitude": "14.13902650",
+        "longitude": "122.76330360",
+        "code": "CAN"
+    },
+    {
+        "name": "Camarines Sur",
+        "type": "province",
+        "latitude": "13.52501970",
+        "longitude": "123.34861470",
+        "code": "CAS"
+    },
+    {
+        "name": "Camiguin",
+        "type": "province",
+        "latitude": "9.17321640",
+        "longitude": "124.72987650",
+        "code": "CAM"
+    },
+    {
+        "name": "Capiz",
+        "type": "province",
+        "latitude": "11.55288160",
+        "longitude": "122.74072300",
+        "code": "CAP"
+    },
+    {
+        "name": "Caraga",
+        "type": "region",
+        "latitude": "8.80145620",
+        "longitude": "125.74068820",
+        "code": "13"
+    },
+    {
+        "name": "Catanduanes",
+        "type": "province",
+        "latitude": "13.70886840",
+        "longitude": "124.24215970",
+        "code": "CAT"
+    },
+    {
+        "name": "Cavite",
+        "type": "province",
+        "latitude": "14.47912970",
+        "longitude": "120.89696340",
+        "code": "CAV"
+    },
+    {
+        "name": "Cebu",
+        "type": "province",
+        "latitude": "10.31569920",
+        "longitude": "123.88543660",
+        "code": "CEB"
+    },
+    {
+        "name": "Central Luzon",
+        "type": "region",
+        "latitude": "15.48277220",
+        "longitude": "120.71200230",
+        "code": "03"
+    },
+    {
+        "name": "Central Visayas",
+        "type": "region",
+        "latitude": "9.81687500",
+        "longitude": "124.06414190",
+        "code": "07"
+    },
+    {
+        "name": "Compostela Valley",
+        "type": "province",
+        "latitude": "7.51251500",
+        "longitude": "126.17626150",
+        "code": "COM"
+    },
+    {
+        "name": "Cordillera Administrative",
+        "type": "region",
+        "latitude": "17.35125420",
+        "longitude": "121.17188510",
+        "code": "15"
+    },
+    {
+        "name": "Cotabato",
+        "type": "province",
+        "latitude": "7.20466680",
+        "longitude": "124.23104390",
+        "code": "NCO"
+    },
+    {
+        "name": "Davao",
+        "type": "region",
+        "latitude": "7.30416220",
+        "longitude": "126.08934060",
+        "code": "11"
+    },
+    {
+        "name": "Davao del Norte",
+        "type": "province",
+        "latitude": "7.56176990",
+        "longitude": "125.65328480",
+        "code": "DAV"
+    },
+    {
+        "name": "Davao del Sur",
+        "type": "province",
+        "latitude": "6.76626870",
+        "longitude": "125.32842690",
+        "code": "DAS"
+    },
+    {
+        "name": "Davao Occidental",
+        "type": "province",
+        "latitude": "6.09413960",
+        "longitude": "125.60954740",
+        "code": "DVO"
+    },
+    {
+        "name": "Davao Oriental",
+        "type": "province",
+        "latitude": "7.31715850",
+        "longitude": "126.54198870",
+        "code": "DAO"
+    },
+    {
+        "name": "Dinagat Islands",
+        "type": "province",
+        "latitude": "10.12818160",
+        "longitude": "125.60954740",
+        "code": "DIN"
+    },
+    {
+        "name": "Eastern Samar",
+        "type": "province",
+        "latitude": "11.50007310",
+        "longitude": "125.49999080",
+        "code": "EAS"
+    },
+    {
+        "name": "Eastern Visayas",
+        "type": "region",
+        "latitude": "12.24455330",
+        "longitude": "125.03881640",
+        "code": "08"
+    },
+    {
+        "name": "Guimaras",
+        "type": "province",
+        "latitude": "10.59286610",
+        "longitude": "122.63250810",
+        "code": "GUI"
+    },
+    {
+        "name": "Ifugao",
+        "type": "province",
+        "latitude": "16.83307920",
+        "longitude": "121.17103890",
+        "code": "IFU"
+    },
+    {
+        "name": "Ilocos",
+        "type": "region",
+        "latitude": "16.08321440",
+        "longitude": "120.61998950",
+        "code": "01"
+    },
+    {
+        "name": "Ilocos Norte",
+        "type": "province",
+        "latitude": "18.16472810",
+        "longitude": "120.71155920",
+        "code": "ILN"
+    },
+    {
+        "name": "Ilocos Sur",
+        "type": "province",
+        "latitude": "17.22786640",
+        "longitude": "120.57395790",
+        "code": "ILS"
+    },
+    {
+        "name": "Iloilo",
+        "type": "province",
+        "latitude": "10.72015010",
+        "longitude": "122.56210630",
+        "code": "ILI"
+    },
+    {
+        "name": "Isabela",
+        "type": "province",
+        "latitude": "18.50077590",
+        "longitude": "-67.02434620",
+        "code": "ISA"
+    },
+    {
+        "name": "Kalinga",
+        "type": "province",
+        "latitude": "17.47404220",
+        "longitude": "121.35416310",
+        "code": "KAL"
+    },
+    {
+        "name": "La Union",
+        "type": "province",
+        "latitude": "38.87668780",
+        "longitude": "-77.12809120",
+        "code": "LUN"
+    },
+    {
+        "name": "Laguna",
+        "type": "province",
+        "latitude": "33.54271890",
+        "longitude": "-117.78535680",
+        "code": "LAG"
+    },
+    {
+        "name": "Lanao del Norte",
+        "type": "province",
+        "latitude": "7.87218110",
+        "longitude": "123.88577470",
+        "code": "LAN"
+    },
+    {
+        "name": "Lanao del Sur",
+        "type": "province",
+        "latitude": "7.82317600",
+        "longitude": "124.41982430",
+        "code": "LAS"
+    },
+    {
+        "name": "Leyte",
+        "type": "province",
+        "latitude": "10.86245360",
+        "longitude": "124.88111950",
+        "code": "LEY"
+    },
+    {
+        "name": "Maguindanao",
+        "type": "province",
+        "latitude": "6.94225810",
+        "longitude": "124.41982430",
+        "code": "MAG"
+    },
+    {
+        "name": "Marinduque",
+        "type": "province",
+        "latitude": "13.47671710",
+        "longitude": "121.90321920",
+        "code": "MAD"
+    },
+    {
+        "name": "Masbate",
+        "type": "province",
+        "latitude": "12.35743460",
+        "longitude": "123.55040760",
+        "code": "MAS"
+    },
+    {
+        "name": "Metro Manila",
+        "type": "province",
+        "latitude": "14.60905370",
+        "longitude": "121.02225650",
+        "code": "NCR"
+    },
+    {
+        "name": "Mimaropa",
+        "type": "region",
+        "latitude": "9.84320650",
+        "longitude": "118.73647830",
+        "code": "41"
+    },
+    {
+        "name": "Misamis Occidental",
+        "type": "province",
+        "latitude": "8.33749030",
+        "longitude": "123.70706190",
+        "code": "MSC"
+    },
+    {
+        "name": "Misamis Oriental",
+        "type": "province",
+        "latitude": "8.50455580",
+        "longitude": "124.62195920",
+        "code": "MSR"
+    },
+    {
+        "name": "Mountain Province",
+        "type": "province",
+        "latitude": "40.70754370",
+        "longitude": "-73.95010330",
+        "code": "MOU"
+    },
+    {
+        "name": "Negros Occidental",
+        "type": "province",
+        "latitude": "10.29256090",
+        "longitude": "123.02465180",
+        "code": "NEC"
+    },
+    {
+        "name": "Negros Oriental",
+        "type": "province",
+        "latitude": "9.62820830",
+        "longitude": "122.98883190",
+        "code": "NER"
+    },
+    {
+        "name": "Northern Mindanao",
+        "type": "region",
+        "latitude": "8.02016350",
+        "longitude": "124.68565090",
+        "code": "10"
+    },
+    {
+        "name": "Northern Samar",
+        "type": "province",
+        "latitude": "12.36131990",
+        "longitude": "124.77407930",
+        "code": "NSA"
+    },
+    {
+        "name": "Nueva Ecija",
+        "type": "province",
+        "latitude": "15.57837500",
+        "longitude": "121.11126150",
+        "code": "NUE"
+    },
+    {
+        "name": "Nueva Vizcaya",
+        "type": "province",
+        "latitude": "16.33011070",
+        "longitude": "121.17103890",
+        "code": "NUV"
+    },
+    {
+        "name": "Occidental Mindoro",
+        "type": "province",
+        "latitude": "13.10241110",
+        "longitude": "120.76512840",
+        "code": "MDC"
+    },
+    {
+        "name": "Oriental Mindoro",
+        "type": "province",
+        "latitude": "13.05645980",
+        "longitude": "121.40694170",
+        "code": "MDR"
+    },
+    {
+        "name": "Palawan",
+        "type": "province",
+        "latitude": "9.83494930",
+        "longitude": "118.73836150",
+        "code": "PLW"
+    },
+    {
+        "name": "Pampanga",
+        "type": "province",
+        "latitude": "15.07940900",
+        "longitude": "120.61998950",
+        "code": "PAM"
+    },
+    {
+        "name": "Pangasinan",
+        "type": "province",
+        "latitude": "15.89490550",
+        "longitude": "120.28631830",
+        "code": "PAN"
+    },
+    {
+        "name": "Quezon",
+        "type": "province",
+        "latitude": "14.03139060",
+        "longitude": "122.11309090",
+        "code": "QUE"
+    },
+    {
+        "name": "Quirino",
+        "type": "province",
+        "latitude": "16.27004240",
+        "longitude": "121.53700030",
+        "code": "QUI"
+    },
+    {
+        "name": "Rizal",
+        "type": "province",
+        "latitude": "14.60374460",
+        "longitude": "121.30840880",
+        "code": "RIZ"
+    },
+    {
+        "name": "Romblon",
+        "type": "province",
+        "latitude": "12.57780160",
+        "longitude": "122.26914600",
+        "code": "ROM"
+    },
+    {
+        "name": "Sarangani",
+        "type": "province",
+        "latitude": "5.92671750",
+        "longitude": "124.99475100",
+        "code": "SAR"
+    },
+    {
+        "name": "Siquijor",
+        "type": "province",
+        "latitude": "9.19987790",
+        "longitude": "123.59519250",
+        "code": "SIG"
+    },
+    {
+        "name": "Soccsksargen",
+        "type": "region",
+        "latitude": "6.27069180",
+        "longitude": "124.68565090",
+        "code": "12"
+    },
+    {
+        "name": "Sorsogon",
+        "type": "province",
+        "latitude": "12.99270950",
+        "longitude": "124.01474640",
+        "code": "SOR"
+    },
+    {
+        "name": "South Cotabato",
+        "type": "province",
+        "latitude": "6.33575650",
+        "longitude": "124.77407930",
+        "code": "SCO"
+    },
+    {
+        "name": "Southern Leyte",
+        "type": "province",
+        "latitude": "10.33462060",
+        "longitude": "125.17087410",
+        "code": "SLE"
+    },
+    {
+        "name": "Sultan Kudarat",
+        "type": "province",
+        "latitude": "6.50694010",
+        "longitude": "124.41982430",
+        "code": "SUK"
+    },
+    {
+        "name": "Sulu",
+        "type": "province",
+        "latitude": "5.97490110",
+        "longitude": "121.03351000",
+        "code": "SLU"
+    },
+    {
+        "name": "Surigao del Norte",
+        "type": "province",
+        "latitude": "9.51482800",
+        "longitude": "125.69699840",
+        "code": "SUN"
+    },
+    {
+        "name": "Surigao del Sur",
+        "type": "province",
+        "latitude": "8.54049060",
+        "longitude": "126.11447580",
+        "code": "SUR"
+    },
+    {
+        "name": "Tarlac",
+        "type": "province",
+        "latitude": "15.47547860",
+        "longitude": "120.59634920",
+        "code": "TAR"
+    },
+    {
+        "name": "Tawi-Tawi",
+        "type": "province",
+        "latitude": "5.13381100",
+        "longitude": "119.95092600",
+        "code": "TAW"
+    },
+    {
+        "name": "Western Samar",
+        "type": "province",
+        "latitude": "12.00002060",
+        "longitude": "124.99124520",
+        "code": "WSA"
+    },
+    {
+        "name": "Western Visayas",
+        "type": "region",
+        "latitude": "11.00498360",
+        "longitude": "122.53727410",
+        "code": "06"
+    },
+    {
+        "name": "Zambales",
+        "type": "province",
+        "latitude": "15.50817660",
+        "longitude": "119.96978080",
+        "code": "ZMB"
+    },
+    {
+        "name": "Zamboanga del Norte",
+        "type": "province",
+        "latitude": "8.38862820",
+        "longitude": "123.16888830",
+        "code": "ZAN"
+    },
+    {
+        "name": "Zamboanga del Sur",
+        "type": "province",
+        "latitude": "7.83830540",
+        "longitude": "123.29666570",
+        "code": "ZAS"
+    },
+    {
+        "name": "Zamboanga Peninsula",
+        "type": "region",
+        "latitude": "8.15407700",
+        "longitude": "123.25879300",
+        "code": "09"
+    },
+    {
+        "name": "Zamboanga Sibugay",
+        "type": "province",
+        "latitude": "7.52252470",
+        "longitude": "122.31075170",
+        "code": "ZSI"
+    }
+]

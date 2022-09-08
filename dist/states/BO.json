@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Beni Department",
+        "type": null,
+        "latitude": "-14.37827470",
+        "longitude": "-65.09577920",
+        "code": "B"
+    },
+    {
+        "name": "Chuquisaca Department",
+        "type": null,
+        "latitude": "-20.02491440",
+        "longitude": "-64.14782360",
+        "code": "H"
+    },
+    {
+        "name": "Cochabamba Department",
+        "type": null,
+        "latitude": "-17.56816750",
+        "longitude": "-65.47573600",
+        "code": "C"
+    },
+    {
+        "name": "La Paz Department",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "L"
+    },
+    {
+        "name": "Oruro Department",
+        "type": null,
+        "latitude": "-18.57115790",
+        "longitude": "-67.76159830",
+        "code": "O"
+    },
+    {
+        "name": "Pando Department",
+        "type": null,
+        "latitude": "-10.79889010",
+        "longitude": "-66.99880110",
+        "code": "N"
+    },
+    {
+        "name": "Potosí Department",
+        "type": null,
+        "latitude": "-20.62471300",
+        "longitude": "-66.99880110",
+        "code": "P"
+    },
+    {
+        "name": "Santa Cruz Department",
+        "type": null,
+        "latitude": "-16.74760370",
+        "longitude": "-62.07509980",
+        "code": "S"
+    },
+    {
+        "name": "Tarija Department",
+        "type": null,
+        "latitude": "-21.58315950",
+        "longitude": "-63.95861110",
+        "code": "T"
+    }
+]

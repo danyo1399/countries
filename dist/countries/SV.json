@@ -199,20 +199,104 @@
         "format": "CP ####",
         "regex": "^(?:CP)*(\\d{4})$"
     },
-    "provinces": [
-        "Ahuachapán Department",
-        "Cabañas Department",
-        "Chalatenango Department",
-        "Cuscatlán Department",
-        "La Libertad Department",
-        "La Paz Department",
-        "La Unión Department",
-        "Morazán Department",
-        "San Miguel Department",
-        "San Salvador Department",
-        "San Vicente Department",
-        "Santa Ana Department",
-        "Sonsonate Department",
-        "Usulután Department"
+    "states": [
+        {
+            "name": "Ahuachapán Department",
+            "type": null,
+            "latitude": "13.82161480",
+            "longitude": "-89.92532330",
+            "code": "AH"
+        },
+        {
+            "name": "Cabañas Department",
+            "type": null,
+            "latitude": "13.86482880",
+            "longitude": "-88.74939980",
+            "code": "CA"
+        },
+        {
+            "name": "Chalatenango Department",
+            "type": null,
+            "latitude": "14.19166480",
+            "longitude": "-89.17059980",
+            "code": "CH"
+        },
+        {
+            "name": "Cuscatlán Department",
+            "type": null,
+            "latitude": "13.86619570",
+            "longitude": "-89.05615320",
+            "code": "CU"
+        },
+        {
+            "name": "La Libertad Department",
+            "type": null,
+            "latitude": "13.68176610",
+            "longitude": "-89.36062980",
+            "code": "LI"
+        },
+        {
+            "name": "La Paz Department",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "PA"
+        },
+        {
+            "name": "La Unión Department",
+            "type": null,
+            "latitude": "13.48864430",
+            "longitude": "-87.89424510",
+            "code": "UN"
+        },
+        {
+            "name": "Morazán Department",
+            "type": null,
+            "latitude": "13.76820000",
+            "longitude": "-88.12913870",
+            "code": "MO"
+        },
+        {
+            "name": "San Miguel Department",
+            "type": null,
+            "latitude": "13.44510410",
+            "longitude": "-88.24611830",
+            "code": "SM"
+        },
+        {
+            "name": "San Salvador Department",
+            "type": null,
+            "latitude": "13.77399970",
+            "longitude": "-89.20867730",
+            "code": "SS"
+        },
+        {
+            "name": "San Vicente Department",
+            "type": null,
+            "latitude": "13.58685610",
+            "longitude": "-88.74939980",
+            "code": "SV"
+        },
+        {
+            "name": "Santa Ana Department",
+            "type": null,
+            "latitude": "14.14611210",
+            "longitude": "-89.51200840",
+            "code": "SA"
+        },
+        {
+            "name": "Sonsonate Department",
+            "type": null,
+            "latitude": "13.68235800",
+            "longitude": "-89.66281110",
+            "code": "SO"
+        },
+        {
+            "name": "Usulután Department",
+            "type": null,
+            "latitude": "13.44706340",
+            "longitude": "-88.55653100",
+            "code": "US"
+        }
     ]
 }

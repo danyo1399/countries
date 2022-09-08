@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Brest Region",
+        "type": null,
+        "latitude": "52.52966410",
+        "longitude": "25.46064800",
+        "code": "BR"
+    },
+    {
+        "name": "Gomel Region",
+        "type": null,
+        "latitude": "52.16487540",
+        "longitude": "29.13332510",
+        "code": "HO"
+    },
+    {
+        "name": "Grodno Region",
+        "type": null,
+        "latitude": "53.65999450",
+        "longitude": "25.34485710",
+        "code": "HR"
+    },
+    {
+        "name": "Minsk",
+        "type": null,
+        "latitude": "53.90060110",
+        "longitude": "27.55897200",
+        "code": "HM"
+    },
+    {
+        "name": "Minsk Region",
+        "type": null,
+        "latitude": "54.10678890",
+        "longitude": "27.41292450",
+        "code": "MI"
+    },
+    {
+        "name": "Mogilev Region",
+        "type": null,
+        "latitude": "53.51017910",
+        "longitude": "30.40064440",
+        "code": "MA"
+    },
+    {
+        "name": "Vitebsk Region",
+        "type": null,
+        "latitude": "55.29598330",
+        "longitude": "28.75836270",
+        "code": "VI"
+    }
+]

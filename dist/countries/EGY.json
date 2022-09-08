@@ -201,33 +201,195 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Alexandria",
-        "Aswan",
-        "Asyut",
-        "Beheira",
-        "Beni Suef",
-        "Cairo",
-        "Dakahlia",
-        "Damietta",
-        "Faiyum",
-        "Gharbia",
-        "Giza",
-        "Ismailia",
-        "Kafr el-Sheikh",
-        "Luxor",
-        "Matrouh",
-        "Minya",
-        "Monufia",
-        "New Valley",
-        "North Sinai",
-        "Port Said",
-        "Qalyubia",
-        "Qena",
-        "Red Sea",
-        "Sharqia",
-        "Sohag",
-        "South Sinai",
-        "Suez"
+    "states": [
+        {
+            "name": "Alexandria",
+            "type": null,
+            "latitude": "30.87605680",
+            "longitude": "29.74260400",
+            "code": "ALX"
+        },
+        {
+            "name": "Aswan",
+            "type": null,
+            "latitude": "23.69664980",
+            "longitude": "32.71813750",
+            "code": "ASN"
+        },
+        {
+            "name": "Asyut",
+            "type": null,
+            "latitude": "27.21338310",
+            "longitude": "31.44561790",
+            "code": "AST"
+        },
+        {
+            "name": "Beheira",
+            "type": null,
+            "latitude": "30.84809860",
+            "longitude": "30.34355060",
+            "code": "BH"
+        },
+        {
+            "name": "Beni Suef",
+            "type": null,
+            "latitude": "28.89388370",
+            "longitude": "31.44561790",
+            "code": "BNS"
+        },
+        {
+            "name": "Cairo",
+            "type": null,
+            "latitude": "29.95375640",
+            "longitude": "31.53700030",
+            "code": "C"
+        },
+        {
+            "name": "Dakahlia",
+            "type": null,
+            "latitude": "31.16560440",
+            "longitude": "31.49131820",
+            "code": "DK"
+        },
+        {
+            "name": "Damietta",
+            "type": null,
+            "latitude": "31.36257990",
+            "longitude": "31.67393710",
+            "code": "DT"
+        },
+        {
+            "name": "Faiyum",
+            "type": null,
+            "latitude": "29.30840210",
+            "longitude": "30.84284970",
+            "code": "FYM"
+        },
+        {
+            "name": "Gharbia",
+            "type": null,
+            "latitude": "30.87535560",
+            "longitude": "31.03351000",
+            "code": "GH"
+        },
+        {
+            "name": "Giza",
+            "type": null,
+            "latitude": "28.76662160",
+            "longitude": "29.23207840",
+            "code": "GZ"
+        },
+        {
+            "name": "Ismailia",
+            "type": null,
+            "latitude": "30.58309340",
+            "longitude": "32.26538870",
+            "code": "IS"
+        },
+        {
+            "name": "Kafr el-Sheikh",
+            "type": null,
+            "latitude": "31.30854440",
+            "longitude": "30.80394740",
+            "code": "KFS"
+        },
+        {
+            "name": "Luxor",
+            "type": null,
+            "latitude": "25.39444440",
+            "longitude": "32.49200880",
+            "code": "LX"
+        },
+        {
+            "name": "Matrouh",
+            "type": null,
+            "latitude": "29.56963500",
+            "longitude": "26.41938900",
+            "code": "MT"
+        },
+        {
+            "name": "Minya",
+            "type": null,
+            "latitude": "28.28472900",
+            "longitude": "30.52790960",
+            "code": "MN"
+        },
+        {
+            "name": "Monufia",
+            "type": null,
+            "latitude": "30.59724550",
+            "longitude": "30.98763210",
+            "code": "MNF"
+        },
+        {
+            "name": "New Valley",
+            "type": null,
+            "latitude": "24.54556380",
+            "longitude": "27.17353160",
+            "code": "WAD"
+        },
+        {
+            "name": "North Sinai",
+            "type": null,
+            "latitude": "30.28236500",
+            "longitude": "33.61757700",
+            "code": "SIN"
+        },
+        {
+            "name": "Port Said",
+            "type": null,
+            "latitude": "31.07586060",
+            "longitude": "32.26538870",
+            "code": "PTS"
+        },
+        {
+            "name": "Qalyubia",
+            "type": null,
+            "latitude": "30.32923680",
+            "longitude": "31.21684660",
+            "code": "KB"
+        },
+        {
+            "name": "Qena",
+            "type": null,
+            "latitude": "26.23460330",
+            "longitude": "32.98883190",
+            "code": "KN"
+        },
+        {
+            "name": "Red Sea",
+            "type": null,
+            "latitude": "24.68263160",
+            "longitude": "34.15319470",
+            "code": "BA"
+        },
+        {
+            "name": "Sharqia",
+            "type": null,
+            "latitude": "30.67305450",
+            "longitude": "31.15932470",
+            "code": "SHR"
+        },
+        {
+            "name": "Sohag",
+            "type": null,
+            "latitude": "26.69383400",
+            "longitude": "32.17460500",
+            "code": "SHG"
+        },
+        {
+            "name": "South Sinai",
+            "type": null,
+            "latitude": "29.31018280",
+            "longitude": "34.15319470",
+            "code": "JS"
+        },
+        {
+            "name": "Suez",
+            "type": null,
+            "latitude": "29.36822550",
+            "longitude": "32.17460500",
+            "code": "SUZ"
+        }
     ]
 }

@@ -196,13 +196,55 @@
         "format": "AD###",
         "regex": "^(?:AD)*(\\d{3})$"
     },
-    "provinces": [
-        "Andorra la Vella",
-        "Canillo",
-        "Encamp",
-        "Escaldes-Engordany",
-        "La Massana",
-        "Ordino",
-        "Sant Julià de Lòria"
+    "states": [
+        {
+            "name": "Andorra la Vella",
+            "type": null,
+            "latitude": "42.50631740",
+            "longitude": "1.52183550",
+            "code": "07"
+        },
+        {
+            "name": "Canillo",
+            "type": null,
+            "latitude": "42.59782490",
+            "longitude": "1.65663770",
+            "code": "02"
+        },
+        {
+            "name": "Encamp",
+            "type": null,
+            "latitude": "42.53597640",
+            "longitude": "1.58367730",
+            "code": "03"
+        },
+        {
+            "name": "Escaldes-Engordany",
+            "type": null,
+            "latitude": "42.49093790",
+            "longitude": "1.58869660",
+            "code": "08"
+        },
+        {
+            "name": "La Massana",
+            "type": null,
+            "latitude": "42.54562500",
+            "longitude": "1.51473920",
+            "code": "04"
+        },
+        {
+            "name": "Ordino",
+            "type": null,
+            "latitude": "42.59944330",
+            "longitude": "1.54023270",
+            "code": "05"
+        },
+        {
+            "name": "Sant Julià de Lòria",
+            "type": null,
+            "latitude": "42.45296310",
+            "longitude": "1.49182350",
+            "code": "06"
+        }
     ]
 }

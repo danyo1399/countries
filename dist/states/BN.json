@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Belait District",
+        "type": null,
+        "latitude": "4.37507490",
+        "longitude": "114.61928990",
+        "code": "BE"
+    },
+    {
+        "name": "Brunei-Muara District",
+        "type": null,
+        "latitude": "4.93112060",
+        "longitude": "114.95168690",
+        "code": "BM"
+    },
+    {
+        "name": "Temburong District",
+        "type": null,
+        "latitude": "4.62041280",
+        "longitude": "115.14148400",
+        "code": "TE"
+    },
+    {
+        "name": "Tutong District",
+        "type": null,
+        "latitude": "4.71403730",
+        "longitude": "114.66679390",
+        "code": "TU"
+    }
+]

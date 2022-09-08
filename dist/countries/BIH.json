@@ -209,19 +209,97 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Bosnian Podrinje Canton",
-        "Brčko District",
-        "Canton 10",
-        "Central Bosnia Canton",
-        "Federation of Bosnia and Herzegovina",
-        "Herzegovina-Neretva Canton",
-        "Posavina Canton",
-        "Republika Srpska",
-        "Sarajevo Canton",
-        "Tuzla Canton",
-        "Una-Sana Canton",
-        "West Herzegovina Canton",
-        "Zenica-Doboj Canton"
+    "states": [
+        {
+            "name": "Bosnian Podrinje Canton",
+            "type": null,
+            "latitude": "43.68749000",
+            "longitude": "18.82443940",
+            "code": "05"
+        },
+        {
+            "name": "Brčko District",
+            "type": null,
+            "latitude": "44.84059440",
+            "longitude": "18.74215300",
+            "code": "BRC"
+        },
+        {
+            "name": "Canton 10",
+            "type": null,
+            "latitude": "43.95341550",
+            "longitude": "16.94251870",
+            "code": "10"
+        },
+        {
+            "name": "Central Bosnia Canton",
+            "type": null,
+            "latitude": "44.13818560",
+            "longitude": "17.68667140",
+            "code": "06"
+        },
+        {
+            "name": "Federation of Bosnia and Herzegovina",
+            "type": null,
+            "latitude": "43.88748970",
+            "longitude": "17.84279300",
+            "code": "BIH"
+        },
+        {
+            "name": "Herzegovina-Neretva Canton",
+            "type": null,
+            "latitude": "43.52651590",
+            "longitude": "17.76362100",
+            "code": "07"
+        },
+        {
+            "name": "Posavina Canton",
+            "type": null,
+            "latitude": "45.07520940",
+            "longitude": "18.37763040",
+            "code": "02"
+        },
+        {
+            "name": "Republika Srpska",
+            "type": null,
+            "latitude": "44.72801860",
+            "longitude": "17.31481360",
+            "code": "SRP"
+        },
+        {
+            "name": "Sarajevo Canton",
+            "type": null,
+            "latitude": "43.85125640",
+            "longitude": "18.29534420",
+            "code": "09"
+        },
+        {
+            "name": "Tuzla Canton",
+            "type": null,
+            "latitude": "44.53434630",
+            "longitude": "18.69727970",
+            "code": "03"
+        },
+        {
+            "name": "Una-Sana Canton",
+            "type": null,
+            "latitude": "44.65031160",
+            "longitude": "16.31716290",
+            "code": "01"
+        },
+        {
+            "name": "West Herzegovina Canton",
+            "type": null,
+            "latitude": "43.43692440",
+            "longitude": "17.38488310",
+            "code": "08"
+        },
+        {
+            "name": "Zenica-Doboj Canton",
+            "type": null,
+            "latitude": "44.21271090",
+            "longitude": "18.16046250",
+            "code": "04"
+        }
     ]
 }

@@ -204,16 +204,76 @@
         "format": "HT####",
         "regex": "^(?:HT)*(\\d{4})$"
     },
-    "provinces": [
-        "Artibonite",
-        "Centre",
-        "Grand'Anse",
-        "Nippes",
-        "Nord",
-        "Nord-Est",
-        "Nord-Ouest",
-        "Ouest",
-        "Sud",
-        "Sud-Est"
+    "states": [
+        {
+            "name": "Artibonite",
+            "type": null,
+            "latitude": "19.36290200",
+            "longitude": "-72.42581450",
+            "code": "AR"
+        },
+        {
+            "name": "Centre",
+            "type": null,
+            "latitude": "32.83702510",
+            "longitude": "-96.77738820",
+            "code": "CE"
+        },
+        {
+            "name": "Grand'Anse",
+            "type": null,
+            "latitude": "12.01666670",
+            "longitude": "-61.76666670",
+            "code": "GA"
+        },
+        {
+            "name": "Nippes",
+            "type": null,
+            "latitude": "18.39907350",
+            "longitude": "-73.41802110",
+            "code": "NI"
+        },
+        {
+            "name": "Nord",
+            "type": null,
+            "latitude": "43.19052600",
+            "longitude": "-89.43792100",
+            "code": "ND"
+        },
+        {
+            "name": "Nord-Est",
+            "type": null,
+            "latitude": "19.48897230",
+            "longitude": "-71.85713310",
+            "code": "NE"
+        },
+        {
+            "name": "Nord-Ouest",
+            "type": null,
+            "latitude": "19.83740090",
+            "longitude": "-73.04052770",
+            "code": "NO"
+        },
+        {
+            "name": "Ouest",
+            "type": null,
+            "latitude": "45.45472490",
+            "longitude": "-73.65023650",
+            "code": "OU"
+        },
+        {
+            "name": "Sud",
+            "type": null,
+            "latitude": "29.92132480",
+            "longitude": "-90.09737720",
+            "code": "SD"
+        },
+        {
+            "name": "Sud-Est",
+            "type": null,
+            "latitude": "18.27835980",
+            "longitude": "-72.35479150",
+            "code": "SE"
+        }
     ]
 }

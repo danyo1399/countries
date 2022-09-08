@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Acquaviva",
+        "type": null,
+        "latitude": "41.86715970",
+        "longitude": "14.74694790",
+        "code": "01"
+    },
+    {
+        "name": "Borgo Maggiore",
+        "type": null,
+        "latitude": "43.95748820",
+        "longitude": "12.45525460",
+        "code": "06"
+    },
+    {
+        "name": "Chiesanuova",
+        "type": null,
+        "latitude": "45.42261720",
+        "longitude": "7.65038540",
+        "code": "02"
+    },
+    {
+        "name": "Domagnano",
+        "type": null,
+        "latitude": "43.95019290",
+        "longitude": "12.46815370",
+        "code": "03"
+    },
+    {
+        "name": "Faetano",
+        "type": null,
+        "latitude": "43.93489670",
+        "longitude": "12.48965540",
+        "code": "04"
+    },
+    {
+        "name": "Fiorentino",
+        "type": null,
+        "latitude": "43.90783370",
+        "longitude": "12.45812090",
+        "code": "05"
+    },
+    {
+        "name": "Montegiardino",
+        "type": null,
+        "latitude": "43.90529990",
+        "longitude": "12.48105420",
+        "code": "08"
+    },
+    {
+        "name": "San Marino",
+        "type": null,
+        "latitude": "43.94236000",
+        "longitude": "12.45777700",
+        "code": "07"
+    },
+    {
+        "name": "Serravalle",
+        "type": null,
+        "latitude": "44.72320840",
+        "longitude": "8.85740050",
+        "code": "09"
+    }
+]

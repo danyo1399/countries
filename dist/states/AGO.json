@@ -1,0 +1,121 @@
+[
+    {
+        "name": "Bengo Province",
+        "type": null,
+        "latitude": "-9.10422570",
+        "longitude": "13.72891670",
+        "code": "BGO"
+    },
+    {
+        "name": "Benguela Province",
+        "type": null,
+        "latitude": "-12.80037440",
+        "longitude": "13.91439900",
+        "code": "BGU"
+    },
+    {
+        "name": "Bié Province",
+        "type": null,
+        "latitude": "-12.57279070",
+        "longitude": "17.66888700",
+        "code": "BIE"
+    },
+    {
+        "name": "Cabinda Province",
+        "type": null,
+        "latitude": "-5.02487490",
+        "longitude": "12.34638750",
+        "code": "CAB"
+    },
+    {
+        "name": "Cuando Cubango Province",
+        "type": null,
+        "latitude": "-16.41808240",
+        "longitude": "18.80761950",
+        "code": "CCU"
+    },
+    {
+        "name": "Cuanza Norte Province",
+        "type": null,
+        "latitude": "-9.23985130",
+        "longitude": "14.65878210",
+        "code": "CNO"
+    },
+    {
+        "name": "Cuanza Sul",
+        "type": null,
+        "latitude": "-10.59519100",
+        "longitude": "15.40680790",
+        "code": "CUS"
+    },
+    {
+        "name": "Cunene Province",
+        "type": null,
+        "latitude": "-16.28022210",
+        "longitude": "16.15809370",
+        "code": "CNN"
+    },
+    {
+        "name": "Huambo Province",
+        "type": null,
+        "latitude": "-12.52682210",
+        "longitude": "15.59433880",
+        "code": "HUA"
+    },
+    {
+        "name": "Huíla Province",
+        "type": null,
+        "latitude": "-14.92805530",
+        "longitude": "14.65878210",
+        "code": "HUI"
+    },
+    {
+        "name": "Luanda Province",
+        "type": null,
+        "latitude": "-9.03508800",
+        "longitude": "13.26634790",
+        "code": "LUA"
+    },
+    {
+        "name": "Lunda Norte Province",
+        "type": null,
+        "latitude": "-8.35250220",
+        "longitude": "19.18800470",
+        "code": "LNO"
+    },
+    {
+        "name": "Lunda Sul Province",
+        "type": null,
+        "latitude": "-10.28665780",
+        "longitude": "20.71224650",
+        "code": "LSU"
+    },
+    {
+        "name": "Malanje Province",
+        "type": null,
+        "latitude": "-9.82511830",
+        "longitude": "16.91225100",
+        "code": "MAL"
+    },
+    {
+        "name": "Moxico Province",
+        "type": null,
+        "latitude": "-13.42935790",
+        "longitude": "20.33088140",
+        "code": "MOX"
+    },
+    {
+        "name": "Uíge Province",
+        "type": null,
+        "latitude": "-7.17367320",
+        "longitude": "15.40680790",
+        "code": "UIG"
+    },
+    {
+        "name": "Zaire Province",
+        "type": null,
+        "latitude": "-6.57334580",
+        "longitude": "13.17403480",
+        "code": "ZAI"
+    }
+]

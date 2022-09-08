@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Bonaire",
+        "type": "special municipality",
+        "latitude": "12.20189020",
+        "longitude": "-68.26238220",
+        "code": "BQ1"
+    },
+    {
+        "name": "Drenthe",
+        "type": "province",
+        "latitude": "52.94760120",
+        "longitude": "6.62305860",
+        "code": "DR"
+    },
+    {
+        "name": "Flevoland",
+        "type": "province",
+        "latitude": "52.52797810",
+        "longitude": "5.59535080",
+        "code": "FL"
+    },
+    {
+        "name": "Friesland",
+        "type": "province",
+        "latitude": "53.16416420",
+        "longitude": "5.78175420",
+        "code": "FR"
+    },
+    {
+        "name": "Gelderland",
+        "type": "province",
+        "latitude": "52.04515500",
+        "longitude": "5.87182350",
+        "code": "GE"
+    },
+    {
+        "name": "Groningen",
+        "type": "province",
+        "latitude": "53.21938350",
+        "longitude": "6.56650170",
+        "code": "GR"
+    },
+    {
+        "name": "Limburg",
+        "type": "province",
+        "latitude": "51.44272380",
+        "longitude": "6.06087260",
+        "code": "LI"
+    },
+    {
+        "name": "North Brabant",
+        "type": "province",
+        "latitude": "51.48265370",
+        "longitude": "5.23216870",
+        "code": "NB"
+    },
+    {
+        "name": "North Holland",
+        "type": "province",
+        "latitude": "52.52058690",
+        "longitude": "4.78847400",
+        "code": "NH"
+    },
+    {
+        "name": "Overijssel",
+        "type": "province",
+        "latitude": "52.43878140",
+        "longitude": "6.50164110",
+        "code": "OV"
+    },
+    {
+        "name": "Saba",
+        "type": "special municipality",
+        "latitude": "17.63546420",
+        "longitude": "-63.23267630",
+        "code": "BQ2"
+    },
+    {
+        "name": "Sint Eustatius",
+        "type": "special municipality",
+        "latitude": "17.48903060",
+        "longitude": "-62.97355500",
+        "code": "BQ3"
+    },
+    {
+        "name": "South Holland",
+        "type": "province",
+        "latitude": "41.60086810",
+        "longitude": "-87.60698940",
+        "code": "ZH"
+    },
+    {
+        "name": "Utrecht",
+        "type": "province",
+        "latitude": "52.09073740",
+        "longitude": "5.12142010",
+        "code": "UT"
+    },
+    {
+        "name": "Zeeland",
+        "type": "province",
+        "latitude": "51.49403090",
+        "longitude": "3.84968150",
+        "code": "ZE"
+    }
+]

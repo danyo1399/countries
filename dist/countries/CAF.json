@@ -204,23 +204,125 @@
             18.58
         ]
     },
-    "provinces": [
-        "Bamingui-Bangoran Prefecture",
-        "Bangui",
-        "Basse-Kotto Prefecture",
-        "Haut-Mbomou Prefecture",
-        "Haute-Kotto Prefecture",
-        "Kémo Prefecture",
-        "Lobaye Prefecture",
-        "Mambéré-Kadéï",
-        "Mbomou Prefecture",
-        "Nana-Grébizi Economic Prefecture",
-        "Nana-Mambéré Prefecture",
-        "Ombella-M'Poko Prefecture",
-        "Ouaka Prefecture",
-        "Ouham Prefecture",
-        "Ouham-Pendé Prefecture",
-        "Sangha-Mbaéré",
-        "Vakaga Prefecture"
+    "states": [
+        {
+            "name": "Bamingui-Bangoran Prefecture",
+            "type": null,
+            "latitude": "8.27334550",
+            "longitude": "20.71224650",
+            "code": "BB"
+        },
+        {
+            "name": "Bangui",
+            "type": null,
+            "latitude": "4.39467350",
+            "longitude": "18.55818990",
+            "code": "BGF"
+        },
+        {
+            "name": "Basse-Kotto Prefecture",
+            "type": null,
+            "latitude": "4.87193190",
+            "longitude": "21.28450250",
+            "code": "BK"
+        },
+        {
+            "name": "Haut-Mbomou Prefecture",
+            "type": null,
+            "latitude": "6.25371340",
+            "longitude": "25.47335540",
+            "code": "HM"
+        },
+        {
+            "name": "Haute-Kotto Prefecture",
+            "type": null,
+            "latitude": "7.79643790",
+            "longitude": "23.38235450",
+            "code": "HK"
+        },
+        {
+            "name": "Kémo Prefecture",
+            "type": null,
+            "latitude": "5.88677940",
+            "longitude": "19.37832060",
+            "code": "KG"
+        },
+        {
+            "name": "Lobaye Prefecture",
+            "type": null,
+            "latitude": "4.35259810",
+            "longitude": "17.47951730",
+            "code": "LB"
+        },
+        {
+            "name": "Mambéré-Kadéï",
+            "type": null,
+            "latitude": "4.70556530",
+            "longitude": "15.96998780",
+            "code": "HS"
+        },
+        {
+            "name": "Mbomou Prefecture",
+            "type": null,
+            "latitude": "5.55683700",
+            "longitude": "23.76328280",
+            "code": "MB"
+        },
+        {
+            "name": "Nana-Grébizi Economic Prefecture",
+            "type": null,
+            "latitude": "7.18486070",
+            "longitude": "19.37832060",
+            "code": "KB"
+        },
+        {
+            "name": "Nana-Mambéré Prefecture",
+            "type": null,
+            "latitude": "5.69321350",
+            "longitude": "15.21948080",
+            "code": "NM"
+        },
+        {
+            "name": "Ombella-M'Poko Prefecture",
+            "type": null,
+            "latitude": "5.11888250",
+            "longitude": "18.42760470",
+            "code": "MP"
+        },
+        {
+            "name": "Ouaka Prefecture",
+            "type": null,
+            "latitude": "6.31682160",
+            "longitude": "20.71224650",
+            "code": "UK"
+        },
+        {
+            "name": "Ouham Prefecture",
+            "type": null,
+            "latitude": "7.09091100",
+            "longitude": "17.66888700",
+            "code": "AC"
+        },
+        {
+            "name": "Ouham-Pendé Prefecture",
+            "type": null,
+            "latitude": "6.48509840",
+            "longitude": "16.15809370",
+            "code": "OP"
+        },
+        {
+            "name": "Sangha-Mbaéré",
+            "type": null,
+            "latitude": "3.43686070",
+            "longitude": "16.34637910",
+            "code": "SE"
+        },
+        {
+            "name": "Vakaga Prefecture",
+            "type": null,
+            "latitude": "9.51132960",
+            "longitude": "22.23840170",
+            "code": "VK"
+        }
     ]
 }

@@ -192,14 +192,62 @@
             51.53
         ]
     },
-    "provinces": [
-        "Al Daayen",
-        "Al Khor",
-        "Al Rayyan Municipality",
-        "Al Wakrah",
-        "Al-Shahaniya",
-        "Doha",
-        "Madinat ash Shamal",
-        "Umm Salal Municipality"
+    "states": [
+        {
+            "name": "Al Daayen",
+            "type": null,
+            "latitude": "25.57845590",
+            "longitude": "51.48213870",
+            "code": "ZA"
+        },
+        {
+            "name": "Al Khor",
+            "type": null,
+            "latitude": "25.68040780",
+            "longitude": "51.49685020",
+            "code": "KH"
+        },
+        {
+            "name": "Al Rayyan Municipality",
+            "type": null,
+            "latitude": "25.25225510",
+            "longitude": "51.43887130",
+            "code": "RA"
+        },
+        {
+            "name": "Al Wakrah",
+            "type": null,
+            "latitude": "25.16593140",
+            "longitude": "51.59755240",
+            "code": "WA"
+        },
+        {
+            "name": "Al-Shahaniya",
+            "type": null,
+            "latitude": "25.41063860",
+            "longitude": "51.18460250",
+            "code": "SH"
+        },
+        {
+            "name": "Doha",
+            "type": null,
+            "latitude": "25.28544730",
+            "longitude": "51.53103980",
+            "code": "DA"
+        },
+        {
+            "name": "Madinat ash Shamal",
+            "type": null,
+            "latitude": "26.11827430",
+            "longitude": "51.21572650",
+            "code": "MS"
+        },
+        {
+            "name": "Umm Salal Municipality",
+            "type": null,
+            "latitude": "25.48752420",
+            "longitude": "51.39656800",
+            "code": "US"
+        }
     ]
 }

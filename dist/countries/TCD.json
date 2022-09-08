@@ -206,29 +206,167 @@
             15.03
         ]
     },
-    "provinces": [
-        "Bahr el Gazel",
-        "Batha",
-        "Borkou",
-        "Chari-Baguirmi",
-        "Ennedi-Est",
-        "Ennedi-Ouest",
-        "Guéra",
-        "Hadjer-Lamis",
-        "Kanem",
-        "Lac",
-        "Logone Occidental",
-        "Logone Oriental",
-        "Mandoul",
-        "Mayo-Kebbi Est",
-        "Mayo-Kebbi Ouest",
-        "Moyen-Chari",
-        "N'Djamena",
-        "Ouaddaï",
-        "Salamat",
-        "Sila",
-        "Tandjilé",
-        "Tibesti",
-        "Wadi Fira"
+    "states": [
+        {
+            "name": "Bahr el Gazel",
+            "type": "province",
+            "latitude": "14.77022660",
+            "longitude": "16.91225100",
+            "code": "BG"
+        },
+        {
+            "name": "Batha",
+            "type": "province",
+            "latitude": "13.93717750",
+            "longitude": "18.42760470",
+            "code": "BA"
+        },
+        {
+            "name": "Borkou",
+            "type": "province",
+            "latitude": "17.86888450",
+            "longitude": "18.80761950",
+            "code": "BO"
+        },
+        {
+            "name": "Chari-Baguirmi",
+            "type": "province",
+            "latitude": "11.46186260",
+            "longitude": "15.24463940",
+            "code": "CB"
+        },
+        {
+            "name": "Ennedi-Est",
+            "type": "province",
+            "latitude": "16.34204960",
+            "longitude": "23.00119890",
+            "code": "EE"
+        },
+        {
+            "name": "Ennedi-Ouest",
+            "type": "province",
+            "latitude": "18.97756300",
+            "longitude": "21.85685860",
+            "code": "EO"
+        },
+        {
+            "name": "Guéra",
+            "type": "province",
+            "latitude": "11.12190150",
+            "longitude": "18.42760470",
+            "code": "GR"
+        },
+        {
+            "name": "Hadjer-Lamis",
+            "type": "province",
+            "latitude": "12.45772730",
+            "longitude": "16.72346390",
+            "code": "HL"
+        },
+        {
+            "name": "Kanem",
+            "type": "province",
+            "latitude": "14.87812620",
+            "longitude": "15.40680790",
+            "code": "KA"
+        },
+        {
+            "name": "Lac",
+            "type": "province",
+            "latitude": "13.69153770",
+            "longitude": "14.10013260",
+            "code": "LC"
+        },
+        {
+            "name": "Logone Occidental",
+            "type": "province",
+            "latitude": "8.75967600",
+            "longitude": "15.87600400",
+            "code": "LO"
+        },
+        {
+            "name": "Logone Oriental",
+            "type": "province",
+            "latitude": "8.31499490",
+            "longitude": "16.34637910",
+            "code": "LR"
+        },
+        {
+            "name": "Mandoul",
+            "type": "province",
+            "latitude": "8.60309100",
+            "longitude": "17.47951730",
+            "code": "MA"
+        },
+        {
+            "name": "Mayo-Kebbi Est",
+            "type": "province",
+            "latitude": "9.40460390",
+            "longitude": "14.84546190",
+            "code": "ME"
+        },
+        {
+            "name": "Mayo-Kebbi Ouest",
+            "type": "province",
+            "latitude": "10.41130140",
+            "longitude": "15.59433880",
+            "code": "MO"
+        },
+        {
+            "name": "Moyen-Chari",
+            "type": "province",
+            "latitude": "9.06399980",
+            "longitude": "18.42760470",
+            "code": "MC"
+        },
+        {
+            "name": "N'Djamena",
+            "type": "province",
+            "latitude": "12.13484570",
+            "longitude": "15.05574150",
+            "code": "ND"
+        },
+        {
+            "name": "Ouaddaï",
+            "type": "province",
+            "latitude": "13.74847600",
+            "longitude": "20.71224650",
+            "code": "OD"
+        },
+        {
+            "name": "Salamat",
+            "type": "province",
+            "latitude": "10.96916010",
+            "longitude": "20.71224650",
+            "code": "SA"
+        },
+        {
+            "name": "Sila",
+            "type": "province",
+            "latitude": "12.13074000",
+            "longitude": "21.28450250",
+            "code": "SI"
+        },
+        {
+            "name": "Tandjilé",
+            "type": "province",
+            "latitude": "9.66257290",
+            "longitude": "16.72346390",
+            "code": "TA"
+        },
+        {
+            "name": "Tibesti",
+            "type": "province",
+            "latitude": "21.36500310",
+            "longitude": "16.91225100",
+            "code": "TI"
+        },
+        {
+            "name": "Wadi Fira",
+            "type": "province",
+            "latitude": "15.08924160",
+            "longitude": "21.47528510",
+            "code": "WF"
+        }
     ]
 }

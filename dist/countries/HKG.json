@@ -191,23 +191,125 @@
             -123.33
         ]
     },
-    "provinces": [
-        "Central and Western District",
-        "Eastern",
-        "Islands District",
-        "Kowloon City",
-        "Kwai Tsing",
-        "Kwun Tong",
-        "North",
-        "Sai Kung District",
-        "Sha Tin",
-        "Sham Shui Po",
-        "Southern",
-        "Tsuen Wan District",
-        "Tuen Mun",
-        "Wan Chai",
-        "Wong Tai Sin",
-        "Yau Tsim Mong",
-        "Yuen Long District"
+    "states": [
+        {
+            "name": "Central and Western District",
+            "type": null,
+            "latitude": "22.28666000",
+            "longitude": "114.15497000",
+            "code": "HCW"
+        },
+        {
+            "name": "Eastern",
+            "type": null,
+            "latitude": "22.28411000",
+            "longitude": "114.22414000",
+            "code": "HEA"
+        },
+        {
+            "name": "Islands District",
+            "type": null,
+            "latitude": "22.26114000",
+            "longitude": "113.94608000",
+            "code": "NIS"
+        },
+        {
+            "name": "Kowloon City",
+            "type": null,
+            "latitude": "22.32820000",
+            "longitude": "114.19155000",
+            "code": "KKC"
+        },
+        {
+            "name": "Kwai Tsing",
+            "type": null,
+            "latitude": "22.35488000",
+            "longitude": "114.08401000",
+            "code": "NKT"
+        },
+        {
+            "name": "Kwun Tong",
+            "type": null,
+            "latitude": "22.31326000",
+            "longitude": "114.22581000",
+            "code": "KKT"
+        },
+        {
+            "name": "North",
+            "type": null,
+            "latitude": "22.49471000",
+            "longitude": "114.13812000",
+            "code": "NNO"
+        },
+        {
+            "name": "Sai Kung District",
+            "type": null,
+            "latitude": "22.38143000",
+            "longitude": "114.27052000",
+            "code": "NSK"
+        },
+        {
+            "name": "Sha Tin",
+            "type": null,
+            "latitude": "22.38715000",
+            "longitude": "114.19534000",
+            "code": "NST"
+        },
+        {
+            "name": "Sham Shui Po",
+            "type": null,
+            "latitude": "22.33074000",
+            "longitude": "114.16220000",
+            "code": "KSS"
+        },
+        {
+            "name": "Southern",
+            "type": null,
+            "latitude": "22.24725000",
+            "longitude": "114.15884000",
+            "code": "HSO"
+        },
+        {
+            "name": "Tsuen Wan District",
+            "type": null,
+            "latitude": "22.36281000",
+            "longitude": "114.12907000",
+            "code": "NTW"
+        },
+        {
+            "name": "Tuen Mun",
+            "type": null,
+            "latitude": "22.39163000",
+            "longitude": "113.97708850",
+            "code": "NTM"
+        },
+        {
+            "name": "Wan Chai",
+            "type": null,
+            "latitude": "22.27968000",
+            "longitude": "114.17168000",
+            "code": "HWC"
+        },
+        {
+            "name": "Wong Tai Sin",
+            "type": null,
+            "latitude": "22.33353000",
+            "longitude": "114.19686000",
+            "code": "KWT"
+        },
+        {
+            "name": "Yau Tsim Mong",
+            "type": null,
+            "latitude": "22.32138000",
+            "longitude": "114.17260000",
+            "code": "KYT"
+        },
+        {
+            "name": "Yuen Long District",
+            "type": null,
+            "latitude": "22.44559000",
+            "longitude": "114.02218000",
+            "code": "NYL"
+        }
     ]
 }

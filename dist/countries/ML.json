@@ -200,17 +200,83 @@
             -8
         ]
     },
-    "provinces": [
-        "Bamako",
-        "Gao Region",
-        "Kayes Region",
-        "Kidal Region",
-        "Koulikoro Region",
-        "Ménaka Region",
-        "Mopti Region",
-        "Ségou Region",
-        "Sikasso Region",
-        "Taoudénit Region",
-        "Tombouctou Region"
+    "states": [
+        {
+            "name": "Bamako",
+            "type": null,
+            "latitude": "12.63923160",
+            "longitude": "-8.00288920",
+            "code": "BKO"
+        },
+        {
+            "name": "Gao Region",
+            "type": null,
+            "latitude": "16.90663320",
+            "longitude": "1.52086240",
+            "code": "7"
+        },
+        {
+            "name": "Kayes Region",
+            "type": null,
+            "latitude": "14.08183080",
+            "longitude": "-9.90181310",
+            "code": "1"
+        },
+        {
+            "name": "Kidal Region",
+            "type": null,
+            "latitude": "18.79868320",
+            "longitude": "1.83183340",
+            "code": "8"
+        },
+        {
+            "name": "Koulikoro Region",
+            "type": null,
+            "latitude": "13.80180740",
+            "longitude": "-7.43813550",
+            "code": "2"
+        },
+        {
+            "name": "Ménaka Region",
+            "type": null,
+            "latitude": "15.91564210",
+            "longitude": "2.39617400",
+            "code": "9"
+        },
+        {
+            "name": "Mopti Region",
+            "type": null,
+            "latitude": "14.63380390",
+            "longitude": "-3.41955270",
+            "code": "5"
+        },
+        {
+            "name": "Ségou Region",
+            "type": null,
+            "latitude": "13.83944560",
+            "longitude": "-6.06791940",
+            "code": "4"
+        },
+        {
+            "name": "Sikasso Region",
+            "type": null,
+            "latitude": "10.89051860",
+            "longitude": "-7.43813550",
+            "code": "3"
+        },
+        {
+            "name": "Taoudénit Region",
+            "type": null,
+            "latitude": "22.67641320",
+            "longitude": "-3.97891430",
+            "code": "10"
+        },
+        {
+            "name": "Tombouctou Region",
+            "type": null,
+            "latitude": "21.05267060",
+            "longitude": "-3.74350900",
+            "code": "6"
+        }
     ]
 }

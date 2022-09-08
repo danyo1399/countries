@@ -1,0 +1,303 @@
+[
+    {
+        "name": "Bács-Kiskun",
+        "type": "county",
+        "latitude": "46.56614370",
+        "longitude": "19.42724640",
+        "code": "BK"
+    },
+    {
+        "name": "Baranya",
+        "type": "county",
+        "latitude": "46.04845850",
+        "longitude": "18.27191730",
+        "code": "BA"
+    },
+    {
+        "name": "Békés",
+        "type": "county",
+        "latitude": "46.67048990",
+        "longitude": "21.04349960",
+        "code": "BE"
+    },
+    {
+        "name": "Békéscsaba",
+        "type": "city with county rights",
+        "latitude": "46.67359390",
+        "longitude": "21.08773090",
+        "code": "BC"
+    },
+    {
+        "name": "Borsod-Abaúj-Zemplén",
+        "type": "county",
+        "latitude": "48.29394010",
+        "longitude": "20.69341120",
+        "code": "BZ"
+    },
+    {
+        "name": "Budapest",
+        "type": "capital city",
+        "latitude": "47.49791200",
+        "longitude": "19.04023500",
+        "code": "BU"
+    },
+    {
+        "name": "Csongrád County",
+        "type": "county",
+        "latitude": "46.41670500",
+        "longitude": "20.25661610",
+        "code": "CS"
+    },
+    {
+        "name": "Debrecen",
+        "type": "city with county rights",
+        "latitude": "47.53160490",
+        "longitude": "21.62731240",
+        "code": "DE"
+    },
+    {
+        "name": "Dunaújváros",
+        "type": "city with county rights",
+        "latitude": "46.96190590",
+        "longitude": "18.93552270",
+        "code": "DU"
+    },
+    {
+        "name": "Eger",
+        "type": "city with county rights",
+        "latitude": "47.90253480",
+        "longitude": "20.37722840",
+        "code": "EG"
+    },
+    {
+        "name": "Érd",
+        "type": "city with county rights",
+        "latitude": "47.39197180",
+        "longitude": "18.90454400",
+        "code": "ER"
+    },
+    {
+        "name": "Fejér County",
+        "type": "county",
+        "latitude": "47.12179320",
+        "longitude": "18.52948150",
+        "code": "FE"
+    },
+    {
+        "name": "Győr",
+        "type": "city with county rights",
+        "latitude": "47.68745690",
+        "longitude": "17.65039740",
+        "code": "GY"
+    },
+    {
+        "name": "Győr-Moson-Sopron County",
+        "type": "county",
+        "latitude": "47.65092850",
+        "longitude": "17.25058830",
+        "code": "GS"
+    },
+    {
+        "name": "Hajdú-Bihar County",
+        "type": "county",
+        "latitude": "47.46883550",
+        "longitude": "21.54532270",
+        "code": "HB"
+    },
+    {
+        "name": "Heves County",
+        "type": "county",
+        "latitude": "47.80576170",
+        "longitude": "20.20385590",
+        "code": "HE"
+    },
+    {
+        "name": "Hódmezővásárhely",
+        "type": "city with county rights",
+        "latitude": "46.41812620",
+        "longitude": "20.33003150",
+        "code": "HV"
+    },
+    {
+        "name": "Jász-Nagykun-Szolnok County",
+        "type": "county",
+        "latitude": "47.25555790",
+        "longitude": "20.52324560",
+        "code": "JN"
+    },
+    {
+        "name": "Kaposvár",
+        "type": "city with county rights",
+        "latitude": "46.35936060",
+        "longitude": "17.79676390",
+        "code": "KV"
+    },
+    {
+        "name": "Kecskemét",
+        "type": "city with county rights",
+        "latitude": "46.89637110",
+        "longitude": "19.68968610",
+        "code": "KM"
+    },
+    {
+        "name": "Komárom-Esztergom",
+        "type": "county",
+        "latitude": "47.57797860",
+        "longitude": "18.12568550",
+        "code": "KE"
+    },
+    {
+        "name": "Miskolc",
+        "type": "city with county rights",
+        "latitude": "48.10347750",
+        "longitude": "20.77843840",
+        "code": "MI"
+    },
+    {
+        "name": "Nagykanizsa",
+        "type": "city with county rights",
+        "latitude": "46.45902180",
+        "longitude": "16.98967960",
+        "code": "NK"
+    },
+    {
+        "name": "Nógrád County",
+        "type": "county",
+        "latitude": "47.90410310",
+        "longitude": "19.04985040",
+        "code": "NO"
+    },
+    {
+        "name": "Nyíregyháza",
+        "type": "city with county rights",
+        "latitude": "47.94953240",
+        "longitude": "21.72440530",
+        "code": "NY"
+    },
+    {
+        "name": "Pécs",
+        "type": "city with county rights",
+        "latitude": "46.07273450",
+        "longitude": "18.23226600",
+        "code": "PS"
+    },
+    {
+        "name": "Pest County",
+        "type": "county",
+        "latitude": "47.44800010",
+        "longitude": "19.46181280",
+        "code": "PE"
+    },
+    {
+        "name": "Salgótarján",
+        "type": "city with county rights",
+        "latitude": "48.09352370",
+        "longitude": "19.79998130",
+        "code": "ST"
+    },
+    {
+        "name": "Somogy County",
+        "type": "county",
+        "latitude": "46.55485900",
+        "longitude": "17.58667320",
+        "code": "SO"
+    },
+    {
+        "name": "Sopron",
+        "type": "city with county rights",
+        "latitude": "47.68166190",
+        "longitude": "16.58447950",
+        "code": "SN"
+    },
+    {
+        "name": "Szabolcs-Szatmár-Bereg County",
+        "type": "county",
+        "latitude": "48.03949540",
+        "longitude": "22.00333000",
+        "code": "SZ"
+    },
+    {
+        "name": "Szeged",
+        "type": "city with county rights",
+        "latitude": "46.25301020",
+        "longitude": "20.14142530",
+        "code": "SD"
+    },
+    {
+        "name": "Székesfehérvár",
+        "type": "city with county rights",
+        "latitude": "47.18602620",
+        "longitude": "18.42213580",
+        "code": "SF"
+    },
+    {
+        "name": "Szekszárd",
+        "type": "city with county rights",
+        "latitude": "46.34743260",
+        "longitude": "18.70622930",
+        "code": "SS"
+    },
+    {
+        "name": "Szolnok",
+        "type": "city with county rights",
+        "latitude": "47.16213550",
+        "longitude": "20.18247120",
+        "code": "SK"
+    },
+    {
+        "name": "Szombathely",
+        "type": "city with county rights",
+        "latitude": "47.23068510",
+        "longitude": "16.62184410",
+        "code": "SH"
+    },
+    {
+        "name": "Tatabánya",
+        "type": "city with county rights",
+        "latitude": "47.56924600",
+        "longitude": "18.40481800",
+        "code": "TB"
+    },
+    {
+        "name": "Tolna County",
+        "type": "county",
+        "latitude": "46.47627540",
+        "longitude": "18.55706270",
+        "code": "TO"
+    },
+    {
+        "name": "Vas County",
+        "type": "county",
+        "latitude": "47.09291110",
+        "longitude": "16.68121830",
+        "code": "VA"
+    },
+    {
+        "name": "Veszprém",
+        "type": "city with county rights",
+        "latitude": "47.10280870",
+        "longitude": "17.90930190",
+        "code": "VM"
+    },
+    {
+        "name": "Veszprém County",
+        "type": "county",
+        "latitude": "47.09309740",
+        "longitude": "17.91007630",
+        "code": "VE"
+    },
+    {
+        "name": "Zala County",
+        "type": "county",
+        "latitude": "46.73844040",
+        "longitude": "16.91522520",
+        "code": "ZA"
+    },
+    {
+        "name": "Zalaegerszeg",
+        "type": "county",
+        "latitude": "46.84169360",
+        "longitude": "16.84163220",
+        "code": "ZE"
+    }
+]

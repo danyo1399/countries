@@ -194,10 +194,34 @@
             -13.23
         ]
     },
-    "provinces": [
-        "Eastern Province",
-        "Northern Province",
-        "Southern Province",
-        "Western Area"
+    "states": [
+        {
+            "name": "Eastern Province",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "E"
+        },
+        {
+            "name": "Northern Province",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "N"
+        },
+        {
+            "name": "Southern Province",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "S"
+        },
+        {
+            "name": "Western Area",
+            "type": null,
+            "latitude": "40.25459690",
+            "longitude": "-80.24554440",
+            "code": "W"
+        }
     ]
 }

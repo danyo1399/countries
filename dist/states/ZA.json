@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Eastern Cape",
+        "type": null,
+        "latitude": "-32.29684020",
+        "longitude": "26.41938900",
+        "code": "EC"
+    },
+    {
+        "name": "Free State",
+        "type": null,
+        "latitude": "37.68585250",
+        "longitude": "-97.28112560",
+        "code": "FS"
+    },
+    {
+        "name": "Gauteng",
+        "type": null,
+        "latitude": "-26.27075930",
+        "longitude": "28.11226790",
+        "code": "GP"
+    },
+    {
+        "name": "KwaZulu-Natal",
+        "type": null,
+        "latitude": "-28.53055390",
+        "longitude": "30.89582420",
+        "code": "KZN"
+    },
+    {
+        "name": "Limpopo",
+        "type": null,
+        "latitude": "-23.40129460",
+        "longitude": "29.41793240",
+        "code": "LP"
+    },
+    {
+        "name": "Mpumalanga",
+        "type": null,
+        "latitude": "-25.56533600",
+        "longitude": "30.52790960",
+        "code": "MP"
+    },
+    {
+        "name": "North West",
+        "type": null,
+        "latitude": "32.75885200",
+        "longitude": "-97.32880600",
+        "code": "NW"
+    },
+    {
+        "name": "Northern Cape",
+        "type": null,
+        "latitude": "-29.04668080",
+        "longitude": "21.85685860",
+        "code": "NC"
+    },
+    {
+        "name": "Western Cape",
+        "type": null,
+        "latitude": "-33.22779180",
+        "longitude": "21.85685860",
+        "code": "WC"
+    }
+]

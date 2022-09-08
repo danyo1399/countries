@@ -9,12 +9,12 @@ be consumed via API
 - https://countries-api.pages.dev/names-alpha-3.json
 - https://countries-api.pages.dev/phone-alpha-2.json
 - https://countries-api.pages.dev/phone-alpha-3.json
-- https://countries-api.pages.dev/provinces-alpha-2.json
-- https://countries-api.pages.dev/provinces-alpha-3.json
+- https://countries-api.pages.dev/states-alpha-2.json
+- https://countries-api.pages.dev/states-alpha-3.json
 
 To get regions for specific country. eg
-- https://countries-api.pages.dev/provinces/NZ.json
-- https://countries-api.pages.dev/provinces/AUS.json
+- https://countries-api.pages.dev/states/NZ.json
+- https://countries-api.pages.dev/states/AUS.json
 
 To get specific country info 
 - https://countries-api.pages.dev/countries/NZ.json

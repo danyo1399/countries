@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Saint Andrew Parish",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "02"
+    },
+    {
+        "name": "Saint David Parish",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "03"
+    },
+    {
+        "name": "Saint George Parish",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "04"
+    },
+    {
+        "name": "Saint John Parish",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "05"
+    },
+    {
+        "name": "Saint Joseph Parish",
+        "type": null,
+        "latitude": "39.02227120",
+        "longitude": "-94.71765040",
+        "code": "06"
+    },
+    {
+        "name": "Saint Luke Parish",
+        "type": null,
+        "latitude": "42.10513630",
+        "longitude": "-80.05707220",
+        "code": "07"
+    },
+    {
+        "name": "Saint Mark Parish",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "08"
+    },
+    {
+        "name": "Saint Patrick Parish",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "09"
+    },
+    {
+        "name": "Saint Paul Parish",
+        "type": null,
+        "latitude": "38.86146000",
+        "longitude": "-90.74356190",
+        "code": "10"
+    },
+    {
+        "name": "Saint Peter Parish",
+        "type": null,
+        "latitude": "40.45241940",
+        "longitude": "-80.00850560",
+        "code": "11"
+    }
+]

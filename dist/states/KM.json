@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Anjouan",
+        "type": null,
+        "latitude": "-12.21381450",
+        "longitude": "44.43706060",
+        "code": "A"
+    },
+    {
+        "name": "Grande Comore",
+        "type": null,
+        "latitude": "-11.71673380",
+        "longitude": "43.36807880",
+        "code": "G"
+    },
+    {
+        "name": "Mohéli",
+        "type": null,
+        "latitude": "-12.33773760",
+        "longitude": "43.73340890",
+        "code": "M"
+    }
+]

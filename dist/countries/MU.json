@@ -201,23 +201,125 @@
             57.48
         ]
     },
-    "provinces": [
-        "Agaléga",
-        "Beau Bassin-Rose Hill",
-        "Cargados Carajos",
-        "Curepipe",
-        "Flacq District",
-        "Grand Port District",
-        "Moka District",
-        "Pamplemousses District",
-        "Plaines Wilhems District",
-        "Port Louis",
-        "Port Louis District",
-        "Quatre Bornes",
-        "Rivière du Rempart District",
-        "Rivière Noire District",
-        "Rodrigues",
-        "Savanne District",
-        "Vacoas-Phoenix"
+    "states": [
+        {
+            "name": "Agaléga",
+            "type": null,
+            "latitude": "-10.40000000",
+            "longitude": "56.61666670",
+            "code": "AG"
+        },
+        {
+            "name": "Beau Bassin-Rose Hill",
+            "type": null,
+            "latitude": "-20.22303050",
+            "longitude": "57.46838300",
+            "code": "BR"
+        },
+        {
+            "name": "Cargados Carajos",
+            "type": null,
+            "latitude": "-16.58333300",
+            "longitude": "59.61666700",
+            "code": "CC"
+        },
+        {
+            "name": "Curepipe",
+            "type": null,
+            "latitude": "-20.31708720",
+            "longitude": "57.52652890",
+            "code": "CU"
+        },
+        {
+            "name": "Flacq District",
+            "type": null,
+            "latitude": "-20.22578360",
+            "longitude": "57.71192740",
+            "code": "FL"
+        },
+        {
+            "name": "Grand Port District",
+            "type": null,
+            "latitude": "-20.38515460",
+            "longitude": "57.66657420",
+            "code": "GP"
+        },
+        {
+            "name": "Moka District",
+            "type": null,
+            "latitude": "-20.23997820",
+            "longitude": "57.57592600",
+            "code": "MO"
+        },
+        {
+            "name": "Pamplemousses District",
+            "type": null,
+            "latitude": "-20.11360080",
+            "longitude": "57.57592600",
+            "code": "PA"
+        },
+        {
+            "name": "Plaines Wilhems District",
+            "type": null,
+            "latitude": "-20.30548720",
+            "longitude": "57.48535610",
+            "code": "PW"
+        },
+        {
+            "name": "Port Louis",
+            "type": null,
+            "latitude": "-20.16089120",
+            "longitude": "57.50122220",
+            "code": "PU"
+        },
+        {
+            "name": "Port Louis District",
+            "type": null,
+            "latitude": "-20.16089120",
+            "longitude": "57.50122220",
+            "code": "PL"
+        },
+        {
+            "name": "Quatre Bornes",
+            "type": null,
+            "latitude": "-20.26747180",
+            "longitude": "57.47969810",
+            "code": "QB"
+        },
+        {
+            "name": "Rivière du Rempart District",
+            "type": null,
+            "latitude": "-20.05609830",
+            "longitude": "57.65523890",
+            "code": "RR"
+        },
+        {
+            "name": "Rivière Noire District",
+            "type": null,
+            "latitude": "-20.37084920",
+            "longitude": "57.39486490",
+            "code": "BL"
+        },
+        {
+            "name": "Rodrigues",
+            "type": null,
+            "latitude": "-19.72453850",
+            "longitude": "63.42721850",
+            "code": "RO"
+        },
+        {
+            "name": "Savanne District",
+            "type": null,
+            "latitude": "-20.47395300",
+            "longitude": "57.48535610",
+            "code": "SA"
+        },
+        {
+            "name": "Vacoas-Phoenix",
+            "type": null,
+            "latitude": "-20.29840260",
+            "longitude": "57.49383550",
+            "code": "VP"
+        }
     ]
 }

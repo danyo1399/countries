@@ -196,22 +196,118 @@
         "format": "CP #####",
         "regex": "^(?:CP)*(\\d{5})$"
     },
-    "provinces": [
-        "Artemisa Province",
-        "Camagüey Province",
-        "Ciego de Ávila Province",
-        "Cienfuegos Province",
-        "Granma Province",
-        "Guantánamo Province",
-        "Havana Province",
-        "Holguín Province",
-        "Isla de la Juventud",
-        "Las Tunas Province",
-        "Matanzas Province",
-        "Mayabeque Province",
-        "Pinar del Río Province",
-        "Sancti Spíritus Province",
-        "Santiago de Cuba Province",
-        "Villa Clara Province"
+    "states": [
+        {
+            "name": "Artemisa Province",
+            "type": null,
+            "latitude": "22.75229030",
+            "longitude": "-82.99316070",
+            "code": "15"
+        },
+        {
+            "name": "Camagüey Province",
+            "type": null,
+            "latitude": "21.21672470",
+            "longitude": "-77.74520810",
+            "code": "09"
+        },
+        {
+            "name": "Ciego de Ávila Province",
+            "type": null,
+            "latitude": "21.93295150",
+            "longitude": "-78.56608520",
+            "code": "08"
+        },
+        {
+            "name": "Cienfuegos Province",
+            "type": null,
+            "latitude": "22.23797830",
+            "longitude": "-80.36586500",
+            "code": "06"
+        },
+        {
+            "name": "Granma Province",
+            "type": null,
+            "latitude": "20.38449020",
+            "longitude": "-76.64127120",
+            "code": "12"
+        },
+        {
+            "name": "Guantánamo Province",
+            "type": null,
+            "latitude": "20.14559170",
+            "longitude": "-74.87410450",
+            "code": "14"
+        },
+        {
+            "name": "Havana Province",
+            "type": null,
+            "latitude": "23.05406980",
+            "longitude": "-82.34518900",
+            "code": "03"
+        },
+        {
+            "name": "Holguín Province",
+            "type": null,
+            "latitude": "20.78378930",
+            "longitude": "-75.80690820",
+            "code": "11"
+        },
+        {
+            "name": "Isla de la Juventud",
+            "type": null,
+            "latitude": "21.70847370",
+            "longitude": "-82.82202320",
+            "code": "99"
+        },
+        {
+            "name": "Las Tunas Province",
+            "type": null,
+            "latitude": "21.06051620",
+            "longitude": "-76.91820970",
+            "code": "10"
+        },
+        {
+            "name": "Matanzas Province",
+            "type": null,
+            "latitude": "22.57671230",
+            "longitude": "-81.33994140",
+            "code": "04"
+        },
+        {
+            "name": "Mayabeque Province",
+            "type": null,
+            "latitude": "22.89265290",
+            "longitude": "-81.95348150",
+            "code": "16"
+        },
+        {
+            "name": "Pinar del Río Province",
+            "type": null,
+            "latitude": "22.40762560",
+            "longitude": "-83.84730150",
+            "code": "01"
+        },
+        {
+            "name": "Sancti Spíritus Province",
+            "type": null,
+            "latitude": "21.99382140",
+            "longitude": "-79.47038850",
+            "code": "07"
+        },
+        {
+            "name": "Santiago de Cuba Province",
+            "type": null,
+            "latitude": "20.23976820",
+            "longitude": "-75.99276520",
+            "code": "13"
+        },
+        {
+            "name": "Villa Clara Province",
+            "type": null,
+            "latitude": "22.49372040",
+            "longitude": "-79.91927020",
+            "code": "05"
+        }
     ]
 }

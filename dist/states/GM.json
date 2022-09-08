@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Banjul",
+        "type": null,
+        "latitude": "13.45487610",
+        "longitude": "-16.57903230",
+        "code": "B"
+    },
+    {
+        "name": "Central River Division",
+        "type": null,
+        "latitude": "13.59944690",
+        "longitude": "-14.89216680",
+        "code": "M"
+    },
+    {
+        "name": "Lower River Division",
+        "type": null,
+        "latitude": "13.35533060",
+        "longitude": "-15.92299000",
+        "code": "L"
+    },
+    {
+        "name": "North Bank Division",
+        "type": null,
+        "latitude": "13.52854360",
+        "longitude": "-16.01699710",
+        "code": "N"
+    },
+    {
+        "name": "Upper River Division",
+        "type": null,
+        "latitude": "13.42573660",
+        "longitude": "-14.00723480",
+        "code": "U"
+    },
+    {
+        "name": "West Coast Division",
+        "type": null,
+        "latitude": "5.97727980",
+        "longitude": "116.07542880",
+        "code": "W"
+    }
+]

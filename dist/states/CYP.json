@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Famagusta District (Mağusa)",
+        "type": "district",
+        "latitude": "35.28570230",
+        "longitude": "33.84112880",
+        "code": "04"
+    },
+    {
+        "name": "Kyrenia District (Keryneia)",
+        "type": "district",
+        "latitude": "35.29919400",
+        "longitude": "33.23632460",
+        "code": "06"
+    },
+    {
+        "name": "Larnaca District (Larnaka)",
+        "type": "district",
+        "latitude": "34.85072060",
+        "longitude": "33.48319060",
+        "code": "03"
+    },
+    {
+        "name": "Limassol District (Leymasun)",
+        "type": "district",
+        "latitude": "34.70713010",
+        "longitude": "33.02261740",
+        "code": "02"
+    },
+    {
+        "name": "Nicosia District (Lefkoşa)",
+        "type": "district",
+        "latitude": "35.18556590",
+        "longitude": "33.38227640",
+        "code": "01"
+    },
+    {
+        "name": "Paphos District (Pafos)",
+        "type": "district",
+        "latitude": "34.91645940",
+        "longitude": "32.49200880",
+        "code": "05"
+    }
+]

@@ -203,17 +203,83 @@
         "format": "####",
         "regex": "^(\\d{4})$"
     },
-    "provinces": [
-        "Cabo Delgado Province",
-        "Gaza Province",
-        "Inhambane Province",
-        "Manica Province",
-        "Maputo",
-        "Maputo Province",
-        "Nampula Province",
-        "Niassa Province",
-        "Sofala Province",
-        "Tete Province",
-        "Zambezia Province"
+    "states": [
+        {
+            "name": "Cabo Delgado Province",
+            "type": null,
+            "latitude": "-12.33354740",
+            "longitude": "39.32062410",
+            "code": "P"
+        },
+        {
+            "name": "Gaza Province",
+            "type": null,
+            "latitude": "-23.02219280",
+            "longitude": "32.71813750",
+            "code": "G"
+        },
+        {
+            "name": "Inhambane Province",
+            "type": null,
+            "latitude": "-22.85279970",
+            "longitude": "34.55087580",
+            "code": "I"
+        },
+        {
+            "name": "Manica Province",
+            "type": null,
+            "latitude": "-19.50597870",
+            "longitude": "33.43835300",
+            "code": "B"
+        },
+        {
+            "name": "Maputo",
+            "type": null,
+            "latitude": "-25.96924800",
+            "longitude": "32.57317460",
+            "code": "MPM"
+        },
+        {
+            "name": "Maputo Province",
+            "type": null,
+            "latitude": "-25.25698760",
+            "longitude": "32.53727410",
+            "code": "L"
+        },
+        {
+            "name": "Nampula Province",
+            "type": null,
+            "latitude": "-14.76049310",
+            "longitude": "39.32062410",
+            "code": "N"
+        },
+        {
+            "name": "Niassa Province",
+            "type": null,
+            "latitude": "-12.78262020",
+            "longitude": "36.60939260",
+            "code": "A"
+        },
+        {
+            "name": "Sofala Province",
+            "type": null,
+            "latitude": "-19.20390730",
+            "longitude": "34.86241660",
+            "code": "S"
+        },
+        {
+            "name": "Tete Province",
+            "type": null,
+            "latitude": "-15.65960560",
+            "longitude": "32.71813750",
+            "code": "T"
+        },
+        {
+            "name": "Zambezia Province",
+            "type": null,
+            "latitude": "-16.56389870",
+            "longitude": "36.60939260",
+            "code": "Q"
+        }
     ]
 }

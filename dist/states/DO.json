@@ -1,0 +1,219 @@
+[
+    {
+        "name": "Azua Province",
+        "type": null,
+        "latitude": "18.45527090",
+        "longitude": "-70.73809280",
+        "code": "02"
+    },
+    {
+        "name": "Baoruco Province",
+        "type": null,
+        "latitude": "18.48798980",
+        "longitude": "-71.41822490",
+        "code": "03"
+    },
+    {
+        "name": "Barahona Province",
+        "type": null,
+        "latitude": "18.21390660",
+        "longitude": "-71.10437590",
+        "code": "04"
+    },
+    {
+        "name": "Dajabón Province",
+        "type": null,
+        "latitude": "19.54992410",
+        "longitude": "-71.70865140",
+        "code": "05"
+    },
+    {
+        "name": "Distrito Nacional",
+        "type": null,
+        "latitude": "18.48605750",
+        "longitude": "-69.93121170",
+        "code": "01"
+    },
+    {
+        "name": "Duarte Province",
+        "type": null,
+        "latitude": "19.20908230",
+        "longitude": "-70.02700040",
+        "code": "06"
+    },
+    {
+        "name": "El Seibo Province",
+        "type": null,
+        "latitude": "18.76584960",
+        "longitude": "-69.04066800",
+        "code": "08"
+    },
+    {
+        "name": "Espaillat Province",
+        "type": null,
+        "latitude": "19.62776580",
+        "longitude": "-70.27867750",
+        "code": "09"
+    },
+    {
+        "name": "Hato Mayor Province",
+        "type": null,
+        "latitude": "18.76357990",
+        "longitude": "-69.25576370",
+        "code": "30"
+    },
+    {
+        "name": "Hermanas Mirabal Province",
+        "type": null,
+        "latitude": "19.37475590",
+        "longitude": "-70.35132350",
+        "code": "19"
+    },
+    {
+        "name": "Independencia",
+        "type": null,
+        "latitude": "32.63357480",
+        "longitude": "-115.42892940",
+        "code": "10"
+    },
+    {
+        "name": "La Altagracia Province",
+        "type": null,
+        "latitude": "18.58502360",
+        "longitude": "-68.62010720",
+        "code": "11"
+    },
+    {
+        "name": "La Romana Province",
+        "type": null,
+        "latitude": "18.43102710",
+        "longitude": "-68.98373730",
+        "code": "12"
+    },
+    {
+        "name": "La Vega Province",
+        "type": null,
+        "latitude": "19.22115540",
+        "longitude": "-70.52887530",
+        "code": "13"
+    },
+    {
+        "name": "María Trinidad Sánchez Province",
+        "type": null,
+        "latitude": "19.37345970",
+        "longitude": "-69.85144390",
+        "code": "14"
+    },
+    {
+        "name": "Monseñor Nouel Province",
+        "type": null,
+        "latitude": "18.92152340",
+        "longitude": "-70.38368150",
+        "code": "28"
+    },
+    {
+        "name": "Monte Cristi Province",
+        "type": null,
+        "latitude": "19.73968990",
+        "longitude": "-71.44339840",
+        "code": "15"
+    },
+    {
+        "name": "Monte Plata Province",
+        "type": null,
+        "latitude": "18.80808780",
+        "longitude": "-69.78691460",
+        "code": "29"
+    },
+    {
+        "name": "Pedernales Province",
+        "type": null,
+        "latitude": "17.85376260",
+        "longitude": "-71.33032090",
+        "code": "16"
+    },
+    {
+        "name": "Peravia Province",
+        "type": null,
+        "latitude": "18.27865940",
+        "longitude": "-70.33358870",
+        "code": "17"
+    },
+    {
+        "name": "Puerto Plata Province",
+        "type": null,
+        "latitude": "19.75432250",
+        "longitude": "-70.83328470",
+        "code": "18"
+    },
+    {
+        "name": "Samaná Province",
+        "type": null,
+        "latitude": "19.20583710",
+        "longitude": "-69.33629490",
+        "code": "20"
+    },
+    {
+        "name": "San Cristóbal Province",
+        "type": null,
+        "latitude": "18.41804140",
+        "longitude": "-70.10658490",
+        "code": "21"
+    },
+    {
+        "name": "San José de Ocoa Province",
+        "type": null,
+        "latitude": "18.54385800",
+        "longitude": "-70.50418160",
+        "code": "31"
+    },
+    {
+        "name": "San Juan Province",
+        "type": null,
+        "latitude": "-31.52871270",
+        "longitude": "-68.53604030",
+        "code": "22"
+    },
+    {
+        "name": "San Pedro de Macorís",
+        "type": null,
+        "latitude": "18.46266000",
+        "longitude": "-69.30512340",
+        "code": "23"
+    },
+    {
+        "name": "Sánchez Ramírez Province",
+        "type": null,
+        "latitude": "19.05270600",
+        "longitude": "-70.14922640",
+        "code": "24"
+    },
+    {
+        "name": "Santiago Province",
+        "type": null,
+        "latitude": "-33.45000000",
+        "longitude": "-70.66670000",
+        "code": "25"
+    },
+    {
+        "name": "Santiago Rodríguez Province",
+        "type": null,
+        "latitude": "19.47131810",
+        "longitude": "-71.33958010",
+        "code": "26"
+    },
+    {
+        "name": "Santo Domingo Province",
+        "type": null,
+        "latitude": "18.51042530",
+        "longitude": "-69.84040540",
+        "code": "32"
+    },
+    {
+        "name": "Valverde Province",
+        "type": null,
+        "latitude": "19.58812210",
+        "longitude": "-70.98033100",
+        "code": "27"
+    }
+]

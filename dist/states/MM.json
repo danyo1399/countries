@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Ayeyarwady Region",
+        "type": null,
+        "latitude": "17.03421250",
+        "longitude": "95.22666750",
+        "code": "07"
+    },
+    {
+        "name": "Bago",
+        "type": null,
+        "latitude": "17.32207110",
+        "longitude": "96.46632860",
+        "code": "02"
+    },
+    {
+        "name": "Chin State",
+        "type": null,
+        "latitude": "22.00869780",
+        "longitude": "93.58126920",
+        "code": "14"
+    },
+    {
+        "name": "Kachin State",
+        "type": null,
+        "latitude": "25.85090400",
+        "longitude": "97.43813550",
+        "code": "11"
+    },
+    {
+        "name": "Kayah State",
+        "type": null,
+        "latitude": "19.23420610",
+        "longitude": "97.26528580",
+        "code": "12"
+    },
+    {
+        "name": "Kayin State",
+        "type": null,
+        "latitude": "16.94593460",
+        "longitude": "97.95928630",
+        "code": "13"
+    },
+    {
+        "name": "Magway Region",
+        "type": null,
+        "latitude": "19.88713860",
+        "longitude": "94.72775280",
+        "code": "03"
+    },
+    {
+        "name": "Mandalay Region",
+        "type": null,
+        "latitude": "21.56190580",
+        "longitude": "95.89871390",
+        "code": "04"
+    },
+    {
+        "name": "Mon State",
+        "type": null,
+        "latitude": "16.30031330",
+        "longitude": "97.69822720",
+        "code": "15"
+    },
+    {
+        "name": "Naypyidaw Union Territory",
+        "type": null,
+        "latitude": "19.93862450",
+        "longitude": "96.15269850",
+        "code": "18"
+    },
+    {
+        "name": "Rakhine State",
+        "type": null,
+        "latitude": "20.10408180",
+        "longitude": "93.58126920",
+        "code": "16"
+    },
+    {
+        "name": "Sagaing Region",
+        "type": null,
+        "latitude": "24.42838100",
+        "longitude": "95.39395510",
+        "code": "01"
+    },
+    {
+        "name": "Shan State",
+        "type": null,
+        "latitude": "22.03619850",
+        "longitude": "98.13385580",
+        "code": "17"
+    },
+    {
+        "name": "Tanintharyi Region",
+        "type": null,
+        "latitude": "12.47068760",
+        "longitude": "99.01289260",
+        "code": "05"
+    },
+    {
+        "name": "Yangon Region",
+        "type": null,
+        "latitude": "16.91434880",
+        "longitude": "96.15269850",
+        "code": "06"
+    }
+]

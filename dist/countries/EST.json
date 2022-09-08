@@ -200,21 +200,111 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Harju County",
-        "Hiiu County",
-        "Ida-Viru County",
-        "Järva County",
-        "Jõgeva County",
-        "Lääne County",
-        "Lääne-Viru County",
-        "Pärnu County",
-        "Põlva County",
-        "Rapla County",
-        "Saare County",
-        "Tartu County",
-        "Valga County",
-        "Viljandi County",
-        "Võru County"
+    "states": [
+        {
+            "name": "Harju County",
+            "type": null,
+            "latitude": "59.33342390",
+            "longitude": "25.24669740",
+            "code": "37"
+        },
+        {
+            "name": "Hiiu County",
+            "type": null,
+            "latitude": "58.92395530",
+            "longitude": "22.59194680",
+            "code": "39"
+        },
+        {
+            "name": "Ida-Viru County",
+            "type": null,
+            "latitude": "59.25926630",
+            "longitude": "27.41365350",
+            "code": "44"
+        },
+        {
+            "name": "Järva County",
+            "type": null,
+            "latitude": "58.88667130",
+            "longitude": "25.50006240",
+            "code": "51"
+        },
+        {
+            "name": "Jõgeva County",
+            "type": null,
+            "latitude": "58.75061430",
+            "longitude": "26.36048780",
+            "code": "49"
+        },
+        {
+            "name": "Lääne County",
+            "type": null,
+            "latitude": "58.97227420",
+            "longitude": "23.87408340",
+            "code": "57"
+        },
+        {
+            "name": "Lääne-Viru County",
+            "type": null,
+            "latitude": "59.30188160",
+            "longitude": "26.32803120",
+            "code": "59"
+        },
+        {
+            "name": "Pärnu County",
+            "type": null,
+            "latitude": "58.52619520",
+            "longitude": "24.40201590",
+            "code": "67"
+        },
+        {
+            "name": "Põlva County",
+            "type": null,
+            "latitude": "58.11606220",
+            "longitude": "27.20663940",
+            "code": "65"
+        },
+        {
+            "name": "Rapla County",
+            "type": null,
+            "latitude": "58.84926250",
+            "longitude": "24.73465690",
+            "code": "70"
+        },
+        {
+            "name": "Saare County",
+            "type": null,
+            "latitude": "58.48497210",
+            "longitude": "22.61364080",
+            "code": "74"
+        },
+        {
+            "name": "Tartu County",
+            "type": null,
+            "latitude": "58.40571280",
+            "longitude": "26.80157600",
+            "code": "78"
+        },
+        {
+            "name": "Valga County",
+            "type": null,
+            "latitude": "57.91034410",
+            "longitude": "26.16018190",
+            "code": "82"
+        },
+        {
+            "name": "Viljandi County",
+            "type": null,
+            "latitude": "58.28217460",
+            "longitude": "25.57522330",
+            "code": "84"
+        },
+        {
+            "name": "Võru County",
+            "type": null,
+            "latitude": "57.73773720",
+            "longitude": "27.13989380",
+            "code": "86"
+        }
     ]
 }

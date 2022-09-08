@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Azuay",
+        "type": "province",
+        "latitude": "-2.89430680",
+        "longitude": "-78.99683440",
+        "code": "A"
+    },
+    {
+        "name": "Bolívar",
+        "type": "province",
+        "latitude": "-1.70958280",
+        "longitude": "-79.04504290",
+        "code": "B"
+    },
+    {
+        "name": "Cañar",
+        "type": "province",
+        "latitude": "-2.55893150",
+        "longitude": "-78.93881910",
+        "code": "F"
+    },
+    {
+        "name": "Carchi",
+        "type": "province",
+        "latitude": "0.50269120",
+        "longitude": "-77.90425210",
+        "code": "C"
+    },
+    {
+        "name": "Chimborazo",
+        "type": "province",
+        "latitude": "-1.66479950",
+        "longitude": "-78.65432550",
+        "code": "H"
+    },
+    {
+        "name": "Cotopaxi",
+        "type": "province",
+        "latitude": "-0.83842060",
+        "longitude": "-78.66626780",
+        "code": "X"
+    },
+    {
+        "name": "El Oro",
+        "type": "province",
+        "latitude": "-3.25924130",
+        "longitude": "-79.95835410",
+        "code": "O"
+    },
+    {
+        "name": "Esmeraldas",
+        "type": "province",
+        "latitude": "0.96817890",
+        "longitude": "-79.65172020",
+        "code": "E"
+    },
+    {
+        "name": "Galápagos",
+        "type": "province",
+        "latitude": "-0.95376910",
+        "longitude": "-90.96560190",
+        "code": "W"
+    },
+    {
+        "name": "Guayas",
+        "type": "province",
+        "latitude": "-1.95748390",
+        "longitude": "-79.91927020",
+        "code": "G"
+    },
+    {
+        "name": "Imbabura",
+        "type": "province",
+        "latitude": "0.34997680",
+        "longitude": "-78.12601290",
+        "code": "I"
+    },
+    {
+        "name": "Loja",
+        "type": "province",
+        "latitude": "-3.99313000",
+        "longitude": "-79.20422000",
+        "code": "L"
+    },
+    {
+        "name": "Los Ríos",
+        "type": "province",
+        "latitude": "-1.02306070",
+        "longitude": "-79.46088970",
+        "code": "R"
+    },
+    {
+        "name": "Manabí",
+        "type": "province",
+        "latitude": "-1.05434340",
+        "longitude": "-80.45264400",
+        "code": "M"
+    },
+    {
+        "name": "Morona-Santiago",
+        "type": "province",
+        "latitude": "-2.30510620",
+        "longitude": "-78.11468660",
+        "code": "S"
+    },
+    {
+        "name": "Napo",
+        "type": "province",
+        "latitude": "-0.99559640",
+        "longitude": "-77.81296840",
+        "code": "N"
+    },
+    {
+        "name": "Orellana",
+        "type": "province",
+        "latitude": "-0.45451630",
+        "longitude": "-76.99502860",
+        "code": "D"
+    },
+    {
+        "name": "Pastaza",
+        "type": "province",
+        "latitude": "-1.48822650",
+        "longitude": "-78.00310570",
+        "code": "Y"
+    },
+    {
+        "name": "Pichincha",
+        "type": "province",
+        "latitude": "-0.14648470",
+        "longitude": "-78.47519450",
+        "code": "P"
+    },
+    {
+        "name": "Santa Elena",
+        "type": "province",
+        "latitude": "-2.22671050",
+        "longitude": "-80.85949900",
+        "code": "SE"
+    },
+    {
+        "name": "Santo Domingo de los Tsáchilas",
+        "type": "province",
+        "latitude": "-0.25218820",
+        "longitude": "-79.18793830",
+        "code": "SD"
+    },
+    {
+        "name": "Sucumbíos",
+        "type": "province",
+        "latitude": "0.08892310",
+        "longitude": "-76.88975570",
+        "code": "U"
+    },
+    {
+        "name": "Tungurahua",
+        "type": "province",
+        "latitude": "-1.26352840",
+        "longitude": "-78.56608520",
+        "code": "T"
+    },
+    {
+        "name": "Zamora Chinchipe",
+        "type": "province",
+        "latitude": "-4.06558920",
+        "longitude": "-78.95035250",
+        "code": "Z"
+    }
+]

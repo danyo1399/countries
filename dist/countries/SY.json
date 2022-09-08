@@ -199,20 +199,104 @@
             36.3
         ]
     },
-    "provinces": [
-        "Al-Hasakah",
-        "Al-Raqqah",
-        "Aleppo",
-        "As-Suwayda",
-        "Damascus",
-        "Daraa",
-        "Deir ez-Zor",
-        "Hama",
-        "Homs",
-        "Idlib",
-        "Latakia",
-        "Quneitra",
-        "Rif Dimashq",
-        "Tartus"
+    "states": [
+        {
+            "name": "Al-Hasakah",
+            "type": null,
+            "latitude": "36.40551500",
+            "longitude": "40.79691490",
+            "code": "HA"
+        },
+        {
+            "name": "Al-Raqqah",
+            "type": null,
+            "latitude": "35.95941060",
+            "longitude": "38.99810520",
+            "code": "RA"
+        },
+        {
+            "name": "Aleppo",
+            "type": null,
+            "latitude": "36.22623930",
+            "longitude": "37.46813960",
+            "code": "HL"
+        },
+        {
+            "name": "As-Suwayda",
+            "type": null,
+            "latitude": "32.79891560",
+            "longitude": "36.78195050",
+            "code": "SU"
+        },
+        {
+            "name": "Damascus",
+            "type": null,
+            "latitude": "33.51514440",
+            "longitude": "36.39313540",
+            "code": "DI"
+        },
+        {
+            "name": "Daraa",
+            "type": null,
+            "latitude": "32.92488130",
+            "longitude": "36.17626150",
+            "code": "DR"
+        },
+        {
+            "name": "Deir ez-Zor",
+            "type": null,
+            "latitude": "35.28797980",
+            "longitude": "40.30886260",
+            "code": "DY"
+        },
+        {
+            "name": "Hama",
+            "type": null,
+            "latitude": "35.18878650",
+            "longitude": "37.21158290",
+            "code": "HM"
+        },
+        {
+            "name": "Homs",
+            "type": null,
+            "latitude": "34.25671230",
+            "longitude": "38.31657250",
+            "code": "HI"
+        },
+        {
+            "name": "Idlib",
+            "type": null,
+            "latitude": "35.82687980",
+            "longitude": "36.69572160",
+            "code": "ID"
+        },
+        {
+            "name": "Latakia",
+            "type": null,
+            "latitude": "35.61297910",
+            "longitude": "36.00232250",
+            "code": "LA"
+        },
+        {
+            "name": "Quneitra",
+            "type": null,
+            "latitude": "33.07763180",
+            "longitude": "35.89341360",
+            "code": "QU"
+        },
+        {
+            "name": "Rif Dimashq",
+            "type": null,
+            "latitude": "33.51672890",
+            "longitude": "36.95410700",
+            "code": "RD"
+        },
+        {
+            "name": "Tartus",
+            "type": null,
+            "latitude": "35.00066520",
+            "longitude": "36.00232250",
+            "code": "TA"
+        }
     ]
 }

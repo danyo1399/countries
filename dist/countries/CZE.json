@@ -206,96 +206,636 @@
         "format": "### ##",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Benešov",
-        "Beroun",
-        "Blansko",
-        "Břeclav",
-        "Brno-město",
-        "Brno-venkov",
-        "Bruntál",
-        "Česká Lípa",
-        "České Budějovice",
-        "Český Krumlov",
-        "Cheb",
-        "Chomutov",
-        "Chrudim",
-        "Děčín",
-        "Domažlice",
-        "Frýdek-Místek",
-        "Havlíčkův Brod",
-        "Hodonín",
-        "Hradec Králové",
-        "Jablonec nad Nisou",
-        "Jeseník",
-        "Jičín",
-        "Jihlava",
-        "Jihočeský kraj",
-        "Jihomoravský kraj",
-        "Jindřichův Hradec",
-        "Karlovarský kraj",
-        "Karlovy Vary",
-        "Karviná",
-        "Kladno",
-        "Klatovy",
-        "Kolín",
-        "Kraj Vysočina",
-        "Královéhradecký kraj",
-        "Kroměříž",
-        "Kutná Hora",
-        "Liberec",
-        "Liberecký kraj",
-        "Litoměřice",
-        "Louny",
-        "Mělník",
-        "Mladá Boleslav",
-        "Moravskoslezský kraj",
-        "Most",
-        "Náchod",
-        "Nový Jičín",
-        "Nymburk",
-        "Olomouc",
-        "Olomoucký kraj",
-        "Opava",
-        "Ostrava-město",
-        "Pardubice",
-        "Pardubický kraj",
-        "Pelhřimov",
-        "Písek",
-        "Plzeň-jih",
-        "Plzeň-město",
-        "Plzeň-sever",
-        "Plzeňský kraj",
-        "Prachatice",
-        "Praha-východ",
-        "Praha-západ",
-        "Praha, Hlavní město",
-        "Přerov",
-        "Příbram",
-        "Prostějov",
-        "Rakovník",
-        "Rokycany",
-        "Rychnov nad Kněžnou",
-        "Semily",
-        "Sokolov",
-        "Strakonice",
-        "Středočeský kraj",
-        "Šumperk",
-        "Svitavy",
-        "Tábor",
-        "Tachov",
-        "Teplice",
-        "Třebíč",
-        "Trutnov",
-        "Uherské Hradiště",
-        "Ústecký kraj",
-        "Ústí nad Labem",
-        "Ústí nad Orlicí",
-        "Vsetín",
-        "Vyškov",
-        "Žďár nad Sázavou",
-        "Zlín",
-        "Zlínský kraj",
-        "Znojmo"
+    "states": [
+        {
+            "name": "Benešov",
+            "type": null,
+            "latitude": "49.69008280",
+            "longitude": "14.77643990",
+            "code": "201"
+        },
+        {
+            "name": "Beroun",
+            "type": null,
+            "latitude": "49.95734280",
+            "longitude": "13.98407150",
+            "code": "202"
+        },
+        {
+            "name": "Blansko",
+            "type": null,
+            "latitude": "49.36485020",
+            "longitude": "16.64775520",
+            "code": "641"
+        },
+        {
+            "name": "Břeclav",
+            "type": null,
+            "latitude": "48.75314000",
+            "longitude": "16.88251690",
+            "code": "644"
+        },
+        {
+            "name": "Brno-město",
+            "type": null,
+            "latitude": "49.19506020",
+            "longitude": "16.60683710",
+            "code": "642"
+        },
+        {
+            "name": "Brno-venkov",
+            "type": null,
+            "latitude": "49.12501380",
+            "longitude": "16.45588240",
+            "code": "643"
+        },
+        {
+            "name": "Bruntál",
+            "type": null,
+            "latitude": "49.98817670",
+            "longitude": "17.46369410",
+            "code": "801"
+        },
+        {
+            "name": "Česká Lípa",
+            "type": null,
+            "latitude": "50.67852010",
+            "longitude": "14.53969910",
+            "code": "511"
+        },
+        {
+            "name": "České Budějovice",
+            "type": null,
+            "latitude": "48.97755530",
+            "longitude": "14.51507470",
+            "code": "311"
+        },
+        {
+            "name": "Český Krumlov",
+            "type": null,
+            "latitude": "48.81273540",
+            "longitude": "14.31746570",
+            "code": "312"
+        },
+        {
+            "name": "Cheb",
+            "type": null,
+            "latitude": "50.07953340",
+            "longitude": "12.36986360",
+            "code": "411"
+        },
+        {
+            "name": "Chomutov",
+            "type": null,
+            "latitude": "50.45838720",
+            "longitude": "13.30179100",
+            "code": "422"
+        },
+        {
+            "name": "Chrudim",
+            "type": null,
+            "latitude": "49.88302160",
+            "longitude": "15.82908660",
+            "code": "531"
+        },
+        {
+            "name": "Děčín",
+            "type": null,
+            "latitude": "50.77255630",
+            "longitude": "14.21276120",
+            "code": "421"
+        },
+        {
+            "name": "Domažlice",
+            "type": null,
+            "latitude": "49.43970270",
+            "longitude": "12.93114350",
+            "code": "321"
+        },
+        {
+            "name": "Frýdek-Místek",
+            "type": null,
+            "latitude": "49.68193050",
+            "longitude": "18.36732160",
+            "code": "802"
+        },
+        {
+            "name": "Havlíčkův Brod",
+            "type": null,
+            "latitude": "49.60433640",
+            "longitude": "15.57965520",
+            "code": "631"
+        },
+        {
+            "name": "Hodonín",
+            "type": null,
+            "latitude": "48.85293910",
+            "longitude": "17.12600250",
+            "code": "645"
+        },
+        {
+            "name": "Hradec Králové",
+            "type": null,
+            "latitude": "50.24148050",
+            "longitude": "15.67430000",
+            "code": "521"
+        },
+        {
+            "name": "Jablonec nad Nisou",
+            "type": null,
+            "latitude": "50.72205280",
+            "longitude": "15.17031350",
+            "code": "512"
+        },
+        {
+            "name": "Jeseník",
+            "type": null,
+            "latitude": "50.22462490",
+            "longitude": "17.19804710",
+            "code": "711"
+        },
+        {
+            "name": "Jičín",
+            "type": null,
+            "latitude": "50.43533250",
+            "longitude": "15.36104400",
+            "code": "522"
+        },
+        {
+            "name": "Jihlava",
+            "type": null,
+            "latitude": "49.39837820",
+            "longitude": "15.58704150",
+            "code": "632"
+        },
+        {
+            "name": "Jihočeský kraj",
+            "type": null,
+            "latitude": "48.94577890",
+            "longitude": "14.44160550",
+            "code": "31"
+        },
+        {
+            "name": "Jihomoravský kraj",
+            "type": null,
+            "latitude": "48.95445280",
+            "longitude": "16.76768990",
+            "code": "64"
+        },
+        {
+            "name": "Jindřichův Hradec",
+            "type": null,
+            "latitude": "49.14448230",
+            "longitude": "15.00613890",
+            "code": "313"
+        },
+        {
+            "name": "Karlovarský kraj",
+            "type": null,
+            "latitude": "50.14350000",
+            "longitude": "12.75018990",
+            "code": "41"
+        },
+        {
+            "name": "Karlovy Vary",
+            "type": null,
+            "latitude": "50.14350000",
+            "longitude": "12.75018990",
+            "code": "412"
+        },
+        {
+            "name": "Karviná",
+            "type": null,
+            "latitude": "49.85665240",
+            "longitude": "18.54321860",
+            "code": "803"
+        },
+        {
+            "name": "Kladno",
+            "type": null,
+            "latitude": "50.19402580",
+            "longitude": "14.10436570",
+            "code": "203"
+        },
+        {
+            "name": "Klatovy",
+            "type": null,
+            "latitude": "49.39555490",
+            "longitude": "13.29509370",
+            "code": "322"
+        },
+        {
+            "name": "Kolín",
+            "type": null,
+            "latitude": "49.98832930",
+            "longitude": "15.05519770",
+            "code": "204"
+        },
+        {
+            "name": "Kraj Vysočina",
+            "type": null,
+            "latitude": "49.44900520",
+            "longitude": "15.64059340",
+            "code": "63"
+        },
+        {
+            "name": "Královéhradecký kraj",
+            "type": null,
+            "latitude": "50.35124840",
+            "longitude": "15.79764590",
+            "code": "52"
+        },
+        {
+            "name": "Kroměříž",
+            "type": null,
+            "latitude": "49.29165820",
+            "longitude": "17.39938000",
+            "code": "721"
+        },
+        {
+            "name": "Kutná Hora",
+            "type": null,
+            "latitude": "49.94920890",
+            "longitude": "15.24704400",
+            "code": "205"
+        },
+        {
+            "name": "Liberec",
+            "type": null,
+            "latitude": "50.75641010",
+            "longitude": "14.99650410",
+            "code": "513"
+        },
+        {
+            "name": "Liberecký kraj",
+            "type": null,
+            "latitude": "50.65942400",
+            "longitude": "14.76324240",
+            "code": "51"
+        },
+        {
+            "name": "Litoměřice",
+            "type": null,
+            "latitude": "50.53841970",
+            "longitude": "14.13054580",
+            "code": "423"
+        },
+        {
+            "name": "Louny",
+            "type": null,
+            "latitude": "50.35398120",
+            "longitude": "13.80335510",
+            "code": "424"
+        },
+        {
+            "name": "Mělník",
+            "type": null,
+            "latitude": "50.31044150",
+            "longitude": "14.51792230",
+            "code": "206"
+        },
+        {
+            "name": "Mladá Boleslav",
+            "type": null,
+            "latitude": "50.42523170",
+            "longitude": "14.93624770",
+            "code": "207"
+        },
+        {
+            "name": "Moravskoslezský kraj",
+            "type": null,
+            "latitude": "49.73053270",
+            "longitude": "18.23326370",
+            "code": "80"
+        },
+        {
+            "name": "Most",
+            "type": null,
+            "latitude": "37.15540830",
+            "longitude": "-94.29488840",
+            "code": "425"
+        },
+        {
+            "name": "Náchod",
+            "type": null,
+            "latitude": "50.41457220",
+            "longitude": "16.16563470",
+            "code": "523"
+        },
+        {
+            "name": "Nový Jičín",
+            "type": null,
+            "latitude": "49.59432510",
+            "longitude": "18.01353560",
+            "code": "804"
+        },
+        {
+            "name": "Nymburk",
+            "type": null,
+            "latitude": "50.18558160",
+            "longitude": "15.04366040",
+            "code": "208"
+        },
+        {
+            "name": "Olomouc",
+            "type": null,
+            "latitude": "49.59377800",
+            "longitude": "17.25087870",
+            "code": "712"
+        },
+        {
+            "name": "Olomoucký kraj",
+            "type": null,
+            "latitude": "49.65865490",
+            "longitude": "17.08114060",
+            "code": "71"
+        },
+        {
+            "name": "Opava",
+            "type": null,
+            "latitude": "49.90837570",
+            "longitude": "17.91633800",
+            "code": "805"
+        },
+        {
+            "name": "Ostrava-město",
+            "type": null,
+            "latitude": "49.82092260",
+            "longitude": "18.26252430",
+            "code": "806"
+        },
+        {
+            "name": "Pardubice",
+            "type": null,
+            "latitude": "49.94444790",
+            "longitude": "16.28569160",
+            "code": "532"
+        },
+        {
+            "name": "Pardubický kraj",
+            "type": null,
+            "latitude": "49.94444790",
+            "longitude": "16.28569160",
+            "code": "53"
+        },
+        {
+            "name": "Pelhřimov",
+            "type": null,
+            "latitude": "49.43062070",
+            "longitude": "15.22298300",
+            "code": "633"
+        },
+        {
+            "name": "Písek",
+            "type": null,
+            "latitude": "49.34199380",
+            "longitude": "14.24697600",
+            "code": "314"
+        },
+        {
+            "name": "Plzeň-jih",
+            "type": null,
+            "latitude": "49.59048850",
+            "longitude": "13.57158610",
+            "code": "324"
+        },
+        {
+            "name": "Plzeň-město",
+            "type": null,
+            "latitude": "49.73843140",
+            "longitude": "13.37363710",
+            "code": "323"
+        },
+        {
+            "name": "Plzeň-sever",
+            "type": null,
+            "latitude": "49.87748930",
+            "longitude": "13.25374280",
+            "code": "325"
+        },
+        {
+            "name": "Plzeňský kraj",
+            "type": null,
+            "latitude": "49.41348120",
+            "longitude": "13.31572460",
+            "code": "32"
+        },
+        {
+            "name": "Prachatice",
+            "type": null,
+            "latitude": "49.01091000",
+            "longitude": "14.00000050",
+            "code": "315"
+        },
+        {
+            "name": "Praha-východ",
+            "type": null,
+            "latitude": "49.93893070",
+            "longitude": "14.79244720",
+            "code": "209"
+        },
+        {
+            "name": "Praha-západ",
+            "type": null,
+            "latitude": "49.89352350",
+            "longitude": "14.32937790",
+            "code": "20A"
+        },
+        {
+            "name": "Praha, Hlavní město",
+            "type": null,
+            "latitude": "50.07553810",
+            "longitude": "14.43780050",
+            "code": "10"
+        },
+        {
+            "name": "Přerov",
+            "type": null,
+            "latitude": "49.46713560",
+            "longitude": "17.50773320",
+            "code": "714"
+        },
+        {
+            "name": "Příbram",
+            "type": null,
+            "latitude": "49.69479590",
+            "longitude": "14.08238100",
+            "code": "20B"
+        },
+        {
+            "name": "Prostějov",
+            "type": null,
+            "latitude": "49.44184010",
+            "longitude": "17.12779040",
+            "code": "713"
+        },
+        {
+            "name": "Rakovník",
+            "type": null,
+            "latitude": "50.10612300",
+            "longitude": "13.73966230",
+            "code": "20C"
+        },
+        {
+            "name": "Rokycany",
+            "type": null,
+            "latitude": "49.82628270",
+            "longitude": "13.68749430",
+            "code": "326"
+        },
+        {
+            "name": "Rychnov nad Kněžnou",
+            "type": null,
+            "latitude": "50.16596510",
+            "longitude": "16.27768420",
+            "code": "524"
+        },
+        {
+            "name": "Semily",
+            "type": null,
+            "latitude": "50.60515760",
+            "longitude": "15.32814090",
+            "code": "514"
+        },
+        {
+            "name": "Sokolov",
+            "type": null,
+            "latitude": "50.20134340",
+            "longitude": "12.60546360",
+            "code": "413"
+        },
+        {
+            "name": "Strakonice",
+            "type": null,
+            "latitude": "49.26040430",
+            "longitude": "13.91030850",
+            "code": "316"
+        },
+        {
+            "name": "Středočeský kraj",
+            "type": null,
+            "latitude": "49.87822230",
+            "longitude": "14.93629550",
+            "code": "20"
+        },
+        {
+            "name": "Šumperk",
+            "type": null,
+            "latitude": "49.97784070",
+            "longitude": "16.97177540",
+            "code": "715"
+        },
+        {
+            "name": "Svitavy",
+            "type": null,
+            "latitude": "49.75516290",
+            "longitude": "16.46918610",
+            "code": "533"
+        },
+        {
+            "name": "Tábor",
+            "type": null,
+            "latitude": "49.36462930",
+            "longitude": "14.71912930",
+            "code": "317"
+        },
+        {
+            "name": "Tachov",
+            "type": null,
+            "latitude": "49.79878030",
+            "longitude": "12.63619210",
+            "code": "327"
+        },
+        {
+            "name": "Teplice",
+            "type": null,
+            "latitude": "50.65846050",
+            "longitude": "13.75132270",
+            "code": "426"
+        },
+        {
+            "name": "Třebíč",
+            "type": null,
+            "latitude": "49.21478690",
+            "longitude": "15.87955160",
+            "code": "634"
+        },
+        {
+            "name": "Trutnov",
+            "type": null,
+            "latitude": "50.56538380",
+            "longitude": "15.90909230",
+            "code": "525"
+        },
+        {
+            "name": "Uherské Hradiště",
+            "type": null,
+            "latitude": "49.05979690",
+            "longitude": "17.49585010",
+            "code": "722"
+        },
+        {
+            "name": "Ústecký kraj",
+            "type": null,
+            "latitude": "50.61190370",
+            "longitude": "13.78700860",
+            "code": "42"
+        },
+        {
+            "name": "Ústí nad Labem",
+            "type": null,
+            "latitude": "50.61190370",
+            "longitude": "13.78700860",
+            "code": "427"
+        },
+        {
+            "name": "Ústí nad Orlicí",
+            "type": null,
+            "latitude": "49.97218010",
+            "longitude": "16.39966170",
+            "code": "534"
+        },
+        {
+            "name": "Vsetín",
+            "type": null,
+            "latitude": "49.37932500",
+            "longitude": "18.06181620",
+            "code": "723"
+        },
+        {
+            "name": "Vyškov",
+            "type": null,
+            "latitude": "49.21274450",
+            "longitude": "16.98559270",
+            "code": "646"
+        },
+        {
+            "name": "Žďár nad Sázavou",
+            "type": null,
+            "latitude": "49.56430120",
+            "longitude": "15.93910300",
+            "code": "635"
+        },
+        {
+            "name": "Zlín",
+            "type": null,
+            "latitude": "49.16960520",
+            "longitude": "17.80252200",
+            "code": "724"
+        },
+        {
+            "name": "Zlínský kraj",
+            "type": null,
+            "latitude": "49.21622960",
+            "longitude": "17.77203530",
+            "code": "72"
+        },
+        {
+            "name": "Znojmo",
+            "type": null,
+            "latitude": "48.92723270",
+            "longitude": "16.10378080",
+            "code": "647"
+        }
     ]
 }

@@ -1,0 +1,863 @@
+[
+    {
+        "name": "Ain",
+        "type": "metropolitan department",
+        "latitude": "46.06508600",
+        "longitude": "4.88861500",
+        "code": "01"
+    },
+    {
+        "name": "Aisne",
+        "type": "metropolitan department",
+        "latitude": "49.45289210",
+        "longitude": "3.04651110",
+        "code": "02"
+    },
+    {
+        "name": "Allier",
+        "type": "metropolitan department",
+        "latitude": "46.36708630",
+        "longitude": "2.58082770",
+        "code": "03"
+    },
+    {
+        "name": "Alpes-de-Haute-Provence",
+        "type": "metropolitan department",
+        "latitude": "44.16377520",
+        "longitude": "5.67247800",
+        "code": "04"
+    },
+    {
+        "name": "Alpes-Maritimes",
+        "type": "metropolitan department",
+        "latitude": "43.92041700",
+        "longitude": "6.61678220",
+        "code": "06"
+    },
+    {
+        "name": "Alsace",
+        "type": "European collectivity",
+        "latitude": "48.31817950",
+        "longitude": "7.44162410",
+        "code": "6AE"
+    },
+    {
+        "name": "Ardèche",
+        "type": "metropolitan department",
+        "latitude": "44.81486950",
+        "longitude": "3.81334830",
+        "code": "07"
+    },
+    {
+        "name": "Ardennes",
+        "type": "metropolitan department",
+        "latitude": "49.69759510",
+        "longitude": "4.14895760",
+        "code": "08"
+    },
+    {
+        "name": "Ariège",
+        "type": "metropolitan department",
+        "latitude": "42.94347830",
+        "longitude": "0.94048640",
+        "code": "09"
+    },
+    {
+        "name": "Aube",
+        "type": "metropolitan department",
+        "latitude": "48.31975470",
+        "longitude": "3.56371040",
+        "code": "10"
+    },
+    {
+        "name": "Aude",
+        "type": "metropolitan department",
+        "latitude": "43.05411400",
+        "longitude": "1.90384760",
+        "code": "11"
+    },
+    {
+        "name": "Auvergne-Rhône-Alpes",
+        "type": "metropolitan region",
+        "latitude": "45.44714310",
+        "longitude": "4.38525070",
+        "code": "ARA"
+    },
+    {
+        "name": "Aveyron",
+        "type": "metropolitan department",
+        "latitude": "44.31563620",
+        "longitude": "2.08523790",
+        "code": "12"
+    },
+    {
+        "name": "Bas-Rhin",
+        "type": "metropolitan department",
+        "latitude": "48.59864440",
+        "longitude": "7.02666760",
+        "code": "67"
+    },
+    {
+        "name": "Bouches-du-Rhône",
+        "type": "metropolitan department",
+        "latitude": "43.54038650",
+        "longitude": "4.46138290",
+        "code": "13"
+    },
+    {
+        "name": "Bourgogne-Franche-Comté",
+        "type": "metropolitan region",
+        "latitude": "47.28051270",
+        "longitude": "4.99943720",
+        "code": "BFC"
+    },
+    {
+        "name": "Bretagne",
+        "type": "metropolitan region",
+        "latitude": "48.20204710",
+        "longitude": "-2.93264350",
+        "code": "BRE"
+    },
+    {
+        "name": "Calvados",
+        "type": "metropolitan department",
+        "latitude": "49.09035140",
+        "longitude": "-0.91706480",
+        "code": "14"
+    },
+    {
+        "name": "Cantal",
+        "type": "metropolitan department",
+        "latitude": "45.04921770",
+        "longitude": "2.15672720",
+        "code": "15"
+    },
+    {
+        "name": "Centre-Val de Loire",
+        "type": "metropolitan region",
+        "latitude": "47.75156860",
+        "longitude": "1.67506310",
+        "code": "CVL"
+    },
+    {
+        "name": "Charente",
+        "type": "metropolitan department",
+        "latitude": "45.66584790",
+        "longitude": "-0.31845770",
+        "code": "16"
+    },
+    {
+        "name": "Charente-Maritime",
+        "type": "metropolitan department",
+        "latitude": "45.72968280",
+        "longitude": "-1.33881160",
+        "code": "17"
+    },
+    {
+        "name": "Cher",
+        "type": "metropolitan department",
+        "latitude": "47.02436280",
+        "longitude": "1.86627320",
+        "code": "18"
+    },
+    {
+        "name": "Clipperton",
+        "type": "dependency",
+        "latitude": "10.28335410",
+        "longitude": "-109.22542150",
+        "code": "CP"
+    },
+    {
+        "name": "Corrèze",
+        "type": "metropolitan department",
+        "latitude": "45.34237070",
+        "longitude": "1.31717330",
+        "code": "19"
+    },
+    {
+        "name": "Corse",
+        "type": "metropolitan collectivity with special status",
+        "latitude": "42.03960420",
+        "longitude": "9.01289260",
+        "code": "20R"
+    },
+    {
+        "name": "Corse-du-Sud",
+        "type": "metropolitan department",
+        "latitude": "41.85720550",
+        "longitude": "8.41091830",
+        "code": "2A"
+    },
+    {
+        "name": "Côte-d'Or",
+        "type": "metropolitan department",
+        "latitude": "47.46513020",
+        "longitude": "4.23154950",
+        "code": "21"
+    },
+    {
+        "name": "Côtes-d'Armor",
+        "type": "metropolitan department",
+        "latitude": "48.46633360",
+        "longitude": "-3.34789610",
+        "code": "22"
+    },
+    {
+        "name": "Creuse",
+        "type": "metropolitan department",
+        "latitude": "46.05903940",
+        "longitude": "1.43150500",
+        "code": "23"
+    },
+    {
+        "name": "Deux-Sèvres",
+        "type": "metropolitan department",
+        "latitude": "46.53868170",
+        "longitude": "-0.90199480",
+        "code": "79"
+    },
+    {
+        "name": "Dordogne",
+        "type": "metropolitan department",
+        "latitude": "45.14234160",
+        "longitude": "0.14274080",
+        "code": "24"
+    },
+    {
+        "name": "Doubs",
+        "type": "metropolitan department",
+        "latitude": "46.93217740",
+        "longitude": "6.34762140",
+        "code": "25"
+    },
+    {
+        "name": "Drôme",
+        "type": "metropolitan department",
+        "latitude": "44.72933570",
+        "longitude": "4.67821580",
+        "code": "26"
+    },
+    {
+        "name": "Essonne",
+        "type": "metropolitan department",
+        "latitude": "48.53046150",
+        "longitude": "1.96990560",
+        "code": "91"
+    },
+    {
+        "name": "Eure",
+        "type": "metropolitan department",
+        "latitude": "49.07540350",
+        "longitude": "0.48937320",
+        "code": "27"
+    },
+    {
+        "name": "Eure-et-Loir",
+        "type": "metropolitan department",
+        "latitude": "48.44697840",
+        "longitude": "0.81470250",
+        "code": "28"
+    },
+    {
+        "name": "Finistère",
+        "type": "metropolitan department",
+        "latitude": "48.22696100",
+        "longitude": "-4.82437330",
+        "code": "29"
+    },
+    {
+        "name": "French Guiana",
+        "type": "overseas region",
+        "latitude": "3.93388900",
+        "longitude": "-53.12578200",
+        "code": "973"
+    },
+    {
+        "name": "French Polynesia",
+        "type": "overseas collectivity",
+        "latitude": "-17.67974200",
+        "longitude": "-149.40684300",
+        "code": "PF"
+    },
+    {
+        "name": "French Southern and Antarctic Lands",
+        "type": "overseas territory",
+        "latitude": "-47.54466040",
+        "longitude": "51.28375420",
+        "code": "TF"
+    },
+    {
+        "name": "Gard",
+        "type": "metropolitan department",
+        "latitude": "43.95952760",
+        "longitude": "3.49356810",
+        "code": "30"
+    },
+    {
+        "name": "Gers",
+        "type": "metropolitan department",
+        "latitude": "43.69505340",
+        "longitude": "-0.09997280",
+        "code": "32"
+    },
+    {
+        "name": "Gironde",
+        "type": "metropolitan department",
+        "latitude": "44.89584690",
+        "longitude": "-1.59405320",
+        "code": "33"
+    },
+    {
+        "name": "Grand-Est",
+        "type": "metropolitan region",
+        "latitude": "48.69980300",
+        "longitude": "6.18780740",
+        "code": "GES"
+    },
+    {
+        "name": "Guadeloupe",
+        "type": "overseas region",
+        "latitude": "16.26500000",
+        "longitude": "-61.55100000",
+        "code": "971"
+    },
+    {
+        "name": "Haut-Rhin",
+        "type": "metropolitan department",
+        "latitude": "47.86537740",
+        "longitude": "6.67113810",
+        "code": "68"
+    },
+    {
+        "name": "Haute-Corse",
+        "type": "metropolitan department",
+        "latitude": "42.42958660",
+        "longitude": "8.50625610",
+        "code": "2B"
+    },
+    {
+        "name": "Haute-Garonne",
+        "type": "metropolitan department",
+        "latitude": "43.30505550",
+        "longitude": "0.68455150",
+        "code": "31"
+    },
+    {
+        "name": "Haute-Loire",
+        "type": "metropolitan department",
+        "latitude": "45.08538060",
+        "longitude": "3.22607070",
+        "code": "43"
+    },
+    {
+        "name": "Haute-Marne",
+        "type": "metropolitan department",
+        "latitude": "48.13248210",
+        "longitude": "4.69834990",
+        "code": "52"
+    },
+    {
+        "name": "Haute-Saône",
+        "type": "metropolitan department",
+        "latitude": "47.63789960",
+        "longitude": "5.53550550",
+        "code": "70"
+    },
+    {
+        "name": "Haute-Savoie",
+        "type": "metropolitan department",
+        "latitude": "46.04452770",
+        "longitude": "5.86413800",
+        "code": "74"
+    },
+    {
+        "name": "Haute-Vienne",
+        "type": "metropolitan department",
+        "latitude": "45.91868780",
+        "longitude": "0.70972060",
+        "code": "87"
+    },
+    {
+        "name": "Hautes-Alpes",
+        "type": "metropolitan department",
+        "latitude": "44.65626820",
+        "longitude": "5.68732110",
+        "code": "05"
+    },
+    {
+        "name": "Hautes-Pyrénées",
+        "type": "metropolitan department",
+        "latitude": "43.14294620",
+        "longitude": "-0.40097360",
+        "code": "65"
+    },
+    {
+        "name": "Hauts-de-France",
+        "type": "metropolitan region",
+        "latitude": "50.48011530",
+        "longitude": "2.79372650",
+        "code": "HDF"
+    },
+    {
+        "name": "Hauts-de-Seine",
+        "type": "metropolitan department",
+        "latitude": "48.84030080",
+        "longitude": "2.10125590",
+        "code": "92"
+    },
+    {
+        "name": "Hérault",
+        "type": "metropolitan department",
+        "latitude": "43.59111200",
+        "longitude": "2.80661080",
+        "code": "34"
+    },
+    {
+        "name": "Île-de-France",
+        "type": "metropolitan region",
+        "latitude": "48.84991980",
+        "longitude": "2.63704110",
+        "code": "IDF"
+    },
+    {
+        "name": "Ille-et-Vilaine",
+        "type": "metropolitan department",
+        "latitude": "48.17624840",
+        "longitude": "-2.21304010",
+        "code": "35"
+    },
+    {
+        "name": "Indre",
+        "type": "metropolitan department",
+        "latitude": "46.81175500",
+        "longitude": "0.97555230",
+        "code": "36"
+    },
+    {
+        "name": "Indre-et-Loire",
+        "type": "metropolitan department",
+        "latitude": "47.22285820",
+        "longitude": "0.14896190",
+        "code": "37"
+    },
+    {
+        "name": "Isère",
+        "type": "metropolitan department",
+        "latitude": "45.28922710",
+        "longitude": "4.99023550",
+        "code": "38"
+    },
+    {
+        "name": "Jura",
+        "type": "metropolitan department",
+        "latitude": "46.78287410",
+        "longitude": "5.16918440",
+        "code": "39"
+    },
+    {
+        "name": "La Réunion",
+        "type": "overseas region",
+        "latitude": "-21.11514100",
+        "longitude": "55.53638400",
+        "code": "974"
+    },
+    {
+        "name": "Landes",
+        "type": "metropolitan department",
+        "latitude": "44.00950800",
+        "longitude": "-1.25385790",
+        "code": "40"
+    },
+    {
+        "name": "Loir-et-Cher",
+        "type": "metropolitan department",
+        "latitude": "47.65937600",
+        "longitude": "0.85376310",
+        "code": "41"
+    },
+    {
+        "name": "Loire",
+        "type": "metropolitan department",
+        "latitude": "46.35228120",
+        "longitude": "-1.17563390",
+        "code": "42"
+    },
+    {
+        "name": "Loire-Atlantique",
+        "type": "metropolitan department",
+        "latitude": "47.34757210",
+        "longitude": "-2.34663120",
+        "code": "44"
+    },
+    {
+        "name": "Loiret",
+        "type": "metropolitan department",
+        "latitude": "47.91354310",
+        "longitude": "1.76009900",
+        "code": "45"
+    },
+    {
+        "name": "Lot",
+        "type": "metropolitan department",
+        "latitude": "44.62460700",
+        "longitude": "1.03576310",
+        "code": "46"
+    },
+    {
+        "name": "Lot-et-Garonne",
+        "type": "metropolitan department",
+        "latitude": "44.36873140",
+        "longitude": "-0.09161690",
+        "code": "47"
+    },
+    {
+        "name": "Lozère",
+        "type": "metropolitan department",
+        "latitude": "44.54227790",
+        "longitude": "2.92934590",
+        "code": "48"
+    },
+    {
+        "name": "Maine-et-Loire",
+        "type": "metropolitan department",
+        "latitude": "47.38900340",
+        "longitude": "-1.12025270",
+        "code": "49"
+    },
+    {
+        "name": "Manche",
+        "type": "metropolitan department",
+        "latitude": "49.08817340",
+        "longitude": "-2.46272090",
+        "code": "50"
+    },
+    {
+        "name": "Marne",
+        "type": "metropolitan department",
+        "latitude": "48.96107450",
+        "longitude": "3.65737670",
+        "code": "51"
+    },
+    {
+        "name": "Martinique",
+        "type": "overseas region",
+        "latitude": "14.64152800",
+        "longitude": "-61.02417400",
+        "code": "972"
+    },
+    {
+        "name": "Mayenne",
+        "type": "metropolitan department",
+        "latitude": "48.30668420",
+        "longitude": "-0.64901820",
+        "code": "53"
+    },
+    {
+        "name": "Mayotte",
+        "type": "overseas region",
+        "latitude": "-12.82750000",
+        "longitude": "45.16624400",
+        "code": "976"
+    },
+    {
+        "name": "Métropole de Lyon",
+        "type": "metropolitan department",
+        "latitude": "45.74826290",
+        "longitude": "4.59584040",
+        "code": "69M"
+    },
+    {
+        "name": "Meurthe-et-Moselle",
+        "type": "metropolitan department",
+        "latitude": "48.95566150",
+        "longitude": "5.71423500",
+        "code": "54"
+    },
+    {
+        "name": "Meuse",
+        "type": "metropolitan department",
+        "latitude": "49.01246200",
+        "longitude": "4.81087340",
+        "code": "55"
+    },
+    {
+        "name": "Morbihan",
+        "type": "metropolitan department",
+        "latitude": "47.74395180",
+        "longitude": "-3.44555240",
+        "code": "56"
+    },
+    {
+        "name": "Moselle",
+        "type": "metropolitan department",
+        "latitude": "49.02045660",
+        "longitude": "6.20553220",
+        "code": "57"
+    },
+    {
+        "name": "Nièvre",
+        "type": "metropolitan department",
+        "latitude": "47.11921640",
+        "longitude": "2.97797130",
+        "code": "58"
+    },
+    {
+        "name": "Nord",
+        "type": "metropolitan department",
+        "latitude": "50.52854770",
+        "longitude": "2.60007760",
+        "code": "59"
+    },
+    {
+        "name": "Normandie",
+        "type": "metropolitan region",
+        "latitude": "48.87987040",
+        "longitude": "0.17125290",
+        "code": "NOR"
+    },
+    {
+        "name": "Nouvelle-Aquitaine",
+        "type": "metropolitan region",
+        "latitude": "45.70871820",
+        "longitude": "0.62689100",
+        "code": "NAQ"
+    },
+    {
+        "name": "Occitanie",
+        "type": "metropolitan region",
+        "latitude": "43.89272320",
+        "longitude": "3.28276250",
+        "code": "OCC"
+    },
+    {
+        "name": "Oise",
+        "type": "metropolitan department",
+        "latitude": "49.41173350",
+        "longitude": "1.86688250",
+        "code": "60"
+    },
+    {
+        "name": "Orne",
+        "type": "metropolitan department",
+        "latitude": "48.57576440",
+        "longitude": "-0.50242950",
+        "code": "61"
+    },
+    {
+        "name": "Paris",
+        "type": "metropolitan collectivity with special status",
+        "latitude": "48.85661400",
+        "longitude": "2.35222190",
+        "code": "75C"
+    },
+    {
+        "name": "Pas-de-Calais",
+        "type": "metropolitan department",
+        "latitude": "50.51446990",
+        "longitude": "1.81149800",
+        "code": "62"
+    },
+    {
+        "name": "Pays-de-la-Loire",
+        "type": "metropolitan region",
+        "latitude": "47.76328360",
+        "longitude": "-0.32996870",
+        "code": "PDL"
+    },
+    {
+        "name": "Provence-Alpes-Côte-d’Azur",
+        "type": "metropolitan region",
+        "latitude": "43.93516910",
+        "longitude": "6.06791940",
+        "code": "PAC"
+    },
+    {
+        "name": "Puy-de-Dôme",
+        "type": "metropolitan department",
+        "latitude": "45.77141850",
+        "longitude": "2.62626760",
+        "code": "63"
+    },
+    {
+        "name": "Pyrénées-Atlantiques",
+        "type": "metropolitan department",
+        "latitude": "43.18681700",
+        "longitude": "-1.44170710",
+        "code": "64"
+    },
+    {
+        "name": "Pyrénées-Orientales",
+        "type": "metropolitan department",
+        "latitude": "42.62541790",
+        "longitude": "1.88929580",
+        "code": "66"
+    },
+    {
+        "name": "Rhône",
+        "type": "metropolitan department",
+        "latitude": "44.93433000",
+        "longitude": "4.24093290",
+        "code": "69"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "type": "overseas collectivity",
+        "latitude": "46.88520000",
+        "longitude": "-56.31590000",
+        "code": "PM"
+    },
+    {
+        "name": "Saint-Barthélemy",
+        "type": "overseas collectivity",
+        "latitude": "17.90051340",
+        "longitude": "-62.82058710",
+        "code": "BL"
+    },
+    {
+        "name": "Saint-Martin",
+        "type": "overseas collectivity",
+        "latitude": "18.07082980",
+        "longitude": "-63.05008090",
+        "code": "MF"
+    },
+    {
+        "name": "Saône-et-Loire",
+        "type": "metropolitan department",
+        "latitude": "46.65548830",
+        "longitude": "3.98350500",
+        "code": "71"
+    },
+    {
+        "name": "Sarthe",
+        "type": "metropolitan department",
+        "latitude": "48.02627330",
+        "longitude": "-0.32613170",
+        "code": "72"
+    },
+    {
+        "name": "Savoie",
+        "type": "metropolitan department",
+        "latitude": "45.49469900",
+        "longitude": "5.84329840",
+        "code": "73"
+    },
+    {
+        "name": "Seine-et-Marne",
+        "type": "metropolitan department",
+        "latitude": "48.61853940",
+        "longitude": "2.41525610",
+        "code": "77"
+    },
+    {
+        "name": "Seine-Maritime",
+        "type": "metropolitan department",
+        "latitude": "49.66096810",
+        "longitude": "0.36775610",
+        "code": "76"
+    },
+    {
+        "name": "Seine-Saint-Denis",
+        "type": "metropolitan department",
+        "latitude": "48.90993180",
+        "longitude": "2.30573790",
+        "code": "93"
+    },
+    {
+        "name": "Somme",
+        "type": "metropolitan department",
+        "latitude": "49.96859220",
+        "longitude": "1.73106960",
+        "code": "80"
+    },
+    {
+        "name": "Tarn",
+        "type": "metropolitan department",
+        "latitude": "43.79149770",
+        "longitude": "1.67588930",
+        "code": "81"
+    },
+    {
+        "name": "Tarn-et-Garonne",
+        "type": "metropolitan department",
+        "latitude": "44.08089500",
+        "longitude": "1.08916570",
+        "code": "82"
+    },
+    {
+        "name": "Territoire de Belfort",
+        "type": "metropolitan department",
+        "latitude": "47.62930720",
+        "longitude": "6.66962000",
+        "code": "90"
+    },
+    {
+        "name": "Val-d'Oise",
+        "type": "metropolitan department",
+        "latitude": "49.07518180",
+        "longitude": "1.82169140",
+        "code": "95"
+    },
+    {
+        "name": "Val-de-Marne",
+        "type": "metropolitan department",
+        "latitude": "48.77470040",
+        "longitude": "2.32210390",
+        "code": "94"
+    },
+    {
+        "name": "Var",
+        "type": "metropolitan department",
+        "latitude": "43.39507300",
+        "longitude": "5.73424170",
+        "code": "83"
+    },
+    {
+        "name": "Vaucluse",
+        "type": "metropolitan department",
+        "latitude": "44.04475000",
+        "longitude": "4.64277180",
+        "code": "84"
+    },
+    {
+        "name": "Vendée",
+        "type": "metropolitan department",
+        "latitude": "46.67541030",
+        "longitude": "-2.02983920",
+        "code": "85"
+    },
+    {
+        "name": "Vienne",
+        "type": "metropolitan department",
+        "latitude": "45.52213140",
+        "longitude": "4.84531360",
+        "code": "86"
+    },
+    {
+        "name": "Vosges",
+        "type": "metropolitan department",
+        "latitude": "48.16301730",
+        "longitude": "5.73556000",
+        "code": "88"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "type": "overseas collectivity",
+        "latitude": "-14.29380000",
+        "longitude": "-178.11650000",
+        "code": "WF"
+    },
+    {
+        "name": "Yonne",
+        "type": "metropolitan department",
+        "latitude": "47.85476140",
+        "longitude": "3.03394040",
+        "code": "89"
+    },
+    {
+        "name": "Yvelines",
+        "type": "metropolitan department",
+        "latitude": "48.76153010",
+        "longitude": "1.27729490",
+        "code": "78"
+    }
+]

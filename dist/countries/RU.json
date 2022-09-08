@@ -225,90 +225,594 @@
         "format": "######",
         "regex": "^(\\d{6})$"
     },
-    "provinces": [
-        "Altai Krai",
-        "Altai Republic",
-        "Amur Oblast",
-        "Arkhangelsk",
-        "Astrakhan Oblast",
-        "Belgorod Oblast",
-        "Bryansk Oblast",
-        "Chechen Republic",
-        "Chelyabinsk Oblast",
-        "Chukotka Autonomous Okrug",
-        "Chuvash Republic",
-        "Irkutsk",
-        "Ivanovo Oblast",
-        "Jewish Autonomous Oblast",
-        "Kabardino-Balkar Republic",
-        "Kaliningrad",
-        "Kaluga Oblast",
-        "Kamchatka Krai",
-        "Karachay-Cherkess Republic",
-        "Kemerovo Oblast",
-        "Khabarovsk Krai",
-        "Khanty-Mansi Autonomous Okrug",
-        "Kirov Oblast",
-        "Komi Republic",
-        "Kostroma Oblast",
-        "Krasnodar Krai",
-        "Krasnoyarsk Krai",
-        "Kurgan Oblast",
-        "Kursk Oblast",
-        "Leningrad Oblast",
-        "Lipetsk Oblast",
-        "Magadan Oblast",
-        "Mari El Republic",
-        "Moscow",
-        "Moscow Oblast",
-        "Murmansk Oblast",
-        "Nenets Autonomous Okrug",
-        "Nizhny Novgorod Oblast",
-        "Novgorod Oblast",
-        "Novosibirsk",
-        "Omsk Oblast",
-        "Orenburg Oblast",
-        "Oryol Oblast",
-        "Penza Oblast",
-        "Perm Krai",
-        "Primorsky Krai",
-        "Pskov Oblast",
-        "Republic of Adygea",
-        "Republic of Bashkortostan",
-        "Republic of Buryatia",
-        "Republic of Dagestan",
-        "Republic of Ingushetia",
-        "Republic of Kalmykia",
-        "Republic of Karelia",
-        "Republic of Khakassia",
-        "Republic of Mordovia",
-        "Republic of North Ossetia-Alania",
-        "Republic of Tatarstan",
-        "Rostov Oblast",
-        "Ryazan Oblast",
-        "Saint Petersburg",
-        "Sakha Republic",
-        "Sakhalin",
-        "Samara Oblast",
-        "Saratov Oblast",
-        "Sevastopol",
-        "Smolensk Oblast",
-        "Stavropol Krai",
-        "Sverdlovsk",
-        "Tambov Oblast",
-        "Tomsk Oblast",
-        "Tula Oblast",
-        "Tuva Republic",
-        "Tver Oblast",
-        "Tyumen Oblast",
-        "Udmurt Republic",
-        "Ulyanovsk Oblast",
-        "Vladimir Oblast",
-        "Volgograd Oblast",
-        "Vologda Oblast",
-        "Voronezh Oblast",
-        "Yamalo-Nenets Autonomous Okrug",
-        "Yaroslavl Oblast",
-        "Zabaykalsky Krai"
+    "states": [
+        {
+            "name": "Altai Krai",
+            "type": null,
+            "latitude": "51.79362980",
+            "longitude": "82.67585960",
+            "code": "ALT"
+        },
+        {
+            "name": "Altai Republic",
+            "type": null,
+            "latitude": "50.61819240",
+            "longitude": "86.21993080",
+            "code": "AL"
+        },
+        {
+            "name": "Amur Oblast",
+            "type": null,
+            "latitude": "54.60350650",
+            "longitude": "127.48017210",
+            "code": "AMU"
+        },
+        {
+            "name": "Arkhangelsk",
+            "type": null,
+            "latitude": "64.54585490",
+            "longitude": "40.55057690",
+            "code": "ARK"
+        },
+        {
+            "name": "Astrakhan Oblast",
+            "type": null,
+            "latitude": "46.13211660",
+            "longitude": "48.06101150",
+            "code": "AST"
+        },
+        {
+            "name": "Belgorod Oblast",
+            "type": null,
+            "latitude": "50.71069260",
+            "longitude": "37.75333770",
+            "code": "BEL"
+        },
+        {
+            "name": "Bryansk Oblast",
+            "type": null,
+            "latitude": "53.04085990",
+            "longitude": "33.26909000",
+            "code": "BRY"
+        },
+        {
+            "name": "Chechen Republic",
+            "type": null,
+            "latitude": "43.40233010",
+            "longitude": "45.71874680",
+            "code": "CE"
+        },
+        {
+            "name": "Chelyabinsk Oblast",
+            "type": null,
+            "latitude": "54.43194220",
+            "longitude": "60.87889630",
+            "code": "CHE"
+        },
+        {
+            "name": "Chukotka Autonomous Okrug",
+            "type": null,
+            "latitude": "65.62983550",
+            "longitude": "171.69521590",
+            "code": "CHU"
+        },
+        {
+            "name": "Chuvash Republic",
+            "type": null,
+            "latitude": "55.55959920",
+            "longitude": "46.92835350",
+            "code": "CU"
+        },
+        {
+            "name": "Irkutsk",
+            "type": null,
+            "latitude": "52.28548340",
+            "longitude": "104.28902220",
+            "code": "IRK"
+        },
+        {
+            "name": "Ivanovo Oblast",
+            "type": null,
+            "latitude": "57.10568540",
+            "longitude": "41.48300840",
+            "code": "IVA"
+        },
+        {
+            "name": "Jewish Autonomous Oblast",
+            "type": null,
+            "latitude": "48.48081470",
+            "longitude": "131.76573670",
+            "code": "YEV"
+        },
+        {
+            "name": "Kabardino-Balkar Republic",
+            "type": null,
+            "latitude": "43.39324690",
+            "longitude": "43.56284980",
+            "code": "KB"
+        },
+        {
+            "name": "Kaliningrad",
+            "type": null,
+            "latitude": "54.71042640",
+            "longitude": "20.45221440",
+            "code": "KGD"
+        },
+        {
+            "name": "Kaluga Oblast",
+            "type": null,
+            "latitude": "54.38726660",
+            "longitude": "35.18890940",
+            "code": "KLU"
+        },
+        {
+            "name": "Kamchatka Krai",
+            "type": null,
+            "latitude": "61.43439810",
+            "longitude": "166.78841310",
+            "code": "KAM"
+        },
+        {
+            "name": "Karachay-Cherkess Republic",
+            "type": null,
+            "latitude": "43.88451430",
+            "longitude": "41.73039390",
+            "code": "KC"
+        },
+        {
+            "name": "Kemerovo Oblast",
+            "type": null,
+            "latitude": "54.75746480",
+            "longitude": "87.40552880",
+            "code": "KEM"
+        },
+        {
+            "name": "Khabarovsk Krai",
+            "type": null,
+            "latitude": "50.58884310",
+            "longitude": "135.00000000",
+            "code": "KHA"
+        },
+        {
+            "name": "Khanty-Mansi Autonomous Okrug",
+            "type": null,
+            "latitude": "62.22870620",
+            "longitude": "70.64100570",
+            "code": "KHM"
+        },
+        {
+            "name": "Kirov Oblast",
+            "type": null,
+            "latitude": "58.41985290",
+            "longitude": "50.20972480",
+            "code": "KIR"
+        },
+        {
+            "name": "Komi Republic",
+            "type": null,
+            "latitude": "63.86305390",
+            "longitude": "54.83126900",
+            "code": "KO"
+        },
+        {
+            "name": "Kostroma Oblast",
+            "type": null,
+            "latitude": "58.55010690",
+            "longitude": "43.95411020",
+            "code": "KOS"
+        },
+        {
+            "name": "Krasnodar Krai",
+            "type": null,
+            "latitude": "45.64152890",
+            "longitude": "39.70559770",
+            "code": "KDA"
+        },
+        {
+            "name": "Krasnoyarsk Krai",
+            "type": null,
+            "latitude": "64.24797580",
+            "longitude": "95.11041760",
+            "code": "KYA"
+        },
+        {
+            "name": "Kurgan Oblast",
+            "type": null,
+            "latitude": "55.44815480",
+            "longitude": "65.11809750",
+            "code": "KGN"
+        },
+        {
+            "name": "Kursk Oblast",
+            "type": null,
+            "latitude": "51.76340260",
+            "longitude": "35.38118120",
+            "code": "KRS"
+        },
+        {
+            "name": "Leningrad Oblast",
+            "type": null,
+            "latitude": "60.07932080",
+            "longitude": "31.89266450",
+            "code": "LEN"
+        },
+        {
+            "name": "Lipetsk Oblast",
+            "type": null,
+            "latitude": "52.52647020",
+            "longitude": "39.20322690",
+            "code": "LIP"
+        },
+        {
+            "name": "Magadan Oblast",
+            "type": null,
+            "latitude": "62.66434170",
+            "longitude": "153.91499100",
+            "code": "MAG"
+        },
+        {
+            "name": "Mari El Republic",
+            "type": null,
+            "latitude": "56.43845700",
+            "longitude": "47.96077580",
+            "code": "ME"
+        },
+        {
+            "name": "Moscow",
+            "type": null,
+            "latitude": "55.75582600",
+            "longitude": "37.61729990",
+            "code": "MOW"
+        },
+        {
+            "name": "Moscow Oblast",
+            "type": null,
+            "latitude": "55.34039600",
+            "longitude": "38.29176510",
+            "code": "MOS"
+        },
+        {
+            "name": "Murmansk Oblast",
+            "type": null,
+            "latitude": "67.84426740",
+            "longitude": "35.08841020",
+            "code": "MUR"
+        },
+        {
+            "name": "Nenets Autonomous Okrug",
+            "type": null,
+            "latitude": "67.60783370",
+            "longitude": "57.63383310",
+            "code": "NEN"
+        },
+        {
+            "name": "Nizhny Novgorod Oblast",
+            "type": null,
+            "latitude": "55.79951590",
+            "longitude": "44.02967690",
+            "code": "NIZ"
+        },
+        {
+            "name": "Novgorod Oblast",
+            "type": null,
+            "latitude": "58.24275520",
+            "longitude": "32.56651900",
+            "code": "NGR"
+        },
+        {
+            "name": "Novosibirsk",
+            "type": null,
+            "latitude": "54.98326930",
+            "longitude": "82.89638310",
+            "code": "NVS"
+        },
+        {
+            "name": "Omsk Oblast",
+            "type": null,
+            "latitude": "55.05546690",
+            "longitude": "73.31673420",
+            "code": "OMS"
+        },
+        {
+            "name": "Orenburg Oblast",
+            "type": null,
+            "latitude": "51.76340260",
+            "longitude": "54.61881880",
+            "code": "ORE"
+        },
+        {
+            "name": "Oryol Oblast",
+            "type": null,
+            "latitude": "52.78564140",
+            "longitude": "36.92423440",
+            "code": "ORL"
+        },
+        {
+            "name": "Penza Oblast",
+            "type": null,
+            "latitude": "53.14121050",
+            "longitude": "44.09400480",
+            "code": "PNZ"
+        },
+        {
+            "name": "Perm Krai",
+            "type": null,
+            "latitude": "58.82319290",
+            "longitude": "56.58724810",
+            "code": "PER"
+        },
+        {
+            "name": "Primorsky Krai",
+            "type": null,
+            "latitude": "45.05256410",
+            "longitude": "135.00000000",
+            "code": "PRI"
+        },
+        {
+            "name": "Pskov Oblast",
+            "type": null,
+            "latitude": "56.77085990",
+            "longitude": "29.09400900",
+            "code": "PSK"
+        },
+        {
+            "name": "Republic of Adygea",
+            "type": null,
+            "latitude": "44.82291550",
+            "longitude": "40.17544630",
+            "code": "AD"
+        },
+        {
+            "name": "Republic of Bashkortostan",
+            "type": null,
+            "latitude": "54.23121720",
+            "longitude": "56.16452570",
+            "code": "BA"
+        },
+        {
+            "name": "Republic of Buryatia",
+            "type": null,
+            "latitude": "54.83311460",
+            "longitude": "112.40605300",
+            "code": "BU"
+        },
+        {
+            "name": "Republic of Dagestan",
+            "type": null,
+            "latitude": "42.14318860",
+            "longitude": "47.09497990",
+            "code": "DA"
+        },
+        {
+            "name": "Republic of Ingushetia",
+            "type": null,
+            "latitude": "43.40516980",
+            "longitude": "44.82029990",
+            "code": "IN"
+        },
+        {
+            "name": "Republic of Kalmykia",
+            "type": null,
+            "latitude": "46.18671760",
+            "longitude": "45.00000000",
+            "code": "KL"
+        },
+        {
+            "name": "Republic of Karelia",
+            "type": null,
+            "latitude": "63.15587020",
+            "longitude": "32.99055520",
+            "code": "KR"
+        },
+        {
+            "name": "Republic of Khakassia",
+            "type": null,
+            "latitude": "53.04522810",
+            "longitude": "90.39821450",
+            "code": "KK"
+        },
+        {
+            "name": "Republic of Mordovia",
+            "type": null,
+            "latitude": "54.23694410",
+            "longitude": "44.06839700",
+            "code": "MO"
+        },
+        {
+            "name": "Republic of North Ossetia-Alania",
+            "type": null,
+            "latitude": "43.04513020",
+            "longitude": "44.28709720",
+            "code": "SE"
+        },
+        {
+            "name": "Republic of Tatarstan",
+            "type": null,
+            "latitude": "55.18023640",
+            "longitude": "50.72639450",
+            "code": "TA"
+        },
+        {
+            "name": "Rostov Oblast",
+            "type": null,
+            "latitude": "47.68532470",
+            "longitude": "41.82589520",
+            "code": "ROS"
+        },
+        {
+            "name": "Ryazan Oblast",
+            "type": null,
+            "latitude": "54.38759640",
+            "longitude": "41.25956610",
+            "code": "RYA"
+        },
+        {
+            "name": "Saint Petersburg",
+            "type": null,
+            "latitude": "59.93105840",
+            "longitude": "30.36090960",
+            "code": "SPE"
+        },
+        {
+            "name": "Sakha Republic",
+            "type": null,
+            "latitude": "66.76134510",
+            "longitude": "124.12375300",
+            "code": "SA"
+        },
+        {
+            "name": "Sakhalin",
+            "type": null,
+            "latitude": "50.69098480",
+            "longitude": "142.95056890",
+            "code": "SAK"
+        },
+        {
+            "name": "Samara Oblast",
+            "type": null,
+            "latitude": "53.41838390",
+            "longitude": "50.47255280",
+            "code": "SAM"
+        },
+        {
+            "name": "Saratov Oblast",
+            "type": null,
+            "latitude": "51.83692630",
+            "longitude": "46.75393970",
+            "code": "SAR"
+        },
+        {
+            "name": "Sevastopol",
+            "type": null,
+            "latitude": "44.61665000",
+            "longitude": "33.52536710",
+            "code": "UA-40"
+        },
+        {
+            "name": "Smolensk Oblast",
+            "type": null,
+            "latitude": "54.98829940",
+            "longitude": "32.66773780",
+            "code": "SMO"
+        },
+        {
+            "name": "Stavropol Krai",
+            "type": null,
+            "latitude": "44.66809930",
+            "longitude": "43.52021400",
+            "code": "STA"
+        },
+        {
+            "name": "Sverdlovsk",
+            "type": null,
+            "latitude": "56.84309930",
+            "longitude": "60.64540860",
+            "code": "SVE"
+        },
+        {
+            "name": "Tambov Oblast",
+            "type": null,
+            "latitude": "52.64165890",
+            "longitude": "41.42164510",
+            "code": "TAM"
+        },
+        {
+            "name": "Tomsk Oblast",
+            "type": null,
+            "latitude": "58.89698820",
+            "longitude": "82.67655000",
+            "code": "TOM"
+        },
+        {
+            "name": "Tula Oblast",
+            "type": null,
+            "latitude": "54.16376800",
+            "longitude": "37.56495070",
+            "code": "TUL"
+        },
+        {
+            "name": "Tuva Republic",
+            "type": null,
+            "latitude": "51.88726690",
+            "longitude": "95.62601720",
+            "code": "TY"
+        },
+        {
+            "name": "Tver Oblast",
+            "type": null,
+            "latitude": "57.00216540",
+            "longitude": "33.98531420",
+            "code": "TVE"
+        },
+        {
+            "name": "Tyumen Oblast",
+            "type": null,
+            "latitude": "56.96343870",
+            "longitude": "66.94827800",
+            "code": "TYU"
+        },
+        {
+            "name": "Udmurt Republic",
+            "type": null,
+            "latitude": "57.06702180",
+            "longitude": "53.02779480",
+            "code": "UD"
+        },
+        {
+            "name": "Ulyanovsk Oblast",
+            "type": null,
+            "latitude": "53.97933570",
+            "longitude": "47.77624250",
+            "code": "ULY"
+        },
+        {
+            "name": "Vladimir Oblast",
+            "type": null,
+            "latitude": "56.15534650",
+            "longitude": "40.59266850",
+            "code": "VLA"
+        },
+        {
+            "name": "Volgograd Oblast",
+            "type": null,
+            "latitude": "49.25873930",
+            "longitude": "39.81544630",
+            "code": "VGG"
+        },
+        {
+            "name": "Vologda Oblast",
+            "type": null,
+            "latitude": "59.87067110",
+            "longitude": "40.65554110",
+            "code": "VLG"
+        },
+        {
+            "name": "Voronezh Oblast",
+            "type": null,
+            "latitude": "50.85897130",
+            "longitude": "39.86443740",
+            "code": "VOR"
+        },
+        {
+            "name": "Yamalo-Nenets Autonomous Okrug",
+            "type": null,
+            "latitude": "66.06530570",
+            "longitude": "76.93451930",
+            "code": "YAN"
+        },
+        {
+            "name": "Yaroslavl Oblast",
+            "type": null,
+            "latitude": "57.89915230",
+            "longitude": "38.83886330",
+            "code": "YAR"
+        },
+        {
+            "name": "Zabaykalsky Krai",
+            "type": null,
+            "latitude": "53.09287710",
+            "longitude": "116.96765610",
+            "code": "ZAB"
+        }
     ]
 }

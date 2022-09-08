@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Haʻapai",
+        "type": null,
+        "latitude": "-19.75000000",
+        "longitude": "-174.36666700",
+        "code": "02"
+    },
+    {
+        "name": "ʻEua",
+        "type": null,
+        "latitude": "37.09024000",
+        "longitude": "-95.71289100",
+        "code": "01"
+    },
+    {
+        "name": "Niuas",
+        "type": null,
+        "latitude": "-15.95940000",
+        "longitude": "-173.78300000",
+        "code": "03"
+    },
+    {
+        "name": "Tongatapu",
+        "type": null,
+        "latitude": "-21.14659680",
+        "longitude": "-175.25154820",
+        "code": "04"
+    },
+    {
+        "name": "Vavaʻu",
+        "type": null,
+        "latitude": "-18.62275600",
+        "longitude": "-173.99029820",
+        "code": "05"
+    }
+]

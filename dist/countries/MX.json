@@ -203,38 +203,230 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Aguascalientes",
-        "Baja California",
-        "Baja California Sur",
-        "Campeche",
-        "Chiapas",
-        "Chihuahua",
-        "Ciudad de México",
-        "Coahuila de Zaragoza",
-        "Colima",
-        "Durango",
-        "Estado de México",
-        "Guanajuato",
-        "Guerrero",
-        "Hidalgo",
-        "Jalisco",
-        "Michoacán de Ocampo",
-        "Morelos",
-        "Nayarit",
-        "Nuevo León",
-        "Oaxaca",
-        "Puebla",
-        "Querétaro",
-        "Quintana Roo",
-        "San Luis Potosí",
-        "Sinaloa",
-        "Sonora",
-        "Tabasco",
-        "Tamaulipas",
-        "Tlaxcala",
-        "Veracruz de Ignacio de la Llave",
-        "Yucatán",
-        "Zacatecas"
+    "states": [
+        {
+            "name": "Aguascalientes",
+            "type": "state",
+            "latitude": "21.88525620",
+            "longitude": "-102.29156770",
+            "code": "AGU"
+        },
+        {
+            "name": "Baja California",
+            "type": "state",
+            "latitude": "30.84063380",
+            "longitude": "-115.28375850",
+            "code": "BCN"
+        },
+        {
+            "name": "Baja California Sur",
+            "type": "state",
+            "latitude": "26.04444460",
+            "longitude": "-111.66607250",
+            "code": "BCS"
+        },
+        {
+            "name": "Campeche",
+            "type": "state",
+            "latitude": "19.83012510",
+            "longitude": "-90.53490870",
+            "code": "CAM"
+        },
+        {
+            "name": "Chiapas",
+            "type": "state",
+            "latitude": "16.75693180",
+            "longitude": "-93.12923530",
+            "code": "CHP"
+        },
+        {
+            "name": "Chihuahua",
+            "type": "state",
+            "latitude": "28.63299570",
+            "longitude": "-106.06910040",
+            "code": "CHH"
+        },
+        {
+            "name": "Ciudad de México",
+            "type": "federal district",
+            "latitude": "19.43260770",
+            "longitude": "-99.13320800",
+            "code": "CDMX"
+        },
+        {
+            "name": "Coahuila de Zaragoza",
+            "type": "state",
+            "latitude": "27.05867600",
+            "longitude": "-101.70682940",
+            "code": "COA"
+        },
+        {
+            "name": "Colima",
+            "type": "state",
+            "latitude": "19.24523420",
+            "longitude": "-103.72408680",
+            "code": "COL"
+        },
+        {
+            "name": "Durango",
+            "type": "state",
+            "latitude": "37.27528000",
+            "longitude": "-107.88006670",
+            "code": "DUR"
+        },
+        {
+            "name": "Estado de México",
+            "type": "state",
+            "latitude": "23.63450100",
+            "longitude": "-102.55278400",
+            "code": "MEX"
+        },
+        {
+            "name": "Guanajuato",
+            "type": "state",
+            "latitude": "21.01901450",
+            "longitude": "-101.25735860",
+            "code": "GUA"
+        },
+        {
+            "name": "Guerrero",
+            "type": "state",
+            "latitude": "17.43919260",
+            "longitude": "-99.54509740",
+            "code": "GRO"
+        },
+        {
+            "name": "Hidalgo",
+            "type": "state",
+            "latitude": "26.10035470",
+            "longitude": "-98.26306840",
+            "code": "HID"
+        },
+        {
+            "name": "Jalisco",
+            "type": "state",
+            "latitude": "20.65953820",
+            "longitude": "-103.34943760",
+            "code": "JAL"
+        },
+        {
+            "name": "Michoacán de Ocampo",
+            "type": "state",
+            "latitude": "19.56651920",
+            "longitude": "-101.70682940",
+            "code": "MIC"
+        },
+        {
+            "name": "Morelos",
+            "type": "state",
+            "latitude": "18.68130490",
+            "longitude": "-99.10134980",
+            "code": "MOR"
+        },
+        {
+            "name": "Nayarit",
+            "type": "state",
+            "latitude": "21.75138440",
+            "longitude": "-104.84546190",
+            "code": "NAY"
+        },
+        {
+            "name": "Nuevo León",
+            "type": "state",
+            "latitude": "25.59217200",
+            "longitude": "-99.99619470",
+            "code": "NLE"
+        },
+        {
+            "name": "Oaxaca",
+            "type": "state",
+            "latitude": "17.07318420",
+            "longitude": "-96.72658890",
+            "code": "OAX"
+        },
+        {
+            "name": "Puebla",
+            "type": "state",
+            "latitude": "19.04143980",
+            "longitude": "-98.20627270",
+            "code": "PUE"
+        },
+        {
+            "name": "Querétaro",
+            "type": "state",
+            "latitude": "20.58879320",
+            "longitude": "-100.38988810",
+            "code": "QUE"
+        },
+        {
+            "name": "Quintana Roo",
+            "type": "state",
+            "latitude": "19.18173930",
+            "longitude": "-88.47913760",
+            "code": "ROO"
+        },
+        {
+            "name": "San Luis Potosí",
+            "type": "state",
+            "latitude": "22.15646990",
+            "longitude": "-100.98554090",
+            "code": "SLP"
+        },
+        {
+            "name": "Sinaloa",
+            "type": "state",
+            "latitude": "25.17210910",
+            "longitude": "-107.47951730",
+            "code": "SIN"
+        },
+        {
+            "name": "Sonora",
+            "type": "state",
+            "latitude": "37.98294960",
+            "longitude": "-120.38217240",
+            "code": "SON"
+        },
+        {
+            "name": "Tabasco",
+            "type": "state",
+            "latitude": "17.84091730",
+            "longitude": "-92.61892730",
+            "code": "TAB"
+        },
+        {
+            "name": "Tamaulipas",
+            "type": "state",
+            "latitude": "24.26694000",
+            "longitude": "-98.83627550",
+            "code": "TAM"
+        },
+        {
+            "name": "Tlaxcala",
+            "type": "state",
+            "latitude": "19.31815400",
+            "longitude": "-98.23749540",
+            "code": "TLA"
+        },
+        {
+            "name": "Veracruz de Ignacio de la Llave",
+            "type": "state",
+            "latitude": "19.17377300",
+            "longitude": "-96.13422410",
+            "code": "VER"
+        },
+        {
+            "name": "Yucatán",
+            "type": "state",
+            "latitude": "20.70987860",
+            "longitude": "-89.09433770",
+            "code": "YUC"
+        },
+        {
+            "name": "Zacatecas",
+            "type": "state",
+            "latitude": "22.77085550",
+            "longitude": "-102.58324260",
+            "code": "ZAC"
+        }
     ]
 }

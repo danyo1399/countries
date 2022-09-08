@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Amazonas",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "AMA"
+    },
+    {
+        "name": "Áncash",
+        "type": null,
+        "latitude": "-9.32504970",
+        "longitude": "-77.56194190",
+        "code": "ANC"
+    },
+    {
+        "name": "Apurímac",
+        "type": null,
+        "latitude": "-14.05045330",
+        "longitude": "-73.08774900",
+        "code": "APU"
+    },
+    {
+        "name": "Arequipa",
+        "type": null,
+        "latitude": "-16.40904740",
+        "longitude": "-71.53745100",
+        "code": "ARE"
+    },
+    {
+        "name": "Ayacucho",
+        "type": null,
+        "latitude": "-13.16387370",
+        "longitude": "-74.22356410",
+        "code": "AYA"
+    },
+    {
+        "name": "Cajamarca",
+        "type": null,
+        "latitude": "-7.16174650",
+        "longitude": "-78.51278550",
+        "code": "CAJ"
+    },
+    {
+        "name": "Callao",
+        "type": null,
+        "latitude": "-12.05084910",
+        "longitude": "-77.12598430",
+        "code": "CAL"
+    },
+    {
+        "name": "Cusco",
+        "type": null,
+        "latitude": "-13.53195000",
+        "longitude": "-71.96746260",
+        "code": "CUS"
+    },
+    {
+        "name": "Huancavelica",
+        "type": null,
+        "latitude": "-12.78619780",
+        "longitude": "-74.97640240",
+        "code": "HUV"
+    },
+    {
+        "name": "Huanuco",
+        "type": null,
+        "latitude": "-9.92076480",
+        "longitude": "-76.24108430",
+        "code": "HUC"
+    },
+    {
+        "name": "Ica",
+        "type": null,
+        "latitude": "42.35288320",
+        "longitude": "-71.04300970",
+        "code": "ICA"
+    },
+    {
+        "name": "Junín",
+        "type": null,
+        "latitude": "-11.15819250",
+        "longitude": "-75.99263060",
+        "code": "JUN"
+    },
+    {
+        "name": "La Libertad",
+        "type": null,
+        "latitude": "13.49069700",
+        "longitude": "-89.30846070",
+        "code": "LAL"
+    },
+    {
+        "name": "Lambayeque",
+        "type": null,
+        "latitude": "-6.71976660",
+        "longitude": "-79.90807570",
+        "code": "LAM"
+    },
+    {
+        "name": "Lima",
+        "type": null,
+        "latitude": "-12.04637310",
+        "longitude": "-77.04275400",
+        "code": "LIM"
+    },
+    {
+        "name": "Loreto",
+        "type": null,
+        "latitude": "-4.37416430",
+        "longitude": "-76.13042640",
+        "code": "LOR"
+    },
+    {
+        "name": "Madre de Dios",
+        "type": null,
+        "latitude": "-11.76687050",
+        "longitude": "-70.81199530",
+        "code": "MDD"
+    },
+    {
+        "name": "Moquegua",
+        "type": null,
+        "latitude": "-17.19273610",
+        "longitude": "-70.93281380",
+        "code": "MOQ"
+    },
+    {
+        "name": "Pasco",
+        "type": null,
+        "latitude": "46.23050490",
+        "longitude": "-119.09223160",
+        "code": "PAS"
+    },
+    {
+        "name": "Piura",
+        "type": null,
+        "latitude": "-5.17828840",
+        "longitude": "-80.65488820",
+        "code": "PIU"
+    },
+    {
+        "name": "Puno",
+        "type": null,
+        "latitude": "-15.84022180",
+        "longitude": "-70.02188050",
+        "code": "PUN"
+    },
+    {
+        "name": "San Martín",
+        "type": null,
+        "latitude": "37.08494640",
+        "longitude": "-121.61022160",
+        "code": "SAM"
+    },
+    {
+        "name": "Tacna",
+        "type": null,
+        "latitude": "-18.00656790",
+        "longitude": "-70.24627410",
+        "code": "TAC"
+    },
+    {
+        "name": "Tumbes",
+        "type": null,
+        "latitude": "-3.55649210",
+        "longitude": "-80.42708850",
+        "code": "TUM"
+    },
+    {
+        "name": "Ucayali",
+        "type": null,
+        "latitude": "-9.82511830",
+        "longitude": "-73.08774900",
+        "code": "UCA"
+    }
+]

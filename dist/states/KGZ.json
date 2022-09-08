@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Batken Region",
+        "type": null,
+        "latitude": "39.97214250",
+        "longitude": "69.85974060",
+        "code": "B"
+    },
+    {
+        "name": "Bishkek",
+        "type": null,
+        "latitude": "42.87462120",
+        "longitude": "74.56976170",
+        "code": "GB"
+    },
+    {
+        "name": "Chuy Region",
+        "type": null,
+        "latitude": "42.56550000",
+        "longitude": "74.40566120",
+        "code": "C"
+    },
+    {
+        "name": "Issyk-Kul Region",
+        "type": null,
+        "latitude": "42.18594280",
+        "longitude": "77.56194190",
+        "code": "Y"
+    },
+    {
+        "name": "Jalal-Abad Region",
+        "type": null,
+        "latitude": "41.10680800",
+        "longitude": "72.89880690",
+        "code": "J"
+    },
+    {
+        "name": "Naryn Region",
+        "type": null,
+        "latitude": "41.29432270",
+        "longitude": "75.34121790",
+        "code": "N"
+    },
+    {
+        "name": "Osh",
+        "type": null,
+        "latitude": "36.06313990",
+        "longitude": "-95.91828950",
+        "code": "GO"
+    },
+    {
+        "name": "Osh Region",
+        "type": null,
+        "latitude": "39.84073660",
+        "longitude": "72.89880690",
+        "code": "O"
+    },
+    {
+        "name": "Talas Region",
+        "type": null,
+        "latitude": "42.28673390",
+        "longitude": "72.52048270",
+        "code": "T"
+    }
+]

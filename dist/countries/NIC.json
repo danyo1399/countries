@@ -199,23 +199,125 @@
         "format": "###-###-#",
         "regex": "^(\\d{7})$"
     },
-    "provinces": [
-        "Boaco",
-        "Carazo",
-        "Chinandega",
-        "Chontales",
-        "Estelí",
-        "Granada",
-        "Jinotega",
-        "León",
-        "Madriz",
-        "Managua",
-        "Masaya",
-        "Matagalpa",
-        "North Caribbean Coast",
-        "Nueva Segovia",
-        "Río San Juan",
-        "Rivas",
-        "South Caribbean Coast"
+    "states": [
+        {
+            "name": "Boaco",
+            "type": "department",
+            "latitude": "12.46928400",
+            "longitude": "-85.66146820",
+            "code": "BO"
+        },
+        {
+            "name": "Carazo",
+            "type": "department",
+            "latitude": "11.72747290",
+            "longitude": "-86.21584970",
+            "code": "CA"
+        },
+        {
+            "name": "Chinandega",
+            "type": "department",
+            "latitude": "12.88200620",
+            "longitude": "-87.14228950",
+            "code": "CI"
+        },
+        {
+            "name": "Chontales",
+            "type": "department",
+            "latitude": "11.93947170",
+            "longitude": "-85.18940450",
+            "code": "CO"
+        },
+        {
+            "name": "Estelí",
+            "type": "department",
+            "latitude": "13.08511390",
+            "longitude": "-86.36301970",
+            "code": "ES"
+        },
+        {
+            "name": "Granada",
+            "type": "department",
+            "latitude": "11.93440730",
+            "longitude": "-85.95600050",
+            "code": "GR"
+        },
+        {
+            "name": "Jinotega",
+            "type": "department",
+            "latitude": "13.08839070",
+            "longitude": "-85.99939970",
+            "code": "JI"
+        },
+        {
+            "name": "León",
+            "type": "department",
+            "latitude": "12.50920370",
+            "longitude": "-86.66110830",
+            "code": "LE"
+        },
+        {
+            "name": "Madriz",
+            "type": "department",
+            "latitude": "13.47260050",
+            "longitude": "-86.45920910",
+            "code": "MD"
+        },
+        {
+            "name": "Managua",
+            "type": "department",
+            "latitude": "12.13916990",
+            "longitude": "-86.33767610",
+            "code": "MN"
+        },
+        {
+            "name": "Masaya",
+            "type": "department",
+            "latitude": "11.97593280",
+            "longitude": "-86.07334980",
+            "code": "MS"
+        },
+        {
+            "name": "Matagalpa",
+            "type": "department",
+            "latitude": "12.94984360",
+            "longitude": "-85.43755740",
+            "code": "MT"
+        },
+        {
+            "name": "North Caribbean Coast",
+            "type": "autonomous region",
+            "latitude": "13.83944560",
+            "longitude": "-83.93208060",
+            "code": "AN"
+        },
+        {
+            "name": "Nueva Segovia",
+            "type": "department",
+            "latitude": "13.76570610",
+            "longitude": "-86.53700390",
+            "code": "NS"
+        },
+        {
+            "name": "Río San Juan",
+            "type": "department",
+            "latitude": "11.47816100",
+            "longitude": "-84.77333250",
+            "code": "SJ"
+        },
+        {
+            "name": "Rivas",
+            "type": "department",
+            "latitude": "11.40234900",
+            "longitude": "-85.68457800",
+            "code": "RI"
+        },
+        {
+            "name": "South Caribbean Coast",
+            "type": "autonomous region",
+            "latitude": "12.19185020",
+            "longitude": "-84.10128610",
+            "code": "AS"
+        }
     ]
 }

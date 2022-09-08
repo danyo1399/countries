@@ -1,0 +1,219 @@
+[
+    {
+        "name": "Abidjan",
+        "type": null,
+        "latitude": "5.35995170",
+        "longitude": "-4.00825630",
+        "code": "AB"
+    },
+    {
+        "name": "Agnéby",
+        "type": null,
+        "latitude": "5.32245030",
+        "longitude": "-4.34495290",
+        "code": "16"
+    },
+    {
+        "name": "Bafing Region",
+        "type": null,
+        "latitude": "8.32520470",
+        "longitude": "-7.52472430",
+        "code": "17"
+    },
+    {
+        "name": "Bas-Sassandra District",
+        "type": null,
+        "latitude": "5.27983560",
+        "longitude": "-6.15269850",
+        "code": "BS"
+    },
+    {
+        "name": "Bas-Sassandra Region",
+        "type": null,
+        "latitude": "5.35679160",
+        "longitude": "-6.74939930",
+        "code": "09"
+    },
+    {
+        "name": "Comoé District",
+        "type": null,
+        "latitude": "5.55279300",
+        "longitude": "-3.25836260",
+        "code": "CM"
+    },
+    {
+        "name": "Denguélé District",
+        "type": null,
+        "latitude": "48.07077630",
+        "longitude": "-68.56093410",
+        "code": "DN"
+    },
+    {
+        "name": "Denguélé Region",
+        "type": null,
+        "latitude": "9.46623720",
+        "longitude": "-7.43813550",
+        "code": "10"
+    },
+    {
+        "name": "Dix-Huit Montagnes",
+        "type": null,
+        "latitude": "7.37623730",
+        "longitude": "-7.43813550",
+        "code": "06"
+    },
+    {
+        "name": "Fromager",
+        "type": null,
+        "latitude": "45.54502130",
+        "longitude": "-73.60462230",
+        "code": "18"
+    },
+    {
+        "name": "Gôh-Djiboua District",
+        "type": null,
+        "latitude": "5.87113930",
+        "longitude": "-5.56172790",
+        "code": "GD"
+    },
+    {
+        "name": "Haut-Sassandra",
+        "type": null,
+        "latitude": "6.87578480",
+        "longitude": "-6.57833870",
+        "code": "02"
+    },
+    {
+        "name": "Lacs District",
+        "type": null,
+        "latitude": "48.19801690",
+        "longitude": "-80.45644120",
+        "code": "LC"
+    },
+    {
+        "name": "Lacs Region",
+        "type": null,
+        "latitude": "47.73958660",
+        "longitude": "-70.41866520",
+        "code": "07"
+    },
+    {
+        "name": "Lagunes District",
+        "type": null,
+        "latitude": "5.88273340",
+        "longitude": "-4.23333550",
+        "code": "LG"
+    },
+    {
+        "name": "Lagunes region",
+        "type": null,
+        "latitude": "5.88273340",
+        "longitude": "-4.23333550",
+        "code": "01"
+    },
+    {
+        "name": "Marahoué Region",
+        "type": null,
+        "latitude": "6.88462070",
+        "longitude": "-5.89871390",
+        "code": "12"
+    },
+    {
+        "name": "Montagnes District",
+        "type": null,
+        "latitude": "7.37623730",
+        "longitude": "-7.43813550",
+        "code": "MG"
+    },
+    {
+        "name": "Moyen-Cavally",
+        "type": null,
+        "latitude": "6.52087930",
+        "longitude": "-7.61142170",
+        "code": "19"
+    },
+    {
+        "name": "Moyen-Comoé",
+        "type": null,
+        "latitude": "6.65149170",
+        "longitude": "-3.50034540",
+        "code": "05"
+    },
+    {
+        "name": "N'zi-Comoé",
+        "type": null,
+        "latitude": "7.24567490",
+        "longitude": "-4.23333550",
+        "code": "11"
+    },
+    {
+        "name": "Sassandra-Marahoué District",
+        "type": null,
+        "latitude": "6.88033480",
+        "longitude": "-6.23759470",
+        "code": "SM"
+    },
+    {
+        "name": "Savanes Region",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "03"
+    },
+    {
+        "name": "Sud-Bandama",
+        "type": null,
+        "latitude": "5.53570830",
+        "longitude": "-5.56172790",
+        "code": "15"
+    },
+    {
+        "name": "Sud-Comoé",
+        "type": null,
+        "latitude": "5.55279300",
+        "longitude": "-3.25836260",
+        "code": "13"
+    },
+    {
+        "name": "Vallée du Bandama District",
+        "type": null,
+        "latitude": "8.27897800",
+        "longitude": "-4.89356270",
+        "code": "VB"
+    },
+    {
+        "name": "Vallée du Bandama Region",
+        "type": null,
+        "latitude": "8.27897800",
+        "longitude": "-4.89356270",
+        "code": "04"
+    },
+    {
+        "name": "Woroba District",
+        "type": null,
+        "latitude": "8.24913720",
+        "longitude": "-6.92091350",
+        "code": "WR"
+    },
+    {
+        "name": "Worodougou",
+        "type": null,
+        "latitude": "8.25489620",
+        "longitude": "-6.57833870",
+        "code": "14"
+    },
+    {
+        "name": "Yamoussoukro",
+        "type": null,
+        "latitude": "6.82762280",
+        "longitude": "-5.28934330",
+        "code": "YM"
+    },
+    {
+        "name": "Zanzan Region",
+        "type": null,
+        "latitude": "8.82079040",
+        "longitude": "-3.41955270",
+        "code": "ZZ"
+    }
+]

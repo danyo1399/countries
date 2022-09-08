@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Åland Islands",
+        "type": "region",
+        "latitude": "60.17852470",
+        "longitude": "19.91561050",
+        "code": "01"
+    },
+    {
+        "name": "Central Finland",
+        "type": "region",
+        "latitude": "62.56667430",
+        "longitude": "25.55494450",
+        "code": "08"
+    },
+    {
+        "name": "Central Ostrobothnia",
+        "type": "region",
+        "latitude": "63.56217350",
+        "longitude": "24.00136310",
+        "code": "07"
+    },
+    {
+        "name": "Finland Proper",
+        "type": "region",
+        "latitude": "60.36279140",
+        "longitude": "22.44393690",
+        "code": "19"
+    },
+    {
+        "name": "Kainuu",
+        "type": "region",
+        "latitude": "64.37365640",
+        "longitude": "28.74374750",
+        "code": "05"
+    },
+    {
+        "name": "Kymenlaakso",
+        "type": "region",
+        "latitude": "60.78051200",
+        "longitude": "26.88293360",
+        "code": "09"
+    },
+    {
+        "name": "Lapland",
+        "type": "region",
+        "latitude": "67.92223040",
+        "longitude": "26.50464380",
+        "code": "10"
+    },
+    {
+        "name": "North Karelia",
+        "type": "region",
+        "latitude": "62.80620780",
+        "longitude": "30.15538870",
+        "code": "13"
+    },
+    {
+        "name": "Northern Ostrobothnia",
+        "type": "region",
+        "latitude": "65.27949300",
+        "longitude": "26.28904170",
+        "code": "14"
+    },
+    {
+        "name": "Northern Savonia",
+        "type": "region",
+        "latitude": "63.08448000",
+        "longitude": "27.02535040",
+        "code": "15"
+    },
+    {
+        "name": "Ostrobothnia",
+        "type": "region",
+        "latitude": "63.11817570",
+        "longitude": "21.90610620",
+        "code": "12"
+    },
+    {
+        "name": "Päijänne Tavastia",
+        "type": "region",
+        "latitude": "61.32300410",
+        "longitude": "25.73224960",
+        "code": "16"
+    },
+    {
+        "name": "Pirkanmaa",
+        "type": "region",
+        "latitude": "61.69869180",
+        "longitude": "23.78955980",
+        "code": "11"
+    },
+    {
+        "name": "Satakunta",
+        "type": "region",
+        "latitude": "61.59327580",
+        "longitude": "22.14830810",
+        "code": "17"
+    },
+    {
+        "name": "South Karelia",
+        "type": "region",
+        "latitude": "61.11819490",
+        "longitude": "28.10243720",
+        "code": "02"
+    },
+    {
+        "name": "Southern Ostrobothnia",
+        "type": "region",
+        "latitude": "62.94330990",
+        "longitude": "23.52852670",
+        "code": "03"
+    },
+    {
+        "name": "Southern Savonia",
+        "type": "region",
+        "latitude": "61.69451480",
+        "longitude": "27.80050150",
+        "code": "04"
+    },
+    {
+        "name": "Tavastia Proper",
+        "type": "region",
+        "latitude": "60.90701500",
+        "longitude": "24.30054980",
+        "code": "06"
+    },
+    {
+        "name": "Uusimaa",
+        "type": "region",
+        "latitude": "60.21872000",
+        "longitude": "25.27162100",
+        "code": "18"
+    }
+]

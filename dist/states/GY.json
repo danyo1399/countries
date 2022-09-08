@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Barima-Waini",
+        "type": null,
+        "latitude": "7.48824190",
+        "longitude": "-59.65644940",
+        "code": "BA"
+    },
+    {
+        "name": "Cuyuni-Mazaruni",
+        "type": null,
+        "latitude": "6.46421410",
+        "longitude": "-60.21107520",
+        "code": "CU"
+    },
+    {
+        "name": "Demerara-Mahaica",
+        "type": null,
+        "latitude": "6.54642600",
+        "longitude": "-58.09820460",
+        "code": "DE"
+    },
+    {
+        "name": "East Berbice-Corentyne",
+        "type": null,
+        "latitude": "2.74779220",
+        "longitude": "-57.46272590",
+        "code": "EB"
+    },
+    {
+        "name": "Essequibo Islands-West Demerara",
+        "type": null,
+        "latitude": "6.57201320",
+        "longitude": "-58.46299970",
+        "code": "ES"
+    },
+    {
+        "name": "Mahaica-Berbice",
+        "type": null,
+        "latitude": "6.23849600",
+        "longitude": "-57.91625550",
+        "code": "MA"
+    },
+    {
+        "name": "Pomeroon-Supenaam",
+        "type": null,
+        "latitude": "7.12941660",
+        "longitude": "-58.92062950",
+        "code": "PM"
+    },
+    {
+        "name": "Potaro-Siparuni",
+        "type": null,
+        "latitude": "4.78558530",
+        "longitude": "-59.28799770",
+        "code": "PT"
+    },
+    {
+        "name": "Upper Demerara-Berbice",
+        "type": null,
+        "latitude": "5.30648790",
+        "longitude": "-58.18929210",
+        "code": "UD"
+    },
+    {
+        "name": "Upper Takutu-Upper Essequibo",
+        "type": null,
+        "latitude": "2.92395950",
+        "longitude": "-58.73736340",
+        "code": "UT"
+    }
+]

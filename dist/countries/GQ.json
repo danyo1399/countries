@@ -204,15 +204,69 @@
             8.78
         ]
     },
-    "provinces": [
-        "Annobón Province",
-        "Bioko Norte Province",
-        "Bioko Sur Province",
-        "Centro Sur Province",
-        "Insular Region",
-        "Kié-Ntem Province",
-        "Litoral Province",
-        "Río Muni",
-        "Wele-Nzas Province"
+    "states": [
+        {
+            "name": "Annobón Province",
+            "type": null,
+            "latitude": "-1.42687820",
+            "longitude": "5.63528010",
+            "code": "AN"
+        },
+        {
+            "name": "Bioko Norte Province",
+            "type": null,
+            "latitude": "3.65950720",
+            "longitude": "8.79218360",
+            "code": "BN"
+        },
+        {
+            "name": "Bioko Sur Province",
+            "type": null,
+            "latitude": "3.42097850",
+            "longitude": "8.61606740",
+            "code": "BS"
+        },
+        {
+            "name": "Centro Sur Province",
+            "type": null,
+            "latitude": "1.34360840",
+            "longitude": "10.43965600",
+            "code": "CS"
+        },
+        {
+            "name": "Insular Region",
+            "type": null,
+            "latitude": "37.09024000",
+            "longitude": "-95.71289100",
+            "code": "I"
+        },
+        {
+            "name": "Kié-Ntem Province",
+            "type": null,
+            "latitude": "2.02809300",
+            "longitude": "11.07117580",
+            "code": "KN"
+        },
+        {
+            "name": "Litoral Province",
+            "type": null,
+            "latitude": "1.57502440",
+            "longitude": "9.81249350",
+            "code": "LI"
+        },
+        {
+            "name": "Río Muni",
+            "type": null,
+            "latitude": "1.46106060",
+            "longitude": "9.67868940",
+            "code": "C"
+        },
+        {
+            "name": "Wele-Nzas Province",
+            "type": null,
+            "latitude": "1.41661620",
+            "longitude": "11.07117580",
+            "code": "WN"
+        }
     ]
 }

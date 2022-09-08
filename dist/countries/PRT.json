@@ -200,26 +200,146 @@
         "format": "####-###",
         "regex": "^(\\d{7})$"
     },
-    "provinces": [
-        "Açores",
-        "Aveiro",
-        "Beja",
-        "Braga",
-        "Bragança",
-        "Castelo Branco",
-        "Coimbra",
-        "Évora",
-        "Faro",
-        "Guarda",
-        "Leiria",
-        "Lisbon",
-        "Madeira",
-        "Portalegre",
-        "Porto",
-        "Santarém",
-        "Setúbal",
-        "Viana do Castelo",
-        "Vila Real",
-        "Viseu"
+    "states": [
+        {
+            "name": "Açores",
+            "type": null,
+            "latitude": "37.74124880",
+            "longitude": "-25.67559440",
+            "code": "20"
+        },
+        {
+            "name": "Aveiro",
+            "type": null,
+            "latitude": "40.72090230",
+            "longitude": "-8.57210160",
+            "code": "01"
+        },
+        {
+            "name": "Beja",
+            "type": null,
+            "latitude": "37.96877860",
+            "longitude": "-7.87216000",
+            "code": "02"
+        },
+        {
+            "name": "Braga",
+            "type": null,
+            "latitude": "41.55038800",
+            "longitude": "-8.42613010",
+            "code": "03"
+        },
+        {
+            "name": "Bragança",
+            "type": null,
+            "latitude": "41.80616520",
+            "longitude": "-6.75674270",
+            "code": "04"
+        },
+        {
+            "name": "Castelo Branco",
+            "type": null,
+            "latitude": "39.86313230",
+            "longitude": "-7.48141630",
+            "code": "05"
+        },
+        {
+            "name": "Coimbra",
+            "type": null,
+            "latitude": "40.20579940",
+            "longitude": "-8.41369000",
+            "code": "06"
+        },
+        {
+            "name": "Évora",
+            "type": null,
+            "latitude": "38.57444680",
+            "longitude": "-7.90765530",
+            "code": "07"
+        },
+        {
+            "name": "Faro",
+            "type": null,
+            "latitude": "37.01935480",
+            "longitude": "-7.93043970",
+            "code": "08"
+        },
+        {
+            "name": "Guarda",
+            "type": null,
+            "latitude": "40.53859720",
+            "longitude": "-7.26757720",
+            "code": "09"
+        },
+        {
+            "name": "Leiria",
+            "type": null,
+            "latitude": "39.77095320",
+            "longitude": "-8.79218360",
+            "code": "10"
+        },
+        {
+            "name": "Lisbon",
+            "type": null,
+            "latitude": "38.72232630",
+            "longitude": "-9.13927140",
+            "code": "11"
+        },
+        {
+            "name": "Madeira",
+            "type": null,
+            "latitude": "32.76070740",
+            "longitude": "-16.95947230",
+            "code": "30"
+        },
+        {
+            "name": "Portalegre",
+            "type": null,
+            "latitude": "39.29670860",
+            "longitude": "-7.42847550",
+            "code": "12"
+        },
+        {
+            "name": "Porto",
+            "type": null,
+            "latitude": "41.14766290",
+            "longitude": "-8.60789730",
+            "code": "13"
+        },
+        {
+            "name": "Santarém",
+            "type": null,
+            "latitude": "39.23666870",
+            "longitude": "-8.68599440",
+            "code": "14"
+        },
+        {
+            "name": "Setúbal",
+            "type": null,
+            "latitude": "38.52409330",
+            "longitude": "-8.89258760",
+            "code": "15"
+        },
+        {
+            "name": "Viana do Castelo",
+            "type": null,
+            "latitude": "41.69180460",
+            "longitude": "-8.83445100",
+            "code": "16"
+        },
+        {
+            "name": "Vila Real",
+            "type": null,
+            "latitude": "41.30035270",
+            "longitude": "-7.74572740",
+            "code": "17"
+        },
+        {
+            "name": "Viseu",
+            "type": null,
+            "latitude": "40.65884240",
+            "longitude": "-7.91475600",
+            "code": "18"
+        }
     ]
 }

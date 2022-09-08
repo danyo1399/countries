@@ -187,21 +187,111 @@
             -62.72
         ]
     },
-    "provinces": [
-        "Christ Church Nichola Town Parish",
-        "Nevis",
-        "Saint Anne Sandy Point Parish",
-        "Saint George Gingerland Parish",
-        "Saint James Windward Parish",
-        "Saint John Capisterre Parish",
-        "Saint John Figtree Parish",
-        "Saint Kitts",
-        "Saint Mary Cayon Parish",
-        "Saint Paul Capisterre Parish",
-        "Saint Paul Charlestown Parish",
-        "Saint Peter Basseterre Parish",
-        "Saint Thomas Lowland Parish",
-        "Saint Thomas Middle Island Parish",
-        "Trinity Palmetto Point Parish"
+    "states": [
+        {
+            "name": "Christ Church Nichola Town Parish",
+            "type": null,
+            "latitude": "17.36048120",
+            "longitude": "-62.76178370",
+            "code": "01"
+        },
+        {
+            "name": "Nevis",
+            "type": null,
+            "latitude": "17.15535580",
+            "longitude": "-62.57960260",
+            "code": "N"
+        },
+        {
+            "name": "Saint Anne Sandy Point Parish",
+            "type": null,
+            "latitude": "17.37253330",
+            "longitude": "-62.84411330",
+            "code": "02"
+        },
+        {
+            "name": "Saint George Gingerland Parish",
+            "type": null,
+            "latitude": "17.12577590",
+            "longitude": "-62.56198110",
+            "code": "04"
+        },
+        {
+            "name": "Saint James Windward Parish",
+            "type": null,
+            "latitude": "17.17696330",
+            "longitude": "-62.57960260",
+            "code": "05"
+        },
+        {
+            "name": "Saint John Capisterre Parish",
+            "type": null,
+            "latitude": "17.38103410",
+            "longitude": "-62.79118330",
+            "code": "06"
+        },
+        {
+            "name": "Saint John Figtree Parish",
+            "type": null,
+            "latitude": "17.11557480",
+            "longitude": "-62.60310040",
+            "code": "07"
+        },
+        {
+            "name": "Saint Kitts",
+            "type": null,
+            "latitude": "17.34337960",
+            "longitude": "-62.75590430",
+            "code": "K"
+        },
+        {
+            "name": "Saint Mary Cayon Parish",
+            "type": null,
+            "latitude": "17.34620710",
+            "longitude": "-62.73826710",
+            "code": "08"
+        },
+        {
+            "name": "Saint Paul Capisterre Parish",
+            "type": null,
+            "latitude": "17.40166830",
+            "longitude": "-62.82573320",
+            "code": "09"
+        },
+        {
+            "name": "Saint Paul Charlestown Parish",
+            "type": null,
+            "latitude": "17.13462970",
+            "longitude": "-62.61338160",
+            "code": "10"
+        },
+        {
+            "name": "Saint Peter Basseterre Parish",
+            "type": null,
+            "latitude": "17.31029110",
+            "longitude": "-62.71475330",
+            "code": "11"
+        },
+        {
+            "name": "Saint Thomas Lowland Parish",
+            "type": null,
+            "latitude": "17.16505130",
+            "longitude": "-62.60897530",
+            "code": "12"
+        },
+        {
+            "name": "Saint Thomas Middle Island Parish",
+            "type": null,
+            "latitude": "17.33488130",
+            "longitude": "-62.80882510",
+            "code": "13"
+        },
+        {
+            "name": "Trinity Palmetto Point Parish",
+            "type": null,
+            "latitude": "17.30635190",
+            "longitude": "-62.76178370",
+            "code": "15"
+        }
     ]
 }

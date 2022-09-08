@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Bocas del Toro Province",
+        "type": null,
+        "latitude": "9.41655210",
+        "longitude": "-82.52077870",
+        "code": "1"
+    },
+    {
+        "name": "Chiriquí Province",
+        "type": null,
+        "latitude": "8.58489800",
+        "longitude": "-82.38857830",
+        "code": "4"
+    },
+    {
+        "name": "Coclé Province",
+        "type": null,
+        "latitude": "8.62660680",
+        "longitude": "-80.36586500",
+        "code": "2"
+    },
+    {
+        "name": "Colón Province",
+        "type": null,
+        "latitude": "9.18519890",
+        "longitude": "-80.05349230",
+        "code": "3"
+    },
+    {
+        "name": "Darién Province",
+        "type": null,
+        "latitude": "7.86817130",
+        "longitude": "-77.83672820",
+        "code": "5"
+    },
+    {
+        "name": "Emberá-Wounaan Comarca",
+        "type": null,
+        "latitude": "8.37669830",
+        "longitude": "-77.65361250",
+        "code": "EM"
+    },
+    {
+        "name": "Guna Yala",
+        "type": null,
+        "latitude": "9.23443950",
+        "longitude": "-78.19262500",
+        "code": "KY"
+    },
+    {
+        "name": "Herrera Province",
+        "type": null,
+        "latitude": "7.77042820",
+        "longitude": "-80.72144170",
+        "code": "6"
+    },
+    {
+        "name": "Los Santos Province",
+        "type": null,
+        "latitude": "7.59093020",
+        "longitude": "-80.36586500",
+        "code": "7"
+    },
+    {
+        "name": "Ngöbe-Buglé Comarca",
+        "type": null,
+        "latitude": "8.65958330",
+        "longitude": "-81.77870210",
+        "code": "NB"
+    },
+    {
+        "name": "Panamá Oeste Province",
+        "type": null,
+        "latitude": "9.11967510",
+        "longitude": "-79.29021330",
+        "code": "10"
+    },
+    {
+        "name": "Panamá Province",
+        "type": null,
+        "latitude": "9.11967510",
+        "longitude": "-79.29021330",
+        "code": "8"
+    },
+    {
+        "name": "Veraguas Province",
+        "type": null,
+        "latitude": "8.12310330",
+        "longitude": "-81.07546570",
+        "code": "9"
+    }
+]

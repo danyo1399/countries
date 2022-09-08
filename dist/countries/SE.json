@@ -199,26 +199,146 @@
         "format": "SE-### ##",
         "regex": "^(?:SE)*(\\d{5})$"
     },
-    "provinces": [
-        "Blekinge",
-        "Dalarna County",
-        "Gävleborg County",
-        "Gotland County",
-        "Halland County",
-        "Jönköping County",
-        "Kalmar County",
-        "Kronoberg County",
-        "Norrbotten County",
-        "Örebro County",
-        "Östergötland County",
-        "Skåne County",
-        "Södermanland County",
-        "Stockholm County",
-        "Uppsala County",
-        "Värmland County",
-        "Västerbotten County",
-        "Västernorrland County",
-        "Västmanland County",
-        "Västra Götaland County"
+    "states": [
+        {
+            "name": "Blekinge",
+            "type": null,
+            "latitude": "56.27838370",
+            "longitude": "15.01800580",
+            "code": "K"
+        },
+        {
+            "name": "Dalarna County",
+            "type": null,
+            "latitude": "61.09170120",
+            "longitude": "14.66636530",
+            "code": "W"
+        },
+        {
+            "name": "Gävleborg County",
+            "type": null,
+            "latitude": "61.30119930",
+            "longitude": "16.15342140",
+            "code": "X"
+        },
+        {
+            "name": "Gotland County",
+            "type": null,
+            "latitude": "57.46841210",
+            "longitude": "18.48674470",
+            "code": "I"
+        },
+        {
+            "name": "Halland County",
+            "type": null,
+            "latitude": "56.89668050",
+            "longitude": "12.80339930",
+            "code": "N"
+        },
+        {
+            "name": "Jönköping County",
+            "type": null,
+            "latitude": "57.37084340",
+            "longitude": "14.34391740",
+            "code": "F"
+        },
+        {
+            "name": "Kalmar County",
+            "type": null,
+            "latitude": "57.23501560",
+            "longitude": "16.18493490",
+            "code": "H"
+        },
+        {
+            "name": "Kronoberg County",
+            "type": null,
+            "latitude": "56.71834030",
+            "longitude": "14.41146730",
+            "code": "G"
+        },
+        {
+            "name": "Norrbotten County",
+            "type": null,
+            "latitude": "66.83092160",
+            "longitude": "20.39919660",
+            "code": "BD"
+        },
+        {
+            "name": "Örebro County",
+            "type": null,
+            "latitude": "59.53503600",
+            "longitude": "15.00657310",
+            "code": "T"
+        },
+        {
+            "name": "Östergötland County",
+            "type": null,
+            "latitude": "58.34536350",
+            "longitude": "15.51978440",
+            "code": "E"
+        },
+        {
+            "name": "Skåne County",
+            "type": null,
+            "latitude": "55.99025720",
+            "longitude": "13.59576920",
+            "code": "M"
+        },
+        {
+            "name": "Södermanland County",
+            "type": null,
+            "latitude": "59.03363490",
+            "longitude": "16.75188990",
+            "code": "D"
+        },
+        {
+            "name": "Stockholm County",
+            "type": null,
+            "latitude": "59.60249580",
+            "longitude": "18.13843830",
+            "code": "AB"
+        },
+        {
+            "name": "Uppsala County",
+            "type": null,
+            "latitude": "60.00922620",
+            "longitude": "17.27145880",
+            "code": "C"
+        },
+        {
+            "name": "Värmland County",
+            "type": null,
+            "latitude": "59.72940650",
+            "longitude": "13.23540240",
+            "code": "S"
+        },
+        {
+            "name": "Västerbotten County",
+            "type": null,
+            "latitude": "65.33373110",
+            "longitude": "16.51616940",
+            "code": "AC"
+        },
+        {
+            "name": "Västernorrland County",
+            "type": null,
+            "latitude": "63.42764730",
+            "longitude": "17.72924440",
+            "code": "Y"
+        },
+        {
+            "name": "Västmanland County",
+            "type": null,
+            "latitude": "59.67138790",
+            "longitude": "16.21589530",
+            "code": "U"
+        },
+        {
+            "name": "Västra Götaland County",
+            "type": null,
+            "latitude": "58.25279260",
+            "longitude": "13.05964250",
+            "code": "O"
+        }
     ]
 }

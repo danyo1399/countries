@@ -1,0 +1,149 @@
+[
+    {
+        "name": "Al Wahat District",
+        "type": null,
+        "latitude": "29.04668080",
+        "longitude": "21.85685860",
+        "code": "WA"
+    },
+    {
+        "name": "Benghazi",
+        "type": null,
+        "latitude": "32.11942420",
+        "longitude": "20.08679090",
+        "code": "BA"
+    },
+    {
+        "name": "Derna District",
+        "type": null,
+        "latitude": "32.75561300",
+        "longitude": "22.63774320",
+        "code": "DR"
+    },
+    {
+        "name": "Ghat District",
+        "type": null,
+        "latitude": "24.96403710",
+        "longitude": "10.17592850",
+        "code": "GT"
+    },
+    {
+        "name": "Jabal al Akhdar",
+        "type": null,
+        "latitude": "23.18560810",
+        "longitude": "57.37138790",
+        "code": "JA"
+    },
+    {
+        "name": "Jabal al Gharbi District",
+        "type": null,
+        "latitude": "30.26380320",
+        "longitude": "12.80547530",
+        "code": "JG"
+    },
+    {
+        "name": "Jafara",
+        "type": null,
+        "latitude": "32.45259040",
+        "longitude": "12.94355360",
+        "code": "JI"
+    },
+    {
+        "name": "Jufra",
+        "type": null,
+        "latitude": "27.98351350",
+        "longitude": "16.91225100",
+        "code": "JU"
+    },
+    {
+        "name": "Kufra District",
+        "type": null,
+        "latitude": "23.31123890",
+        "longitude": "21.85685860",
+        "code": "KF"
+    },
+    {
+        "name": "Marj District",
+        "type": null,
+        "latitude": "32.05503630",
+        "longitude": "21.18911510",
+        "code": "MJ"
+    },
+    {
+        "name": "Misrata District",
+        "type": null,
+        "latitude": "32.32558840",
+        "longitude": "15.09925560",
+        "code": "MI"
+    },
+    {
+        "name": "Murqub",
+        "type": null,
+        "latitude": "32.45996770",
+        "longitude": "14.10013260",
+        "code": "MB"
+    },
+    {
+        "name": "Murzuq District",
+        "type": null,
+        "latitude": "25.91822620",
+        "longitude": "13.92600010",
+        "code": "MQ"
+    },
+    {
+        "name": "Nalut District",
+        "type": null,
+        "latitude": "31.87423480",
+        "longitude": "10.97504840",
+        "code": "NL"
+    },
+    {
+        "name": "Nuqat al Khams",
+        "type": null,
+        "latitude": "32.69149090",
+        "longitude": "11.88917210",
+        "code": "NQ"
+    },
+    {
+        "name": "Sabha District",
+        "type": null,
+        "latitude": "27.03654060",
+        "longitude": "14.42902360",
+        "code": "SB"
+    },
+    {
+        "name": "Sirte District",
+        "type": null,
+        "latitude": "31.18968900",
+        "longitude": "16.57019270",
+        "code": "SR"
+    },
+    {
+        "name": "Tripoli District",
+        "type": null,
+        "latitude": "32.64080210",
+        "longitude": "13.26634790",
+        "code": "TB"
+    },
+    {
+        "name": "Wadi al Hayaa District",
+        "type": null,
+        "latitude": "26.42259260",
+        "longitude": "12.62162110",
+        "code": "WD"
+    },
+    {
+        "name": "Wadi al Shatii District",
+        "type": null,
+        "latitude": "27.73514680",
+        "longitude": "12.43805810",
+        "code": "WS"
+    },
+    {
+        "name": "Zawiya District",
+        "type": null,
+        "latitude": "32.76302820",
+        "longitude": "12.73649620",
+        "code": "ZA"
+    }
+]

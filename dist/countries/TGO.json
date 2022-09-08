@@ -197,11 +197,41 @@
             1.21
         ]
     },
-    "provinces": [
-        "Centrale Region",
-        "Kara Region",
-        "Maritime",
-        "Plateaux Region",
-        "Savanes Region"
+    "states": [
+        {
+            "name": "Centrale Region",
+            "type": null,
+            "latitude": "8.65860290",
+            "longitude": "1.05861350",
+            "code": "C"
+        },
+        {
+            "name": "Kara Region",
+            "type": null,
+            "latitude": "9.72163930",
+            "longitude": "1.05861350",
+            "code": "K"
+        },
+        {
+            "name": "Maritime",
+            "type": null,
+            "latitude": "41.65514930",
+            "longitude": "-83.52784670",
+            "code": "M"
+        },
+        {
+            "name": "Plateaux Region",
+            "type": null,
+            "latitude": "7.61013780",
+            "longitude": "1.05861350",
+            "code": "P"
+        },
+        {
+            "name": "Savanes Region",
+            "type": null,
+            "latitude": "10.52917810",
+            "longitude": "0.52578230",
+            "code": "S"
+        }
     ]
 }

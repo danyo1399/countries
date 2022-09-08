@@ -198,16 +198,76 @@
             -55.17
         ]
     },
-    "provinces": [
-        "Brokopondo District",
-        "Commewijne District",
-        "Coronie District",
-        "Marowijne District",
-        "Nickerie District",
-        "Para District",
-        "Paramaribo District",
-        "Saramacca District",
-        "Sipaliwini District",
-        "Wanica District"
+    "states": [
+        {
+            "name": "Brokopondo District",
+            "type": null,
+            "latitude": "4.77102470",
+            "longitude": "-55.04933750",
+            "code": "BR"
+        },
+        {
+            "name": "Commewijne District",
+            "type": null,
+            "latitude": "5.74021100",
+            "longitude": "-54.87312190",
+            "code": "CM"
+        },
+        {
+            "name": "Coronie District",
+            "type": null,
+            "latitude": "5.69432710",
+            "longitude": "-56.29293810",
+            "code": "CR"
+        },
+        {
+            "name": "Marowijne District",
+            "type": null,
+            "latitude": "5.62681280",
+            "longitude": "-54.25931180",
+            "code": "MA"
+        },
+        {
+            "name": "Nickerie District",
+            "type": null,
+            "latitude": "5.58554690",
+            "longitude": "-56.83111170",
+            "code": "NI"
+        },
+        {
+            "name": "Para District",
+            "type": null,
+            "latitude": "5.48173180",
+            "longitude": "-55.22592070",
+            "code": "PR"
+        },
+        {
+            "name": "Paramaribo District",
+            "type": null,
+            "latitude": "5.85203550",
+            "longitude": "-55.20382780",
+            "code": "PM"
+        },
+        {
+            "name": "Saramacca District",
+            "type": null,
+            "latitude": "5.72408130",
+            "longitude": "-55.66896360",
+            "code": "SA"
+        },
+        {
+            "name": "Sipaliwini District",
+            "type": null,
+            "latitude": "3.65673820",
+            "longitude": "-56.20353870",
+            "code": "SI"
+        },
+        {
+            "name": "Wanica District",
+            "type": null,
+            "latitude": "5.73237620",
+            "longitude": "-55.27012350",
+            "code": "WA"
+        }
     ]
 }

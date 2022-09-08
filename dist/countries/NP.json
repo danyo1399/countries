@@ -199,25 +199,139 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Bagmati Zone",
-        "Bheri Zone",
-        "Central Region",
-        "Dhaulagiri Zone",
-        "Eastern Development Region",
-        "Far-Western Development Region",
-        "Gandaki Zone",
-        "Janakpur Zone",
-        "Karnali Zone",
-        "Kosi Zone",
-        "Lumbini Zone",
-        "Mahakali Zone",
-        "Mechi Zone",
-        "Mid-Western Region",
-        "Narayani Zone",
-        "Rapti Zone",
-        "Sagarmatha Zone",
-        "Seti Zone",
-        "Western Region"
+    "states": [
+        {
+            "name": "Bagmati Zone",
+            "type": null,
+            "latitude": "28.03675770",
+            "longitude": "85.43755740",
+            "code": "BA"
+        },
+        {
+            "name": "Bheri Zone",
+            "type": null,
+            "latitude": "28.51745600",
+            "longitude": "81.77870210",
+            "code": "BH"
+        },
+        {
+            "name": "Central Region",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "1"
+        },
+        {
+            "name": "Dhaulagiri Zone",
+            "type": null,
+            "latitude": "28.61117600",
+            "longitude": "83.50702030",
+            "code": "DH"
+        },
+        {
+            "name": "Eastern Development Region",
+            "type": null,
+            "latitude": "27.33090720",
+            "longitude": "87.06242610",
+            "code": "4"
+        },
+        {
+            "name": "Far-Western Development Region",
+            "type": null,
+            "latitude": "29.29878710",
+            "longitude": "80.98710740",
+            "code": "5"
+        },
+        {
+            "name": "Gandaki Zone",
+            "type": null,
+            "latitude": "28.37320370",
+            "longitude": "84.43827210",
+            "code": "GA"
+        },
+        {
+            "name": "Janakpur Zone",
+            "type": null,
+            "latitude": "27.21108990",
+            "longitude": "86.01215730",
+            "code": "JA"
+        },
+        {
+            "name": "Karnali Zone",
+            "type": null,
+            "latitude": "29.38625550",
+            "longitude": "82.38857830",
+            "code": "KA"
+        },
+        {
+            "name": "Kosi Zone",
+            "type": null,
+            "latitude": "27.05365240",
+            "longitude": "87.30161320",
+            "code": "KO"
+        },
+        {
+            "name": "Lumbini Zone",
+            "type": null,
+            "latitude": "27.45000000",
+            "longitude": "83.25000000",
+            "code": "LU"
+        },
+        {
+            "name": "Mahakali Zone",
+            "type": null,
+            "latitude": "29.36010790",
+            "longitude": "80.54384500",
+            "code": "MA"
+        },
+        {
+            "name": "Mechi Zone",
+            "type": null,
+            "latitude": "26.87600070",
+            "longitude": "87.93348030",
+            "code": "ME"
+        },
+        {
+            "name": "Mid-Western Region",
+            "type": null,
+            "latitude": "38.41118410",
+            "longitude": "-90.38320980",
+            "code": "2"
+        },
+        {
+            "name": "Narayani Zone",
+            "type": null,
+            "latitude": "27.36117660",
+            "longitude": "84.85679320",
+            "code": "NA"
+        },
+        {
+            "name": "Rapti Zone",
+            "type": null,
+            "latitude": "28.27434700",
+            "longitude": "82.38857830",
+            "code": "RA"
+        },
+        {
+            "name": "Sagarmatha Zone",
+            "type": null,
+            "latitude": "27.32382630",
+            "longitude": "86.74163740",
+            "code": "SA"
+        },
+        {
+            "name": "Seti Zone",
+            "type": null,
+            "latitude": "29.69054270",
+            "longitude": "81.33994140",
+            "code": "SE"
+        },
+        {
+            "name": "Western Region",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "3"
+        }
     ]
 }

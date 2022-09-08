@@ -203,56 +203,356 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "A Coruña",
-        "Albacete",
-        "Alicante",
-        "Almeria",
-        "Araba",
-        "Asturias",
-        "Ávila",
-        "Badajoz",
-        "Balearic Islands",
-        "Barcelona",
-        "Bizkaia",
-        "Burgos",
-        "Caceres",
-        "Cádiz",
-        "Cantabria",
-        "Castellón",
-        "Ciudad Real",
-        "Córdoba",
-        "Cuenca",
-        "Gipuzkoa",
-        "Girona",
-        "Granada",
-        "Guadalajara",
-        "Huelva",
-        "Huesca",
-        "Jaén",
-        "La Rioja",
-        "Las Palmas",
-        "Léon",
-        "Lleida",
-        "Lugo",
-        "Madrid",
-        "Málaga",
-        "Murcia",
-        "Navarra",
-        "Ourense",
-        "Palencia",
-        "Pontevedra",
-        "Salamanca",
-        "Santa Cruz de Tenerife",
-        "Segovia",
-        "Sevilla",
-        "Soria",
-        "Tarragona",
-        "Teruel",
-        "Toledo",
-        "Valencia",
-        "Valladolid",
-        "Zamora",
-        "Zaragoza"
+    "states": [
+        {
+            "name": "A Coruña",
+            "type": "province",
+            "latitude": "43.36190400",
+            "longitude": "-8.43019320",
+            "code": "C"
+        },
+        {
+            "name": "Albacete",
+            "type": "province",
+            "latitude": "38.99223120",
+            "longitude": "-1.87809890",
+            "code": "AB"
+        },
+        {
+            "name": "Alicante",
+            "type": "province",
+            "latitude": "38.35795460",
+            "longitude": "-0.54256340",
+            "code": "A"
+        },
+        {
+            "name": "Almeria",
+            "type": "province",
+            "latitude": "36.84152680",
+            "longitude": "-2.47462610",
+            "code": "AL"
+        },
+        {
+            "name": "Araba",
+            "type": "province",
+            "latitude": "42.83951190",
+            "longitude": "-3.84237740",
+            "code": "VI"
+        },
+        {
+            "name": "Asturias",
+            "type": "province",
+            "latitude": "43.36139530",
+            "longitude": "-5.85932670",
+            "code": "O"
+        },
+        {
+            "name": "Ávila",
+            "type": "province",
+            "latitude": "40.69345110",
+            "longitude": "-4.89356270",
+            "code": "AV"
+        },
+        {
+            "name": "Badajoz",
+            "type": "province",
+            "latitude": "38.87937480",
+            "longitude": "-7.02269830",
+            "code": "BA"
+        },
+        {
+            "name": "Balearic Islands",
+            "type": "province",
+            "latitude": "39.35877590",
+            "longitude": "2.73563280",
+            "code": "PM"
+        },
+        {
+            "name": "Barcelona",
+            "type": "province",
+            "latitude": "41.39266790",
+            "longitude": "2.14018910",
+            "code": "B"
+        },
+        {
+            "name": "Bizkaia",
+            "type": "province",
+            "latitude": "43.21921990",
+            "longitude": "-3.21110870",
+            "code": "BI"
+        },
+        {
+            "name": "Burgos",
+            "type": "province",
+            "latitude": "42.33807580",
+            "longitude": "-3.58126920",
+            "code": "BU"
+        },
+        {
+            "name": "Caceres",
+            "type": "province",
+            "latitude": "39.47163130",
+            "longitude": "-6.42573840",
+            "code": "CC"
+        },
+        {
+            "name": "Cádiz",
+            "type": "province",
+            "latitude": "36.51638510",
+            "longitude": "-6.29997670",
+            "code": "CA"
+        },
+        {
+            "name": "Cantabria",
+            "type": "province",
+            "latitude": "43.18283960",
+            "longitude": "-3.98784270",
+            "code": "S"
+        },
+        {
+            "name": "Castellón",
+            "type": "province",
+            "latitude": "39.98114350",
+            "longitude": "0.00884070",
+            "code": "CS"
+        },
+        {
+            "name": "Ciudad Real",
+            "type": "province",
+            "latitude": "38.98607580",
+            "longitude": "-3.94449750",
+            "code": "CR"
+        },
+        {
+            "name": "Córdoba",
+            "type": "province",
+            "latitude": "36.51638510",
+            "longitude": "-6.29997670",
+            "code": "CO"
+        },
+        {
+            "name": "Cuenca",
+            "type": "province",
+            "latitude": "40.06200360",
+            "longitude": "-2.16553440",
+            "code": "CU"
+        },
+        {
+            "name": "Gipuzkoa",
+            "type": "province",
+            "latitude": "43.14523600",
+            "longitude": "-2.44618250",
+            "code": "SS"
+        },
+        {
+            "name": "Girona",
+            "type": "province",
+            "latitude": "41.98034450",
+            "longitude": "2.80115770",
+            "code": "GI"
+        },
+        {
+            "name": "Granada",
+            "type": "province",
+            "latitude": "37.18094110",
+            "longitude": "-3.62629100",
+            "code": "GR"
+        },
+        {
+            "name": "Guadalajara",
+            "type": "province",
+            "latitude": "40.63222140",
+            "longitude": "-3.19068200",
+            "code": "GU"
+        },
+        {
+            "name": "Huelva",
+            "type": "province",
+            "latitude": "37.27086660",
+            "longitude": "-6.95719990",
+            "code": "H"
+        },
+        {
+            "name": "Huesca",
+            "type": "province",
+            "latitude": "41.59762750",
+            "longitude": "-0.90566230",
+            "code": "HU"
+        },
+        {
+            "name": "Jaén",
+            "type": "province",
+            "latitude": "37.78009310",
+            "longitude": "-3.81437450",
+            "code": "J"
+        },
+        {
+            "name": "La Rioja",
+            "type": "province",
+            "latitude": "42.28707330",
+            "longitude": "-2.53960300",
+            "code": "LO"
+        },
+        {
+            "name": "Las Palmas",
+            "type": "province",
+            "latitude": "28.29156370",
+            "longitude": "-16.62913040",
+            "code": "GC"
+        },
+        {
+            "name": "Léon",
+            "type": "province",
+            "latitude": "42.59870410",
+            "longitude": "-5.56708390",
+            "code": "LE"
+        },
+        {
+            "name": "Lleida",
+            "type": "province",
+            "latitude": "41.61837310",
+            "longitude": "0.60242530",
+            "code": "L"
+        },
+        {
+            "name": "Lugo",
+            "type": "province",
+            "latitude": "43.01231370",
+            "longitude": "-7.57400960",
+            "code": "LU"
+        },
+        {
+            "name": "Madrid",
+            "type": "province",
+            "latitude": "40.41675150",
+            "longitude": "-3.70383220",
+            "code": "M"
+        },
+        {
+            "name": "Málaga",
+            "type": "province",
+            "latitude": "36.71820150",
+            "longitude": "-4.51930600",
+            "code": "MA"
+        },
+        {
+            "name": "Murcia",
+            "type": "province",
+            "latitude": "38.13981410",
+            "longitude": "-1.36621600",
+            "code": "MU"
+        },
+        {
+            "name": "Navarra",
+            "type": "province",
+            "latitude": "42.69539090",
+            "longitude": "-1.67606910",
+            "code": "NA"
+        },
+        {
+            "name": "Ourense",
+            "type": "province",
+            "latitude": "42.33836130",
+            "longitude": "-7.88119510",
+            "code": "OR"
+        },
+        {
+            "name": "Palencia",
+            "type": "province",
+            "latitude": "42.00968320",
+            "longitude": "-4.52879490",
+            "code": "P"
+        },
+        {
+            "name": "Pontevedra",
+            "type": "province",
+            "latitude": "42.43385950",
+            "longitude": "-8.65685520",
+            "code": "PO"
+        },
+        {
+            "name": "Salamanca",
+            "type": "province",
+            "latitude": "40.95152630",
+            "longitude": "-6.23759470",
+            "code": "SA"
+        },
+        {
+            "name": "Santa Cruz de Tenerife",
+            "type": "province",
+            "latitude": "28.45789140",
+            "longitude": "-16.32135390",
+            "code": "TF"
+        },
+        {
+            "name": "Segovia",
+            "type": "province",
+            "latitude": "40.94292960",
+            "longitude": "-4.10889420",
+            "code": "SG"
+        },
+        {
+            "name": "Sevilla",
+            "type": "province",
+            "latitude": "37.37535010",
+            "longitude": "-6.02509730",
+            "code": "SE"
+        },
+        {
+            "name": "Soria",
+            "type": "province",
+            "latitude": "41.76654640",
+            "longitude": "-2.47903060",
+            "code": "SO"
+        },
+        {
+            "name": "Tarragona",
+            "type": "province",
+            "latitude": "41.12586420",
+            "longitude": "1.20356420",
+            "code": "T"
+        },
+        {
+            "name": "Teruel",
+            "type": "province",
+            "latitude": "40.34504100",
+            "longitude": "-1.11847440",
+            "code": "TE"
+        },
+        {
+            "name": "Toledo",
+            "type": "province",
+            "latitude": "39.86232000",
+            "longitude": "-4.06946920",
+            "code": "TO"
+        },
+        {
+            "name": "Valencia",
+            "type": "province",
+            "latitude": "39.48401080",
+            "longitude": "-0.75328090",
+            "code": "V"
+        },
+        {
+            "name": "Valladolid",
+            "type": "province",
+            "latitude": "41.65173750",
+            "longitude": "-4.72449500",
+            "code": "VA"
+        },
+        {
+            "name": "Zamora",
+            "type": "province",
+            "latitude": "41.60957440",
+            "longitude": "-5.89871390",
+            "code": "ZA"
+        },
+        {
+            "name": "Zaragoza",
+            "type": "province",
+            "latitude": "41.65175010",
+            "longitude": "-0.93000020",
+            "code": "Z"
+        }
     ]
 }

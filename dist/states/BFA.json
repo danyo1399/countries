@@ -1,0 +1,401 @@
+[
+    {
+        "name": "Balé Province",
+        "type": null,
+        "latitude": "11.78206020",
+        "longitude": "-3.01757120",
+        "code": "BAL"
+    },
+    {
+        "name": "Bam Province",
+        "type": null,
+        "latitude": "13.44613300",
+        "longitude": "-1.59839590",
+        "code": "BAM"
+    },
+    {
+        "name": "Banwa Province",
+        "type": null,
+        "latitude": "12.13230530",
+        "longitude": "-4.15137640",
+        "code": "BAN"
+    },
+    {
+        "name": "Bazèga Province",
+        "type": null,
+        "latitude": "11.97676920",
+        "longitude": "-1.44346900",
+        "code": "BAZ"
+    },
+    {
+        "name": "Boucle du Mouhoun Region",
+        "type": null,
+        "latitude": "12.41660000",
+        "longitude": "-3.41955270",
+        "code": "01"
+    },
+    {
+        "name": "Bougouriba Province",
+        "type": null,
+        "latitude": "10.87226460",
+        "longitude": "-3.33889170",
+        "code": "BGR"
+    },
+    {
+        "name": "Boulgou",
+        "type": null,
+        "latitude": "11.43367660",
+        "longitude": "-0.37483540",
+        "code": "BLG"
+    },
+    {
+        "name": "Cascades Region",
+        "type": null,
+        "latitude": "10.40729920",
+        "longitude": "-4.56244260",
+        "code": "02"
+    },
+    {
+        "name": "Centre",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "03"
+    },
+    {
+        "name": "Centre-Est Region",
+        "type": null,
+        "latitude": "11.52476740",
+        "longitude": "-0.14949880",
+        "code": "04"
+    },
+    {
+        "name": "Centre-Nord Region",
+        "type": null,
+        "latitude": "13.17244640",
+        "longitude": "-0.90566230",
+        "code": "05"
+    },
+    {
+        "name": "Centre-Ouest Region",
+        "type": null,
+        "latitude": "11.87984660",
+        "longitude": "-2.30244600",
+        "code": "06"
+    },
+    {
+        "name": "Centre-Sud Region",
+        "type": null,
+        "latitude": "11.52289110",
+        "longitude": "-1.05861350",
+        "code": "07"
+    },
+    {
+        "name": "Comoé Province",
+        "type": null,
+        "latitude": "10.40729920",
+        "longitude": "-4.56244260",
+        "code": "COM"
+    },
+    {
+        "name": "Est Region",
+        "type": null,
+        "latitude": "12.43655260",
+        "longitude": "0.90566230",
+        "code": "08"
+    },
+    {
+        "name": "Ganzourgou Province",
+        "type": null,
+        "latitude": "12.25376480",
+        "longitude": "-0.75328090",
+        "code": "GAN"
+    },
+    {
+        "name": "Gnagna Province",
+        "type": null,
+        "latitude": "12.89749920",
+        "longitude": "0.07467670",
+        "code": "GNA"
+    },
+    {
+        "name": "Gourma Province",
+        "type": null,
+        "latitude": "12.16244730",
+        "longitude": "0.67730460",
+        "code": "GOU"
+    },
+    {
+        "name": "Hauts-Bassins Region",
+        "type": null,
+        "latitude": "11.49420030",
+        "longitude": "-4.23333550",
+        "code": "09"
+    },
+    {
+        "name": "Houet Province",
+        "type": null,
+        "latitude": "11.13204470",
+        "longitude": "-4.23333550",
+        "code": "HOU"
+    },
+    {
+        "name": "Ioba Province",
+        "type": null,
+        "latitude": "11.05620340",
+        "longitude": "-3.01757120",
+        "code": "IOB"
+    },
+    {
+        "name": "Kadiogo Province",
+        "type": null,
+        "latitude": "12.34258970",
+        "longitude": "-1.44346900",
+        "code": "KAD"
+    },
+    {
+        "name": "Kénédougou Province",
+        "type": null,
+        "latitude": "11.39193950",
+        "longitude": "-4.97665400",
+        "code": "KEN"
+    },
+    {
+        "name": "Komondjari Province",
+        "type": null,
+        "latitude": "12.71265270",
+        "longitude": "0.67730460",
+        "code": "KMD"
+    },
+    {
+        "name": "Kompienga Province",
+        "type": null,
+        "latitude": "11.52383620",
+        "longitude": "0.75328090",
+        "code": "KMP"
+    },
+    {
+        "name": "Kossi Province",
+        "type": null,
+        "latitude": "12.96045800",
+        "longitude": "-3.90626880",
+        "code": "KOS"
+    },
+    {
+        "name": "Koulpélogo Province",
+        "type": null,
+        "latitude": "11.52476740",
+        "longitude": "0.14949880",
+        "code": "KOP"
+    },
+    {
+        "name": "Kouritenga Province",
+        "type": null,
+        "latitude": "12.16318130",
+        "longitude": "-0.22446620",
+        "code": "KOT"
+    },
+    {
+        "name": "Kourwéogo Province",
+        "type": null,
+        "latitude": "12.70774950",
+        "longitude": "-1.75388170",
+        "code": "KOW"
+    },
+    {
+        "name": "Léraba Province",
+        "type": null,
+        "latitude": "10.66487850",
+        "longitude": "-5.31025050",
+        "code": "LER"
+    },
+    {
+        "name": "Loroum Province",
+        "type": null,
+        "latitude": "13.81298140",
+        "longitude": "-2.06651970",
+        "code": "LOR"
+    },
+    {
+        "name": "Mouhoun",
+        "type": null,
+        "latitude": "12.14323810",
+        "longitude": "-3.33889170",
+        "code": "MOU"
+    },
+    {
+        "name": "Nahouri Province",
+        "type": null,
+        "latitude": "11.25022670",
+        "longitude": "-1.13530200",
+        "code": "NAO"
+    },
+    {
+        "name": "Namentenga Province",
+        "type": null,
+        "latitude": "13.08125840",
+        "longitude": "-0.52578230",
+        "code": "NAM"
+    },
+    {
+        "name": "Nayala Province",
+        "type": null,
+        "latitude": "12.69645580",
+        "longitude": "-3.01757120",
+        "code": "NAY"
+    },
+    {
+        "name": "Nord Region, Burkina Faso",
+        "type": null,
+        "latitude": "13.71825200",
+        "longitude": "-2.30244600",
+        "code": "10"
+    },
+    {
+        "name": "Noumbiel Province",
+        "type": null,
+        "latitude": "9.84409460",
+        "longitude": "-2.97755580",
+        "code": "NOU"
+    },
+    {
+        "name": "Oubritenga Province",
+        "type": null,
+        "latitude": "12.70960870",
+        "longitude": "-1.44346900",
+        "code": "OUB"
+    },
+    {
+        "name": "Oudalan Province",
+        "type": null,
+        "latitude": "14.47190200",
+        "longitude": "-0.45023680",
+        "code": "OUD"
+    },
+    {
+        "name": "Passoré Province",
+        "type": null,
+        "latitude": "12.88812210",
+        "longitude": "-2.22366670",
+        "code": "PAS"
+    },
+    {
+        "name": "Plateau-Central Region",
+        "type": null,
+        "latitude": "12.25376480",
+        "longitude": "-0.75328090",
+        "code": "11"
+    },
+    {
+        "name": "Poni Province",
+        "type": null,
+        "latitude": "10.33259960",
+        "longitude": "-3.33889170",
+        "code": "PON"
+    },
+    {
+        "name": "Sahel Region",
+        "type": null,
+        "latitude": "14.10008650",
+        "longitude": "-0.14949880",
+        "code": "12"
+    },
+    {
+        "name": "Sanguié Province",
+        "type": null,
+        "latitude": "12.15018610",
+        "longitude": "-2.69838680",
+        "code": "SNG"
+    },
+    {
+        "name": "Sanmatenga Province",
+        "type": null,
+        "latitude": "13.35653040",
+        "longitude": "-1.05861350",
+        "code": "SMT"
+    },
+    {
+        "name": "Séno Province",
+        "type": null,
+        "latitude": "14.00722340",
+        "longitude": "-0.07467670",
+        "code": "SEN"
+    },
+    {
+        "name": "Sissili Province",
+        "type": null,
+        "latitude": "11.24412190",
+        "longitude": "-2.22366670",
+        "code": "SIS"
+    },
+    {
+        "name": "Soum Province",
+        "type": null,
+        "latitude": "14.09628410",
+        "longitude": "-1.36621600",
+        "code": "SOM"
+    },
+    {
+        "name": "Sourou Province",
+        "type": null,
+        "latitude": "13.34180300",
+        "longitude": "-2.93757390",
+        "code": "SOR"
+    },
+    {
+        "name": "Sud-Ouest Region",
+        "type": null,
+        "latitude": "10.42314930",
+        "longitude": "-3.25836260",
+        "code": "13"
+    },
+    {
+        "name": "Tapoa Province",
+        "type": null,
+        "latitude": "12.24970720",
+        "longitude": "1.67606910",
+        "code": "TAP"
+    },
+    {
+        "name": "Tuy Province",
+        "type": null,
+        "latitude": "38.88868400",
+        "longitude": "-77.00471900",
+        "code": "TUI"
+    },
+    {
+        "name": "Yagha Province",
+        "type": null,
+        "latitude": "13.35761570",
+        "longitude": "0.75328090",
+        "code": "YAG"
+    },
+    {
+        "name": "Yatenga Province",
+        "type": null,
+        "latitude": "13.62493440",
+        "longitude": "-2.38136210",
+        "code": "YAT"
+    },
+    {
+        "name": "Ziro Province",
+        "type": null,
+        "latitude": "11.60949950",
+        "longitude": "-1.90992380",
+        "code": "ZIR"
+    },
+    {
+        "name": "Zondoma Province",
+        "type": null,
+        "latitude": "13.11659260",
+        "longitude": "-2.42087130",
+        "code": "ZON"
+    },
+    {
+        "name": "Zoundwéogo Province",
+        "type": null,
+        "latitude": "11.61411740",
+        "longitude": "-0.98206680",
+        "code": "ZOU"
+    }
+]

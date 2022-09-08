@@ -205,39 +205,237 @@
             69.18
         ]
     },
-    "provinces": [
-        "Badakhshan",
-        "Badghis",
-        "Baghlan",
-        "Balkh",
-        "Bamyan",
-        "Daykundi",
-        "Farah",
-        "Faryab",
-        "Ghazni",
-        "Ghōr",
-        "Helmand",
-        "Herat",
-        "Jowzjan",
-        "Kabul",
-        "Kandahar",
-        "Kapisa",
-        "Khost",
-        "Kunar",
-        "Kunduz Province",
-        "Laghman",
-        "Logar",
-        "Nangarhar",
-        "Nimruz",
-        "Nuristan",
-        "Paktia",
-        "Paktika",
-        "Panjshir",
-        "Parwan",
-        "Samangan",
-        "Sar-e Pol",
-        "Takhar",
-        "Urozgan",
-        "Zabul"
+    "states": [
+        {
+            "name": "Badakhshan",
+            "type": null,
+            "latitude": "36.73477250",
+            "longitude": "70.81199530",
+            "code": "BDS"
+        },
+        {
+            "name": "Badghis",
+            "type": null,
+            "latitude": "35.16713390",
+            "longitude": "63.76953840",
+            "code": "BDG"
+        },
+        {
+            "name": "Baghlan",
+            "type": null,
+            "latitude": "36.17890260",
+            "longitude": "68.74530640",
+            "code": "BGL"
+        },
+        {
+            "name": "Balkh",
+            "type": null,
+            "latitude": "36.75506030",
+            "longitude": "66.89753720",
+            "code": "BAL"
+        },
+        {
+            "name": "Bamyan",
+            "type": null,
+            "latitude": "34.81000670",
+            "longitude": "67.82121040",
+            "code": "BAM"
+        },
+        {
+            "name": "Daykundi",
+            "type": null,
+            "latitude": "33.66949500",
+            "longitude": "66.04635340",
+            "code": "DAY"
+        },
+        {
+            "name": "Farah",
+            "type": null,
+            "latitude": "32.49532800",
+            "longitude": "62.26266270",
+            "code": "FRA"
+        },
+        {
+            "name": "Faryab",
+            "type": null,
+            "latitude": "36.07956130",
+            "longitude": "64.90595500",
+            "code": "FYB"
+        },
+        {
+            "name": "Ghazni",
+            "type": null,
+            "latitude": "33.54505870",
+            "longitude": "68.41739720",
+            "code": "GHA"
+        },
+        {
+            "name": "Ghōr",
+            "type": null,
+            "latitude": "34.09957760",
+            "longitude": "64.90595500",
+            "code": "GHO"
+        },
+        {
+            "name": "Helmand",
+            "type": null,
+            "latitude": "39.29893610",
+            "longitude": "-76.61604720",
+            "code": "HEL"
+        },
+        {
+            "name": "Herat",
+            "type": null,
+            "latitude": "34.35286500",
+            "longitude": "62.20402870",
+            "code": "HER"
+        },
+        {
+            "name": "Jowzjan",
+            "type": null,
+            "latitude": "36.89696920",
+            "longitude": "65.66585680",
+            "code": "JOW"
+        },
+        {
+            "name": "Kabul",
+            "type": null,
+            "latitude": "34.55534940",
+            "longitude": "69.20748600",
+            "code": "KAB"
+        },
+        {
+            "name": "Kandahar",
+            "type": null,
+            "latitude": "31.62887100",
+            "longitude": "65.73717490",
+            "code": "KAN"
+        },
+        {
+            "name": "Kapisa",
+            "type": null,
+            "latitude": "34.98105720",
+            "longitude": "69.62145620",
+            "code": "KAP"
+        },
+        {
+            "name": "Khost",
+            "type": null,
+            "latitude": "33.33384720",
+            "longitude": "69.93716730",
+            "code": "KHO"
+        },
+        {
+            "name": "Kunar",
+            "type": null,
+            "latitude": "34.84658930",
+            "longitude": "71.09731700",
+            "code": "KNR"
+        },
+        {
+            "name": "Kunduz Province",
+            "type": null,
+            "latitude": "36.72855110",
+            "longitude": "68.86789820",
+            "code": "KDZ"
+        },
+        {
+            "name": "Laghman",
+            "type": null,
+            "latitude": "34.68976870",
+            "longitude": "70.14558050",
+            "code": "LAG"
+        },
+        {
+            "name": "Logar",
+            "type": null,
+            "latitude": "34.01455180",
+            "longitude": "69.19239160",
+            "code": "LOG"
+        },
+        {
+            "name": "Nangarhar",
+            "type": null,
+            "latitude": "34.17183130",
+            "longitude": "70.62167940",
+            "code": "NAN"
+        },
+        {
+            "name": "Nimruz",
+            "type": null,
+            "latitude": "31.02614880",
+            "longitude": "62.45041540",
+            "code": "NIM"
+        },
+        {
+            "name": "Nuristan",
+            "type": null,
+            "latitude": "35.32502230",
+            "longitude": "70.90712360",
+            "code": "NUR"
+        },
+        {
+            "name": "Paktia",
+            "type": null,
+            "latitude": "33.70619900",
+            "longitude": "69.38310790",
+            "code": "PIA"
+        },
+        {
+            "name": "Paktika",
+            "type": null,
+            "latitude": "32.26453860",
+            "longitude": "68.52471490",
+            "code": "PKA"
+        },
+        {
+            "name": "Panjshir",
+            "type": null,
+            "latitude": "38.88023910",
+            "longitude": "-77.17172380",
+            "code": "PAN"
+        },
+        {
+            "name": "Parwan",
+            "type": null,
+            "latitude": "34.96309770",
+            "longitude": "68.81088490",
+            "code": "PAR"
+        },
+        {
+            "name": "Samangan",
+            "type": null,
+            "latitude": "36.31555060",
+            "longitude": "67.96428630",
+            "code": "SAM"
+        },
+        {
+            "name": "Sar-e Pol",
+            "type": null,
+            "latitude": "36.21662800",
+            "longitude": "65.93336000",
+            "code": "SAR"
+        },
+        {
+            "name": "Takhar",
+            "type": null,
+            "latitude": "36.66980130",
+            "longitude": "69.47845410",
+            "code": "TAK"
+        },
+        {
+            "name": "Urozgan",
+            "type": null,
+            "latitude": "32.92712870",
+            "longitude": "66.14152630",
+            "code": "URU"
+        },
+        {
+            "name": "Zabul",
+            "type": null,
+            "latitude": "32.19187820",
+            "longitude": "67.18944880",
+            "code": "ZAB"
+        }
     ]
 }

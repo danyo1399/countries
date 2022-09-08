@@ -195,29 +195,167 @@
         "format": "####",
         "regex": "^(\\d{4})$"
     },
-    "provinces": [
-        "Barlavento Islands",
-        "Boa Vista",
-        "Brava",
-        "Maio Municipality",
-        "Mosteiros",
-        "Paul",
-        "Porto Novo",
-        "Praia",
-        "Ribeira Brava Municipality",
-        "Ribeira Grande",
-        "Ribeira Grande de Santiago",
-        "Sal",
-        "Santa Catarina",
-        "Santa Catarina do Fogo",
-        "Santa Cruz",
-        "São Domingos",
-        "São Filipe",
-        "São Lourenço dos Órgãos",
-        "São Miguel",
-        "São Vicente",
-        "Sotavento Islands",
-        "Tarrafal",
-        "Tarrafal de São Nicolau"
+    "states": [
+        {
+            "name": "Barlavento Islands",
+            "type": null,
+            "latitude": "16.82368450",
+            "longitude": "-23.99348810",
+            "code": "B"
+        },
+        {
+            "name": "Boa Vista",
+            "type": null,
+            "latitude": "38.74346600",
+            "longitude": "-120.73042970",
+            "code": "BV"
+        },
+        {
+            "name": "Brava",
+            "type": null,
+            "latitude": "40.98977780",
+            "longitude": "-73.68357150",
+            "code": "BR"
+        },
+        {
+            "name": "Maio Municipality",
+            "type": null,
+            "latitude": "15.20030980",
+            "longitude": "-23.16797930",
+            "code": "MA"
+        },
+        {
+            "name": "Mosteiros",
+            "type": null,
+            "latitude": "37.89043480",
+            "longitude": "-25.82075560",
+            "code": "MO"
+        },
+        {
+            "name": "Paul",
+            "type": null,
+            "latitude": "37.06250000",
+            "longitude": "-95.67706800",
+            "code": "PA"
+        },
+        {
+            "name": "Porto Novo",
+            "type": null,
+            "latitude": "6.49685740",
+            "longitude": "2.62885230",
+            "code": "PN"
+        },
+        {
+            "name": "Praia",
+            "type": null,
+            "latitude": "14.93305000",
+            "longitude": "-23.51332670",
+            "code": "PR"
+        },
+        {
+            "name": "Ribeira Brava Municipality",
+            "type": null,
+            "latitude": "16.60707390",
+            "longitude": "-24.20338430",
+            "code": "RB"
+        },
+        {
+            "name": "Ribeira Grande",
+            "type": null,
+            "latitude": "37.82103690",
+            "longitude": "-25.51481370",
+            "code": "RG"
+        },
+        {
+            "name": "Ribeira Grande de Santiago",
+            "type": null,
+            "latitude": "14.98302980",
+            "longitude": "-23.65617250",
+            "code": "RS"
+        },
+        {
+            "name": "Sal",
+            "type": null,
+            "latitude": "26.59581220",
+            "longitude": "-80.20450830",
+            "code": "SL"
+        },
+        {
+            "name": "Santa Catarina",
+            "type": null,
+            "latitude": "-27.24233920",
+            "longitude": "-50.21885560",
+            "code": "CA"
+        },
+        {
+            "name": "Santa Catarina do Fogo",
+            "type": null,
+            "latitude": "14.93091040",
+            "longitude": "-24.32225770",
+            "code": "CF"
+        },
+        {
+            "name": "Santa Cruz",
+            "type": null,
+            "latitude": "36.97411710",
+            "longitude": "-122.03079630",
+            "code": "CR"
+        },
+        {
+            "name": "São Domingos",
+            "type": null,
+            "latitude": "15.02861650",
+            "longitude": "-23.56392200",
+            "code": "SD"
+        },
+        {
+            "name": "São Filipe",
+            "type": null,
+            "latitude": "14.89516790",
+            "longitude": "-24.49456360",
+            "code": "SF"
+        },
+        {
+            "name": "São Lourenço dos Órgãos",
+            "type": null,
+            "latitude": "15.05378410",
+            "longitude": "-23.60856120",
+            "code": "SO"
+        },
+        {
+            "name": "São Miguel",
+            "type": null,
+            "latitude": "37.78041100",
+            "longitude": "-25.49704660",
+            "code": "SM"
+        },
+        {
+            "name": "São Vicente",
+            "type": null,
+            "latitude": "-23.96071570",
+            "longitude": "-46.39620220",
+            "code": "SV"
+        },
+        {
+            "name": "Sotavento Islands",
+            "type": null,
+            "latitude": "15.00000000",
+            "longitude": "-24.00000000",
+            "code": "S"
+        },
+        {
+            "name": "Tarrafal",
+            "type": null,
+            "latitude": "15.27605780",
+            "longitude": "-23.74840770",
+            "code": "TA"
+        },
+        {
+            "name": "Tarrafal de São Nicolau",
+            "type": null,
+            "latitude": "16.56364980",
+            "longitude": "-24.35494200",
+            "code": "TS"
+        }
     ]
 }

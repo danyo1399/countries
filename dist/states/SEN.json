@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Dakar",
+        "type": null,
+        "latitude": "14.71667700",
+        "longitude": "-17.46768610",
+        "code": "DK"
+    },
+    {
+        "name": "Diourbel Region",
+        "type": null,
+        "latitude": "14.72830850",
+        "longitude": "-16.25221430",
+        "code": "DB"
+    },
+    {
+        "name": "Fatick",
+        "type": null,
+        "latitude": "14.33901670",
+        "longitude": "-16.41114250",
+        "code": "FK"
+    },
+    {
+        "name": "Kaffrine",
+        "type": null,
+        "latitude": "14.10520200",
+        "longitude": "-15.54157550",
+        "code": "KA"
+    },
+    {
+        "name": "Kaolack",
+        "type": null,
+        "latitude": "14.16520830",
+        "longitude": "-16.07577490",
+        "code": "KL"
+    },
+    {
+        "name": "Kédougou",
+        "type": null,
+        "latitude": "12.56046070",
+        "longitude": "-12.17470770",
+        "code": "KE"
+    },
+    {
+        "name": "Kolda",
+        "type": null,
+        "latitude": "12.91074950",
+        "longitude": "-14.95056710",
+        "code": "KD"
+    },
+    {
+        "name": "Louga",
+        "type": null,
+        "latitude": "15.61417680",
+        "longitude": "-16.22868000",
+        "code": "LG"
+    },
+    {
+        "name": "Matam",
+        "type": null,
+        "latitude": "15.66002250",
+        "longitude": "-13.25769060",
+        "code": "MT"
+    },
+    {
+        "name": "Saint-Louis",
+        "type": null,
+        "latitude": "38.62700250",
+        "longitude": "-90.19940420",
+        "code": "SL"
+    },
+    {
+        "name": "Sédhiou",
+        "type": null,
+        "latitude": "12.70460400",
+        "longitude": "-15.55623040",
+        "code": "SE"
+    },
+    {
+        "name": "Tambacounda Region",
+        "type": null,
+        "latitude": "13.56190110",
+        "longitude": "-13.17403480",
+        "code": "TC"
+    },
+    {
+        "name": "Thiès Region",
+        "type": null,
+        "latitude": "14.79100520",
+        "longitude": "-16.93586040",
+        "code": "TH"
+    },
+    {
+        "name": "Ziguinchor",
+        "type": null,
+        "latitude": "12.56414790",
+        "longitude": "-16.26398250",
+        "code": "ZG"
+    }
+]

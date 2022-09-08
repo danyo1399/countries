@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Clarendon Parish",
+        "type": null,
+        "latitude": "17.95571830",
+        "longitude": "-77.24051530",
+        "code": "13"
+    },
+    {
+        "name": "Hanover Parish",
+        "type": null,
+        "latitude": "18.40977070",
+        "longitude": "-78.13363800",
+        "code": "09"
+    },
+    {
+        "name": "Kingston Parish",
+        "type": null,
+        "latitude": "17.96832710",
+        "longitude": "-76.78270200",
+        "code": "01"
+    },
+    {
+        "name": "Manchester Parish",
+        "type": null,
+        "latitude": "18.06696540",
+        "longitude": "-77.51607880",
+        "code": "12"
+    },
+    {
+        "name": "Portland Parish",
+        "type": null,
+        "latitude": "18.08442740",
+        "longitude": "-76.41002670",
+        "code": "04"
+    },
+    {
+        "name": "Saint Andrew",
+        "type": null,
+        "latitude": "37.22451030",
+        "longitude": "-95.70211890",
+        "code": "02"
+    },
+    {
+        "name": "Saint Ann Parish",
+        "type": null,
+        "latitude": "37.28714520",
+        "longitude": "-77.41035330",
+        "code": "06"
+    },
+    {
+        "name": "Saint Catherine Parish",
+        "type": null,
+        "latitude": "18.03641340",
+        "longitude": "-77.05644640",
+        "code": "14"
+    },
+    {
+        "name": "Saint Elizabeth Parish",
+        "type": null,
+        "latitude": "38.99253080",
+        "longitude": "-94.58992000",
+        "code": "11"
+    },
+    {
+        "name": "Saint James Parish",
+        "type": null,
+        "latitude": "30.01792920",
+        "longitude": "-90.79132270",
+        "code": "08"
+    },
+    {
+        "name": "Saint Mary Parish",
+        "type": null,
+        "latitude": "36.09252200",
+        "longitude": "-95.97384400",
+        "code": "05"
+    },
+    {
+        "name": "Saint Thomas Parish",
+        "type": null,
+        "latitude": "41.44253890",
+        "longitude": "-81.74022180",
+        "code": "03"
+    },
+    {
+        "name": "Trelawny Parish",
+        "type": null,
+        "latitude": "18.35261430",
+        "longitude": "-77.60778650",
+        "code": "07"
+    },
+    {
+        "name": "Westmoreland Parish",
+        "type": null,
+        "latitude": "18.29443780",
+        "longitude": "-78.15644320",
+        "code": "10"
+    }
+]

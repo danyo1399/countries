@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Charlotte Parish",
+        "type": null,
+        "latitude": "13.21754510",
+        "longitude": "-61.16362440",
+        "code": "01"
+    },
+    {
+        "name": "Grenadines Parish",
+        "type": null,
+        "latitude": "13.01229650",
+        "longitude": "-61.22773010",
+        "code": "06"
+    },
+    {
+        "name": "Saint Andrew Parish",
+        "type": null,
+        "latitude": "43.02429990",
+        "longitude": "-81.20250000",
+        "code": "02"
+    },
+    {
+        "name": "Saint David Parish",
+        "type": null,
+        "latitude": "43.85230950",
+        "longitude": "-79.52366540",
+        "code": "03"
+    },
+    {
+        "name": "Saint George Parish",
+        "type": null,
+        "latitude": "42.95760900",
+        "longitude": "-81.32670500",
+        "code": "04"
+    },
+    {
+        "name": "Saint Patrick Parish",
+        "type": null,
+        "latitude": "39.75091860",
+        "longitude": "-94.84505560",
+        "code": "05"
+    }
+]

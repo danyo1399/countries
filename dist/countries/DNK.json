@@ -203,11 +203,41 @@
         "format": "####",
         "regex": "^(\\d{4})$"
     },
-    "provinces": [
-        "Capital Region of Denmark",
-        "Central Denmark Region",
-        "North Denmark Region",
-        "Region of Southern Denmark",
-        "Region Zealand"
+    "states": [
+        {
+            "name": "Capital Region of Denmark",
+            "type": null,
+            "latitude": "55.67518120",
+            "longitude": "12.54932610",
+            "code": "84"
+        },
+        {
+            "name": "Central Denmark Region",
+            "type": null,
+            "latitude": "56.30213900",
+            "longitude": "9.30277700",
+            "code": "82"
+        },
+        {
+            "name": "North Denmark Region",
+            "type": null,
+            "latitude": "56.83074160",
+            "longitude": "9.49305270",
+            "code": "81"
+        },
+        {
+            "name": "Region of Southern Denmark",
+            "type": null,
+            "latitude": "55.33077140",
+            "longitude": "9.09249030",
+            "code": "83"
+        },
+        {
+            "name": "Region Zealand",
+            "type": null,
+            "latitude": "55.46325180",
+            "longitude": "11.72149790",
+            "code": "85"
+        }
     ]
 }

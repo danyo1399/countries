@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Aiwo District",
+        "type": null,
+        "latitude": "-0.53400120",
+        "longitude": "166.91388730",
+        "code": "01"
+    },
+    {
+        "name": "Anabar District",
+        "type": null,
+        "latitude": "-0.51335170",
+        "longitude": "166.94846240",
+        "code": "02"
+    },
+    {
+        "name": "Anetan District",
+        "type": null,
+        "latitude": "-0.50643430",
+        "longitude": "166.94270060",
+        "code": "03"
+    },
+    {
+        "name": "Anibare District",
+        "type": null,
+        "latitude": "-0.52947580",
+        "longitude": "166.95134320",
+        "code": "04"
+    },
+    {
+        "name": "Baiti District",
+        "type": null,
+        "latitude": "-0.51043100",
+        "longitude": "166.92757440",
+        "code": "05"
+    },
+    {
+        "name": "Boe District",
+        "type": null,
+        "latitude": "39.07327760",
+        "longitude": "-94.57104980",
+        "code": "06"
+    },
+    {
+        "name": "Buada District",
+        "type": null,
+        "latitude": "-0.53287770",
+        "longitude": "166.92685410",
+        "code": "07"
+    },
+    {
+        "name": "Denigomodu District",
+        "type": null,
+        "latitude": "-0.52479640",
+        "longitude": "166.91676890",
+        "code": "08"
+    },
+    {
+        "name": "Ewa District",
+        "type": null,
+        "latitude": "-0.50872410",
+        "longitude": "166.93693840",
+        "code": "09"
+    },
+    {
+        "name": "Ijuw District",
+        "type": null,
+        "latitude": "-0.52027670",
+        "longitude": "166.95710460",
+        "code": "10"
+    },
+    {
+        "name": "Meneng District",
+        "type": null,
+        "latitude": "-0.54672400",
+        "longitude": "166.93837900",
+        "code": "11"
+    },
+    {
+        "name": "Nibok District",
+        "type": null,
+        "latitude": "-0.51962080",
+        "longitude": "166.91893010",
+        "code": "12"
+    },
+    {
+        "name": "Uaboe District",
+        "type": null,
+        "latitude": "-0.52022220",
+        "longitude": "166.93117610",
+        "code": "13"
+    },
+    {
+        "name": "Yaren District",
+        "type": null,
+        "latitude": "-0.54668570",
+        "longitude": "166.92109130",
+        "code": "14"
+    }
+]

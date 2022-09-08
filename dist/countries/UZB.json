@@ -208,20 +208,104 @@
         "format": "######",
         "regex": "^(\\d{6})$"
     },
-    "provinces": [
-        "Andijan Region",
-        "Bukhara Region",
-        "Fergana Region",
-        "Jizzakh Region",
-        "Karakalpakstan",
-        "Namangan Region",
-        "Navoiy Region",
-        "Qashqadaryo Region",
-        "Samarqand Region",
-        "Sirdaryo Region",
-        "Surxondaryo Region",
-        "Tashkent",
-        "Tashkent Region",
-        "Xorazm Region"
+    "states": [
+        {
+            "name": "Andijan Region",
+            "type": null,
+            "latitude": "40.76859410",
+            "longitude": "72.23637900",
+            "code": "AN"
+        },
+        {
+            "name": "Bukhara Region",
+            "type": null,
+            "latitude": "40.25041620",
+            "longitude": "63.20321510",
+            "code": "BU"
+        },
+        {
+            "name": "Fergana Region",
+            "type": null,
+            "latitude": "40.45680810",
+            "longitude": "71.28742090",
+            "code": "FA"
+        },
+        {
+            "name": "Jizzakh Region",
+            "type": null,
+            "latitude": "40.47064150",
+            "longitude": "67.57085360",
+            "code": "JI"
+        },
+        {
+            "name": "Karakalpakstan",
+            "type": null,
+            "latitude": "43.80413340",
+            "longitude": "59.44579880",
+            "code": "QR"
+        },
+        {
+            "name": "Namangan Region",
+            "type": null,
+            "latitude": "41.05100370",
+            "longitude": "71.09731700",
+            "code": "NG"
+        },
+        {
+            "name": "Navoiy Region",
+            "type": null,
+            "latitude": "42.69885750",
+            "longitude": "64.63376850",
+            "code": "NW"
+        },
+        {
+            "name": "Qashqadaryo Region",
+            "type": null,
+            "latitude": "38.89862310",
+            "longitude": "66.04635340",
+            "code": "QA"
+        },
+        {
+            "name": "Samarqand Region",
+            "type": null,
+            "latitude": "39.62701200",
+            "longitude": "66.97497310",
+            "code": "SA"
+        },
+        {
+            "name": "Sirdaryo Region",
+            "type": null,
+            "latitude": "40.38638080",
+            "longitude": "68.71549750",
+            "code": "SI"
+        },
+        {
+            "name": "Surxondaryo Region",
+            "type": null,
+            "latitude": "37.94090050",
+            "longitude": "67.57085360",
+            "code": "SU"
+        },
+        {
+            "name": "Tashkent",
+            "type": null,
+            "latitude": "41.29949580",
+            "longitude": "69.24007340",
+            "code": "TK"
+        },
+        {
+            "name": "Tashkent Region",
+            "type": null,
+            "latitude": "41.22132340",
+            "longitude": "69.85974060",
+            "code": "TO"
+        },
+        {
+            "name": "Xorazm Region",
+            "type": null,
+            "latitude": "41.35653360",
+            "longitude": "60.85666860",
+            "code": "XO"
+        }
     ]
 }

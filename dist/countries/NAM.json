@@ -241,20 +241,104 @@
             17.08
         ]
     },
-    "provinces": [
-        "Erongo Region",
-        "Hardap Region",
-        "Karas Region",
-        "Kavango East Region",
-        "Kavango West Region",
-        "Khomas Region",
-        "Kunene Region",
-        "Ohangwena Region",
-        "Omaheke Region",
-        "Omusati Region",
-        "Oshana Region",
-        "Oshikoto Region",
-        "Otjozondjupa Region",
-        "Zambezi Region"
+    "states": [
+        {
+            "name": "Erongo Region",
+            "type": null,
+            "latitude": "-22.25656820",
+            "longitude": "15.40680790",
+            "code": "ER"
+        },
+        {
+            "name": "Hardap Region",
+            "type": null,
+            "latitude": "-24.23101340",
+            "longitude": "17.66888700",
+            "code": "HA"
+        },
+        {
+            "name": "Karas Region",
+            "type": null,
+            "latitude": "-26.84296450",
+            "longitude": "17.29028390",
+            "code": "KA"
+        },
+        {
+            "name": "Kavango East Region",
+            "type": null,
+            "latitude": "-18.27104800",
+            "longitude": "18.42760470",
+            "code": "KE"
+        },
+        {
+            "name": "Kavango West Region",
+            "type": null,
+            "latitude": "-18.27104800",
+            "longitude": "18.42760470",
+            "code": "KW"
+        },
+        {
+            "name": "Khomas Region",
+            "type": null,
+            "latitude": "-22.63778540",
+            "longitude": "17.10119310",
+            "code": "KH"
+        },
+        {
+            "name": "Kunene Region",
+            "type": null,
+            "latitude": "-19.40863170",
+            "longitude": "13.91439900",
+            "code": "KU"
+        },
+        {
+            "name": "Ohangwena Region",
+            "type": null,
+            "latitude": "-17.59792910",
+            "longitude": "16.81783770",
+            "code": "OW"
+        },
+        {
+            "name": "Omaheke Region",
+            "type": null,
+            "latitude": "-21.84666510",
+            "longitude": "19.18800470",
+            "code": "OH"
+        },
+        {
+            "name": "Omusati Region",
+            "type": null,
+            "latitude": "-18.40702940",
+            "longitude": "14.84546190",
+            "code": "OS"
+        },
+        {
+            "name": "Oshana Region",
+            "type": null,
+            "latitude": "-18.43050640",
+            "longitude": "15.68817880",
+            "code": "ON"
+        },
+        {
+            "name": "Oshikoto Region",
+            "type": null,
+            "latitude": "-18.41525750",
+            "longitude": "16.91225100",
+            "code": "OT"
+        },
+        {
+            "name": "Otjozondjupa Region",
+            "type": null,
+            "latitude": "-20.54869160",
+            "longitude": "17.66888700",
+            "code": "OD"
+        },
+        {
+            "name": "Zambezi Region",
+            "type": null,
+            "latitude": "-17.81934190",
+            "longitude": "23.95364660",
+            "code": "CA"
+        }
     ]
 }

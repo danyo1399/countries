@@ -209,10 +209,34 @@
         "format": "@###",
         "regex": "^([A-Z]\\d{3})$"
     },
-    "provinces": [
-        "Hhohho District",
-        "Lubombo District",
-        "Manzini District",
-        "Shiselweni District"
+    "states": [
+        {
+            "name": "Hhohho District",
+            "type": null,
+            "latitude": "-26.13656620",
+            "longitude": "31.35416310",
+            "code": "HH"
+        },
+        {
+            "name": "Lubombo District",
+            "type": null,
+            "latitude": "-26.78517730",
+            "longitude": "31.81070790",
+            "code": "LU"
+        },
+        {
+            "name": "Manzini District",
+            "type": null,
+            "latitude": "-26.50819990",
+            "longitude": "31.37131640",
+            "code": "MA"
+        },
+        {
+            "name": "Shiselweni District",
+            "type": null,
+            "latitude": "-26.98275770",
+            "longitude": "31.35416310",
+            "code": "SH"
+        }
     ]
 }

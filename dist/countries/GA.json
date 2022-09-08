@@ -196,15 +196,69 @@
             9.45
         ]
     },
-    "provinces": [
-        "Estuaire Province",
-        "Haut-Ogooué Province",
-        "Moyen-Ogooué Province",
-        "Ngounié Province",
-        "Nyanga Province",
-        "Ogooué-Ivindo Province",
-        "Ogooué-Lolo Province",
-        "Ogooué-Maritime Province",
-        "Woleu-Ntem Province"
+    "states": [
+        {
+            "name": "Estuaire Province",
+            "type": null,
+            "latitude": "0.44328640",
+            "longitude": "10.08072980",
+            "code": "1"
+        },
+        {
+            "name": "Haut-Ogooué Province",
+            "type": null,
+            "latitude": "-1.47625440",
+            "longitude": "13.91439900",
+            "code": "2"
+        },
+        {
+            "name": "Moyen-Ogooué Province",
+            "type": null,
+            "latitude": "-0.44278400",
+            "longitude": "10.43965600",
+            "code": "3"
+        },
+        {
+            "name": "Ngounié Province",
+            "type": null,
+            "latitude": "-1.49303030",
+            "longitude": "10.98070030",
+            "code": "4"
+        },
+        {
+            "name": "Nyanga Province",
+            "type": null,
+            "latitude": "-2.88210330",
+            "longitude": "11.16173560",
+            "code": "5"
+        },
+        {
+            "name": "Ogooué-Ivindo Province",
+            "type": null,
+            "latitude": "0.88183110",
+            "longitude": "13.17403480",
+            "code": "6"
+        },
+        {
+            "name": "Ogooué-Lolo Province",
+            "type": null,
+            "latitude": "-0.88440930",
+            "longitude": "12.43805810",
+            "code": "7"
+        },
+        {
+            "name": "Ogooué-Maritime Province",
+            "type": null,
+            "latitude": "-1.34659750",
+            "longitude": "9.72326730",
+            "code": "8"
+        },
+        {
+            "name": "Woleu-Ntem Province",
+            "type": null,
+            "latitude": "2.29898270",
+            "longitude": "11.44669140",
+            "code": "9"
+        }
     ]
 }

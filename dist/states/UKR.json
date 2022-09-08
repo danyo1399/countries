@@ -1,0 +1,184 @@
+[
+    {
+        "name": "Autonomous Republic of Crimea",
+        "type": "republic",
+        "latitude": "44.95211700",
+        "longitude": "34.10241700",
+        "code": "43"
+    },
+    {
+        "name": "Cherkaska oblast",
+        "type": "region",
+        "latitude": "49.44443300",
+        "longitude": "32.05976700",
+        "code": "71"
+    },
+    {
+        "name": "Chernihivska oblast",
+        "type": "region",
+        "latitude": "51.49820000",
+        "longitude": "31.28934990",
+        "code": "74"
+    },
+    {
+        "name": "Chernivetska oblast",
+        "type": "region",
+        "latitude": "48.29168300",
+        "longitude": "25.93521700",
+        "code": "77"
+    },
+    {
+        "name": "Dnipropetrovska oblast",
+        "type": "region",
+        "latitude": "48.46471700",
+        "longitude": "35.04618300",
+        "code": "12"
+    },
+    {
+        "name": "Donetska oblast",
+        "type": "region",
+        "latitude": "48.01588300",
+        "longitude": "37.80285000",
+        "code": "14"
+    },
+    {
+        "name": "Ivano-Frankivska oblast",
+        "type": "region",
+        "latitude": "48.92263300",
+        "longitude": "24.71111700",
+        "code": "26"
+    },
+    {
+        "name": "Kharkivska oblast",
+        "type": "region",
+        "latitude": "49.99350000",
+        "longitude": "36.23038300",
+        "code": "63"
+    },
+    {
+        "name": "Khersonska oblast",
+        "type": "region",
+        "latitude": "46.63541700",
+        "longitude": "32.61686700",
+        "code": "65"
+    },
+    {
+        "name": "Khmelnytska oblast",
+        "type": "region",
+        "latitude": "49.42298300",
+        "longitude": "26.98713310",
+        "code": "68"
+    },
+    {
+        "name": "Kirovohradska oblast",
+        "type": "region",
+        "latitude": "48.50793300",
+        "longitude": "32.26231700",
+        "code": "35"
+    },
+    {
+        "name": "Kyiv",
+        "type": "city",
+        "latitude": "50.45010000",
+        "longitude": "30.52340000",
+        "code": "30"
+    },
+    {
+        "name": "Kyivska oblast",
+        "type": "region",
+        "latitude": "50.05295060",
+        "longitude": "30.76671340",
+        "code": "32"
+    },
+    {
+        "name": "Luhanska oblast",
+        "type": "region",
+        "latitude": "48.57404100",
+        "longitude": "39.30781500",
+        "code": "09"
+    },
+    {
+        "name": "Lvivska oblast",
+        "type": "region",
+        "latitude": "49.83968300",
+        "longitude": "24.02971700",
+        "code": "46"
+    },
+    {
+        "name": "Mykolaivska oblast",
+        "type": "region",
+        "latitude": "46.97503300",
+        "longitude": "31.99458290",
+        "code": "48"
+    },
+    {
+        "name": "Odeska oblast",
+        "type": "region",
+        "latitude": "46.48458300",
+        "longitude": "30.73260000",
+        "code": "51"
+    },
+    {
+        "name": "Poltavska oblast",
+        "type": "region",
+        "latitude": "49.64291960",
+        "longitude": "32.66753390",
+        "code": "53"
+    },
+    {
+        "name": "Rivnenska oblast",
+        "type": "region",
+        "latitude": "50.61990000",
+        "longitude": "26.25161700",
+        "code": "56"
+    },
+    {
+        "name": "Sumska oblast",
+        "type": "region",
+        "latitude": "50.90770000",
+        "longitude": "34.79810000",
+        "code": "59"
+    },
+    {
+        "name": "Ternopilska oblast",
+        "type": "region",
+        "latitude": "49.55351700",
+        "longitude": "25.59476700",
+        "code": "61"
+    },
+    {
+        "name": "Vinnytska oblast",
+        "type": "region",
+        "latitude": "49.23308300",
+        "longitude": "28.46821690",
+        "code": "05"
+    },
+    {
+        "name": "Volynska oblast",
+        "type": "region",
+        "latitude": "50.74723300",
+        "longitude": "25.32538300",
+        "code": "07"
+    },
+    {
+        "name": "Zakarpatska Oblast",
+        "type": "region",
+        "latitude": "48.62080000",
+        "longitude": "22.28788300",
+        "code": "21"
+    },
+    {
+        "name": "Zaporizka oblast",
+        "type": "region",
+        "latitude": "47.83880000",
+        "longitude": "35.13956700",
+        "code": "23"
+    },
+    {
+        "name": "Zhytomyrska oblast",
+        "type": "region",
+        "latitude": "50.25465000",
+        "longitude": "28.65866690",
+        "code": "18"
+    }
+]

@@ -204,14 +204,62 @@
         "format": "#### ####|####",
         "regex": "^(\\d{4}(\\d{4})?)$"
     },
-    "provinces": [
-        "Akkar",
-        "Baalbek-Hermel",
-        "Beirut",
-        "Beqaa",
-        "Mount Lebanon",
-        "Nabatieh",
-        "North",
-        "South"
+    "states": [
+        {
+            "name": "Akkar",
+            "type": null,
+            "latitude": "34.53287630",
+            "longitude": "36.13281320",
+            "code": "AK"
+        },
+        {
+            "name": "Baalbek-Hermel",
+            "type": null,
+            "latitude": "34.26585560",
+            "longitude": "36.34980970",
+            "code": "BH"
+        },
+        {
+            "name": "Beirut",
+            "type": null,
+            "latitude": "33.88861060",
+            "longitude": "35.49547720",
+            "code": "BA"
+        },
+        {
+            "name": "Beqaa",
+            "type": null,
+            "latitude": "33.84626620",
+            "longitude": "35.90194890",
+            "code": "BI"
+        },
+        {
+            "name": "Mount Lebanon",
+            "type": null,
+            "latitude": "33.81008580",
+            "longitude": "35.59731390",
+            "code": "JL"
+        },
+        {
+            "name": "Nabatieh",
+            "type": null,
+            "latitude": "33.37716930",
+            "longitude": "35.48382930",
+            "code": "NA"
+        },
+        {
+            "name": "North",
+            "type": null,
+            "latitude": "34.43806250",
+            "longitude": "35.83082330",
+            "code": "AS"
+        },
+        {
+            "name": "South",
+            "type": null,
+            "latitude": "33.27214790",
+            "longitude": "35.20327780",
+            "code": "JA"
+        }
     ]
 }

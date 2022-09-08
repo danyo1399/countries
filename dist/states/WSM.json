@@ -1,0 +1,79 @@
+[
+    {
+        "name": "A'ana",
+        "type": null,
+        "latitude": "-13.89841800",
+        "longitude": "-171.97529950",
+        "code": "AA"
+    },
+    {
+        "name": "Aiga-i-le-Tai",
+        "type": null,
+        "latitude": "-13.85137910",
+        "longitude": "-172.03254010",
+        "code": "AL"
+    },
+    {
+        "name": "Atua",
+        "type": null,
+        "latitude": "-13.97870530",
+        "longitude": "-171.62542830",
+        "code": "AT"
+    },
+    {
+        "name": "Fa'asaleleaga",
+        "type": null,
+        "latitude": "-13.63076380",
+        "longitude": "-172.23659810",
+        "code": "FA"
+    },
+    {
+        "name": "Gaga'emauga",
+        "type": null,
+        "latitude": "-13.54286660",
+        "longitude": "-172.36688700",
+        "code": "GE"
+    },
+    {
+        "name": "Gaga'ifomauga",
+        "type": null,
+        "latitude": "-13.54680070",
+        "longitude": "-172.49693310",
+        "code": "GI"
+    },
+    {
+        "name": "Palauli",
+        "type": null,
+        "latitude": "-13.72945790",
+        "longitude": "-172.45361150",
+        "code": "PA"
+    },
+    {
+        "name": "Satupa'itea",
+        "type": null,
+        "latitude": "-13.65382140",
+        "longitude": "-172.61592710",
+        "code": "SA"
+    },
+    {
+        "name": "Tuamasaga",
+        "type": null,
+        "latitude": "-13.91635920",
+        "longitude": "-171.82243620",
+        "code": "TU"
+    },
+    {
+        "name": "Va'a-o-Fonoti",
+        "type": null,
+        "latitude": "-13.94709030",
+        "longitude": "-171.54318720",
+        "code": "VF"
+    },
+    {
+        "name": "Vaisigano",
+        "type": null,
+        "latitude": "-13.54138270",
+        "longitude": "-172.70233830",
+        "code": "VS"
+    }
+]

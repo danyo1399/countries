@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Bomi County",
+        "type": null,
+        "latitude": "6.75629260",
+        "longitude": "-10.84514670",
+        "code": "BM"
+    },
+    {
+        "name": "Bong County",
+        "type": null,
+        "latitude": "6.82950190",
+        "longitude": "-9.36730840",
+        "code": "BG"
+    },
+    {
+        "name": "Gbarpolu County",
+        "type": null,
+        "latitude": "7.49526370",
+        "longitude": "-10.08072980",
+        "code": "GP"
+    },
+    {
+        "name": "Grand Bassa County",
+        "type": null,
+        "latitude": "6.23084520",
+        "longitude": "-9.81249350",
+        "code": "GB"
+    },
+    {
+        "name": "Grand Cape Mount County",
+        "type": null,
+        "latitude": "7.04677580",
+        "longitude": "-11.07117580",
+        "code": "CM"
+    },
+    {
+        "name": "Grand Gedeh County",
+        "type": null,
+        "latitude": "5.92220780",
+        "longitude": "-8.22129790",
+        "code": "GG"
+    },
+    {
+        "name": "Grand Kru County",
+        "type": null,
+        "latitude": "4.76138620",
+        "longitude": "-8.22129790",
+        "code": "GK"
+    },
+    {
+        "name": "Lofa County",
+        "type": null,
+        "latitude": "8.19111840",
+        "longitude": "-9.72326730",
+        "code": "LO"
+    },
+    {
+        "name": "Margibi County",
+        "type": null,
+        "latitude": "6.51518750",
+        "longitude": "-10.30488970",
+        "code": "MG"
+    },
+    {
+        "name": "Maryland County",
+        "type": null,
+        "latitude": "39.04575490",
+        "longitude": "-76.64127120",
+        "code": "MY"
+    },
+    {
+        "name": "Montserrado County",
+        "type": null,
+        "latitude": "6.55258150",
+        "longitude": "-10.52961150",
+        "code": "MO"
+    },
+    {
+        "name": "Nimba",
+        "type": null,
+        "latitude": "7.61666670",
+        "longitude": "-8.41666670",
+        "code": "NI"
+    },
+    {
+        "name": "River Cess County",
+        "type": null,
+        "latitude": "5.90253280",
+        "longitude": "-9.45615500",
+        "code": "RI"
+    },
+    {
+        "name": "River Gee County",
+        "type": null,
+        "latitude": "5.26048940",
+        "longitude": "-7.87216000",
+        "code": "RG"
+    },
+    {
+        "name": "Sinoe County",
+        "type": null,
+        "latitude": "5.49871000",
+        "longitude": "-8.66005860",
+        "code": "SI"
+    }
+]

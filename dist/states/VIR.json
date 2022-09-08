@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Saint Croix",
+        "type": "district",
+        "latitude": "17.72935200",
+        "longitude": "-64.73437050",
+        "code": "SC"
+    },
+    {
+        "name": "Saint John",
+        "type": "district",
+        "latitude": "18.33561690",
+        "longitude": "-64.80028000",
+        "code": "SJ"
+    },
+    {
+        "name": "Saint Thomas",
+        "type": "district",
+        "latitude": "18.34284590",
+        "longitude": "-65.07701800",
+        "code": "ST"
+    }
+]

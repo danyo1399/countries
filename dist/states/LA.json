@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Attapeu Province",
+        "type": null,
+        "latitude": "14.93634000",
+        "longitude": "107.10119310",
+        "code": "AT"
+    },
+    {
+        "name": "Bokeo Province",
+        "type": null,
+        "latitude": "20.28726620",
+        "longitude": "100.70978670",
+        "code": "BK"
+    },
+    {
+        "name": "Bolikhamsai Province",
+        "type": null,
+        "latitude": "18.43629240",
+        "longitude": "104.47233010",
+        "code": "BL"
+    },
+    {
+        "name": "Champasak Province",
+        "type": null,
+        "latitude": "14.65786640",
+        "longitude": "105.96998780",
+        "code": "CH"
+    },
+    {
+        "name": "Houaphanh Province",
+        "type": null,
+        "latitude": "20.32541750",
+        "longitude": "104.10013260",
+        "code": "HO"
+    },
+    {
+        "name": "Khammouane Province",
+        "type": null,
+        "latitude": "17.63840660",
+        "longitude": "105.21948080",
+        "code": "KH"
+    },
+    {
+        "name": "Luang Namtha Province",
+        "type": null,
+        "latitude": "20.91701870",
+        "longitude": "101.16173560",
+        "code": "LM"
+    },
+    {
+        "name": "Luang Prabang Province",
+        "type": null,
+        "latitude": "20.06562290",
+        "longitude": "102.62162110",
+        "code": "LP"
+    },
+    {
+        "name": "Oudomxay Province",
+        "type": null,
+        "latitude": "20.49219290",
+        "longitude": "101.88917210",
+        "code": "OU"
+    },
+    {
+        "name": "Phongsaly Province",
+        "type": null,
+        "latitude": "21.59193770",
+        "longitude": "102.25479190",
+        "code": "PH"
+    },
+    {
+        "name": "Sainyabuli Province",
+        "type": null,
+        "latitude": "19.39078860",
+        "longitude": "101.52480550",
+        "code": "XA"
+    },
+    {
+        "name": "Salavan Province",
+        "type": null,
+        "latitude": "15.81710730",
+        "longitude": "106.25221430",
+        "code": "SL"
+    },
+    {
+        "name": "Savannakhet Province",
+        "type": null,
+        "latitude": "16.50653810",
+        "longitude": "105.59433880",
+        "code": "SV"
+    },
+    {
+        "name": "Sekong Province",
+        "type": null,
+        "latitude": "15.57674460",
+        "longitude": "107.00670310",
+        "code": "XE"
+    },
+    {
+        "name": "Vientiane Prefecture",
+        "type": null,
+        "latitude": "18.11054100",
+        "longitude": "102.52980280",
+        "code": "VT"
+    },
+    {
+        "name": "Vientiane Province",
+        "type": null,
+        "latitude": "18.57050630",
+        "longitude": "102.62162110",
+        "code": "VI"
+    },
+    {
+        "name": "Xaisomboun",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "XN"
+    },
+    {
+        "name": "Xaisomboun Province",
+        "type": null,
+        "latitude": "18.43629240",
+        "longitude": "104.47233010",
+        "code": "XS"
+    },
+    {
+        "name": "Xiangkhouang Province",
+        "type": null,
+        "latitude": "19.60930030",
+        "longitude": "103.72891670",
+        "code": "XI"
+    }
+]

@@ -203,22 +203,118 @@
         "format": "#####",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Johor",
-        "Kedah",
-        "Kelantan",
-        "Kuala Lumpur",
-        "Labuan",
-        "Malacca",
-        "Negeri Sembilan",
-        "Pahang",
-        "Penang",
-        "Perak",
-        "Perlis",
-        "Putrajaya",
-        "Sabah",
-        "Sarawak",
-        "Selangor",
-        "Terengganu"
+    "states": [
+        {
+            "name": "Johor",
+            "type": null,
+            "latitude": "1.48536820",
+            "longitude": "103.76181540",
+            "code": "01"
+        },
+        {
+            "name": "Kedah",
+            "type": null,
+            "latitude": "6.11839640",
+            "longitude": "100.36845950",
+            "code": "02"
+        },
+        {
+            "name": "Kelantan",
+            "type": null,
+            "latitude": "6.12539690",
+            "longitude": "102.23807100",
+            "code": "03"
+        },
+        {
+            "name": "Kuala Lumpur",
+            "type": null,
+            "latitude": "3.13900300",
+            "longitude": "101.68685500",
+            "code": "14"
+        },
+        {
+            "name": "Labuan",
+            "type": null,
+            "latitude": "5.28314560",
+            "longitude": "115.23082500",
+            "code": "15"
+        },
+        {
+            "name": "Malacca",
+            "type": null,
+            "latitude": "2.18959400",
+            "longitude": "102.25008680",
+            "code": "04"
+        },
+        {
+            "name": "Negeri Sembilan",
+            "type": null,
+            "latitude": "2.72580580",
+            "longitude": "101.94237820",
+            "code": "05"
+        },
+        {
+            "name": "Pahang",
+            "type": null,
+            "latitude": "3.81263180",
+            "longitude": "103.32562040",
+            "code": "06"
+        },
+        {
+            "name": "Penang",
+            "type": null,
+            "latitude": "5.41639350",
+            "longitude": "100.33267860",
+            "code": "07"
+        },
+        {
+            "name": "Perak",
+            "type": null,
+            "latitude": "4.59211260",
+            "longitude": "101.09010900",
+            "code": "08"
+        },
+        {
+            "name": "Perlis",
+            "type": null,
+            "latitude": "29.92270940",
+            "longitude": "-90.12285590",
+            "code": "09"
+        },
+        {
+            "name": "Putrajaya",
+            "type": null,
+            "latitude": "2.92636100",
+            "longitude": "101.69644500",
+            "code": "16"
+        },
+        {
+            "name": "Sabah",
+            "type": null,
+            "latitude": "5.97883980",
+            "longitude": "116.07531990",
+            "code": "12"
+        },
+        {
+            "name": "Sarawak",
+            "type": null,
+            "latitude": "1.55327830",
+            "longitude": "110.35921270",
+            "code": "13"
+        },
+        {
+            "name": "Selangor",
+            "type": null,
+            "latitude": "3.07383790",
+            "longitude": "101.51834690",
+            "code": "10"
+        },
+        {
+            "name": "Terengganu",
+            "type": null,
+            "latitude": "5.31169160",
+            "longitude": "103.13241540",
+            "code": "11"
+        }
     ]
 }

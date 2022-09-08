@@ -217,40 +217,244 @@
         "format": "######",
         "regex": "^(\\d{6})$"
     },
-    "provinces": [
-        "Anhui",
-        "Beijing",
-        "Chongqing",
-        "Fujian",
-        "Gansu",
-        "Guangdong",
-        "Guangxi Zhuang",
-        "Guizhou",
-        "Hainan",
-        "Hebei",
-        "Heilongjiang",
-        "Henan",
-        "Hong Kong SAR",
-        "Hubei",
-        "Hunan",
-        "Inner Mongolia",
-        "Jiangsu",
-        "Jiangxi",
-        "Jilin",
-        "Liaoning",
-        "Macau SAR",
-        "Ningxia Huizu",
-        "Qinghai",
-        "Shaanxi",
-        "Shandong",
-        "Shanghai",
-        "Shanxi",
-        "Sichuan",
-        "Taiwan",
-        "Tianjin",
-        "Xinjiang",
-        "Xizang",
-        "Yunnan",
-        "Zhejiang"
+    "states": [
+        {
+            "name": "Anhui",
+            "type": "province",
+            "latitude": "30.60067730",
+            "longitude": "117.92490020",
+            "code": "AH"
+        },
+        {
+            "name": "Beijing",
+            "type": "municipality",
+            "latitude": "39.90419990",
+            "longitude": "116.40739630",
+            "code": "BJ"
+        },
+        {
+            "name": "Chongqing",
+            "type": "municipality",
+            "latitude": "29.43158610",
+            "longitude": "106.91225100",
+            "code": "CQ"
+        },
+        {
+            "name": "Fujian",
+            "type": "province",
+            "latitude": "26.48368420",
+            "longitude": "117.92490020",
+            "code": "FJ"
+        },
+        {
+            "name": "Gansu",
+            "type": "province",
+            "latitude": "35.75183260",
+            "longitude": "104.28611160",
+            "code": "GS"
+        },
+        {
+            "name": "Guangdong",
+            "type": "province",
+            "latitude": "23.37903330",
+            "longitude": "113.76328280",
+            "code": "GD"
+        },
+        {
+            "name": "Guangxi Zhuang",
+            "type": "autonomous region",
+            "latitude": "23.72475990",
+            "longitude": "108.80761950",
+            "code": "GX"
+        },
+        {
+            "name": "Guizhou",
+            "type": "province",
+            "latitude": "26.84296450",
+            "longitude": "107.29028390",
+            "code": "GZ"
+        },
+        {
+            "name": "Hainan",
+            "type": "province",
+            "latitude": "19.56639470",
+            "longitude": "109.94968600",
+            "code": "HI"
+        },
+        {
+            "name": "Hebei",
+            "type": "province",
+            "latitude": "37.89565940",
+            "longitude": "114.90422080",
+            "code": "HE"
+        },
+        {
+            "name": "Heilongjiang",
+            "type": "province",
+            "latitude": "47.12164720",
+            "longitude": "128.73823100",
+            "code": "HL"
+        },
+        {
+            "name": "Henan",
+            "type": "province",
+            "latitude": "34.29043020",
+            "longitude": "113.38235450",
+            "code": "HA"
+        },
+        {
+            "name": "Hong Kong SAR",
+            "type": "special administrative region",
+            "latitude": "22.31930390",
+            "longitude": "114.16936110",
+            "code": "HK"
+        },
+        {
+            "name": "Hubei",
+            "type": "province",
+            "latitude": "30.73781180",
+            "longitude": "112.23840170",
+            "code": "HB"
+        },
+        {
+            "name": "Hunan",
+            "type": "province",
+            "latitude": "27.36830090",
+            "longitude": "109.28193470",
+            "code": "HN"
+        },
+        {
+            "name": "Inner Mongolia",
+            "type": "autonomous region",
+            "latitude": "43.37822000",
+            "longitude": "115.05948150",
+            "code": "NM"
+        },
+        {
+            "name": "Jiangsu",
+            "type": "province",
+            "latitude": "33.14017150",
+            "longitude": "119.78892480",
+            "code": "JS"
+        },
+        {
+            "name": "Jiangxi",
+            "type": "province",
+            "latitude": "27.08745640",
+            "longitude": "114.90422080",
+            "code": "JX"
+        },
+        {
+            "name": "Jilin",
+            "type": "province",
+            "latitude": "43.83788300",
+            "longitude": "126.54957200",
+            "code": "JL"
+        },
+        {
+            "name": "Liaoning",
+            "type": "province",
+            "latitude": "41.94365430",
+            "longitude": "122.52903760",
+            "code": "LN"
+        },
+        {
+            "name": "Macau SAR",
+            "type": "special administrative region",
+            "latitude": "22.19874500",
+            "longitude": "113.54387300",
+            "code": "MO"
+        },
+        {
+            "name": "Ningxia Huizu",
+            "type": "autonomous region",
+            "latitude": "37.19873100",
+            "longitude": "106.15809370",
+            "code": "NX"
+        },
+        {
+            "name": "Qinghai",
+            "type": "province",
+            "latitude": "35.74479800",
+            "longitude": "96.40773580",
+            "code": "QH"
+        },
+        {
+            "name": "Shaanxi",
+            "type": "province",
+            "latitude": "35.39399080",
+            "longitude": "109.18800470",
+            "code": "SN"
+        },
+        {
+            "name": "Shandong",
+            "type": "province",
+            "latitude": "37.80060640",
+            "longitude": "-122.26999180",
+            "code": "SD"
+        },
+        {
+            "name": "Shanghai",
+            "type": "municipality",
+            "latitude": "31.23041600",
+            "longitude": "121.47370100",
+            "code": "SH"
+        },
+        {
+            "name": "Shanxi",
+            "type": "province",
+            "latitude": "37.24256490",
+            "longitude": "111.85685860",
+            "code": "SX"
+        },
+        {
+            "name": "Sichuan",
+            "type": "province",
+            "latitude": "30.26380320",
+            "longitude": "102.80547530",
+            "code": "SC"
+        },
+        {
+            "name": "Taiwan",
+            "type": "province",
+            "latitude": "23.69781000",
+            "longitude": "120.96051500",
+            "code": "TW"
+        },
+        {
+            "name": "Tianjin",
+            "type": "municipality",
+            "latitude": "39.12522910",
+            "longitude": "117.01534350",
+            "code": "TJ"
+        },
+        {
+            "name": "Xinjiang",
+            "type": "autonomous region",
+            "latitude": "42.52463570",
+            "longitude": "87.53958550",
+            "code": "XJ"
+        },
+        {
+            "name": "Xizang",
+            "type": "autonomous region",
+            "latitude": "30.15336050",
+            "longitude": "88.78786780",
+            "code": "XZ"
+        },
+        {
+            "name": "Yunnan",
+            "type": "province",
+            "latitude": "24.47528470",
+            "longitude": "101.34310580",
+            "code": "YN"
+        },
+        {
+            "name": "Zhejiang",
+            "type": "province",
+            "latitude": "29.14164320",
+            "longitude": "119.78892480",
+            "code": "ZJ"
+        }
     ]
 }

@@ -202,44 +202,272 @@
         "format": "### ##",
         "regex": "^(\\d{5})$"
     },
-    "provinces": [
-        "Achaea Regional Unit",
-        "Aetolia-Acarnania Regional Unit",
-        "Arcadia Prefecture",
-        "Argolis Regional Unit",
-        "Attica Region",
-        "Boeotia Regional Unit",
-        "Central Greece Region",
-        "Central Macedonia",
-        "Chania Regional Unit",
-        "Corfu Prefecture",
-        "Corinthia Regional Unit",
-        "Crete Region",
-        "Drama Regional Unit",
-        "East Attica Regional Unit",
-        "East Macedonia and Thrace",
-        "Epirus Region",
-        "Euboea",
-        "Grevena Prefecture",
-        "Imathia Regional Unit",
-        "Ioannina Regional Unit",
-        "Ionian Islands Region",
-        "Karditsa Regional Unit",
-        "Kastoria Regional Unit",
-        "Kefalonia Prefecture",
-        "Kilkis Regional Unit",
-        "Kozani Prefecture",
-        "Laconia",
-        "Larissa Prefecture",
-        "Lefkada Regional Unit",
-        "Pella Regional Unit",
-        "Peloponnese Region",
-        "Phthiotis Prefecture",
-        "Preveza Prefecture",
-        "Serres Prefecture",
-        "South Aegean",
-        "Thessaloniki Regional Unit",
-        "West Greece Region",
-        "West Macedonia Region"
+    "states": [
+        {
+            "name": "Achaea Regional Unit",
+            "type": null,
+            "latitude": "38.11587290",
+            "longitude": "21.95224910",
+            "code": "13"
+        },
+        {
+            "name": "Aetolia-Acarnania Regional Unit",
+            "type": null,
+            "latitude": "38.70843860",
+            "longitude": "21.37989280",
+            "code": "01"
+        },
+        {
+            "name": "Arcadia Prefecture",
+            "type": null,
+            "latitude": "37.55578250",
+            "longitude": "22.33377690",
+            "code": "12"
+        },
+        {
+            "name": "Argolis Regional Unit",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "11"
+        },
+        {
+            "name": "Attica Region",
+            "type": null,
+            "latitude": "38.04575680",
+            "longitude": "23.85847370",
+            "code": "I"
+        },
+        {
+            "name": "Boeotia Regional Unit",
+            "type": null,
+            "latitude": "38.36636640",
+            "longitude": "23.09650640",
+            "code": "03"
+        },
+        {
+            "name": "Central Greece Region",
+            "type": null,
+            "latitude": "38.60439840",
+            "longitude": "22.71521310",
+            "code": "H"
+        },
+        {
+            "name": "Central Macedonia",
+            "type": null,
+            "latitude": "40.62117300",
+            "longitude": "23.19180210",
+            "code": "B"
+        },
+        {
+            "name": "Chania Regional Unit",
+            "type": null,
+            "latitude": "35.51382980",
+            "longitude": "24.01803670",
+            "code": "94"
+        },
+        {
+            "name": "Corfu Prefecture",
+            "type": null,
+            "latitude": "39.62498380",
+            "longitude": "19.92234610",
+            "code": "22"
+        },
+        {
+            "name": "Corinthia Regional Unit",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "15"
+        },
+        {
+            "name": "Crete Region",
+            "type": null,
+            "latitude": "35.24011700",
+            "longitude": "24.80926910",
+            "code": "M"
+        },
+        {
+            "name": "Drama Regional Unit",
+            "type": null,
+            "latitude": "41.23400230",
+            "longitude": "24.23904980",
+            "code": "52"
+        },
+        {
+            "name": "East Attica Regional Unit",
+            "type": null,
+            "latitude": "38.20540930",
+            "longitude": "23.85847370",
+            "code": "A2"
+        },
+        {
+            "name": "East Macedonia and Thrace",
+            "type": null,
+            "latitude": "41.12951260",
+            "longitude": "24.88771910",
+            "code": "A"
+        },
+        {
+            "name": "Epirus Region",
+            "type": null,
+            "latitude": "39.57064130",
+            "longitude": "20.76428430",
+            "code": "D"
+        },
+        {
+            "name": "Euboea",
+            "type": null,
+            "latitude": "38.52360360",
+            "longitude": "23.85847370",
+            "code": "04"
+        },
+        {
+            "name": "Grevena Prefecture",
+            "type": null,
+            "latitude": "40.08376260",
+            "longitude": "21.42732990",
+            "code": "51"
+        },
+        {
+            "name": "Imathia Regional Unit",
+            "type": null,
+            "latitude": "40.60600670",
+            "longitude": "22.14302150",
+            "code": "53"
+        },
+        {
+            "name": "Ioannina Regional Unit",
+            "type": null,
+            "latitude": "39.66502880",
+            "longitude": "20.85374660",
+            "code": "33"
+        },
+        {
+            "name": "Ionian Islands Region",
+            "type": null,
+            "latitude": "37.96948980",
+            "longitude": "21.38023720",
+            "code": "F"
+        },
+        {
+            "name": "Karditsa Regional Unit",
+            "type": null,
+            "latitude": "39.36402580",
+            "longitude": "21.92140490",
+            "code": "41"
+        },
+        {
+            "name": "Kastoria Regional Unit",
+            "type": null,
+            "latitude": "40.51926910",
+            "longitude": "21.26871710",
+            "code": "56"
+        },
+        {
+            "name": "Kefalonia Prefecture",
+            "type": null,
+            "latitude": "38.17536750",
+            "longitude": "20.56921790",
+            "code": "23"
+        },
+        {
+            "name": "Kilkis Regional Unit",
+            "type": null,
+            "latitude": "40.99370710",
+            "longitude": "22.87536740",
+            "code": "57"
+        },
+        {
+            "name": "Kozani Prefecture",
+            "type": null,
+            "latitude": "40.30055860",
+            "longitude": "21.78877370",
+            "code": "58"
+        },
+        {
+            "name": "Laconia",
+            "type": null,
+            "latitude": "43.52785460",
+            "longitude": "-71.47035090",
+            "code": "16"
+        },
+        {
+            "name": "Larissa Prefecture",
+            "type": null,
+            "latitude": "39.63902240",
+            "longitude": "22.41912540",
+            "code": "42"
+        },
+        {
+            "name": "Lefkada Regional Unit",
+            "type": null,
+            "latitude": "38.83336630",
+            "longitude": "20.70691080",
+            "code": "24"
+        },
+        {
+            "name": "Pella Regional Unit",
+            "type": null,
+            "latitude": "40.91480390",
+            "longitude": "22.14302150",
+            "code": "59"
+        },
+        {
+            "name": "Peloponnese Region",
+            "type": null,
+            "latitude": "37.50794720",
+            "longitude": "22.37349000",
+            "code": "J"
+        },
+        {
+            "name": "Phthiotis Prefecture",
+            "type": null,
+            "latitude": "38.99978500",
+            "longitude": "22.33377690",
+            "code": "06"
+        },
+        {
+            "name": "Preveza Prefecture",
+            "type": null,
+            "latitude": "38.95926490",
+            "longitude": "20.75171550",
+            "code": "34"
+        },
+        {
+            "name": "Serres Prefecture",
+            "type": null,
+            "latitude": "41.08638540",
+            "longitude": "23.54838190",
+            "code": "62"
+        },
+        {
+            "name": "South Aegean",
+            "type": null,
+            "latitude": "37.08553020",
+            "longitude": "25.14892150",
+            "code": "L"
+        },
+        {
+            "name": "Thessaloniki Regional Unit",
+            "type": null,
+            "latitude": "40.64006290",
+            "longitude": "22.94441910",
+            "code": "54"
+        },
+        {
+            "name": "West Greece Region",
+            "type": null,
+            "latitude": "38.51154960",
+            "longitude": "21.57067860",
+            "code": "G"
+        },
+        {
+            "name": "West Macedonia Region",
+            "type": null,
+            "latitude": "40.30040580",
+            "longitude": "21.79035590",
+            "code": "C"
+        }
     ]
 }

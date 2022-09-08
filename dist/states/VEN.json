@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Amazonas",
+        "type": "state",
+        "latitude": "-3.41684270",
+        "longitude": "-65.85606460",
+        "code": "Z"
+    },
+    {
+        "name": "Anzoátegui",
+        "type": "state",
+        "latitude": "8.59130730",
+        "longitude": "-63.95861110",
+        "code": "B"
+    },
+    {
+        "name": "Apure",
+        "type": "state",
+        "latitude": "6.92694830",
+        "longitude": "-68.52471490",
+        "code": "C"
+    },
+    {
+        "name": "Aragua",
+        "type": "state",
+        "latitude": "10.06357580",
+        "longitude": "-67.28478750",
+        "code": "D"
+    },
+    {
+        "name": "Barinas",
+        "type": "state",
+        "latitude": "8.62314980",
+        "longitude": "-70.23710450",
+        "code": "E"
+    },
+    {
+        "name": "Bolívar",
+        "type": "state",
+        "latitude": "37.61448380",
+        "longitude": "-93.41047490",
+        "code": "F"
+    },
+    {
+        "name": "Carabobo",
+        "type": "state",
+        "latitude": "10.11764330",
+        "longitude": "-68.04775090",
+        "code": "G"
+    },
+    {
+        "name": "Cojedes",
+        "type": "state",
+        "latitude": "9.38166820",
+        "longitude": "-68.33392750",
+        "code": "H"
+    },
+    {
+        "name": "Delta Amacuro",
+        "type": "state",
+        "latitude": "8.84993070",
+        "longitude": "-61.14031960",
+        "code": "Y"
+    },
+    {
+        "name": "Distrito Capital",
+        "type": "capital district",
+        "latitude": "41.26148460",
+        "longitude": "-95.93108070",
+        "code": "A"
+    },
+    {
+        "name": "Falcón",
+        "type": "state",
+        "latitude": "11.18106740",
+        "longitude": "-69.85974060",
+        "code": "I"
+    },
+    {
+        "name": "Federal Dependencies of Venezuela",
+        "type": "federal dependency",
+        "latitude": "10.93770530",
+        "longitude": "-65.35695730",
+        "code": "W"
+    },
+    {
+        "name": "Guárico",
+        "type": "state",
+        "latitude": "8.74893090",
+        "longitude": "-66.23671720",
+        "code": "J"
+    },
+    {
+        "name": "La Guaira",
+        "type": "state",
+        "latitude": "29.30522680",
+        "longitude": "-94.79138540",
+        "code": "X"
+    },
+    {
+        "name": "Lara",
+        "type": "state",
+        "latitude": "33.98221650",
+        "longitude": "-118.13227470",
+        "code": "K"
+    },
+    {
+        "name": "Mérida",
+        "type": "state",
+        "latitude": "20.96737020",
+        "longitude": "-89.59258570",
+        "code": "L"
+    },
+    {
+        "name": "Miranda",
+        "type": "state",
+        "latitude": "42.35193830",
+        "longitude": "-71.52907660",
+        "code": "M"
+    },
+    {
+        "name": "Monagas",
+        "type": "state",
+        "latitude": "9.32416520",
+        "longitude": "-63.01475780",
+        "code": "N"
+    },
+    {
+        "name": "Nueva Esparta",
+        "type": "state",
+        "latitude": "10.99707230",
+        "longitude": "-63.91132960",
+        "code": "O"
+    },
+    {
+        "name": "Portuguesa",
+        "type": "state",
+        "latitude": "9.09439990",
+        "longitude": "-69.09702300",
+        "code": "P"
+    },
+    {
+        "name": "Sucre",
+        "type": "state",
+        "latitude": "-19.03534500",
+        "longitude": "-65.25921280",
+        "code": "R"
+    },
+    {
+        "name": "Táchira",
+        "type": "state",
+        "latitude": "7.91370010",
+        "longitude": "-72.14161320",
+        "code": "S"
+    },
+    {
+        "name": "Trujillo",
+        "type": "state",
+        "latitude": "36.67343430",
+        "longitude": "-121.62875880",
+        "code": "T"
+    },
+    {
+        "name": "Yaracuy",
+        "type": "state",
+        "latitude": "10.33938900",
+        "longitude": "-68.81088490",
+        "code": "U"
+    },
+    {
+        "name": "Zulia",
+        "type": "state",
+        "latitude": "10.29102370",
+        "longitude": "-72.14161320",
+        "code": "V"
+    }
+]

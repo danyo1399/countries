@@ -525,72 +525,468 @@
         "format": "#####-####",
         "regex": "^\\d{5}(-\\d{4})?$"
     },
-    "provinces": [
-        "Alabama",
-        "Alaska",
-        "American Samoa",
-        "Arizona",
-        "Arkansas",
-        "Baker Island",
-        "California",
-        "Colorado",
-        "Connecticut",
-        "Delaware",
-        "District of Columbia",
-        "Florida",
-        "Georgia",
-        "Guam",
-        "Hawaii",
-        "Howland Island",
-        "Idaho",
-        "Illinois",
-        "Indiana",
-        "Iowa",
-        "Jarvis Island",
-        "Johnston Atoll",
-        "Kansas",
-        "Kentucky",
-        "Kingman Reef",
-        "Louisiana",
-        "Maine",
-        "Maryland",
-        "Massachusetts",
-        "Michigan",
-        "Midway Atoll",
-        "Minnesota",
-        "Mississippi",
-        "Missouri",
-        "Montana",
-        "Navassa Island",
-        "Nebraska",
-        "Nevada",
-        "New Hampshire",
-        "New Jersey",
-        "New Mexico",
-        "New York",
-        "North Carolina",
-        "North Dakota",
-        "Northern Mariana Islands",
-        "Ohio",
-        "Oklahoma",
-        "Oregon",
-        "Palmyra Atoll",
-        "Pennsylvania",
-        "Puerto Rico",
-        "Rhode Island",
-        "South Carolina",
-        "South Dakota",
-        "Tennessee",
-        "Texas",
-        "United States Minor Outlying Islands",
-        "United States Virgin Islands",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Wake Island",
-        "Washington",
-        "West Virginia",
-        "Wisconsin",
-        "Wyoming"
+    "states": [
+        {
+            "name": "Alabama",
+            "type": "state",
+            "latitude": "32.31823140",
+            "longitude": "-86.90229800",
+            "code": "AL"
+        },
+        {
+            "name": "Alaska",
+            "type": "state",
+            "latitude": "64.20084130",
+            "longitude": "-149.49367330",
+            "code": "AK"
+        },
+        {
+            "name": "American Samoa",
+            "type": "outlying area",
+            "latitude": "-14.27097200",
+            "longitude": "-170.13221700",
+            "code": "AS"
+        },
+        {
+            "name": "Arizona",
+            "type": "state",
+            "latitude": "34.04892810",
+            "longitude": "-111.09373110",
+            "code": "AZ"
+        },
+        {
+            "name": "Arkansas",
+            "type": "state",
+            "latitude": "35.20105000",
+            "longitude": "-91.83183340",
+            "code": "AR"
+        },
+        {
+            "name": "Baker Island",
+            "type": "islands / groups of islands",
+            "latitude": "0.19362660",
+            "longitude": "-176.47690800",
+            "code": "UM-81"
+        },
+        {
+            "name": "California",
+            "type": "state",
+            "latitude": "36.77826100",
+            "longitude": "-119.41793240",
+            "code": "CA"
+        },
+        {
+            "name": "Colorado",
+            "type": "state",
+            "latitude": "39.55005070",
+            "longitude": "-105.78206740",
+            "code": "CO"
+        },
+        {
+            "name": "Connecticut",
+            "type": "state",
+            "latitude": "41.60322070",
+            "longitude": "-73.08774900",
+            "code": "CT"
+        },
+        {
+            "name": "Delaware",
+            "type": "state",
+            "latitude": "38.91083250",
+            "longitude": "-75.52766990",
+            "code": "DE"
+        },
+        {
+            "name": "District of Columbia",
+            "type": "district",
+            "latitude": "38.90719230",
+            "longitude": "-77.03687070",
+            "code": "DC"
+        },
+        {
+            "name": "Florida",
+            "type": "state",
+            "latitude": "27.66482740",
+            "longitude": "-81.51575350",
+            "code": "FL"
+        },
+        {
+            "name": "Georgia",
+            "type": "state",
+            "latitude": "32.16562210",
+            "longitude": "-82.90007510",
+            "code": "GA"
+        },
+        {
+            "name": "Guam",
+            "type": "outlying area",
+            "latitude": "13.44430400",
+            "longitude": "144.79373100",
+            "code": "GU"
+        },
+        {
+            "name": "Hawaii",
+            "type": "state",
+            "latitude": "19.89676620",
+            "longitude": "-155.58278180",
+            "code": "HI"
+        },
+        {
+            "name": "Howland Island",
+            "type": "islands / groups of islands",
+            "latitude": "0.81132190",
+            "longitude": "-176.61827360",
+            "code": "UM-84"
+        },
+        {
+            "name": "Idaho",
+            "type": "state",
+            "latitude": "44.06820190",
+            "longitude": "-114.74204080",
+            "code": "ID"
+        },
+        {
+            "name": "Illinois",
+            "type": "state",
+            "latitude": "40.63312490",
+            "longitude": "-89.39852830",
+            "code": "IL"
+        },
+        {
+            "name": "Indiana",
+            "type": "state",
+            "latitude": "40.26719410",
+            "longitude": "-86.13490190",
+            "code": "IN"
+        },
+        {
+            "name": "Iowa",
+            "type": "state",
+            "latitude": "41.87800250",
+            "longitude": "-93.09770200",
+            "code": "IA"
+        },
+        {
+            "name": "Jarvis Island",
+            "type": "islands / groups of islands",
+            "latitude": "-0.37435030",
+            "longitude": "-159.99672060",
+            "code": "UM-86"
+        },
+        {
+            "name": "Johnston Atoll",
+            "type": "islands / groups of islands",
+            "latitude": "16.72950350",
+            "longitude": "-169.53364770",
+            "code": "UM-67"
+        },
+        {
+            "name": "Kansas",
+            "type": "state",
+            "latitude": "39.01190200",
+            "longitude": "-98.48424650",
+            "code": "KS"
+        },
+        {
+            "name": "Kentucky",
+            "type": "state",
+            "latitude": "37.83933320",
+            "longitude": "-84.27001790",
+            "code": "KY"
+        },
+        {
+            "name": "Kingman Reef",
+            "type": "islands / groups of islands",
+            "latitude": "6.38333300",
+            "longitude": "-162.41666700",
+            "code": "UM-89"
+        },
+        {
+            "name": "Louisiana",
+            "type": "state",
+            "latitude": "30.98429770",
+            "longitude": "-91.96233270",
+            "code": "LA"
+        },
+        {
+            "name": "Maine",
+            "type": "state",
+            "latitude": "45.25378300",
+            "longitude": "-69.44546890",
+            "code": "ME"
+        },
+        {
+            "name": "Maryland",
+            "type": "state",
+            "latitude": "39.04575490",
+            "longitude": "-76.64127120",
+            "code": "MD"
+        },
+        {
+            "name": "Massachusetts",
+            "type": "state",
+            "latitude": "42.40721070",
+            "longitude": "-71.38243740",
+            "code": "MA"
+        },
+        {
+            "name": "Michigan",
+            "type": "state",
+            "latitude": "44.31484430",
+            "longitude": "-85.60236430",
+            "code": "MI"
+        },
+        {
+            "name": "Midway Atoll",
+            "type": "islands / groups of islands",
+            "latitude": "28.20721680",
+            "longitude": "-177.37349260",
+            "code": "UM-71"
+        },
+        {
+            "name": "Minnesota",
+            "type": "state",
+            "latitude": "46.72955300",
+            "longitude": "-94.68589980",
+            "code": "MN"
+        },
+        {
+            "name": "Mississippi",
+            "type": "state",
+            "latitude": "32.35466790",
+            "longitude": "-89.39852830",
+            "code": "MS"
+        },
+        {
+            "name": "Missouri",
+            "type": "state",
+            "latitude": "37.96425290",
+            "longitude": "-91.83183340",
+            "code": "MO"
+        },
+        {
+            "name": "Montana",
+            "type": "state",
+            "latitude": "46.87968220",
+            "longitude": "-110.36256580",
+            "code": "MT"
+        },
+        {
+            "name": "Navassa Island",
+            "type": "islands / groups of islands",
+            "latitude": "18.41006890",
+            "longitude": "-75.01146120",
+            "code": "UM-76"
+        },
+        {
+            "name": "Nebraska",
+            "type": "state",
+            "latitude": "41.49253740",
+            "longitude": "-99.90181310",
+            "code": "NE"
+        },
+        {
+            "name": "Nevada",
+            "type": "state",
+            "latitude": "38.80260970",
+            "longitude": "-116.41938900",
+            "code": "NV"
+        },
+        {
+            "name": "New Hampshire",
+            "type": "state",
+            "latitude": "43.19385160",
+            "longitude": "-71.57239530",
+            "code": "NH"
+        },
+        {
+            "name": "New Jersey",
+            "type": "state",
+            "latitude": "40.05832380",
+            "longitude": "-74.40566120",
+            "code": "NJ"
+        },
+        {
+            "name": "New Mexico",
+            "type": "state",
+            "latitude": "34.51994020",
+            "longitude": "-105.87009010",
+            "code": "NM"
+        },
+        {
+            "name": "New York",
+            "type": "state",
+            "latitude": "40.71277530",
+            "longitude": "-74.00597280",
+            "code": "NY"
+        },
+        {
+            "name": "North Carolina",
+            "type": "state",
+            "latitude": "35.75957310",
+            "longitude": "-79.01929970",
+            "code": "NC"
+        },
+        {
+            "name": "North Dakota",
+            "type": "state",
+            "latitude": "47.55149260",
+            "longitude": "-101.00201190",
+            "code": "ND"
+        },
+        {
+            "name": "Northern Mariana Islands",
+            "type": "outlying area",
+            "latitude": "15.09790000",
+            "longitude": "145.67390000",
+            "code": "MP"
+        },
+        {
+            "name": "Ohio",
+            "type": "state",
+            "latitude": "40.41728710",
+            "longitude": "-82.90712300",
+            "code": "OH"
+        },
+        {
+            "name": "Oklahoma",
+            "type": "state",
+            "latitude": "35.46756020",
+            "longitude": "-97.51642760",
+            "code": "OK"
+        },
+        {
+            "name": "Oregon",
+            "type": "state",
+            "latitude": "43.80413340",
+            "longitude": "-120.55420120",
+            "code": "OR"
+        },
+        {
+            "name": "Palmyra Atoll",
+            "type": "islands / groups of islands",
+            "latitude": "5.88850260",
+            "longitude": "-162.07866560",
+            "code": "UM-95"
+        },
+        {
+            "name": "Pennsylvania",
+            "type": "state",
+            "latitude": "41.20332160",
+            "longitude": "-77.19452470",
+            "code": "PA"
+        },
+        {
+            "name": "Puerto Rico",
+            "type": "outlying area",
+            "latitude": "18.22083300",
+            "longitude": "-66.59014900",
+            "code": "PR"
+        },
+        {
+            "name": "Rhode Island",
+            "type": "state",
+            "latitude": "41.58009450",
+            "longitude": "-71.47742910",
+            "code": "RI"
+        },
+        {
+            "name": "South Carolina",
+            "type": "state",
+            "latitude": "33.83608100",
+            "longitude": "-81.16372450",
+            "code": "SC"
+        },
+        {
+            "name": "South Dakota",
+            "type": "state",
+            "latitude": "43.96951480",
+            "longitude": "-99.90181310",
+            "code": "SD"
+        },
+        {
+            "name": "Tennessee",
+            "type": "state",
+            "latitude": "35.51749130",
+            "longitude": "-86.58044730",
+            "code": "TN"
+        },
+        {
+            "name": "Texas",
+            "type": "state",
+            "latitude": "31.96859880",
+            "longitude": "-99.90181310",
+            "code": "TX"
+        },
+        {
+            "name": "United States Minor Outlying Islands",
+            "type": "outlying area",
+            "latitude": "19.28231920",
+            "longitude": "166.64704700",
+            "code": "UM"
+        },
+        {
+            "name": "United States Virgin Islands",
+            "type": "outlying area",
+            "latitude": "18.33576500",
+            "longitude": "-64.89633500",
+            "code": "VI"
+        },
+        {
+            "name": "Utah",
+            "type": "state",
+            "latitude": "39.32098010",
+            "longitude": "-111.09373110",
+            "code": "UT"
+        },
+        {
+            "name": "Vermont",
+            "type": "state",
+            "latitude": "44.55880280",
+            "longitude": "-72.57784150",
+            "code": "VT"
+        },
+        {
+            "name": "Virginia",
+            "type": "state",
+            "latitude": "37.43157340",
+            "longitude": "-78.65689420",
+            "code": "VA"
+        },
+        {
+            "name": "Wake Island",
+            "type": "islands / groups of islands",
+            "latitude": "19.27961900",
+            "longitude": "166.64993480",
+            "code": "UM-79"
+        },
+        {
+            "name": "Washington",
+            "type": "state",
+            "latitude": "47.75107410",
+            "longitude": "-120.74013850",
+            "code": "WA"
+        },
+        {
+            "name": "West Virginia",
+            "type": "state",
+            "latitude": "38.59762620",
+            "longitude": "-80.45490260",
+            "code": "WV"
+        },
+        {
+            "name": "Wisconsin",
+            "type": "state",
+            "latitude": "43.78443970",
+            "longitude": "-88.78786780",
+            "code": "WI"
+        },
+        {
+            "name": "Wyoming",
+            "type": "state",
+            "latitude": "43.07596780",
+            "longitude": "-107.29028390",
+            "code": "WY"
+        }
     ]
 }

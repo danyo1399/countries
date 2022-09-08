@@ -203,12 +203,48 @@
             -88.77
         ]
     },
-    "provinces": [
-        "Belize District",
-        "Cayo District",
-        "Corozal District",
-        "Orange Walk District",
-        "Stann Creek District",
-        "Toledo District"
+    "states": [
+        {
+            "name": "Belize District",
+            "type": null,
+            "latitude": "17.56776790",
+            "longitude": "-88.40160410",
+            "code": "BZ"
+        },
+        {
+            "name": "Cayo District",
+            "type": null,
+            "latitude": "17.09844450",
+            "longitude": "-88.94138650",
+            "code": "CY"
+        },
+        {
+            "name": "Corozal District",
+            "type": null,
+            "latitude": "18.13492380",
+            "longitude": "-88.24611830",
+            "code": "CZL"
+        },
+        {
+            "name": "Orange Walk District",
+            "type": null,
+            "latitude": "17.76035300",
+            "longitude": "-88.86469800",
+            "code": "OW"
+        },
+        {
+            "name": "Stann Creek District",
+            "type": null,
+            "latitude": "16.81166310",
+            "longitude": "-88.40160410",
+            "code": "SC"
+        },
+        {
+            "name": "Toledo District",
+            "type": null,
+            "latitude": "16.24919230",
+            "longitude": "-88.86469800",
+            "code": "TOL"
+        }
     ]
 }

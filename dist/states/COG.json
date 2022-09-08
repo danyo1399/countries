@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Bouenza Department",
+        "type": null,
+        "latitude": "-4.11280790",
+        "longitude": "13.72891670",
+        "code": "11"
+    },
+    {
+        "name": "Brazzaville",
+        "type": null,
+        "latitude": "-4.26335970",
+        "longitude": "15.24288530",
+        "code": "BZV"
+    },
+    {
+        "name": "Cuvette Department",
+        "type": null,
+        "latitude": "-0.28774460",
+        "longitude": "16.15809370",
+        "code": "8"
+    },
+    {
+        "name": "Cuvette-Ouest Department",
+        "type": null,
+        "latitude": "0.14475500",
+        "longitude": "14.47233010",
+        "code": "15"
+    },
+    {
+        "name": "Kouilou Department",
+        "type": null,
+        "latitude": "-4.14284130",
+        "longitude": "11.88917210",
+        "code": "5"
+    },
+    {
+        "name": "Lékoumou Department",
+        "type": null,
+        "latitude": "-3.17038200",
+        "longitude": "13.35872880",
+        "code": "2"
+    },
+    {
+        "name": "Likouala Department",
+        "type": null,
+        "latitude": "2.04392400",
+        "longitude": "17.66888700",
+        "code": "7"
+    },
+    {
+        "name": "Niari Department",
+        "type": null,
+        "latitude": "-3.18427000",
+        "longitude": "12.25479190",
+        "code": "9"
+    },
+    {
+        "name": "Plateaux Department",
+        "type": null,
+        "latitude": "-2.06800880",
+        "longitude": "15.40680790",
+        "code": "14"
+    },
+    {
+        "name": "Pointe-Noire",
+        "type": null,
+        "latitude": "-4.76916230",
+        "longitude": "11.86636200",
+        "code": "16"
+    },
+    {
+        "name": "Pool Department",
+        "type": null,
+        "latitude": "-3.77626280",
+        "longitude": "14.84546190",
+        "code": "12"
+    },
+    {
+        "name": "Sangha Department",
+        "type": null,
+        "latitude": "1.46623280",
+        "longitude": "15.40680790",
+        "code": "13"
+    }
+]

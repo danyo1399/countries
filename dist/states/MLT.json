@@ -1,0 +1,471 @@
+[
+    {
+        "name": "Attard",
+        "type": null,
+        "latitude": "35.89049670",
+        "longitude": "14.41993220",
+        "code": "01"
+    },
+    {
+        "name": "Balzan",
+        "type": null,
+        "latitude": "35.89574140",
+        "longitude": "14.45340650",
+        "code": "02"
+    },
+    {
+        "name": "Birgu",
+        "type": null,
+        "latitude": "35.88792140",
+        "longitude": "14.52256200",
+        "code": "03"
+    },
+    {
+        "name": "Birkirkara",
+        "type": null,
+        "latitude": "35.89547060",
+        "longitude": "14.46650720",
+        "code": "04"
+    },
+    {
+        "name": "Birżebbuġa",
+        "type": null,
+        "latitude": "35.81359890",
+        "longitude": "14.52474630",
+        "code": "05"
+    },
+    {
+        "name": "Cospicua",
+        "type": null,
+        "latitude": "35.88067530",
+        "longitude": "14.52183380",
+        "code": "06"
+    },
+    {
+        "name": "Dingli",
+        "type": null,
+        "latitude": "35.86273090",
+        "longitude": "14.38501070",
+        "code": "07"
+    },
+    {
+        "name": "Fgura",
+        "type": null,
+        "latitude": "35.87382690",
+        "longitude": "14.52329010",
+        "code": "08"
+    },
+    {
+        "name": "Floriana",
+        "type": null,
+        "latitude": "45.49521850",
+        "longitude": "-73.71395760",
+        "code": "09"
+    },
+    {
+        "name": "Fontana",
+        "type": null,
+        "latitude": "34.09223350",
+        "longitude": "-117.43504800",
+        "code": "10"
+    },
+    {
+        "name": "Għajnsielem",
+        "type": null,
+        "latitude": "36.02479660",
+        "longitude": "14.28029610",
+        "code": "13"
+    },
+    {
+        "name": "Għarb",
+        "type": null,
+        "latitude": "36.06890900",
+        "longitude": "14.20180980",
+        "code": "14"
+    },
+    {
+        "name": "Għargħur",
+        "type": null,
+        "latitude": "35.92205690",
+        "longitude": "14.45631760",
+        "code": "15"
+    },
+    {
+        "name": "Għasri",
+        "type": null,
+        "latitude": "36.06680750",
+        "longitude": "14.21924750",
+        "code": "16"
+    },
+    {
+        "name": "Għaxaq",
+        "type": null,
+        "latitude": "35.84403590",
+        "longitude": "14.51600900",
+        "code": "17"
+    },
+    {
+        "name": "Gudja",
+        "type": null,
+        "latitude": "35.84698030",
+        "longitude": "14.50290400",
+        "code": "11"
+    },
+    {
+        "name": "Gżira",
+        "type": null,
+        "latitude": "35.90589700",
+        "longitude": "14.49533380",
+        "code": "12"
+    },
+    {
+        "name": "Ħamrun",
+        "type": null,
+        "latitude": "35.88612370",
+        "longitude": "14.48834420",
+        "code": "18"
+    },
+    {
+        "name": "Iklin",
+        "type": null,
+        "latitude": "35.90987740",
+        "longitude": "14.45777320",
+        "code": "19"
+    },
+    {
+        "name": "Kalkara",
+        "type": null,
+        "latitude": "35.89142420",
+        "longitude": "14.53202780",
+        "code": "21"
+    },
+    {
+        "name": "Kerċem",
+        "type": null,
+        "latitude": "36.04479390",
+        "longitude": "14.22506050",
+        "code": "22"
+    },
+    {
+        "name": "Kirkop",
+        "type": null,
+        "latitude": "35.84378620",
+        "longitude": "14.48543240",
+        "code": "23"
+    },
+    {
+        "name": "Lija",
+        "type": null,
+        "latitude": "49.18007600",
+        "longitude": "-123.10331700",
+        "code": "24"
+    },
+    {
+        "name": "Luqa",
+        "type": null,
+        "latitude": "35.85828650",
+        "longitude": "14.48688830",
+        "code": "25"
+    },
+    {
+        "name": "Marsa",
+        "type": null,
+        "latitude": "34.03195870",
+        "longitude": "-118.44555350",
+        "code": "26"
+    },
+    {
+        "name": "Marsaskala",
+        "type": null,
+        "latitude": "35.86036400",
+        "longitude": "14.55678760",
+        "code": "27"
+    },
+    {
+        "name": "Marsaxlokk",
+        "type": null,
+        "latitude": "35.84116990",
+        "longitude": "14.53930970",
+        "code": "28"
+    },
+    {
+        "name": "Mdina",
+        "type": null,
+        "latitude": "35.88809300",
+        "longitude": "14.40683570",
+        "code": "29"
+    },
+    {
+        "name": "Mellieħa",
+        "type": null,
+        "latitude": "35.95235290",
+        "longitude": "14.35009750",
+        "code": "30"
+    },
+    {
+        "name": "Mġarr",
+        "type": null,
+        "latitude": "35.91893270",
+        "longitude": "14.36173430",
+        "code": "31"
+    },
+    {
+        "name": "Mosta",
+        "type": null,
+        "latitude": "35.91415040",
+        "longitude": "14.42284270",
+        "code": "32"
+    },
+    {
+        "name": "Mqabba",
+        "type": null,
+        "latitude": "35.84441430",
+        "longitude": "14.46941860",
+        "code": "33"
+    },
+    {
+        "name": "Msida",
+        "type": null,
+        "latitude": "35.89563880",
+        "longitude": "14.48688830",
+        "code": "34"
+    },
+    {
+        "name": "Mtarfa",
+        "type": null,
+        "latitude": "35.88951250",
+        "longitude": "14.39519530",
+        "code": "35"
+    },
+    {
+        "name": "Munxar",
+        "type": null,
+        "latitude": "36.02880580",
+        "longitude": "14.22506050",
+        "code": "36"
+    },
+    {
+        "name": "Nadur",
+        "type": null,
+        "latitude": "36.04470190",
+        "longitude": "14.29192730",
+        "code": "37"
+    },
+    {
+        "name": "Naxxar",
+        "type": null,
+        "latitude": "35.93175180",
+        "longitude": "14.43157460",
+        "code": "38"
+    },
+    {
+        "name": "Paola",
+        "type": null,
+        "latitude": "38.57223530",
+        "longitude": "-94.87912940",
+        "code": "39"
+    },
+    {
+        "name": "Pembroke",
+        "type": null,
+        "latitude": "34.68016260",
+        "longitude": "-79.19503730",
+        "code": "40"
+    },
+    {
+        "name": "Pietà",
+        "type": null,
+        "latitude": "42.21862000",
+        "longitude": "-83.73464700",
+        "code": "41"
+    },
+    {
+        "name": "Qala",
+        "type": null,
+        "latitude": "36.03886280",
+        "longitude": "14.31810100",
+        "code": "42"
+    },
+    {
+        "name": "Qormi",
+        "type": null,
+        "latitude": "35.87643880",
+        "longitude": "14.46941860",
+        "code": "43"
+    },
+    {
+        "name": "Qrendi",
+        "type": null,
+        "latitude": "35.83284880",
+        "longitude": "14.45486210",
+        "code": "44"
+    },
+    {
+        "name": "Rabat",
+        "type": null,
+        "latitude": "33.97159040",
+        "longitude": "-6.84981290",
+        "code": "46"
+    },
+    {
+        "name": "Saint Lawrence",
+        "type": null,
+        "latitude": "38.95780560",
+        "longitude": "-95.25656890",
+        "code": "50"
+    },
+    {
+        "name": "San Ġwann",
+        "type": null,
+        "latitude": "35.90773650",
+        "longitude": "14.47524160",
+        "code": "49"
+    },
+    {
+        "name": "Sannat",
+        "type": null,
+        "latitude": "36.01926430",
+        "longitude": "14.25994370",
+        "code": "52"
+    },
+    {
+        "name": "Santa Luċija",
+        "type": null,
+        "latitude": "35.85614200",
+        "longitude": "14.50436000",
+        "code": "53"
+    },
+    {
+        "name": "Santa Venera",
+        "type": null,
+        "latitude": "35.89022010",
+        "longitude": "14.47669740",
+        "code": "54"
+    },
+    {
+        "name": "Senglea",
+        "type": null,
+        "latitude": "35.88730410",
+        "longitude": "14.51673710",
+        "code": "20"
+    },
+    {
+        "name": "Siġġiewi",
+        "type": null,
+        "latitude": "35.84637420",
+        "longitude": "14.43157460",
+        "code": "55"
+    },
+    {
+        "name": "Sliema",
+        "type": null,
+        "latitude": "35.91100810",
+        "longitude": "14.50290400",
+        "code": "56"
+    },
+    {
+        "name": "St. Julian's",
+        "type": null,
+        "latitude": "42.21225130",
+        "longitude": "-85.89171270",
+        "code": "48"
+    },
+    {
+        "name": "St. Paul's Bay",
+        "type": null,
+        "latitude": "35.93601700",
+        "longitude": "14.39665030",
+        "code": "51"
+    },
+    {
+        "name": "Swieqi",
+        "type": null,
+        "latitude": "35.91911820",
+        "longitude": "14.46941860",
+        "code": "57"
+    },
+    {
+        "name": "Ta' Xbiex",
+        "type": null,
+        "latitude": "35.89914480",
+        "longitude": "14.49635190",
+        "code": "58"
+    },
+    {
+        "name": "Tarxien",
+        "type": null,
+        "latitude": "35.86725520",
+        "longitude": "14.51164050",
+        "code": "59"
+    },
+    {
+        "name": "Valletta",
+        "type": null,
+        "latitude": "35.89890850",
+        "longitude": "14.51455280",
+        "code": "60"
+    },
+    {
+        "name": "Victoria",
+        "type": null,
+        "latitude": "28.80526740",
+        "longitude": "-97.00359820",
+        "code": "45"
+    },
+    {
+        "name": "Xagħra",
+        "type": null,
+        "latitude": "36.05084500",
+        "longitude": "14.26748200",
+        "code": "61"
+    },
+    {
+        "name": "Xewkija",
+        "type": null,
+        "latitude": "36.02992360",
+        "longitude": "14.25994370",
+        "code": "62"
+    },
+    {
+        "name": "Xgħajra",
+        "type": null,
+        "latitude": "35.88682820",
+        "longitude": "14.54723910",
+        "code": "63"
+    },
+    {
+        "name": "Żabbar",
+        "type": null,
+        "latitude": "35.87247150",
+        "longitude": "14.54513540",
+        "code": "64"
+    },
+    {
+        "name": "Żebbuġ Gozo",
+        "type": null,
+        "latitude": "36.07164030",
+        "longitude": "14.24540800",
+        "code": "65"
+    },
+    {
+        "name": "Żebbuġ Malta",
+        "type": null,
+        "latitude": "35.87646480",
+        "longitude": "14.43908400",
+        "code": "66"
+    },
+    {
+        "name": "Żejtun",
+        "type": null,
+        "latitude": "35.85487140",
+        "longitude": "14.53639690",
+        "code": "67"
+    },
+    {
+        "name": "Żurrieq",
+        "type": null,
+        "latitude": "35.82163060",
+        "longitude": "14.48106480",
+        "code": "68"
+    }
+]

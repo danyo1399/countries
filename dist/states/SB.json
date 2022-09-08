@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Central Province",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "CE"
+    },
+    {
+        "name": "Choiseul Province",
+        "type": null,
+        "latitude": "-7.05014940",
+        "longitude": "156.95114590",
+        "code": "CH"
+    },
+    {
+        "name": "Guadalcanal Province",
+        "type": null,
+        "latitude": "-9.57732840",
+        "longitude": "160.14558050",
+        "code": "GU"
+    },
+    {
+        "name": "Honiara",
+        "type": null,
+        "latitude": "-9.44563810",
+        "longitude": "159.97289990",
+        "code": "CT"
+    },
+    {
+        "name": "Isabel Province",
+        "type": null,
+        "latitude": "-8.05923530",
+        "longitude": "159.14470810",
+        "code": "IS"
+    },
+    {
+        "name": "Makira-Ulawa Province",
+        "type": null,
+        "latitude": "-10.57374470",
+        "longitude": "161.80969410",
+        "code": "MK"
+    },
+    {
+        "name": "Malaita Province",
+        "type": null,
+        "latitude": "-8.94461680",
+        "longitude": "160.90712360",
+        "code": "ML"
+    },
+    {
+        "name": "Rennell and Bellona Province",
+        "type": null,
+        "latitude": "-11.61314350",
+        "longitude": "160.16939490",
+        "code": "RB"
+    },
+    {
+        "name": "Temotu Province",
+        "type": null,
+        "latitude": "-10.68692900",
+        "longitude": "166.06239790",
+        "code": "TE"
+    },
+    {
+        "name": "Western Province",
+        "type": null,
+        "latitude": null,
+        "longitude": null,
+        "code": "WE"
+    }
+]

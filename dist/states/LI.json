@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Balzers",
+        "type": null,
+        "latitude": "42.05283570",
+        "longitude": "-88.03668480",
+        "code": "01"
+    },
+    {
+        "name": "Eschen",
+        "type": null,
+        "latitude": "40.76695740",
+        "longitude": "-73.95228210",
+        "code": "02"
+    },
+    {
+        "name": "Gamprin",
+        "type": null,
+        "latitude": "47.21324900",
+        "longitude": "9.50251950",
+        "code": "03"
+    },
+    {
+        "name": "Mauren",
+        "type": null,
+        "latitude": "47.21892850",
+        "longitude": "9.54173500",
+        "code": "04"
+    },
+    {
+        "name": "Planken",
+        "type": null,
+        "latitude": "40.66505760",
+        "longitude": "-73.50479800",
+        "code": "05"
+    },
+    {
+        "name": "Ruggell",
+        "type": null,
+        "latitude": "47.25292220",
+        "longitude": "9.54021270",
+        "code": "06"
+    },
+    {
+        "name": "Schaan",
+        "type": null,
+        "latitude": "47.12043400",
+        "longitude": "9.59416020",
+        "code": "07"
+    },
+    {
+        "name": "Schellenberg",
+        "type": null,
+        "latitude": "47.23096600",
+        "longitude": "9.54678430",
+        "code": "08"
+    },
+    {
+        "name": "Triesen",
+        "type": null,
+        "latitude": "47.10979880",
+        "longitude": "9.52482960",
+        "code": "09"
+    },
+    {
+        "name": "Triesenberg",
+        "type": null,
+        "latitude": "47.12245110",
+        "longitude": "9.57019850",
+        "code": "10"
+    },
+    {
+        "name": "Vaduz",
+        "type": null,
+        "latitude": "47.14103030",
+        "longitude": "9.52092770",
+        "code": "11"
+    }
+]

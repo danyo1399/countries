@@ -212,21 +212,111 @@
         "format": "####",
         "regex": "^(\\d{4})$"
     },
-    "provinces": [
-        "Canton of Capellen",
-        "Canton of Clervaux",
-        "Canton of Diekirch",
-        "Canton of Echternach",
-        "Canton of Esch-sur-Alzette",
-        "Canton of Grevenmacher",
-        "Canton of Luxembourg",
-        "Canton of Mersch",
-        "Canton of Redange",
-        "Canton of Remich",
-        "Canton of Vianden",
-        "Canton of Wiltz",
-        "Diekirch District",
-        "Grevenmacher District",
-        "Luxembourg District"
+    "states": [
+        {
+            "name": "Canton of Capellen",
+            "type": null,
+            "latitude": "49.64039310",
+            "longitude": "5.95538460",
+            "code": "CA"
+        },
+        {
+            "name": "Canton of Clervaux",
+            "type": null,
+            "latitude": "50.05463130",
+            "longitude": "6.02858750",
+            "code": "CL"
+        },
+        {
+            "name": "Canton of Diekirch",
+            "type": null,
+            "latitude": "49.86717840",
+            "longitude": "6.15956330",
+            "code": "DI"
+        },
+        {
+            "name": "Canton of Echternach",
+            "type": null,
+            "latitude": "49.81141330",
+            "longitude": "6.41756350",
+            "code": "EC"
+        },
+        {
+            "name": "Canton of Esch-sur-Alzette",
+            "type": null,
+            "latitude": "49.50088050",
+            "longitude": "5.98609250",
+            "code": "ES"
+        },
+        {
+            "name": "Canton of Grevenmacher",
+            "type": null,
+            "latitude": "49.68084100",
+            "longitude": "6.44075930",
+            "code": "GR"
+        },
+        {
+            "name": "Canton of Luxembourg",
+            "type": null,
+            "latitude": "49.63010250",
+            "longitude": "6.15201850",
+            "code": "LU"
+        },
+        {
+            "name": "Canton of Mersch",
+            "type": null,
+            "latitude": "49.75429060",
+            "longitude": "6.12921850",
+            "code": "ME"
+        },
+        {
+            "name": "Canton of Redange",
+            "type": null,
+            "latitude": "49.76455000",
+            "longitude": "5.88948000",
+            "code": "RD"
+        },
+        {
+            "name": "Canton of Remich",
+            "type": null,
+            "latitude": "49.54501700",
+            "longitude": "6.36742220",
+            "code": "RM"
+        },
+        {
+            "name": "Canton of Vianden",
+            "type": null,
+            "latitude": "49.93419240",
+            "longitude": "6.20199170",
+            "code": "VD"
+        },
+        {
+            "name": "Canton of Wiltz",
+            "type": null,
+            "latitude": "49.96622000",
+            "longitude": "5.93243060",
+            "code": "WI"
+        },
+        {
+            "name": "Diekirch District",
+            "type": null,
+            "latitude": "49.86717200",
+            "longitude": "6.15963620",
+            "code": "D"
+        },
+        {
+            "name": "Grevenmacher District",
+            "type": null,
+            "latitude": "49.68085100",
+            "longitude": "6.44075240",
+            "code": "G"
+        },
+        {
+            "name": "Luxembourg District",
+            "type": null,
+            "latitude": "49.59537060",
+            "longitude": "6.13331780",
+            "code": "L"
+        }
     ]
 }

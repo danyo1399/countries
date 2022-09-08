@@ -195,27 +195,153 @@
             44.19
         ]
     },
-    "provinces": [
-        "'Adan",
-        "'Amran",
-        "Abyan",
-        "Al Bayda'",
-        "Al Hudaydah",
-        "Al Jawf",
-        "Al Mahrah",
-        "Al Mahwit",
-        "Dhamar",
-        "Hadhramaut",
-        "Hajjah",
-        "Ibb",
-        "Lahij",
-        "Ma'rib",
-        "Raymah",
-        "Saada",
-        "Sana'a",
-        "Sana'a",
-        "Shabwah",
-        "Socotra",
-        "Ta'izz"
+    "states": [
+        {
+            "name": "'Adan",
+            "type": null,
+            "latitude": "12.82574810",
+            "longitude": "44.79438040",
+            "code": "AD"
+        },
+        {
+            "name": "'Amran",
+            "type": null,
+            "latitude": "16.25692140",
+            "longitude": "43.94367880",
+            "code": "AM"
+        },
+        {
+            "name": "Abyan",
+            "type": null,
+            "latitude": "13.63434130",
+            "longitude": "46.05632120",
+            "code": "AB"
+        },
+        {
+            "name": "Al Bayda'",
+            "type": null,
+            "latitude": "14.35886620",
+            "longitude": "45.44980650",
+            "code": "BA"
+        },
+        {
+            "name": "Al Hudaydah",
+            "type": null,
+            "latitude": "15.30530720",
+            "longitude": "43.01948970",
+            "code": "HU"
+        },
+        {
+            "name": "Al Jawf",
+            "type": null,
+            "latitude": "16.79018190",
+            "longitude": "45.29938620",
+            "code": "JA"
+        },
+        {
+            "name": "Al Mahrah",
+            "type": null,
+            "latitude": "16.52384230",
+            "longitude": "51.68342750",
+            "code": "MR"
+        },
+        {
+            "name": "Al Mahwit",
+            "type": null,
+            "latitude": "15.39632290",
+            "longitude": "43.56069460",
+            "code": "MW"
+        },
+        {
+            "name": "Dhamar",
+            "type": null,
+            "latitude": "14.71953440",
+            "longitude": "44.24790150",
+            "code": "DH"
+        },
+        {
+            "name": "Hadhramaut",
+            "type": null,
+            "latitude": "16.93041350",
+            "longitude": "49.36531490",
+            "code": "HD"
+        },
+        {
+            "name": "Hajjah",
+            "type": null,
+            "latitude": "16.11806310",
+            "longitude": "43.32946600",
+            "code": "HJ"
+        },
+        {
+            "name": "Ibb",
+            "type": null,
+            "latitude": "14.14157170",
+            "longitude": "44.24790150",
+            "code": "IB"
+        },
+        {
+            "name": "Lahij",
+            "type": null,
+            "latitude": "13.14895880",
+            "longitude": "44.85054950",
+            "code": "LA"
+        },
+        {
+            "name": "Ma'rib",
+            "type": null,
+            "latitude": "15.51588800",
+            "longitude": "45.44980650",
+            "code": "MA"
+        },
+        {
+            "name": "Raymah",
+            "type": null,
+            "latitude": "14.62776820",
+            "longitude": "43.71424840",
+            "code": "RA"
+        },
+        {
+            "name": "Saada",
+            "type": null,
+            "latitude": "16.84765280",
+            "longitude": "43.94367880",
+            "code": "SD"
+        },
+        {
+            "name": "Sana'a",
+            "type": null,
+            "latitude": "15.31689130",
+            "longitude": "44.47480180",
+            "code": "SN"
+        },
+        {
+            "name": "Sana'a",
+            "type": null,
+            "latitude": "15.36944510",
+            "longitude": "44.19100660",
+            "code": "SA"
+        },
+        {
+            "name": "Shabwah",
+            "type": null,
+            "latitude": "14.75463030",
+            "longitude": "46.51626200",
+            "code": "SH"
+        },
+        {
+            "name": "Socotra",
+            "type": null,
+            "latitude": "12.46342050",
+            "longitude": "53.82373850",
+            "code": "SU"
+        },
+        {
+            "name": "Ta'izz",
+            "type": null,
+            "latitude": "13.57758860",
+            "longitude": "44.01779890",
+            "code": "TA"
+        }
     ]
 }

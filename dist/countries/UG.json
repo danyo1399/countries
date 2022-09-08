@@ -203,131 +203,881 @@
             32.55
         ]
     },
-    "provinces": [
-        "Abim District",
-        "Adjumani District",
-        "Agago District",
-        "Alebtong District",
-        "Amolatar District",
-        "Amudat District",
-        "Amuria District",
-        "Amuru District",
-        "Apac District",
-        "Arua District",
-        "Budaka District",
-        "Bududa District",
-        "Bugiri District",
-        "Buhweju District",
-        "Buikwe District",
-        "Bukedea District",
-        "Bukomansimbi District",
-        "Bukwo District",
-        "Bulambuli District",
-        "Buliisa District",
-        "Bundibugyo District",
-        "Bunyangabu District",
-        "Bushenyi District",
-        "Busia District",
-        "Butaleja District",
-        "Butambala District",
-        "Butebo District",
-        "Buvuma District",
-        "Buyende District",
-        "Central Region",
-        "Dokolo District",
-        "Eastern Region",
-        "Gomba District",
-        "Gulu District",
-        "Ibanda District",
-        "Iganga District",
-        "Isingiro District",
-        "Jinja District",
-        "Kaabong District",
-        "Kabale District",
-        "Kabarole District",
-        "Kaberamaido District",
-        "Kagadi District",
-        "Kakumiro District",
-        "Kalangala District",
-        "Kaliro District",
-        "Kalungu District",
-        "Kampala District",
-        "Kamuli District",
-        "Kamwenge District",
-        "Kanungu District",
-        "Kapchorwa District",
-        "Kasese District",
-        "Katakwi District",
-        "Kayunga District",
-        "Kibaale District",
-        "Kiboga District",
-        "Kibuku District",
-        "Kiruhura District",
-        "Kiryandongo District",
-        "Kisoro District",
-        "Kitgum District",
-        "Koboko District",
-        "Kole District",
-        "Kotido District",
-        "Kumi District",
-        "Kween District",
-        "Kyankwanzi District",
-        "Kyegegwa District",
-        "Kyenjojo District",
-        "Kyotera District",
-        "Lamwo District",
-        "Lira District",
-        "Luuka District",
-        "Luwero District",
-        "Lwengo District",
-        "Lyantonde District",
-        "Manafwa District",
-        "Maracha District",
-        "Masaka District",
-        "Masindi District",
-        "Mayuge District",
-        "Mbale District",
-        "Mbarara District",
-        "Mitooma District",
-        "Mityana District",
-        "Moroto District",
-        "Moyo District",
-        "Mpigi District",
-        "Mubende District",
-        "Mukono District",
-        "Nakapiripirit District",
-        "Nakaseke District",
-        "Nakasongola District",
-        "Namayingo District",
-        "Namisindwa District",
-        "Namutumba District",
-        "Napak District",
-        "Nebbi District",
-        "Ngora District",
-        "Northern Region",
-        "Ntoroko District",
-        "Ntungamo District",
-        "Nwoya District",
-        "Omoro District",
-        "Otuke District",
-        "Oyam District",
-        "Pader District",
-        "Pakwach District",
-        "Pallisa District",
-        "Rakai District",
-        "Rubanda District",
-        "Rubirizi District",
-        "Rukiga District",
-        "Rukungiri District",
-        "Sembabule District",
-        "Serere District",
-        "Sheema District",
-        "Sironko District",
-        "Soroti District",
-        "Tororo District",
-        "Wakiso District",
-        "Western Region",
-        "Yumbe District",
-        "Zombo District"
+    "states": [
+        {
+            "name": "Abim District",
+            "type": null,
+            "latitude": "2.70669800",
+            "longitude": "33.65953370",
+            "code": "314"
+        },
+        {
+            "name": "Adjumani District",
+            "type": null,
+            "latitude": "3.25485270",
+            "longitude": "31.71954590",
+            "code": "301"
+        },
+        {
+            "name": "Agago District",
+            "type": null,
+            "latitude": "2.92508200",
+            "longitude": "33.34861470",
+            "code": "322"
+        },
+        {
+            "name": "Alebtong District",
+            "type": null,
+            "latitude": "2.25457730",
+            "longitude": "33.34861470",
+            "code": "323"
+        },
+        {
+            "name": "Amolatar District",
+            "type": null,
+            "latitude": "1.60544020",
+            "longitude": "32.80844960",
+            "code": "315"
+        },
+        {
+            "name": "Amudat District",
+            "type": null,
+            "latitude": "1.79162240",
+            "longitude": "34.90655100",
+            "code": "324"
+        },
+        {
+            "name": "Amuria District",
+            "type": null,
+            "latitude": "2.03017000",
+            "longitude": "33.64275330",
+            "code": "216"
+        },
+        {
+            "name": "Amuru District",
+            "type": null,
+            "latitude": "2.96678780",
+            "longitude": "32.08374450",
+            "code": "316"
+        },
+        {
+            "name": "Apac District",
+            "type": null,
+            "latitude": "1.87302630",
+            "longitude": "32.62774550",
+            "code": "302"
+        },
+        {
+            "name": "Arua District",
+            "type": null,
+            "latitude": "2.99598460",
+            "longitude": "31.17103890",
+            "code": "303"
+        },
+        {
+            "name": "Budaka District",
+            "type": null,
+            "latitude": "1.10162770",
+            "longitude": "33.93039910",
+            "code": "217"
+        },
+        {
+            "name": "Bududa District",
+            "type": null,
+            "latitude": "1.00296930",
+            "longitude": "34.33381230",
+            "code": "218"
+        },
+        {
+            "name": "Bugiri District",
+            "type": null,
+            "latitude": "0.53161270",
+            "longitude": "33.75177230",
+            "code": "201"
+        },
+        {
+            "name": "Buhweju District",
+            "type": null,
+            "latitude": "-0.29113590",
+            "longitude": "30.29741990",
+            "code": "420"
+        },
+        {
+            "name": "Buikwe District",
+            "type": null,
+            "latitude": "0.31440460",
+            "longitude": "32.98883190",
+            "code": "117"
+        },
+        {
+            "name": "Bukedea District",
+            "type": null,
+            "latitude": "1.35568980",
+            "longitude": "34.10867930",
+            "code": "219"
+        },
+        {
+            "name": "Bukomansimbi District",
+            "type": null,
+            "latitude": "-0.14327520",
+            "longitude": "31.60548930",
+            "code": "118"
+        },
+        {
+            "name": "Bukwo District",
+            "type": null,
+            "latitude": "1.28186510",
+            "longitude": "34.72987650",
+            "code": "220"
+        },
+        {
+            "name": "Bulambuli District",
+            "type": null,
+            "latitude": "1.47988460",
+            "longitude": "34.37544140",
+            "code": "225"
+        },
+        {
+            "name": "Buliisa District",
+            "type": null,
+            "latitude": "2.02996070",
+            "longitude": "31.53700030",
+            "code": "416"
+        },
+        {
+            "name": "Bundibugyo District",
+            "type": null,
+            "latitude": "0.68517630",
+            "longitude": "30.02029640",
+            "code": "401"
+        },
+        {
+            "name": "Bunyangabu District",
+            "type": null,
+            "latitude": "0.48709180",
+            "longitude": "30.20510960",
+            "code": "430"
+        },
+        {
+            "name": "Bushenyi District",
+            "type": null,
+            "latitude": "-0.48709180",
+            "longitude": "30.20510960",
+            "code": "402"
+        },
+        {
+            "name": "Busia District",
+            "type": null,
+            "latitude": "0.40447310",
+            "longitude": "34.01958270",
+            "code": "202"
+        },
+        {
+            "name": "Butaleja District",
+            "type": null,
+            "latitude": "0.84749220",
+            "longitude": "33.84112880",
+            "code": "221"
+        },
+        {
+            "name": "Butambala District",
+            "type": null,
+            "latitude": "0.17425000",
+            "longitude": "32.10646680",
+            "code": "119"
+        },
+        {
+            "name": "Butebo District",
+            "type": null,
+            "latitude": "1.21411240",
+            "longitude": "33.90808960",
+            "code": "233"
+        },
+        {
+            "name": "Buvuma District",
+            "type": null,
+            "latitude": "-0.37649120",
+            "longitude": "33.25879300",
+            "code": "120"
+        },
+        {
+            "name": "Buyende District",
+            "type": null,
+            "latitude": "1.24136820",
+            "longitude": "33.12390490",
+            "code": "226"
+        },
+        {
+            "name": "Central Region",
+            "type": null,
+            "latitude": "44.29687500",
+            "longitude": "-94.74017330",
+            "code": "C"
+        },
+        {
+            "name": "Dokolo District",
+            "type": null,
+            "latitude": "1.96364210",
+            "longitude": "33.03387670",
+            "code": "317"
+        },
+        {
+            "name": "Eastern Region",
+            "type": null,
+            "latitude": "6.23740360",
+            "longitude": "-0.45023680",
+            "code": "E"
+        },
+        {
+            "name": "Gomba District",
+            "type": null,
+            "latitude": "0.22297910",
+            "longitude": "31.67393710",
+            "code": "121"
+        },
+        {
+            "name": "Gulu District",
+            "type": null,
+            "latitude": "2.81857760",
+            "longitude": "32.44672380",
+            "code": "304"
+        },
+        {
+            "name": "Ibanda District",
+            "type": null,
+            "latitude": "-0.09648900",
+            "longitude": "30.57395790",
+            "code": "417"
+        },
+        {
+            "name": "Iganga District",
+            "type": null,
+            "latitude": "0.66001370",
+            "longitude": "33.48319060",
+            "code": "203"
+        },
+        {
+            "name": "Isingiro District",
+            "type": null,
+            "latitude": "-0.84354300",
+            "longitude": "30.80394740",
+            "code": "418"
+        },
+        {
+            "name": "Jinja District",
+            "type": null,
+            "latitude": "0.53437430",
+            "longitude": "33.30371430",
+            "code": "204"
+        },
+        {
+            "name": "Kaabong District",
+            "type": null,
+            "latitude": "3.51262150",
+            "longitude": "33.97500180",
+            "code": "318"
+        },
+        {
+            "name": "Kabale District",
+            "type": null,
+            "latitude": "-1.24930840",
+            "longitude": "30.06652360",
+            "code": "404"
+        },
+        {
+            "name": "Kabarole District",
+            "type": null,
+            "latitude": "0.58507910",
+            "longitude": "30.25127280",
+            "code": "405"
+        },
+        {
+            "name": "Kaberamaido District",
+            "type": null,
+            "latitude": "1.69633220",
+            "longitude": "33.21385100",
+            "code": "213"
+        },
+        {
+            "name": "Kagadi District",
+            "type": null,
+            "latitude": "0.94007610",
+            "longitude": "30.81256380",
+            "code": "427"
+        },
+        {
+            "name": "Kakumiro District",
+            "type": null,
+            "latitude": "0.78080350",
+            "longitude": "31.32413890",
+            "code": "428"
+        },
+        {
+            "name": "Kalangala District",
+            "type": null,
+            "latitude": "-0.63505780",
+            "longitude": "32.53727410",
+            "code": "101"
+        },
+        {
+            "name": "Kaliro District",
+            "type": null,
+            "latitude": "1.04311070",
+            "longitude": "33.48319060",
+            "code": "222"
+        },
+        {
+            "name": "Kalungu District",
+            "type": null,
+            "latitude": "-0.09528310",
+            "longitude": "31.76513620",
+            "code": "122"
+        },
+        {
+            "name": "Kampala District",
+            "type": null,
+            "latitude": "0.34759640",
+            "longitude": "32.58251970",
+            "code": "102"
+        },
+        {
+            "name": "Kamuli District",
+            "type": null,
+            "latitude": "0.91871070",
+            "longitude": "33.12390490",
+            "code": "205"
+        },
+        {
+            "name": "Kamwenge District",
+            "type": null,
+            "latitude": "0.22579300",
+            "longitude": "30.48184460",
+            "code": "413"
+        },
+        {
+            "name": "Kanungu District",
+            "type": null,
+            "latitude": "-0.81952530",
+            "longitude": "29.74260400",
+            "code": "414"
+        },
+        {
+            "name": "Kapchorwa District",
+            "type": null,
+            "latitude": "1.33502050",
+            "longitude": "34.39763560",
+            "code": "206"
+        },
+        {
+            "name": "Kasese District",
+            "type": null,
+            "latitude": "0.06462850",
+            "longitude": "30.06652360",
+            "code": "406"
+        },
+        {
+            "name": "Katakwi District",
+            "type": null,
+            "latitude": "1.97310300",
+            "longitude": "34.06414190",
+            "code": "207"
+        },
+        {
+            "name": "Kayunga District",
+            "type": null,
+            "latitude": "0.98601820",
+            "longitude": "32.85357550",
+            "code": "112"
+        },
+        {
+            "name": "Kibaale District",
+            "type": null,
+            "latitude": "0.90668020",
+            "longitude": "31.07937050",
+            "code": "407"
+        },
+        {
+            "name": "Kiboga District",
+            "type": null,
+            "latitude": "0.96575900",
+            "longitude": "31.71954590",
+            "code": "103"
+        },
+        {
+            "name": "Kibuku District",
+            "type": null,
+            "latitude": "1.04528740",
+            "longitude": "33.79925360",
+            "code": "227"
+        },
+        {
+            "name": "Kiruhura District",
+            "type": null,
+            "latitude": "-0.19279980",
+            "longitude": "30.80394740",
+            "code": "419"
+        },
+        {
+            "name": "Kiryandongo District",
+            "type": null,
+            "latitude": "2.01799070",
+            "longitude": "32.08374450",
+            "code": "421"
+        },
+        {
+            "name": "Kisoro District",
+            "type": null,
+            "latitude": "-1.22094300",
+            "longitude": "29.64991620",
+            "code": "408"
+        },
+        {
+            "name": "Kitgum District",
+            "type": null,
+            "latitude": "3.33968290",
+            "longitude": "33.16888830",
+            "code": "305"
+        },
+        {
+            "name": "Koboko District",
+            "type": null,
+            "latitude": "3.52370580",
+            "longitude": "31.03351000",
+            "code": "319"
+        },
+        {
+            "name": "Kole District",
+            "type": null,
+            "latitude": "2.37010970",
+            "longitude": "32.76330360",
+            "code": "325"
+        },
+        {
+            "name": "Kotido District",
+            "type": null,
+            "latitude": "3.04156790",
+            "longitude": "33.88577470",
+            "code": "306"
+        },
+        {
+            "name": "Kumi District",
+            "type": null,
+            "latitude": "1.48769990",
+            "longitude": "33.93039910",
+            "code": "208"
+        },
+        {
+            "name": "Kween District",
+            "type": null,
+            "latitude": "1.44387900",
+            "longitude": "34.59713200",
+            "code": "228"
+        },
+        {
+            "name": "Kyankwanzi District",
+            "type": null,
+            "latitude": "1.09660370",
+            "longitude": "31.71954590",
+            "code": "123"
+        },
+        {
+            "name": "Kyegegwa District",
+            "type": null,
+            "latitude": "0.48181930",
+            "longitude": "31.05500930",
+            "code": "422"
+        },
+        {
+            "name": "Kyenjojo District",
+            "type": null,
+            "latitude": "0.60929230",
+            "longitude": "30.64012310",
+            "code": "415"
+        },
+        {
+            "name": "Kyotera District",
+            "type": null,
+            "latitude": "-0.63589880",
+            "longitude": "31.54556370",
+            "code": "125"
+        },
+        {
+            "name": "Lamwo District",
+            "type": null,
+            "latitude": "3.57075680",
+            "longitude": "32.53727410",
+            "code": "326"
+        },
+        {
+            "name": "Lira District",
+            "type": null,
+            "latitude": "2.23161690",
+            "longitude": "32.94376670",
+            "code": "307"
+        },
+        {
+            "name": "Luuka District",
+            "type": null,
+            "latitude": "0.72505990",
+            "longitude": "33.30371430",
+            "code": "229"
+        },
+        {
+            "name": "Luwero District",
+            "type": null,
+            "latitude": "0.82711180",
+            "longitude": "32.62774550",
+            "code": "104"
+        },
+        {
+            "name": "Lwengo District",
+            "type": null,
+            "latitude": "-0.41652880",
+            "longitude": "31.39989950",
+            "code": "124"
+        },
+        {
+            "name": "Lyantonde District",
+            "type": null,
+            "latitude": "-0.22406960",
+            "longitude": "31.21684660",
+            "code": "114"
+        },
+        {
+            "name": "Manafwa District",
+            "type": null,
+            "latitude": "0.90635990",
+            "longitude": "34.28660910",
+            "code": "223"
+        },
+        {
+            "name": "Maracha District",
+            "type": null,
+            "latitude": "3.28731270",
+            "longitude": "30.94030230",
+            "code": "320"
+        },
+        {
+            "name": "Masaka District",
+            "type": null,
+            "latitude": "-0.44636910",
+            "longitude": "31.90179540",
+            "code": "105"
+        },
+        {
+            "name": "Masindi District",
+            "type": null,
+            "latitude": "1.49203630",
+            "longitude": "31.71954590",
+            "code": "409"
+        },
+        {
+            "name": "Mayuge District",
+            "type": null,
+            "latitude": "-0.21829820",
+            "longitude": "33.57280270",
+            "code": "214"
+        },
+        {
+            "name": "Mbale District",
+            "type": null,
+            "latitude": "1.03442740",
+            "longitude": "34.19768820",
+            "code": "209"
+        },
+        {
+            "name": "Mbarara District",
+            "type": null,
+            "latitude": "-0.60715960",
+            "longitude": "30.65450220",
+            "code": "410"
+        },
+        {
+            "name": "Mitooma District",
+            "type": null,
+            "latitude": "-0.61932760",
+            "longitude": "30.02029640",
+            "code": "423"
+        },
+        {
+            "name": "Mityana District",
+            "type": null,
+            "latitude": "0.44548450",
+            "longitude": "32.08374450",
+            "code": "115"
+        },
+        {
+            "name": "Moroto District",
+            "type": null,
+            "latitude": "2.61685450",
+            "longitude": "34.59713200",
+            "code": "308"
+        },
+        {
+            "name": "Moyo District",
+            "type": null,
+            "latitude": "3.56964640",
+            "longitude": "31.67393710",
+            "code": "309"
+        },
+        {
+            "name": "Mpigi District",
+            "type": null,
+            "latitude": "0.22735280",
+            "longitude": "32.32492360",
+            "code": "106"
+        },
+        {
+            "name": "Mubende District",
+            "type": null,
+            "latitude": "0.57727580",
+            "longitude": "31.53700030",
+            "code": "107"
+        },
+        {
+            "name": "Mukono District",
+            "type": null,
+            "latitude": "0.28354760",
+            "longitude": "32.76330360",
+            "code": "108"
+        },
+        {
+            "name": "Nakapiripirit District",
+            "type": null,
+            "latitude": "1.96061730",
+            "longitude": "34.59713200",
+            "code": "311"
+        },
+        {
+            "name": "Nakaseke District",
+            "type": null,
+            "latitude": "1.22308480",
+            "longitude": "32.08374450",
+            "code": "116"
+        },
+        {
+            "name": "Nakasongola District",
+            "type": null,
+            "latitude": "1.34897210",
+            "longitude": "32.44672380",
+            "code": "109"
+        },
+        {
+            "name": "Namayingo District",
+            "type": null,
+            "latitude": "-0.28035750",
+            "longitude": "33.75177230",
+            "code": "230"
+        },
+        {
+            "name": "Namisindwa District",
+            "type": null,
+            "latitude": "0.90710100",
+            "longitude": "34.35740370",
+            "code": "234"
+        },
+        {
+            "name": "Namutumba District",
+            "type": null,
+            "latitude": "0.84926100",
+            "longitude": "33.66233010",
+            "code": "224"
+        },
+        {
+            "name": "Napak District",
+            "type": null,
+            "latitude": "2.36299450",
+            "longitude": "34.24215970",
+            "code": "327"
+        },
+        {
+            "name": "Nebbi District",
+            "type": null,
+            "latitude": "2.44093920",
+            "longitude": "31.35416310",
+            "code": "310"
+        },
+        {
+            "name": "Ngora District",
+            "type": null,
+            "latitude": "1.49081150",
+            "longitude": "33.75177230",
+            "code": "231"
+        },
+        {
+            "name": "Northern Region",
+            "type": null,
+            "latitude": "9.54392690",
+            "longitude": "-0.90566230",
+            "code": "N"
+        },
+        {
+            "name": "Ntoroko District",
+            "type": null,
+            "latitude": "1.07881780",
+            "longitude": "30.38966510",
+            "code": "424"
+        },
+        {
+            "name": "Ntungamo District",
+            "type": null,
+            "latitude": "-0.98073410",
+            "longitude": "30.25127280",
+            "code": "411"
+        },
+        {
+            "name": "Nwoya District",
+            "type": null,
+            "latitude": "2.56244400",
+            "longitude": "31.90179540",
+            "code": "328"
+        },
+        {
+            "name": "Omoro District",
+            "type": null,
+            "latitude": "2.71522300",
+            "longitude": "32.49200880",
+            "code": "331"
+        },
+        {
+            "name": "Otuke District",
+            "type": null,
+            "latitude": "2.52140590",
+            "longitude": "33.34861470",
+            "code": "329"
+        },
+        {
+            "name": "Oyam District",
+            "type": null,
+            "latitude": "2.27762810",
+            "longitude": "32.44672380",
+            "code": "321"
+        },
+        {
+            "name": "Pader District",
+            "type": null,
+            "latitude": "2.94306820",
+            "longitude": "32.80844960",
+            "code": "312"
+        },
+        {
+            "name": "Pakwach District",
+            "type": null,
+            "latitude": "2.46071410",
+            "longitude": "31.49417380",
+            "code": "332"
+        },
+        {
+            "name": "Pallisa District",
+            "type": null,
+            "latitude": "1.23242060",
+            "longitude": "33.75177230",
+            "code": "210"
+        },
+        {
+            "name": "Rakai District",
+            "type": null,
+            "latitude": "-0.70691350",
+            "longitude": "31.53700030",
+            "code": "110"
+        },
+        {
+            "name": "Rubanda District",
+            "type": null,
+            "latitude": "-1.18611900",
+            "longitude": "29.84535760",
+            "code": "429"
+        },
+        {
+            "name": "Rubirizi District",
+            "type": null,
+            "latitude": "-0.26424100",
+            "longitude": "30.10840330",
+            "code": "425"
+        },
+        {
+            "name": "Rukiga District",
+            "type": null,
+            "latitude": "-1.13263370",
+            "longitude": "30.04341200",
+            "code": "431"
+        },
+        {
+            "name": "Rukungiri District",
+            "type": null,
+            "latitude": "-0.75184900",
+            "longitude": "29.92779470",
+            "code": "412"
+        },
+        {
+            "name": "Sembabule District",
+            "type": null,
+            "latitude": "0.06377150",
+            "longitude": "31.35416310",
+            "code": "111"
+        },
+        {
+            "name": "Serere District",
+            "type": null,
+            "latitude": "1.49940330",
+            "longitude": "33.54900780",
+            "code": "232"
+        },
+        {
+            "name": "Sheema District",
+            "type": null,
+            "latitude": "-0.55152980",
+            "longitude": "30.38966510",
+            "code": "426"
+        },
+        {
+            "name": "Sironko District",
+            "type": null,
+            "latitude": "1.23022740",
+            "longitude": "34.24910640",
+            "code": "215"
+        },
+        {
+            "name": "Soroti District",
+            "type": null,
+            "latitude": "1.72291170",
+            "longitude": "33.52800720",
+            "code": "211"
+        },
+        {
+            "name": "Tororo District",
+            "type": null,
+            "latitude": "0.68709940",
+            "longitude": "34.06414190",
+            "code": "212"
+        },
+        {
+            "name": "Wakiso District",
+            "type": null,
+            "latitude": "0.06301900",
+            "longitude": "32.44672380",
+            "code": "113"
+        },
+        {
+            "name": "Western Region",
+            "type": null,
+            "latitude": "40.76672150",
+            "longitude": "-111.88772030",
+            "code": "W"
+        },
+        {
+            "name": "Yumbe District",
+            "type": null,
+            "latitude": "3.46980230",
+            "longitude": "31.24832910",
+            "code": "313"
+        },
+        {
+            "name": "Zombo District",
+            "type": null,
+            "latitude": "2.55442930",
+            "longitude": "30.94173680",
+            "code": "330"
+        }
     ]
 }

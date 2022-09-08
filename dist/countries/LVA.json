@@ -201,124 +201,832 @@
         "format": "LV-####",
         "regex": "^(?:LV)*(\\d{4})$"
     },
-    "provinces": [
-        "Aglona Municipality",
-        "Aizkraukle Municipality",
-        "Aizpute Municipality",
-        "Aknīste Municipality",
-        "Aloja Municipality",
-        "Alsunga Municipality",
-        "Alūksne Municipality",
-        "Amata Municipality",
-        "Ape Municipality",
-        "Auce Municipality",
-        "Babīte Municipality",
-        "Baldone Municipality",
-        "Baltinava Municipality",
-        "Balvi Municipality",
-        "Bauska Municipality",
-        "Beverīna Municipality",
-        "Brocēni Municipality",
-        "Burtnieki Municipality",
-        "Carnikava Municipality",
-        "Cēsis Municipality",
-        "Cesvaine Municipality",
-        "Cibla Municipality",
-        "Dagda Municipality",
-        "Daugavpils",
-        "Daugavpils Municipality",
-        "Dobele Municipality",
-        "Dundaga Municipality",
-        "Durbe Municipality",
-        "Engure Municipality",
-        "Ērgļi Municipality",
-        "Garkalne Municipality",
-        "Grobiņa Municipality",
-        "Gulbene Municipality",
-        "Iecava Municipality",
-        "Ikšķile Municipality",
-        "Ilūkste Municipality",
-        "Inčukalns Municipality",
-        "Jaunjelgava Municipality",
-        "Jaunpiebalga Municipality",
-        "Jaunpils Municipality",
-        "Jēkabpils",
-        "Jēkabpils Municipality",
-        "Jelgava",
-        "Jelgava Municipality",
-        "Jūrmala",
-        "Kandava Municipality",
-        "Kārsava Municipality",
-        "Ķegums Municipality",
-        "Ķekava Municipality",
-        "Kocēni Municipality",
-        "Koknese Municipality",
-        "Krāslava Municipality",
-        "Krimulda Municipality",
-        "Krustpils Municipality",
-        "Kuldīga Municipality",
-        "Lielvārde Municipality",
-        "Liepāja",
-        "Līgatne Municipality",
-        "Limbaži Municipality",
-        "Līvāni Municipality",
-        "Lubāna Municipality",
-        "Ludza Municipality",
-        "Madona Municipality",
-        "Mālpils Municipality",
-        "Mārupe Municipality",
-        "Mazsalaca Municipality",
-        "Mērsrags Municipality",
-        "Naukšēni Municipality",
-        "Nereta Municipality",
-        "Nīca Municipality",
-        "Ogre Municipality",
-        "Olaine Municipality",
-        "Ozolnieki Municipality",
-        "Pārgauja Municipality",
-        "Pāvilosta Municipality",
-        "Pļaviņas Municipality",
-        "Preiļi Municipality",
-        "Priekule Municipality",
-        "Priekuļi Municipality",
-        "Rauna Municipality",
-        "Rēzekne",
-        "Rēzekne Municipality",
-        "Riebiņi Municipality",
-        "Riga",
-        "Roja Municipality",
-        "Ropaži Municipality",
-        "Rucava Municipality",
-        "Rugāji Municipality",
-        "Rūjiena Municipality",
-        "Rundāle Municipality",
-        "Sala Municipality",
-        "Salacgrīva Municipality",
-        "Salaspils Municipality",
-        "Saldus Municipality",
-        "Saulkrasti Municipality",
-        "Sēja Municipality",
-        "Sigulda Municipality",
-        "Skrīveri Municipality",
-        "Skrunda Municipality",
-        "Smiltene Municipality",
-        "Stopiņi Municipality",
-        "Strenči Municipality",
-        "Talsi Municipality",
-        "Tērvete Municipality",
-        "Tukums Municipality",
-        "Vaiņode Municipality",
-        "Valka Municipality",
-        "Valmiera",
-        "Varakļāni Municipality",
-        "Vārkava Municipality",
-        "Vecpiebalga Municipality",
-        "Vecumnieki Municipality",
-        "Ventspils",
-        "Ventspils Municipality",
-        "Viesīte Municipality",
-        "Viļaka Municipality",
-        "Viļāni Municipality",
-        "Zilupe Municipality"
+    "states": [
+        {
+            "name": "Aglona Municipality",
+            "type": null,
+            "latitude": "56.10890060",
+            "longitude": "27.12862270",
+            "code": "001"
+        },
+        {
+            "name": "Aizkraukle Municipality",
+            "type": null,
+            "latitude": "56.64610800",
+            "longitude": "25.23708540",
+            "code": "002"
+        },
+        {
+            "name": "Aizpute Municipality",
+            "type": null,
+            "latitude": "56.71825960",
+            "longitude": "21.60727590",
+            "code": "003"
+        },
+        {
+            "name": "Aknīste Municipality",
+            "type": null,
+            "latitude": "56.16130370",
+            "longitude": "25.74848270",
+            "code": "004"
+        },
+        {
+            "name": "Aloja Municipality",
+            "type": null,
+            "latitude": "57.76713600",
+            "longitude": "24.87708390",
+            "code": "005"
+        },
+        {
+            "name": "Alsunga Municipality",
+            "type": null,
+            "latitude": "56.98285310",
+            "longitude": "21.55559190",
+            "code": "006"
+        },
+        {
+            "name": "Alūksne Municipality",
+            "type": null,
+            "latitude": "57.42544850",
+            "longitude": "27.04249680",
+            "code": "007"
+        },
+        {
+            "name": "Amata Municipality",
+            "type": null,
+            "latitude": "56.99387260",
+            "longitude": "25.26276750",
+            "code": "008"
+        },
+        {
+            "name": "Ape Municipality",
+            "type": null,
+            "latitude": "57.53926970",
+            "longitude": "26.69416490",
+            "code": "009"
+        },
+        {
+            "name": "Auce Municipality",
+            "type": null,
+            "latitude": "56.46016800",
+            "longitude": "22.90547810",
+            "code": "010"
+        },
+        {
+            "name": "Babīte Municipality",
+            "type": null,
+            "latitude": "56.95415500",
+            "longitude": "23.94539900",
+            "code": "012"
+        },
+        {
+            "name": "Baldone Municipality",
+            "type": null,
+            "latitude": "56.74246000",
+            "longitude": "24.39115440",
+            "code": "013"
+        },
+        {
+            "name": "Baltinava Municipality",
+            "type": null,
+            "latitude": "56.94584680",
+            "longitude": "27.64410660",
+            "code": "014"
+        },
+        {
+            "name": "Balvi Municipality",
+            "type": null,
+            "latitude": "57.13262400",
+            "longitude": "27.26466850",
+            "code": "015"
+        },
+        {
+            "name": "Bauska Municipality",
+            "type": null,
+            "latitude": "56.41018680",
+            "longitude": "24.20006890",
+            "code": "016"
+        },
+        {
+            "name": "Beverīna Municipality",
+            "type": null,
+            "latitude": "57.51971090",
+            "longitude": "25.60736540",
+            "code": "017"
+        },
+        {
+            "name": "Brocēni Municipality",
+            "type": null,
+            "latitude": "56.73475410",
+            "longitude": "22.63573710",
+            "code": "018"
+        },
+        {
+            "name": "Burtnieki Municipality",
+            "type": null,
+            "latitude": "57.69490040",
+            "longitude": "25.27647770",
+            "code": "019"
+        },
+        {
+            "name": "Carnikava Municipality",
+            "type": null,
+            "latitude": "57.10241210",
+            "longitude": "24.21086620",
+            "code": "020"
+        },
+        {
+            "name": "Cēsis Municipality",
+            "type": null,
+            "latitude": "57.31028970",
+            "longitude": "25.26761250",
+            "code": "022"
+        },
+        {
+            "name": "Cesvaine Municipality",
+            "type": null,
+            "latitude": "56.96792640",
+            "longitude": "26.30831720",
+            "code": "021"
+        },
+        {
+            "name": "Cibla Municipality",
+            "type": null,
+            "latitude": "56.61023440",
+            "longitude": "27.86965980",
+            "code": "023"
+        },
+        {
+            "name": "Dagda Municipality",
+            "type": null,
+            "latitude": "56.09560890",
+            "longitude": "27.53245900",
+            "code": "024"
+        },
+        {
+            "name": "Daugavpils",
+            "type": null,
+            "latitude": "55.87473600",
+            "longitude": "26.53617900",
+            "code": "DGV"
+        },
+        {
+            "name": "Daugavpils Municipality",
+            "type": null,
+            "latitude": "55.89917830",
+            "longitude": "26.61020120",
+            "code": "025"
+        },
+        {
+            "name": "Dobele Municipality",
+            "type": null,
+            "latitude": "56.62630500",
+            "longitude": "23.28090660",
+            "code": "026"
+        },
+        {
+            "name": "Dundaga Municipality",
+            "type": null,
+            "latitude": "57.50491670",
+            "longitude": "22.35051140",
+            "code": "027"
+        },
+        {
+            "name": "Durbe Municipality",
+            "type": null,
+            "latitude": "56.62798570",
+            "longitude": "21.49162450",
+            "code": "028"
+        },
+        {
+            "name": "Engure Municipality",
+            "type": null,
+            "latitude": "57.16235000",
+            "longitude": "23.21966340",
+            "code": "029"
+        },
+        {
+            "name": "Ērgļi Municipality",
+            "type": null,
+            "latitude": "56.92370650",
+            "longitude": "25.67538520",
+            "code": "030"
+        },
+        {
+            "name": "Garkalne Municipality",
+            "type": null,
+            "latitude": "57.01903870",
+            "longitude": "24.38261810",
+            "code": "031"
+        },
+        {
+            "name": "Grobiņa Municipality",
+            "type": null,
+            "latitude": "56.53963200",
+            "longitude": "21.16689200",
+            "code": "032"
+        },
+        {
+            "name": "Gulbene Municipality",
+            "type": null,
+            "latitude": "57.21556450",
+            "longitude": "26.64529550",
+            "code": "033"
+        },
+        {
+            "name": "Iecava Municipality",
+            "type": null,
+            "latitude": "56.59867930",
+            "longitude": "24.19962720",
+            "code": "034"
+        },
+        {
+            "name": "Ikšķile Municipality",
+            "type": null,
+            "latitude": "56.83736670",
+            "longitude": "24.49747450",
+            "code": "035"
+        },
+        {
+            "name": "Ilūkste Municipality",
+            "type": null,
+            "latitude": "55.97825470",
+            "longitude": "26.29650880",
+            "code": "036"
+        },
+        {
+            "name": "Inčukalns Municipality",
+            "type": null,
+            "latitude": "57.09943420",
+            "longitude": "24.68555700",
+            "code": "037"
+        },
+        {
+            "name": "Jaunjelgava Municipality",
+            "type": null,
+            "latitude": "56.52836590",
+            "longitude": "25.39214430",
+            "code": "038"
+        },
+        {
+            "name": "Jaunpiebalga Municipality",
+            "type": null,
+            "latitude": "57.14334710",
+            "longitude": "25.99518880",
+            "code": "039"
+        },
+        {
+            "name": "Jaunpils Municipality",
+            "type": null,
+            "latitude": "56.73141940",
+            "longitude": "23.01256160",
+            "code": "040"
+        },
+        {
+            "name": "Jēkabpils",
+            "type": null,
+            "latitude": "56.50145500",
+            "longitude": "25.87829900",
+            "code": "JKB"
+        },
+        {
+            "name": "Jēkabpils Municipality",
+            "type": null,
+            "latitude": "56.29193200",
+            "longitude": "25.98120170",
+            "code": "042"
+        },
+        {
+            "name": "Jelgava",
+            "type": null,
+            "latitude": "56.65110910",
+            "longitude": "23.72135410",
+            "code": "JEL"
+        },
+        {
+            "name": "Jelgava Municipality",
+            "type": null,
+            "latitude": "56.58956890",
+            "longitude": "23.66104810",
+            "code": "041"
+        },
+        {
+            "name": "Jūrmala",
+            "type": null,
+            "latitude": "56.94707900",
+            "longitude": "23.61684850",
+            "code": "JUR"
+        },
+        {
+            "name": "Kandava Municipality",
+            "type": null,
+            "latitude": "57.03406730",
+            "longitude": "22.78018130",
+            "code": "043"
+        },
+        {
+            "name": "Kārsava Municipality",
+            "type": null,
+            "latitude": "56.76458420",
+            "longitude": "27.73582950",
+            "code": "044"
+        },
+        {
+            "name": "Ķegums Municipality",
+            "type": null,
+            "latitude": "56.74753570",
+            "longitude": "24.71736450",
+            "code": "051"
+        },
+        {
+            "name": "Ķekava Municipality",
+            "type": null,
+            "latitude": "56.80643510",
+            "longitude": "24.19394930",
+            "code": "052"
+        },
+        {
+            "name": "Kocēni Municipality",
+            "type": null,
+            "latitude": "57.52262920",
+            "longitude": "25.33495070",
+            "code": "045"
+        },
+        {
+            "name": "Koknese Municipality",
+            "type": null,
+            "latitude": "56.72055600",
+            "longitude": "25.48939090",
+            "code": "046"
+        },
+        {
+            "name": "Krāslava Municipality",
+            "type": null,
+            "latitude": "55.89514640",
+            "longitude": "27.18145770",
+            "code": "047"
+        },
+        {
+            "name": "Krimulda Municipality",
+            "type": null,
+            "latitude": "57.17912730",
+            "longitude": "24.71401270",
+            "code": "048"
+        },
+        {
+            "name": "Krustpils Municipality",
+            "type": null,
+            "latitude": "56.54155780",
+            "longitude": "26.24463970",
+            "code": "049"
+        },
+        {
+            "name": "Kuldīga Municipality",
+            "type": null,
+            "latitude": "56.96872570",
+            "longitude": "21.96137390",
+            "code": "050"
+        },
+        {
+            "name": "Lielvārde Municipality",
+            "type": null,
+            "latitude": "56.73929760",
+            "longitude": "24.97116180",
+            "code": "053"
+        },
+        {
+            "name": "Liepāja",
+            "type": null,
+            "latitude": "56.50466780",
+            "longitude": "21.01080600",
+            "code": "LPX"
+        },
+        {
+            "name": "Līgatne Municipality",
+            "type": null,
+            "latitude": "57.19442040",
+            "longitude": "25.09406810",
+            "code": "055"
+        },
+        {
+            "name": "Limbaži Municipality",
+            "type": null,
+            "latitude": "57.54032270",
+            "longitude": "24.71344510",
+            "code": "054"
+        },
+        {
+            "name": "Līvāni Municipality",
+            "type": null,
+            "latitude": "56.35509420",
+            "longitude": "26.17251900",
+            "code": "056"
+        },
+        {
+            "name": "Lubāna Municipality",
+            "type": null,
+            "latitude": "56.89992690",
+            "longitude": "26.71987890",
+            "code": "057"
+        },
+        {
+            "name": "Ludza Municipality",
+            "type": null,
+            "latitude": "56.54595900",
+            "longitude": "27.71431990",
+            "code": "058"
+        },
+        {
+            "name": "Madona Municipality",
+            "type": null,
+            "latitude": "56.85989230",
+            "longitude": "26.22762010",
+            "code": "059"
+        },
+        {
+            "name": "Mālpils Municipality",
+            "type": null,
+            "latitude": "57.00841190",
+            "longitude": "24.95742780",
+            "code": "061"
+        },
+        {
+            "name": "Mārupe Municipality",
+            "type": null,
+            "latitude": "56.89657170",
+            "longitude": "24.04600490",
+            "code": "062"
+        },
+        {
+            "name": "Mazsalaca Municipality",
+            "type": null,
+            "latitude": "57.92677490",
+            "longitude": "25.06698950",
+            "code": "060"
+        },
+        {
+            "name": "Mērsrags Municipality",
+            "type": null,
+            "latitude": "57.33068810",
+            "longitude": "23.10237070",
+            "code": "063"
+        },
+        {
+            "name": "Naukšēni Municipality",
+            "type": null,
+            "latitude": "57.92953610",
+            "longitude": "25.51192660",
+            "code": "064"
+        },
+        {
+            "name": "Nereta Municipality",
+            "type": null,
+            "latitude": "56.19866550",
+            "longitude": "25.32529690",
+            "code": "065"
+        },
+        {
+            "name": "Nīca Municipality",
+            "type": null,
+            "latitude": "56.34649830",
+            "longitude": "21.06549300",
+            "code": "066"
+        },
+        {
+            "name": "Ogre Municipality",
+            "type": null,
+            "latitude": "56.81473550",
+            "longitude": "24.60445550",
+            "code": "067"
+        },
+        {
+            "name": "Olaine Municipality",
+            "type": null,
+            "latitude": "56.79523530",
+            "longitude": "24.01535890",
+            "code": "068"
+        },
+        {
+            "name": "Ozolnieki Municipality",
+            "type": null,
+            "latitude": "56.67563050",
+            "longitude": "23.89948160",
+            "code": "069"
+        },
+        {
+            "name": "Pārgauja Municipality",
+            "type": null,
+            "latitude": "57.36481220",
+            "longitude": "24.98220450",
+            "code": "070"
+        },
+        {
+            "name": "Pāvilosta Municipality",
+            "type": null,
+            "latitude": "56.88654240",
+            "longitude": "21.19468490",
+            "code": "071"
+        },
+        {
+            "name": "Pļaviņas Municipality",
+            "type": null,
+            "latitude": "56.61773130",
+            "longitude": "25.71940430",
+            "code": "072"
+        },
+        {
+            "name": "Preiļi Municipality",
+            "type": null,
+            "latitude": "56.15111570",
+            "longitude": "26.74397670",
+            "code": "073"
+        },
+        {
+            "name": "Priekule Municipality",
+            "type": null,
+            "latitude": "56.41794130",
+            "longitude": "21.55033360",
+            "code": "074"
+        },
+        {
+            "name": "Priekuļi Municipality",
+            "type": null,
+            "latitude": "57.36171380",
+            "longitude": "25.44104230",
+            "code": "075"
+        },
+        {
+            "name": "Rauna Municipality",
+            "type": null,
+            "latitude": "57.33169300",
+            "longitude": "25.61003390",
+            "code": "076"
+        },
+        {
+            "name": "Rēzekne",
+            "type": null,
+            "latitude": "56.50992230",
+            "longitude": "27.33313570",
+            "code": "REZ"
+        },
+        {
+            "name": "Rēzekne Municipality",
+            "type": null,
+            "latitude": "56.32736380",
+            "longitude": "27.32843310",
+            "code": "077"
+        },
+        {
+            "name": "Riebiņi Municipality",
+            "type": null,
+            "latitude": "56.34361900",
+            "longitude": "26.80181380",
+            "code": "078"
+        },
+        {
+            "name": "Riga",
+            "type": null,
+            "latitude": "56.94964870",
+            "longitude": "24.10518650",
+            "code": "RIX"
+        },
+        {
+            "name": "Roja Municipality",
+            "type": null,
+            "latitude": "57.50467130",
+            "longitude": "22.80121640",
+            "code": "079"
+        },
+        {
+            "name": "Ropaži Municipality",
+            "type": null,
+            "latitude": "56.96157860",
+            "longitude": "24.60104760",
+            "code": "080"
+        },
+        {
+            "name": "Rucava Municipality",
+            "type": null,
+            "latitude": "56.15931240",
+            "longitude": "21.16181210",
+            "code": "081"
+        },
+        {
+            "name": "Rugāji Municipality",
+            "type": null,
+            "latitude": "57.00560230",
+            "longitude": "27.13172030",
+            "code": "082"
+        },
+        {
+            "name": "Rūjiena Municipality",
+            "type": null,
+            "latitude": "57.89372910",
+            "longitude": "25.33910080",
+            "code": "084"
+        },
+        {
+            "name": "Rundāle Municipality",
+            "type": null,
+            "latitude": "56.40972100",
+            "longitude": "24.01241390",
+            "code": "083"
+        },
+        {
+            "name": "Sala Municipality",
+            "type": null,
+            "latitude": "59.96796130",
+            "longitude": "16.49782170",
+            "code": "085"
+        },
+        {
+            "name": "Salacgrīva Municipality",
+            "type": null,
+            "latitude": "57.75808830",
+            "longitude": "24.35431810",
+            "code": "086"
+        },
+        {
+            "name": "Salaspils Municipality",
+            "type": null,
+            "latitude": "56.86081520",
+            "longitude": "24.34978810",
+            "code": "087"
+        },
+        {
+            "name": "Saldus Municipality",
+            "type": null,
+            "latitude": "56.66650880",
+            "longitude": "22.49354930",
+            "code": "088"
+        },
+        {
+            "name": "Saulkrasti Municipality",
+            "type": null,
+            "latitude": "57.25794180",
+            "longitude": "24.41831460",
+            "code": "089"
+        },
+        {
+            "name": "Sēja Municipality",
+            "type": null,
+            "latitude": "57.20069950",
+            "longitude": "24.59228210",
+            "code": "090"
+        },
+        {
+            "name": "Sigulda Municipality",
+            "type": null,
+            "latitude": "57.10550920",
+            "longitude": "24.83142590",
+            "code": "091"
+        },
+        {
+            "name": "Skrīveri Municipality",
+            "type": null,
+            "latitude": "56.67613910",
+            "longitude": "25.09788490",
+            "code": "092"
+        },
+        {
+            "name": "Skrunda Municipality",
+            "type": null,
+            "latitude": "56.66434580",
+            "longitude": "22.00457290",
+            "code": "093"
+        },
+        {
+            "name": "Smiltene Municipality",
+            "type": null,
+            "latitude": "57.42303320",
+            "longitude": "25.90027800",
+            "code": "094"
+        },
+        {
+            "name": "Stopiņi Municipality",
+            "type": null,
+            "latitude": "56.93644900",
+            "longitude": "24.28729490",
+            "code": "095"
+        },
+        {
+            "name": "Strenči Municipality",
+            "type": null,
+            "latitude": "57.62254710",
+            "longitude": "25.80480860",
+            "code": "096"
+        },
+        {
+            "name": "Talsi Municipality",
+            "type": null,
+            "latitude": "57.34152080",
+            "longitude": "22.57131250",
+            "code": "097"
+        },
+        {
+            "name": "Tērvete Municipality",
+            "type": null,
+            "latitude": "56.41192010",
+            "longitude": "23.31883320",
+            "code": "098"
+        },
+        {
+            "name": "Tukums Municipality",
+            "type": null,
+            "latitude": "56.96728680",
+            "longitude": "23.15243790",
+            "code": "099"
+        },
+        {
+            "name": "Vaiņode Municipality",
+            "type": null,
+            "latitude": "56.41542710",
+            "longitude": "21.85139840",
+            "code": "100"
+        },
+        {
+            "name": "Valka Municipality",
+            "type": null,
+            "latitude": "57.77439000",
+            "longitude": "26.01700500",
+            "code": "101"
+        },
+        {
+            "name": "Valmiera",
+            "type": null,
+            "latitude": "57.53846590",
+            "longitude": "25.42636180",
+            "code": "VMR"
+        },
+        {
+            "name": "Varakļāni Municipality",
+            "type": null,
+            "latitude": "56.66880060",
+            "longitude": "26.56364140",
+            "code": "102"
+        },
+        {
+            "name": "Vārkava Municipality",
+            "type": null,
+            "latitude": "56.24657440",
+            "longitude": "26.56643710",
+            "code": "103"
+        },
+        {
+            "name": "Vecpiebalga Municipality",
+            "type": null,
+            "latitude": "57.06033560",
+            "longitude": "25.81615920",
+            "code": "104"
+        },
+        {
+            "name": "Vecumnieki Municipality",
+            "type": null,
+            "latitude": "56.60623370",
+            "longitude": "24.52218910",
+            "code": "105"
+        },
+        {
+            "name": "Ventspils",
+            "type": null,
+            "latitude": "57.39372160",
+            "longitude": "21.56470660",
+            "code": "VEN"
+        },
+        {
+            "name": "Ventspils Municipality",
+            "type": null,
+            "latitude": "57.28336820",
+            "longitude": "21.85875580",
+            "code": "106"
+        },
+        {
+            "name": "Viesīte Municipality",
+            "type": null,
+            "latitude": "56.31130850",
+            "longitude": "25.50704640",
+            "code": "107"
+        },
+        {
+            "name": "Viļaka Municipality",
+            "type": null,
+            "latitude": "57.17222630",
+            "longitude": "27.66731880",
+            "code": "108"
+        },
+        {
+            "name": "Viļāni Municipality",
+            "type": null,
+            "latitude": "56.54561710",
+            "longitude": "26.91679270",
+            "code": "109"
+        },
+        {
+            "name": "Zilupe Municipality",
+            "type": null,
+            "latitude": "56.30189850",
+            "longitude": "28.13395900",
+            "code": "110"
+        }
     ]
 }

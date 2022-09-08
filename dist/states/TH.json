@@ -1,0 +1,548 @@
+[
+    {
+        "name": "Amnat Charoen",
+        "type": null,
+        "latitude": "15.86567830",
+        "longitude": "104.62577740",
+        "code": "37"
+    },
+    {
+        "name": "Ang Thong",
+        "type": null,
+        "latitude": "14.58960540",
+        "longitude": "100.45505200",
+        "code": "15"
+    },
+    {
+        "name": "Bangkok",
+        "type": null,
+        "latitude": "13.75633090",
+        "longitude": "100.50176510",
+        "code": "10"
+    },
+    {
+        "name": "Bueng Kan",
+        "type": null,
+        "latitude": "18.36091040",
+        "longitude": "103.64644630",
+        "code": "38"
+    },
+    {
+        "name": "Buri Ram",
+        "type": null,
+        "latitude": "14.99510030",
+        "longitude": "103.11159150",
+        "code": "31"
+    },
+    {
+        "name": "Chachoengsao",
+        "type": null,
+        "latitude": "13.69041940",
+        "longitude": "101.07795960",
+        "code": "24"
+    },
+    {
+        "name": "Chai Nat",
+        "type": null,
+        "latitude": "15.18519710",
+        "longitude": "100.12512500",
+        "code": "18"
+    },
+    {
+        "name": "Chaiyaphum",
+        "type": null,
+        "latitude": "16.00749740",
+        "longitude": "101.61291720",
+        "code": "36"
+    },
+    {
+        "name": "Chanthaburi",
+        "type": null,
+        "latitude": "12.61124850",
+        "longitude": "102.10378060",
+        "code": "22"
+    },
+    {
+        "name": "Chiang Mai",
+        "type": null,
+        "latitude": "18.78834390",
+        "longitude": "98.98530080",
+        "code": "50"
+    },
+    {
+        "name": "Chiang Rai",
+        "type": null,
+        "latitude": "19.91047980",
+        "longitude": "99.84057600",
+        "code": "57"
+    },
+    {
+        "name": "Chon Buri",
+        "type": null,
+        "latitude": "13.36114310",
+        "longitude": "100.98467170",
+        "code": "20"
+    },
+    {
+        "name": "Chumphon",
+        "type": null,
+        "latitude": "10.49304960",
+        "longitude": "99.18001990",
+        "code": "86"
+    },
+    {
+        "name": "Kalasin",
+        "type": null,
+        "latitude": "16.43850800",
+        "longitude": "103.50609940",
+        "code": "46"
+    },
+    {
+        "name": "Kamphaeng Phet",
+        "type": null,
+        "latitude": "16.48277980",
+        "longitude": "99.52266180",
+        "code": "62"
+    },
+    {
+        "name": "Kanchanaburi",
+        "type": null,
+        "latitude": "14.10113930",
+        "longitude": "99.41794310",
+        "code": "71"
+    },
+    {
+        "name": "Khon Kaen",
+        "type": null,
+        "latitude": "16.43219380",
+        "longitude": "102.82362140",
+        "code": "40"
+    },
+    {
+        "name": "Krabi",
+        "type": null,
+        "latitude": "8.08629970",
+        "longitude": "98.90628350",
+        "code": "81"
+    },
+    {
+        "name": "Lampang",
+        "type": null,
+        "latitude": "18.28553950",
+        "longitude": "99.51278950",
+        "code": "52"
+    },
+    {
+        "name": "Lamphun",
+        "type": null,
+        "latitude": "18.57446060",
+        "longitude": "99.00872210",
+        "code": "51"
+    },
+    {
+        "name": "Loei",
+        "type": null,
+        "latitude": "17.48602320",
+        "longitude": "101.72230020",
+        "code": "42"
+    },
+    {
+        "name": "Lop Buri",
+        "type": null,
+        "latitude": "14.79950810",
+        "longitude": "100.65337060",
+        "code": "16"
+    },
+    {
+        "name": "Mae Hong Son",
+        "type": null,
+        "latitude": "19.30202960",
+        "longitude": "97.96543680",
+        "code": "58"
+    },
+    {
+        "name": "Maha Sarakham",
+        "type": null,
+        "latitude": "16.01320150",
+        "longitude": "103.16151690",
+        "code": "44"
+    },
+    {
+        "name": "Mukdahan",
+        "type": null,
+        "latitude": "16.54359140",
+        "longitude": "104.70241210",
+        "code": "49"
+    },
+    {
+        "name": "Nakhon Nayok",
+        "type": null,
+        "latitude": "14.20694660",
+        "longitude": "101.21305110",
+        "code": "26"
+    },
+    {
+        "name": "Nakhon Pathom",
+        "type": null,
+        "latitude": "13.81402930",
+        "longitude": "100.03729290",
+        "code": "73"
+    },
+    {
+        "name": "Nakhon Phanom",
+        "type": null,
+        "latitude": "17.39203900",
+        "longitude": "104.76955080",
+        "code": "48"
+    },
+    {
+        "name": "Nakhon Ratchasima",
+        "type": null,
+        "latitude": "14.97384930",
+        "longitude": "102.08365200",
+        "code": "30"
+    },
+    {
+        "name": "Nakhon Sawan",
+        "type": null,
+        "latitude": "15.69873820",
+        "longitude": "100.11996000",
+        "code": "60"
+    },
+    {
+        "name": "Nakhon Si Thammarat",
+        "type": null,
+        "latitude": "8.43248310",
+        "longitude": "99.95990330",
+        "code": "80"
+    },
+    {
+        "name": "Nan",
+        "type": null,
+        "latitude": "45.52220800",
+        "longitude": "-122.98632810",
+        "code": "55"
+    },
+    {
+        "name": "Narathiwat",
+        "type": null,
+        "latitude": "6.42546070",
+        "longitude": "101.82531430",
+        "code": "96"
+    },
+    {
+        "name": "Nong Bua Lam Phu",
+        "type": null,
+        "latitude": "17.22182470",
+        "longitude": "102.42603680",
+        "code": "39"
+    },
+    {
+        "name": "Nong Khai",
+        "type": null,
+        "latitude": "17.87828030",
+        "longitude": "102.74126380",
+        "code": "43"
+    },
+    {
+        "name": "Nonthaburi",
+        "type": null,
+        "latitude": "13.85910840",
+        "longitude": "100.52165080",
+        "code": "12"
+    },
+    {
+        "name": "Pathum Thani",
+        "type": null,
+        "latitude": "14.02083910",
+        "longitude": "100.52502760",
+        "code": "13"
+    },
+    {
+        "name": "Pattani",
+        "type": null,
+        "latitude": "6.76183080",
+        "longitude": "101.32325490",
+        "code": "94"
+    },
+    {
+        "name": "Pattaya",
+        "type": null,
+        "latitude": "12.92355570",
+        "longitude": "100.88245510",
+        "code": "S"
+    },
+    {
+        "name": "Phangnga",
+        "type": null,
+        "latitude": "8.45014140",
+        "longitude": "98.52553170",
+        "code": "82"
+    },
+    {
+        "name": "Phatthalung",
+        "type": null,
+        "latitude": "7.61668230",
+        "longitude": "100.07402310",
+        "code": "93"
+    },
+    {
+        "name": "Phayao",
+        "type": null,
+        "latitude": "19.21543670",
+        "longitude": "100.20236920",
+        "code": "56"
+    },
+    {
+        "name": "Phetchabun",
+        "type": null,
+        "latitude": "16.30166900",
+        "longitude": "101.11928040",
+        "code": "67"
+    },
+    {
+        "name": "Phetchaburi",
+        "type": null,
+        "latitude": "12.96492150",
+        "longitude": "99.64258830",
+        "code": "76"
+    },
+    {
+        "name": "Phichit",
+        "type": null,
+        "latitude": "16.27408760",
+        "longitude": "100.33469910",
+        "code": "66"
+    },
+    {
+        "name": "Phitsanulok",
+        "type": null,
+        "latitude": "16.82112380",
+        "longitude": "100.26585160",
+        "code": "65"
+    },
+    {
+        "name": "Phra Nakhon Si Ayutthaya",
+        "type": null,
+        "latitude": "14.36923250",
+        "longitude": "100.58766340",
+        "code": "14"
+    },
+    {
+        "name": "Phrae",
+        "type": null,
+        "latitude": "18.14457740",
+        "longitude": "100.14028310",
+        "code": "54"
+    },
+    {
+        "name": "Phuket",
+        "type": null,
+        "latitude": "7.88044790",
+        "longitude": "98.39225040",
+        "code": "83"
+    },
+    {
+        "name": "Prachin Buri",
+        "type": null,
+        "latitude": "14.04206990",
+        "longitude": "101.66008740",
+        "code": "25"
+    },
+    {
+        "name": "Prachuap Khiri Khan",
+        "type": null,
+        "latitude": "11.79383890",
+        "longitude": "99.79575640",
+        "code": "77"
+    },
+    {
+        "name": "Ranong",
+        "type": null,
+        "latitude": "9.95287020",
+        "longitude": "98.60846410",
+        "code": "85"
+    },
+    {
+        "name": "Ratchaburi",
+        "type": null,
+        "latitude": "13.52828930",
+        "longitude": "99.81342110",
+        "code": "70"
+    },
+    {
+        "name": "Rayong",
+        "type": null,
+        "latitude": "12.68139570",
+        "longitude": "101.28162610",
+        "code": "21"
+    },
+    {
+        "name": "Roi Et",
+        "type": null,
+        "latitude": "16.05381960",
+        "longitude": "103.65200360",
+        "code": "45"
+    },
+    {
+        "name": "Sa Kaeo",
+        "type": null,
+        "latitude": "13.82403800",
+        "longitude": "102.06458390",
+        "code": "27"
+    },
+    {
+        "name": "Sakon Nakhon",
+        "type": null,
+        "latitude": "17.16642110",
+        "longitude": "104.14860550",
+        "code": "47"
+    },
+    {
+        "name": "Samut Prakan",
+        "type": null,
+        "latitude": "13.59909610",
+        "longitude": "100.59983190",
+        "code": "11"
+    },
+    {
+        "name": "Samut Sakhon",
+        "type": null,
+        "latitude": "13.54752160",
+        "longitude": "100.27439560",
+        "code": "74"
+    },
+    {
+        "name": "Samut Songkhram",
+        "type": null,
+        "latitude": "13.40982170",
+        "longitude": "100.00226450",
+        "code": "75"
+    },
+    {
+        "name": "Saraburi",
+        "type": null,
+        "latitude": "14.52891540",
+        "longitude": "100.91014210",
+        "code": "19"
+    },
+    {
+        "name": "Satun",
+        "type": null,
+        "latitude": "6.62381580",
+        "longitude": "100.06737440",
+        "code": "91"
+    },
+    {
+        "name": "Si Sa Ket",
+        "type": null,
+        "latitude": "15.11860090",
+        "longitude": "104.32200950",
+        "code": "33"
+    },
+    {
+        "name": "Sing Buri",
+        "type": null,
+        "latitude": "14.89362530",
+        "longitude": "100.39673140",
+        "code": "17"
+    },
+    {
+        "name": "Songkhla",
+        "type": null,
+        "latitude": "7.18976590",
+        "longitude": "100.59538130",
+        "code": "90"
+    },
+    {
+        "name": "Sukhothai",
+        "type": null,
+        "latitude": "43.64855560",
+        "longitude": "-79.37466390",
+        "code": "64"
+    },
+    {
+        "name": "Suphan Buri",
+        "type": null,
+        "latitude": "14.47448920",
+        "longitude": "100.11771280",
+        "code": "72"
+    },
+    {
+        "name": "Surat Thani",
+        "type": null,
+        "latitude": "9.13419490",
+        "longitude": "99.33341980",
+        "code": "84"
+    },
+    {
+        "name": "Surin",
+        "type": null,
+        "latitude": "37.03582710",
+        "longitude": "-95.62763670",
+        "code": "32"
+    },
+    {
+        "name": "Tak",
+        "type": null,
+        "latitude": "45.02996460",
+        "longitude": "-93.10498150",
+        "code": "63"
+    },
+    {
+        "name": "Trang",
+        "type": null,
+        "latitude": "7.56448330",
+        "longitude": "99.62393340",
+        "code": "92"
+    },
+    {
+        "name": "Trat",
+        "type": null,
+        "latitude": "12.24275630",
+        "longitude": "102.51747340",
+        "code": "23"
+    },
+    {
+        "name": "Ubon Ratchathani",
+        "type": null,
+        "latitude": "15.24484530",
+        "longitude": "104.84729950",
+        "code": "34"
+    },
+    {
+        "name": "Udon Thani",
+        "type": null,
+        "latitude": "17.36469690",
+        "longitude": "102.81589240",
+        "code": "41"
+    },
+    {
+        "name": "Uthai Thani",
+        "type": null,
+        "latitude": "15.38350010",
+        "longitude": "100.02455270",
+        "code": "61"
+    },
+    {
+        "name": "Uttaradit",
+        "type": null,
+        "latitude": "17.62008860",
+        "longitude": "100.09929420",
+        "code": "53"
+    },
+    {
+        "name": "Yala",
+        "type": null,
+        "latitude": "44.05791170",
+        "longitude": "-123.16538480",
+        "code": "95"
+    },
+    {
+        "name": "Yasothon",
+        "type": null,
+        "latitude": "15.79264100",
+        "longitude": "104.14528270",
+        "code": "35"
+    }
+]

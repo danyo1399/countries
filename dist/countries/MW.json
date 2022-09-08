@@ -200,36 +200,216 @@
             33.78
         ]
     },
-    "provinces": [
-        "Balaka District",
-        "Blantyre District",
-        "Central Region",
-        "Chikwawa District",
-        "Chiradzulu District",
-        "Chitipa district",
-        "Dedza District",
-        "Dowa District",
-        "Karonga District",
-        "Kasungu District",
-        "Likoma District",
-        "Lilongwe District",
-        "Machinga District",
-        "Mangochi District",
-        "Mchinji District",
-        "Mulanje District",
-        "Mwanza District",
-        "Mzimba District",
-        "Nkhata Bay District",
-        "Nkhotakota District",
-        "Northern Region",
-        "Nsanje District",
-        "Ntcheu District",
-        "Ntchisi District",
-        "Phalombe District",
-        "Rumphi District",
-        "Salima District",
-        "Southern Region",
-        "Thyolo District",
-        "Zomba District"
+    "states": [
+        {
+            "name": "Balaka District",
+            "type": null,
+            "latitude": "-15.05065950",
+            "longitude": "35.08285880",
+            "code": "BA"
+        },
+        {
+            "name": "Blantyre District",
+            "type": null,
+            "latitude": "-15.67785410",
+            "longitude": "34.95066250",
+            "code": "BL"
+        },
+        {
+            "name": "Central Region",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "C"
+        },
+        {
+            "name": "Chikwawa District",
+            "type": null,
+            "latitude": "-16.19584460",
+            "longitude": "34.77407930",
+            "code": "CK"
+        },
+        {
+            "name": "Chiradzulu District",
+            "type": null,
+            "latitude": "-15.74231510",
+            "longitude": "35.25879640",
+            "code": "CR"
+        },
+        {
+            "name": "Chitipa district",
+            "type": null,
+            "latitude": "-9.70376550",
+            "longitude": "33.27002530",
+            "code": "CT"
+        },
+        {
+            "name": "Dedza District",
+            "type": null,
+            "latitude": "-14.18945850",
+            "longitude": "34.24215970",
+            "code": "DE"
+        },
+        {
+            "name": "Dowa District",
+            "type": null,
+            "latitude": "-13.60412560",
+            "longitude": "33.88577470",
+            "code": "DO"
+        },
+        {
+            "name": "Karonga District",
+            "type": null,
+            "latitude": "-9.90363650",
+            "longitude": "33.97500180",
+            "code": "KR"
+        },
+        {
+            "name": "Kasungu District",
+            "type": null,
+            "latitude": "-13.13670650",
+            "longitude": "33.25879300",
+            "code": "KS"
+        },
+        {
+            "name": "Likoma District",
+            "type": null,
+            "latitude": "-12.05840050",
+            "longitude": "34.73540310",
+            "code": "LK"
+        },
+        {
+            "name": "Lilongwe District",
+            "type": null,
+            "latitude": "-14.04752280",
+            "longitude": "33.61757700",
+            "code": "LI"
+        },
+        {
+            "name": "Machinga District",
+            "type": null,
+            "latitude": "-14.94072630",
+            "longitude": "35.47819260",
+            "code": "MH"
+        },
+        {
+            "name": "Mangochi District",
+            "type": null,
+            "latitude": "-14.13882480",
+            "longitude": "35.03881640",
+            "code": "MG"
+        },
+        {
+            "name": "Mchinji District",
+            "type": null,
+            "latitude": "-13.74015250",
+            "longitude": "32.98883190",
+            "code": "MC"
+        },
+        {
+            "name": "Mulanje District",
+            "type": null,
+            "latitude": "-15.93464340",
+            "longitude": "35.52200120",
+            "code": "MU"
+        },
+        {
+            "name": "Mwanza District",
+            "type": null,
+            "latitude": "-2.46711970",
+            "longitude": "32.89868120",
+            "code": "MW"
+        },
+        {
+            "name": "Mzimba District",
+            "type": null,
+            "latitude": "-11.74754520",
+            "longitude": "33.52800720",
+            "code": "MZ"
+        },
+        {
+            "name": "Nkhata Bay District",
+            "type": null,
+            "latitude": "-11.71850420",
+            "longitude": "34.33103640",
+            "code": "NB"
+        },
+        {
+            "name": "Nkhotakota District",
+            "type": null,
+            "latitude": "-12.75419610",
+            "longitude": "34.24215970",
+            "code": "NK"
+        },
+        {
+            "name": "Northern Region",
+            "type": null,
+            "latitude": null,
+            "longitude": null,
+            "code": "N"
+        },
+        {
+            "name": "Nsanje District",
+            "type": null,
+            "latitude": "-16.72882020",
+            "longitude": "35.17087410",
+            "code": "NS"
+        },
+        {
+            "name": "Ntcheu District",
+            "type": null,
+            "latitude": "-14.90375380",
+            "longitude": "34.77407930",
+            "code": "NU"
+        },
+        {
+            "name": "Ntchisi District",
+            "type": null,
+            "latitude": "-13.28419920",
+            "longitude": "33.88577470",
+            "code": "NI"
+        },
+        {
+            "name": "Phalombe District",
+            "type": null,
+            "latitude": "-15.70920380",
+            "longitude": "35.65328480",
+            "code": "PH"
+        },
+        {
+            "name": "Rumphi District",
+            "type": null,
+            "latitude": "-10.78515370",
+            "longitude": "34.33103640",
+            "code": "RU"
+        },
+        {
+            "name": "Salima District",
+            "type": null,
+            "latitude": "-13.68095860",
+            "longitude": "34.41982430",
+            "code": "SA"
+        },
+        {
+            "name": "Southern Region",
+            "type": null,
+            "latitude": "32.75049570",
+            "longitude": "-97.33154760",
+            "code": "S"
+        },
+        {
+            "name": "Thyolo District",
+            "type": null,
+            "latitude": "-16.12991770",
+            "longitude": "35.12687810",
+            "code": "TH"
+        },
+        {
+            "name": "Zomba District",
+            "type": null,
+            "latitude": "-15.37658570",
+            "longitude": "35.33565180",
+            "code": "ZO"
+        }
     ]
 }
