@@ -352,8 +352,8 @@
     {
         "name": "Lazio",
         "type": "region",
-        "latitude": "45.69916670",
-        "longitude": "-73.65583330",
+        "latitude": "41.81224100",
+        "longitude": "12.73851000",
         "code": "62"
     },
     {
@@ -422,8 +422,8 @@
     {
         "name": "Marche",
         "type": "region",
-        "latitude": "30.55670700",
-        "longitude": "-81.44930300",
+        "latitude": "43.30456200",
+        "longitude": "13.71947000",
         "code": "57"
     },
     {

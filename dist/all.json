@@ -139,6 +139,10 @@
                 "official": "Islamiska republiken Afghanistan",
                 "common": "Afghanistan"
             },
+            "tur": {
+                "official": "Afganistan İslam Cumhuriyeti",
+                "common": "Afganistan"
+            },
             "urd": {
                 "official": "اسلامی جمہوریہ افغانستان",
                 "common": "افغانستان"
@@ -571,6 +575,10 @@
             "swe": {
                 "official": "Republiken Albanien",
                 "common": "Albanien"
+            },
+            "tur": {
+                "official": "Arnavutluk Cumhuriyeti",
+                "common": "Arnavutluk"
             },
             "urd": {
                 "official": "جمہوریہ البانیا",
@@ -1103,6 +1111,10 @@
             "swe": {
                 "official": "Demokratiska folkrepubliken Algeriet",
                 "common": "Algeriet"
+            },
+            "tur": {
+                "official": "Cezayir Demokratik Halk Cumhuriyeti",
+                "common": "Cezayir"
             },
             "urd": {
                 "official": "عوامی جمہوری جمہوریہ الجزائر",
@@ -1725,6 +1737,10 @@
                 "official": "Amerikanska Samoa",
                 "common": "Amerikanska Samoa"
             },
+            "tur": {
+                "official": "Amerikan Samoası",
+                "common": "Amerikan Samoası"
+            },
             "urd": {
                 "official": "امریکی سمووا",
                 "common": "امریکی سمووا"
@@ -1911,6 +1927,10 @@
             },
             "swe": {
                 "official": "Furstendömet Andorra",
+                "common": "Andorra"
+            },
+            "tur": {
+                "official": "Andorra Prensliği",
                 "common": "Andorra"
             },
             "urd": {
@@ -2161,6 +2181,10 @@
             },
             "swe": {
                 "official": "Republiken Angola",
+                "common": "Angola"
+            },
+            "tur": {
+                "official": "Angola Cumhuriyeti",
                 "common": "Angola"
             },
             "urd": {
@@ -2481,6 +2505,10 @@
                 "official": "Anguilla",
                 "common": "Anguilla"
             },
+            "tur": {
+                "official": "Anguilla",
+                "common": "Anguilla"
+            },
             "urd": {
                 "official": "اینگویلا",
                 "common": "اینگویلا"
@@ -2644,6 +2672,10 @@
             "swe": {
                 "official": "Antarktis",
                 "common": "Antarktis"
+            },
+            "tur": {
+                "official": "Antarktika",
+                "common": "Antarktika"
             },
             "urd": {
                 "official": "انٹارکٹکا",
@@ -2834,6 +2866,10 @@
             "swe": {
                 "official": "Antigua och Barbuda",
                 "common": "Antigua och Barbuda"
+            },
+            "tur": {
+                "official": "Antigua ve Barbuda",
+                "common": "Antigua ve Barbuda"
             },
             "urd": {
                 "official": "اینٹیگوا و باربوڈا",
@@ -3088,6 +3124,10 @@
             "swe": {
                 "official": "Republiken Argentina",
                 "common": "Argentina"
+            },
+            "tur": {
+                "official": "Arjantin Cumhuriyeti",
+                "common": "Arjantin"
             },
             "urd": {
                 "official": "جمہوریہ ارجنٹائن",
@@ -3465,6 +3505,10 @@
                 "official": "Republiken Armenien",
                 "common": "Armenien"
             },
+            "tur": {
+                "official": "Ermenistan Cumhuriyeti",
+                "common": "Ermenistan"
+            },
             "urd": {
                 "official": "جمہوریہ آرمینیا",
                 "common": "آرمینیا"
@@ -3751,6 +3795,10 @@
                 "official": "Aruba",
                 "common": "Aruba"
             },
+            "tur": {
+                "official": "Aruba",
+                "common": "Aruba"
+            },
             "urd": {
                 "official": "اروبا",
                 "common": "اروبا"
@@ -3936,6 +3984,10 @@
             "swe": {
                 "official": "Australiska statsförbundet",
                 "common": "Australien"
+            },
+            "tur": {
+                "official": "Avustralya Federal Devleti",
+                "common": "Avustralya"
             },
             "urd": {
                 "official": "دولتِ مشترکہ آسٹریلیا",
@@ -4199,6 +4251,10 @@
             "swe": {
                 "official": "Republiken Österrike",
                 "common": "Österrike"
+            },
+            "tur": {
+                "official": "Avusturya Cumhuriyeti",
+                "common": "Avusturya"
             },
             "urd": {
                 "official": "جمہوریہ آسٹریا",
@@ -4477,6 +4533,10 @@
             "swe": {
                 "official": "Republiken Azerbajdzjan",
                 "common": "Azerbajdzjan"
+            },
+            "tur": {
+                "official": "Azerbaycan Cumhuriyeti",
+                "common": "Azerbaycan"
             },
             "urd": {
                 "official": "جمہوریہ آذربائیجان",
@@ -5213,6 +5273,10 @@
                 "official": "Samväldet Bahamas",
                 "common": "Bahamas"
             },
+            "tur": {
+                "official": "Bahama Milletler Topluluğu",
+                "common": "Bahamalar"
+            },
             "urd": {
                 "official": "دولتِ مشترکہ بہاماس",
                 "common": "بہاماس"
@@ -5700,6 +5764,10 @@
                 "official": "Konungariket Bahrain",
                 "common": "Bahrain"
             },
+            "tur": {
+                "official": "Bahreyn Krallığı",
+                "common": "Bahreyn"
+            },
             "urd": {
                 "official": "مملکتِ بحرین",
                 "common": "بحرین"
@@ -5932,6 +6000,10 @@
                 "official": "Folkrepubliken Bangladesh",
                 "common": "Bangladesh"
             },
+            "tur": {
+                "official": "Bangladeş Halk Cumhuriyeti",
+                "common": "Bangladeş"
+            },
             "urd": {
                 "official": "عوامی جمہوریہ بنگلہ دیش",
                 "common": "بنگلہ دیش"
@@ -6005,7 +6077,7 @@
         "states": [
             {
                 "name": "Bagerhat District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.66024360",
                 "longitude": "89.78954780",
                 "code": "05"
@@ -6019,476 +6091,476 @@
             },
             {
                 "name": "Bandarban District",
-                "type": null,
+                "type": "district",
                 "latitude": "21.83110020",
                 "longitude": "92.36863210",
                 "code": "01"
             },
             {
                 "name": "Barguna District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.09529150",
                 "longitude": "90.11206960",
                 "code": "02"
             },
             {
                 "name": "Barisal District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.70220980",
                 "longitude": "90.36963160",
                 "code": "06"
             },
             {
                 "name": "Barisal Division",
-                "type": null,
+                "type": "division",
                 "latitude": "22.38111310",
                 "longitude": "90.33718890",
                 "code": "A"
             },
             {
                 "name": "Bhola District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.17853150",
                 "longitude": "90.71010230",
                 "code": "07"
             },
             {
                 "name": "Bogra District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.85104020",
                 "longitude": "89.36972250",
                 "code": "03"
             },
             {
                 "name": "Brahmanbaria District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.96081810",
                 "longitude": "91.11150140",
                 "code": "04"
             },
             {
                 "name": "Chandpur District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.25131480",
                 "longitude": "90.85178460",
                 "code": "09"
             },
             {
                 "name": "Chapai Nawabganj District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.74131110",
                 "longitude": "88.29120690",
                 "code": "45"
             },
             {
                 "name": "Chittagong District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.51501050",
                 "longitude": "91.75388170",
                 "code": "10"
             },
             {
                 "name": "Chittagong Division",
-                "type": null,
+                "type": "division",
                 "latitude": "23.17931570",
                 "longitude": "91.98815270",
                 "code": "B"
             },
             {
                 "name": "Chuadanga District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.61605120",
                 "longitude": "88.82630060",
                 "code": "12"
             },
             {
                 "name": "Comilla District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.45756670",
                 "longitude": "91.18089960",
                 "code": "08"
             },
             {
                 "name": "Cox's Bazar District",
-                "type": null,
+                "type": "district",
                 "latitude": "21.56406260",
                 "longitude": "92.02821290",
                 "code": "11"
             },
             {
                 "name": "Dhaka District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.81051400",
                 "longitude": "90.33718890",
                 "code": "13"
             },
             {
                 "name": "Dhaka Division",
-                "type": null,
+                "type": "division",
                 "latitude": "23.95357420",
                 "longitude": "90.14949880",
                 "code": "C"
             },
             {
                 "name": "Dinajpur District",
-                "type": null,
+                "type": "district",
                 "latitude": "25.62791230",
                 "longitude": "88.63317580",
                 "code": "14"
             },
             {
                 "name": "Faridpur District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.54239190",
                 "longitude": "89.63089210",
                 "code": "15"
             },
             {
                 "name": "Feni District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.94087840",
                 "longitude": "91.40666460",
                 "code": "16"
             },
             {
                 "name": "Gaibandha District",
-                "type": null,
+                "type": "district",
                 "latitude": "25.32969280",
                 "longitude": "89.54296520",
                 "code": "19"
             },
             {
                 "name": "Gazipur District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.09581710",
                 "longitude": "90.41251810",
                 "code": "18"
             },
             {
                 "name": "Gopalganj District",
-                "type": null,
+                "type": "district",
                 "latitude": "26.48315840",
                 "longitude": "84.43655000",
                 "code": "17"
             },
             {
                 "name": "Habiganj District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.47712360",
                 "longitude": "91.45065650",
                 "code": "20"
             },
             {
                 "name": "Jamalpur District",
-                "type": null,
+                "type": "district",
                 "latitude": "25.08309260",
                 "longitude": "89.78532180",
                 "code": "21"
             },
             {
                 "name": "Jessore District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.16340140",
                 "longitude": "89.21816640",
                 "code": "22"
             },
             {
                 "name": "Jhalokati District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.57208000",
                 "longitude": "90.18696440",
                 "code": "25"
             },
             {
                 "name": "Jhenaidah District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.54498730",
                 "longitude": "89.17260310",
                 "code": "23"
             },
             {
                 "name": "Joypurhat District",
-                "type": null,
+                "type": "district",
                 "latitude": "25.09473490",
                 "longitude": "89.09449370",
                 "code": "24"
             },
             {
                 "name": "Khagrachari District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.13217510",
                 "longitude": "91.94902100",
                 "code": "29"
             },
             {
                 "name": "Khulna District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.67377350",
                 "longitude": "89.39665810",
                 "code": "27"
             },
             {
                 "name": "Khulna Division",
-                "type": null,
+                "type": "division",
                 "latitude": "22.80878160",
                 "longitude": "89.24671910",
                 "code": "D"
             },
             {
                 "name": "Kishoreganj District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.42604570",
                 "longitude": "90.98206680",
                 "code": "26"
             },
             {
                 "name": "Kurigram District",
-                "type": null,
+                "type": "district",
                 "latitude": "25.80724140",
                 "longitude": "89.62947460",
                 "code": "28"
             },
             {
                 "name": "Kushtia District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.89069950",
                 "longitude": "89.10993680",
                 "code": "30"
             },
             {
                 "name": "Lakshmipur District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.94467440",
                 "longitude": "90.82819070",
                 "code": "31"
             },
             {
                 "name": "Lalmonirhat District",
-                "type": null,
+                "type": "district",
                 "latitude": "25.99233980",
                 "longitude": "89.28472510",
                 "code": "32"
             },
             {
                 "name": "Madaripur District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.23933460",
                 "longitude": "90.18696440",
                 "code": "36"
             },
             {
                 "name": "Meherpur District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.80519910",
                 "longitude": "88.67235780",
                 "code": "39"
             },
             {
                 "name": "Moulvibazar District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.30953440",
                 "longitude": "91.73149030",
                 "code": "38"
             },
             {
                 "name": "Munshiganj District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.49809310",
                 "longitude": "90.41266210",
                 "code": "35"
             },
             {
                 "name": "Mymensingh District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.75385750",
                 "longitude": "90.40729190",
                 "code": "34"
             },
             {
                 "name": "Mymensingh Division",
-                "type": null,
+                "type": "division",
                 "latitude": "24.71362000",
                 "longitude": "90.45023680",
                 "code": "H"
             },
             {
                 "name": "Naogaon District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.91315970",
                 "longitude": "88.75309520",
                 "code": "48"
             },
             {
                 "name": "Narail District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.11629290",
                 "longitude": "89.58404040",
                 "code": "43"
             },
             {
                 "name": "Narayanganj District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.71466010",
                 "longitude": "90.56360900",
                 "code": "40"
             },
             {
                 "name": "Natore District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.41024300",
                 "longitude": "89.00761770",
                 "code": "44"
             },
             {
                 "name": "Netrokona District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.81032840",
                 "longitude": "90.86564150",
                 "code": "41"
             },
             {
                 "name": "Nilphamari District",
-                "type": null,
+                "type": "district",
                 "latitude": "25.84827980",
                 "longitude": "88.94141340",
                 "code": "46"
             },
             {
                 "name": "Noakhali District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.87237890",
                 "longitude": "91.09731840",
                 "code": "47"
             },
             {
                 "name": "Pabna District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.15850500",
                 "longitude": "89.44807180",
                 "code": "49"
             },
             {
                 "name": "Panchagarh District",
-                "type": null,
+                "type": "district",
                 "latitude": "26.27087050",
                 "longitude": "88.59517510",
                 "code": "52"
             },
             {
                 "name": "Patuakhali District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.22486320",
                 "longitude": "90.45475030",
                 "code": "51"
             },
             {
                 "name": "Pirojpur District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.57907440",
                 "longitude": "89.97592640",
                 "code": "50"
             },
             {
                 "name": "Rajbari District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.71513400",
                 "longitude": "89.58748190",
                 "code": "53"
             },
             {
                 "name": "Rajshahi District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.37330870",
                 "longitude": "88.60487160",
                 "code": "54"
             },
             {
                 "name": "Rajshahi Division",
-                "type": null,
+                "type": "division",
                 "latitude": "24.71057760",
                 "longitude": "88.94138650",
                 "code": "E"
             },
             {
                 "name": "Rangamati Hill District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.73241730",
                 "longitude": "92.29851340",
                 "code": "56"
             },
             {
                 "name": "Rangpur District",
-                "type": null,
+                "type": "district",
                 "latitude": "25.74679250",
                 "longitude": "89.25083350",
                 "code": "55"
             },
             {
                 "name": "Rangpur Division",
-                "type": null,
+                "type": "division",
                 "latitude": "25.84833880",
                 "longitude": "88.94138650",
                 "code": "F"
             },
             {
                 "name": "Satkhira District",
-                "type": null,
+                "type": "district",
                 "latitude": "22.31548120",
                 "longitude": "89.11145250",
                 "code": "58"
             },
             {
                 "name": "Shariatpur District",
-                "type": null,
+                "type": "district",
                 "latitude": "23.24232140",
                 "longitude": "90.43477110",
                 "code": "62"
             },
             {
                 "name": "Sherpur District",
-                "type": null,
+                "type": "district",
                 "latitude": "25.07462350",
                 "longitude": "90.14949040",
                 "code": "57"
             },
             {
                 "name": "Sirajganj District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.31411150",
                 "longitude": "89.56996150",
                 "code": "59"
             },
             {
                 "name": "Sunamganj District",
-                "type": null,
+                "type": "district",
                 "latitude": "25.07145350",
                 "longitude": "91.39916270",
                 "code": "61"
             },
             {
                 "name": "Sylhet District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.89933570",
                 "longitude": "91.87004730",
                 "code": "60"
             },
             {
                 "name": "Sylhet Division",
-                "type": null,
+                "type": "division",
                 "latitude": "24.70498110",
                 "longitude": "91.67606910",
                 "code": "G"
             },
             {
                 "name": "Tangail District",
-                "type": null,
+                "type": "district",
                 "latitude": "24.39174270",
                 "longitude": "89.99482570",
                 "code": "63"
             },
             {
                 "name": "Thakurgaon District",
-                "type": null,
+                "type": "district",
                 "latitude": "26.04183920",
                 "longitude": "88.42826160",
                 "code": "64"
@@ -6621,6 +6693,10 @@
                 "common": "Barbados"
             },
             "swe": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
+            "tur": {
                 "official": "Barbados",
                 "common": "Barbados"
             },
@@ -6905,6 +6981,10 @@
                 "official": "Republiken Vitryssland",
                 "common": "Belarus"
             },
+            "tur": {
+                "official": "Belarus Cumhuriyeti",
+                "common": "Belarus"
+            },
             "urd": {
                 "official": "جمہوریہ بیلاروس",
                 "common": "بیلاروس"
@@ -7176,6 +7256,10 @@
             "swe": {
                 "official": "Konungariket Belgien",
                 "common": "Belgien"
+            },
+            "tur": {
+                "official": "Belçika Krallığı",
+                "common": "Belçika"
             },
             "urd": {
                 "official": "مملکتِ بلجئیم",
@@ -7482,6 +7566,10 @@
                 "official": "Belize",
                 "common": "Belize"
             },
+            "tur": {
+                "official": "Belize",
+                "common": "Belize"
+            },
             "urd": {
                 "official": "بیلیز",
                 "common": "بیلیز"
@@ -7722,6 +7810,10 @@
             },
             "swe": {
                 "official": "Republiken Benin",
+                "common": "Benin"
+            },
+            "tur": {
+                "official": "Benin Cumhuriyeti",
                 "common": "Benin"
             },
             "urd": {
@@ -8011,6 +8103,10 @@
                 "official": "Bermuda",
                 "common": "Bermuda"
             },
+            "tur": {
+                "official": "Bermuda",
+                "common": "Bermuda"
+            },
             "urd": {
                 "official": "برمودا",
                 "common": "برمودا"
@@ -8273,6 +8369,10 @@
             "swe": {
                 "official": "Konungariket Bhutan",
                 "common": "Bhutan"
+            },
+            "tur": {
+                "official": "Butan Krallığı",
+                "common": "Butan"
             },
             "urd": {
                 "official": "سلطنت بھوٹان",
@@ -8628,6 +8728,10 @@
                 "official": "Mångnationella staten Bolivia",
                 "common": "Bolivia"
             },
+            "tur": {
+                "official": "Bolivya Çokuluslu Devleti",
+                "common": "Bolivya"
+            },
             "urd": {
                 "official": "جمہوریہ بولیویا",
                 "common": "بولیویا"
@@ -8902,6 +9006,10 @@
             "swe": {
                 "official": "Bosnien och Hercegovina",
                 "common": "Bosnien och Hercegovina"
+            },
+            "tur": {
+                "official": "Bosna ve Hersek",
+                "common": "Bosna-Hersek"
             },
             "urd": {
                 "official": "بوسنیا و ہرزیگووینا",
@@ -9204,6 +9312,10 @@
                 "official": "Republiken Botswana",
                 "common": "Botswana"
             },
+            "tur": {
+                "official": "Botsvana Cumhuriyeti",
+                "common": "Botsvana"
+            },
             "urd": {
                 "official": "جمہوریہ بوٹسوانا",
                 "common": "بوٹسوانا"
@@ -9465,6 +9577,10 @@
                 "official": "Bouvetön",
                 "common": "Bouvetön"
             },
+            "tur": {
+                "official": "Bouvet Adası",
+                "common": "Bouvet Adası"
+            },
             "urd": {
                 "official": "جزیرہ بووہ",
                 "common": "جزیرہ بووہ"
@@ -9637,6 +9753,10 @@
             "swe": {
                 "official": "Förbundsrepubliken Brasilien",
                 "common": "Brasilien"
+            },
+            "tur": {
+                "official": "Brezilya Federal Cumhuriyeti",
+                "common": "Brezilya"
             },
             "urd": {
                 "official": "وفاقی جمہوریہ برازیل",
@@ -10039,6 +10159,10 @@
                 "official": "Brittiska territoriet i Indiska Oceanen",
                 "common": "Brittiska territoriet i Indiska Oceanen"
             },
+            "tur": {
+                "official": "Britanya Hint Okyanusu Toprakları",
+                "common": "Britanya Hint Okyanusu Toprakları"
+            },
             "urd": {
                 "official": "برطانوی بحرہند خطہ",
                 "common": "برطانوی بحرہند خطہ"
@@ -10220,6 +10344,10 @@
             "swe": {
                 "official": "Brittiska Jungfruöarna",
                 "common": "Brittiska Jungfruöarna"
+            },
+            "tur": {
+                "official": "Virjin Adaları",
+                "common": "Virjin Adaları"
             },
             "urd": {
                 "official": "برطانوی جزائر ورجن",
@@ -10411,6 +10539,10 @@
             },
             "swe": {
                 "official": "Brunei Darussalam",
+                "common": "Brunei"
+            },
+            "tur": {
+                "official": "Brunei Barış Ülkesi Devleti",
                 "common": "Brunei"
             },
             "urd": {
@@ -10640,6 +10772,10 @@
             "swe": {
                 "official": "Republiken Bulgarien",
                 "common": "Bulgarien"
+            },
+            "tur": {
+                "official": "Bulgaristan Cumhuriyeti",
+                "common": "Bulgaristan"
             },
             "urd": {
                 "official": "جمہوریہ بلغاریہ",
@@ -11039,6 +11175,10 @@
                 "common": "Burkina Faso"
             },
             "swe": {
+                "official": "Burkina Faso",
+                "common": "Burkina Faso"
+            },
+            "tur": {
                 "official": "Burkina Faso",
                 "common": "Burkina Faso"
             },
@@ -11651,6 +11791,10 @@
                 "official": "Republiken Burundi",
                 "common": "Burundi"
             },
+            "tur": {
+                "official": "Burundi Cumhuriyeti",
+                "common": "Burundi"
+            },
             "urd": {
                 "official": "جمہوریہ برونڈی",
                 "common": "برونڈی"
@@ -11980,6 +12124,10 @@
             "swe": {
                 "official": "Konungariket Kambodja",
                 "common": "Kambodja"
+            },
+            "tur": {
+                "official": "Kamboçya Krallığı",
+                "common": "Kamboçya"
             },
             "urd": {
                 "official": "مملکتِ کمبوڈیا",
@@ -12363,6 +12511,10 @@
                 "official": "Republiken Kamerun",
                 "common": "Kamerun"
             },
+            "tur": {
+                "official": "Kamerun Cumhuriyeti",
+                "common": "Kamerun"
+            },
             "urd": {
                 "official": "جمہوریہ کیمرون",
                 "common": "کیمرون"
@@ -12637,6 +12789,10 @@
                 "common": "Canadá"
             },
             "swe": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
+            "tur": {
                 "official": "Kanada",
                 "common": "Kanada"
             },
@@ -12938,6 +13094,10 @@
             "swe": {
                 "official": "Republiken Kap Verde",
                 "common": "Kap Verde"
+            },
+            "tur": {
+                "official": "Yeşil Burun Cumhuriyeti",
+                "common": "Yeşil Burun"
             },
             "urd": {
                 "official": "جمہوریہ کیپ ورڈی",
@@ -13304,6 +13464,10 @@
                 "official": "Bonaire, Sint Eustatius and Saba",
                 "common": "Karibiska Nederländerna"
             },
+            "tur": {
+                "official": "Karayip Hollandası",
+                "common": "Karayip Hollandası"
+            },
             "urd": {
                 "official": "بونایر، سینٹ ایوسٹائیس اور سابا",
                 "common": "کیریبین نیدرلینڈز"
@@ -13515,6 +13679,10 @@
                 "official": "Caymanöarna",
                 "common": "Caymanöarna"
             },
+            "tur": {
+                "official": "Cayman Adaları",
+                "common": "Cayman Adaları"
+            },
             "urd": {
                 "official": "جزائر کیمین",
                 "common": "جزائر کیمین"
@@ -13710,6 +13878,10 @@
             "swe": {
                 "official": "Centralafrikanska republiken",
                 "common": "Centralafrikanska republiken"
+            },
+            "tur": {
+                "official": "Orta Afrika Cumhuriyeti",
+                "common": "Orta Afrika Cumhuriyeti"
             },
             "urd": {
                 "official": "وسطی افریقی جمہوریہ",
@@ -14039,6 +14211,10 @@
             "swe": {
                 "official": "Republiken Tchad",
                 "common": "Tchad"
+            },
+            "tur": {
+                "official": "Çad Cumhuriyeti",
+                "common": "Çad"
             },
             "urd": {
                 "official": "جمہوریہ چاڈ",
@@ -14406,6 +14582,10 @@
                 "official": "Republiken Chile",
                 "common": "Chile"
             },
+            "tur": {
+                "official": "Şili Cumhuriyeti",
+                "common": "Şili"
+            },
             "urd": {
                 "official": "جمہوریہ چلی",
                 "common": "چلی"
@@ -14731,6 +14911,10 @@
             "swe": {
                 "official": "Folkrepubliken Kina",
                 "common": "Kina"
+            },
+            "tur": {
+                "official": "Çin Halk Cumhuriyeti",
+                "common": "Çin"
             },
             "urd": {
                 "official": "عوامی جمہوریہ چین",
@@ -15182,6 +15366,10 @@
                 "official": "Julön",
                 "common": "Julön"
             },
+            "tur": {
+                "official": "Christmas Adası",
+                "common": "Christmas Adası"
+            },
             "urd": {
                 "official": "ریاستِ جزیرہ کرسمس",
                 "common": "جزیرہ کرسمس"
@@ -15371,6 +15559,10 @@
                 "official": "Kokosöarna",
                 "common": "Kokosöarna"
             },
+            "tur": {
+                "official": "Cocos (Keeling) Adaları",
+                "common": "Cocos (Keeling) Adaları"
+            },
             "urd": {
                 "official": "جزائر (کیلنگ) کوکوس",
                 "common": "جزائر کوکوس"
@@ -15553,6 +15745,10 @@
             "swe": {
                 "official": "Republiken Colombia",
                 "common": "Colombia"
+            },
+            "tur": {
+                "official": "Kolombiya Cumhuriyeti",
+                "common": "Kolombiya"
             },
             "urd": {
                 "official": "جمہوریہ کولمبیا",
@@ -16000,6 +16196,10 @@
                 "official": "Unionen Komorerna",
                 "common": "Komorerna"
             },
+            "tur": {
+                "official": "Komorlar Birliği",
+                "common": "Komorlar"
+            },
             "urd": {
                 "official": "اتحاد القمری",
                 "common": "القمری"
@@ -16225,6 +16425,10 @@
                 "official": "Cooköarna",
                 "common": "Cooköarna"
             },
+            "tur": {
+                "official": "Cook Adaları",
+                "common": "Cook Adaları"
+            },
             "urd": {
                 "official": "جزائر کک",
                 "common": "جزائر کک"
@@ -16415,6 +16619,10 @@
             "swe": {
                 "official": "Republiken Costa Rica",
                 "common": "Costa Rica"
+            },
+            "tur": {
+                "official": "Kosta Rika Cumhuriyeti",
+                "common": "Kosta Rika"
             },
             "urd": {
                 "official": "جمہوریہ کوسٹاریکا",
@@ -16669,6 +16877,10 @@
             "swe": {
                 "official": "Republiken Kroatien",
                 "common": "Kroatien"
+            },
+            "tur": {
+                "official": "Hırvatistan Cumhuriyeti",
+                "common": "Hırvatistan"
             },
             "urd": {
                 "official": "جمہوریہ کرویئشا",
@@ -17028,6 +17240,10 @@
                 "official": "Republiken Kuba",
                 "common": "Kuba"
             },
+            "tur": {
+                "official": "Küba Cumhuriyeti",
+                "common": "Küba"
+            },
             "urd": {
                 "official": "جمہوریہ کیوبا",
                 "common": "کیوبا"
@@ -17341,6 +17557,10 @@
                 "official": "Curaçao",
                 "common": "Curaçao"
             },
+            "tur": {
+                "official": "Curaçao",
+                "common": "Curaçao"
+            },
             "urd": {
                 "official": "مملکتِ کیوراساؤ",
                 "common": "کیوراساؤ"
@@ -17539,6 +17759,10 @@
             "swe": {
                 "official": "Republiken Cypern",
                 "common": "Cypern"
+            },
+            "tur": {
+                "official": "Kıbrıs Cumhuriyeti",
+                "common": "Kıbrıs"
             },
             "urd": {
                 "official": "جمہوریہ قبرص",
@@ -17786,6 +18010,10 @@
             "swe": {
                 "official": "Republiken Tjeckien",
                 "common": "Tjeckien"
+            },
+            "tur": {
+                "official": "Çek Cumhuriyeti",
+                "common": "Çekya"
             },
             "urd": {
                 "official": "چيک جمہوريہ",
@@ -18645,6 +18873,10 @@
                 "official": "Demokratiska republiken Kongo",
                 "common": "Kongo-Kinshasa"
             },
+            "tur": {
+                "official": "Kongo Demokratik Cumhuriyeti",
+                "common": "Kongo Demokratik Cumhuriyeti"
+            },
             "urd": {
                 "official": "جمہوری جمہوریہ کانگو",
                 "common": "کانگو"
@@ -19036,6 +19268,10 @@
                 "official": "Konungariket Danmark",
                 "common": "Danmark"
             },
+            "tur": {
+                "official": "Danimarka Krallığı",
+                "common": "Danimarka"
+            },
             "urd": {
                 "official": "مملکتِ ڈنمارک",
                 "common": "ڈنمارک"
@@ -19287,6 +19523,10 @@
                 "official": "Republiken Djibouti",
                 "common": "Djibouti"
             },
+            "tur": {
+                "official": "Cibuti Cumhuriyeti",
+                "common": "Cibuti"
+            },
             "urd": {
                 "official": "جمہوریہ جبوتی",
                 "common": "جبوتی"
@@ -19530,6 +19770,10 @@
             "swe": {
                 "official": "Samväldet Dominica",
                 "common": "Dominica"
+            },
+            "tur": {
+                "official": "Dominika Topluluğu",
+                "common": "Dominika"
             },
             "urd": {
                 "official": "دولتِ مشترکہ ڈومینیکا",
@@ -19793,6 +20037,10 @@
             "swe": {
                 "official": "Dominikanska republiken",
                 "common": "Dominikanska republiken"
+            },
+            "tur": {
+                "official": "Dominik Cumhuriyeti",
+                "common": "Dominik Cumhuriyeti"
             },
             "urd": {
                 "official": "جمہوریہ ڈومینیکن",
@@ -20214,6 +20462,10 @@
                 "official": "Republiken Ecuador",
                 "common": "Ecuador"
             },
+            "tur": {
+                "official": "Ekvador Cumhuriyeti",
+                "common": "Ekvador"
+            },
             "urd": {
                 "official": "جمہوریہ ایکوڈور",
                 "common": "ایکواڈور"
@@ -20586,6 +20838,10 @@
             "swe": {
                 "official": "Arabrepubliken Egypten",
                 "common": "Egypten"
+            },
+            "tur": {
+                "official": "Mısır Arap Cumhuriyeti",
+                "common": "Mısır"
             },
             "urd": {
                 "official": "مصری عرب جمہوریہ",
@@ -20982,6 +21238,10 @@
                 "official": "Republiken El Salvador",
                 "common": "El Salvador"
             },
+            "tur": {
+                "official": "El Salvador Cumhuriyeti",
+                "common": "El Salvador"
+            },
             "urd": {
                 "official": "جمہوریہ ایل سیلواڈور",
                 "common": "ایل سیلواڈور"
@@ -21296,6 +21556,10 @@
                 "official": "Republiken Ekvatorialguinea",
                 "common": "Ekvatorialguinea"
             },
+            "tur": {
+                "official": "Ekvator Ginesi Cumhuriyeti",
+                "common": "Ekvator Ginesi"
+            },
             "urd": {
                 "official": "جمہوریہ استوائی گنی",
                 "common": "استوائی گنی"
@@ -21569,6 +21833,10 @@
                 "official": "Staten Eritrea",
                 "common": "Eritrea"
             },
+            "tur": {
+                "official": "Eritre Devleti",
+                "common": "Eritre"
+            },
             "urd": {
                 "official": "ریاستِ ارتریا",
                 "common": "ارتریا"
@@ -21809,6 +22077,10 @@
             "swe": {
                 "official": "Republiken Estland",
                 "common": "Estland"
+            },
+            "tur": {
+                "official": "Estonya Cumhuriyeti",
+                "common": "Estonya"
             },
             "urd": {
                 "official": "جمہوریہ اسٹونیا",
@@ -22132,6 +22404,10 @@
                 "official": "Konungariket Eswatini",
                 "common": "Swaziland"
             },
+            "tur": {
+                "official": "Esvatini Krallığı",
+                "common": "Esvatini"
+            },
             "urd": {
                 "official": "مملکتِ سوازی لینڈ",
                 "common": "سوازی لینڈ"
@@ -22361,6 +22637,10 @@
             "swe": {
                 "official": "Demokratiska förbundsrepubliken Etiopien",
                 "common": "Etiopien"
+            },
+            "tur": {
+                "official": "Etiyopya Federal Demokratik Cumhuriyeti",
+                "common": "Etiyopya"
             },
             "urd": {
                 "official": "وفاقی جمہوری جمہوریہ ایتھوپیا",
@@ -22646,6 +22926,10 @@
                 "official": "Falklandsöarna",
                 "common": "Falklandsöarna"
             },
+            "tur": {
+                "official": "Falkland (Malvina) Adaları",
+                "common": "Falkland (Malvina) Adaları"
+            },
             "urd": {
                 "official": "جزائر فاکلینڈ",
                 "common": "جزائر فاکلینڈ"
@@ -22843,6 +23127,10 @@
             "swe": {
                 "official": "Färöarna",
                 "common": "Färöarna"
+            },
+            "tur": {
+                "official": "Faroe Adaları",
+                "common": "Faroe Adaları"
             },
             "urd": {
                 "official": "جزائر فارو",
@@ -23049,6 +23337,10 @@
             },
             "swe": {
                 "official": "Republiken Fiji",
+                "common": "Fiji"
+            },
+            "tur": {
+                "official": "Fiji Cumhuriyeti",
                 "common": "Fiji"
             },
             "urd": {
@@ -23387,6 +23679,10 @@
                 "official": "Republiken Finland",
                 "common": "Finland"
             },
+            "tur": {
+                "official": "Finlandiya Cumhuriyeti",
+                "common": "Finlandiya"
+            },
             "urd": {
                 "official": "جمہوریہ فن لینڈ",
                 "common": "فن لینڈ"
@@ -23724,6 +24020,10 @@
             "swe": {
                 "official": "Republiken Frankrike",
                 "common": "Frankrike"
+            },
+            "tur": {
+                "official": "Fransa Cumhuriyeti",
+                "common": "Fransa"
             },
             "urd": {
                 "official": "جمہوریہ فرانس",
@@ -24808,6 +25108,10 @@
                 "official": "Franska Guyana",
                 "common": "Franska Guyana"
             },
+            "tur": {
+                "official": "Fransız Guyanası",
+                "common": "Fransız Guyanası"
+            },
             "urd": {
                 "official": "گیانا",
                 "common": "فرانسیسی گیانا"
@@ -25006,6 +25310,10 @@
                 "official": "Franska Polynesien",
                 "common": "Franska Polynesien"
             },
+            "tur": {
+                "official": "Fransız Polinezyası",
+                "common": "Fransız Polinezyası"
+            },
             "urd": {
                 "official": "فرانسیسی پولینیشیا",
                 "common": "فرانسیسی پولینیشیا"
@@ -25199,6 +25507,10 @@
                 "official": "Franska syd- och Antarktisterritorierna",
                 "common": "Franska södra territorierna"
             },
+            "tur": {
+                "official": "Fransız Güney ve Antarktika Toprakları",
+                "common": "Fransız Güney ve Antarktika Toprakları"
+            },
             "urd": {
                 "official": "سرزمینِ جنوبی فرانسیسیہ و انٹارکٹیکہ",
                 "common": "سرزمین جنوبی فرانسیسیہ و انٹارکٹیکا"
@@ -25389,6 +25701,10 @@
                 "official": "Republiken Gabon",
                 "common": "Gabon"
             },
+            "tur": {
+                "official": "Gabon Cumhuriyeti",
+                "common": "Gabon"
+            },
             "urd": {
                 "official": "جمہوریہ گیبون",
                 "common": "گیبون"
@@ -25421,8 +25737,8 @@
         },
         "flag": "🇬🇦",
         "maps": {
-            "googleMaps": "https://www.openstreetmap.org/relation/192793",
-            "openStreetMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6"
+            "googleMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192793"
         },
         "population": 2225728,
         "gini": {
@@ -25651,6 +25967,10 @@
             "swe": {
                 "official": "Republiken Gambia",
                 "common": "Gambia"
+            },
+            "tur": {
+                "official": "Gambiya Cumhuriyeti",
+                "common": "Gambiya"
             },
             "urd": {
                 "official": "جمہوریہ گیمبیا",
@@ -25892,6 +26212,10 @@
                 "official": "Georgien",
                 "common": "Georgien"
             },
+            "tur": {
+                "official": "Gürcistan",
+                "common": "Gürcistan"
+            },
             "urd": {
                 "official": "جارجیا",
                 "common": "جارجیا"
@@ -25940,7 +26264,7 @@
             "side": "right"
         },
         "timezones": [
-            "UTC-04:00"
+            "UTC+04:00"
         ],
         "continents": [
             "Asia"
@@ -26195,6 +26519,10 @@
             "swe": {
                 "official": "Förbundsrepubliken Tyskland",
                 "common": "Tyskland"
+            },
+            "tur": {
+                "official": "Almanya Federal Cumhuriyeti",
+                "common": "Almanya"
             },
             "urd": {
                 "official": "وفاقی جمہوریہ جرمنی",
@@ -26517,6 +26845,10 @@
                 "official": "Republiken Ghana",
                 "common": "Ghana"
             },
+            "tur": {
+                "official": "Gana Cumhuriyeti",
+                "common": "Gana"
+            },
             "urd": {
                 "official": "جمہوریہ گھانا",
                 "common": "گھانا"
@@ -26827,6 +27159,10 @@
                 "official": "Gibraltar",
                 "common": "Gibraltar"
             },
+            "tur": {
+                "official": "Cebelitarık",
+                "common": "Cebelitarık"
+            },
             "urd": {
                 "official": "جبل الطارق",
                 "common": "جبل الطارق"
@@ -27021,6 +27357,10 @@
             "swe": {
                 "official": "Republiken Grekland",
                 "common": "Grekland"
+            },
+            "tur": {
+                "official": "Helen Cumhuriyeti",
+                "common": "Yunanistan"
             },
             "urd": {
                 "official": "جمہوریہ ہیلینیہ",
@@ -27492,6 +27832,10 @@
                 "official": "Grönland",
                 "common": "Grönland"
             },
+            "tur": {
+                "official": "Grönland",
+                "common": "Grönland"
+            },
             "urd": {
                 "official": "گرین لینڈ",
                 "common": "گرین لینڈ"
@@ -27684,6 +28028,10 @@
                 "common": "Grenada"
             },
             "swe": {
+                "official": "Grenada",
+                "common": "Grenada"
+            },
+            "tur": {
                 "official": "Grenada",
                 "common": "Grenada"
             },
@@ -27927,6 +28275,10 @@
                 "official": "Guadeloupe",
                 "common": "Guadeloupe"
             },
+            "tur": {
+                "official": "Guadeloupe",
+                "common": "Guadeloupe"
+            },
             "urd": {
                 "official": "گواڈیلوپ",
                 "common": "گواڈیلوپ"
@@ -28130,6 +28482,10 @@
                 "official": "Guam",
                 "common": "Guam"
             },
+            "tur": {
+                "official": "Guam Toprağı",
+                "common": "Guam"
+            },
             "urd": {
                 "official": "گوام",
                 "common": "گوام"
@@ -28317,6 +28673,10 @@
             },
             "swe": {
                 "official": "Republiken Guatemala",
+                "common": "Guatemala"
+            },
+            "tur": {
+                "official": "Guatemala Cumhuriyeti",
                 "common": "Guatemala"
             },
             "urd": {
@@ -28685,6 +29045,10 @@
                 "official": "Guernsey",
                 "common": "Guernsey"
             },
+            "tur": {
+                "official": "Guernsey Muhafızlığı",
+                "common": "Guernsey"
+            },
             "urd": {
                 "official": "گرنزی رودبار",
                 "common": "گرنزی"
@@ -28878,6 +29242,10 @@
             "swe": {
                 "official": "Republiken Guinea",
                 "common": "Guinea"
+            },
+            "tur": {
+                "official": "Gine Cumhuriyeti",
+                "common": "Gine"
             },
             "urd": {
                 "official": "جمہوریہ گنی",
@@ -29368,6 +29736,10 @@
                 "official": "Republiken Guinea-Bissau",
                 "common": "Guinea-Bissau"
             },
+            "tur": {
+                "official": "Gine-Bissau Cumhuriyeti",
+                "common": "Gine-Bissau"
+            },
             "urd": {
                 "official": "جمہوریہ گنی بساؤ",
                 "common": "گنی بساؤ"
@@ -29648,6 +30020,10 @@
                 "official": "Kooperativa republiken Guyana",
                 "common": "Guyana"
             },
+            "tur": {
+                "official": "Guyana Kooperatif Cumhuriyeti",
+                "common": "Guyana"
+            },
             "urd": {
                 "official": "تعاونی جمہوریہ گیانا",
                 "common": "گیانا"
@@ -29925,6 +30301,10 @@
                 "official": "Republiken Haiti",
                 "common": "Haiti"
             },
+            "tur": {
+                "official": "Haiti Cumhuriyeti",
+                "common": "Haiti"
+            },
             "urd": {
                 "official": "جمہوریہ ہیٹی",
                 "common": "ہیٹی"
@@ -30182,6 +30562,10 @@
                 "official": "Heard- och McDonaldöarna",
                 "common": "Heard- och McDonaldöarna"
             },
+            "tur": {
+                "official": "Heard Adası ve McDonald Adaları",
+                "common": "Heard Adası ve McDonald Adaları"
+            },
             "urd": {
                 "official": "جزیرہ ہرڈ و جزائر مکڈونلڈ",
                 "common": "جزیرہ ہرڈ و جزائر مکڈونلڈ"
@@ -30358,6 +30742,10 @@
             },
             "swe": {
                 "official": "Republiken Honduras",
+                "common": "Honduras"
+            },
+            "tur": {
+                "official": "Honduras Cumhuriyeti",
                 "common": "Honduras"
             },
             "urd": {
@@ -30695,6 +31083,10 @@
                 "official": "Hongkong",
                 "common": "Hongkong"
             },
+            "tur": {
+                "official": "Çin Halk Cumhuriyeti Hong Kong Özel İdari Bölgesi",
+                "common": "Hong Kong"
+            },
             "urd": {
                 "official": "ہانگ کانگ عوامی جمہوریہ چین کا خصوصی انتظامی علاقہ",
                 "common": "ہانگ کانگ"
@@ -31003,6 +31395,10 @@
             "swe": {
                 "official": "Ungern",
                 "common": "Ungern"
+            },
+            "tur": {
+                "official": "Macaristan",
+                "common": "Macaristan"
             },
             "urd": {
                 "official": "مجارستان",
@@ -31515,6 +31911,10 @@
                 "official": "Island",
                 "common": "Island"
             },
+            "tur": {
+                "official": "İzlanda",
+                "common": "İzlanda"
+            },
             "urd": {
                 "official": "آئس لینڈ",
                 "common": "آئس لینڈ"
@@ -31782,6 +32182,10 @@
             "swe": {
                 "official": "Republiken Indien",
                 "common": "Indien"
+            },
+            "tur": {
+                "official": "Hindistan Cumhuriyeti",
+                "common": "Hindistan"
             },
             "urd": {
                 "official": "جمہوریہ بھارت",
@@ -32243,6 +32647,10 @@
                 "official": "Republiken Indonesien",
                 "common": "Indonesien"
             },
+            "tur": {
+                "official": "Endonezya Cumhuriyeti",
+                "common": "Endonezya"
+            },
             "urd": {
                 "official": "جمہوریہ انڈونیشیا",
                 "common": "انڈونیشیا"
@@ -32686,6 +33094,10 @@
                 "official": "Islamiska republiken Iran",
                 "common": "Iran"
             },
+            "tur": {
+                "official": "İran İslam Cumhuriyeti",
+                "common": "İran"
+            },
             "urd": {
                 "official": "جمہوریہ ایران",
                 "common": "ایران"
@@ -32750,7 +33162,7 @@
             "png": "https://mainfacts.com/media/images/coats_of_arms/ir.png",
             "svg": "https://mainfacts.com/media/images/coats_of_arms/ir.svg"
         },
-        "startOfWeek": "turday",
+        "startOfWeek": "saturday",
         "capitalInfo": {
             "latlng": [
                 35.7,
@@ -33122,6 +33534,10 @@
                 "official": "Republiken Irak",
                 "common": "Irak"
             },
+            "tur": {
+                "official": "Irak Cumhuriyeti",
+                "common": "Irak"
+            },
             "urd": {
                 "official": "جمہوریہ عراق",
                 "common": "عراق"
@@ -33461,6 +33877,10 @@
             "swe": {
                 "official": "Irland",
                 "common": "Irland"
+            },
+            "tur": {
+                "official": "İrlanda Cumhuriyeti",
+                "common": "İrlanda"
             },
             "urd": {
                 "official": "جمہوریہ جزیرہ آئرلینڈ",
@@ -33873,6 +34293,10 @@
                 "official": "Isle of Man",
                 "common": "Isle of Man"
             },
+            "tur": {
+                "official": "Man Adası",
+                "common": "Man Adası"
+            },
             "urd": {
                 "official": "آئل آف مین",
                 "common": "آئل آف مین"
@@ -34067,6 +34491,10 @@
             "swe": {
                 "official": "Staten Israel",
                 "common": "Israel"
+            },
+            "tur": {
+                "official": "İsrail Devleti",
+                "common": "İsrail"
             },
             "urd": {
                 "official": "ریاستِ اسرائیل",
@@ -34316,6 +34744,10 @@
             "swe": {
                 "official": "Republiken Italien",
                 "common": "Italien"
+            },
+            "tur": {
+                "official": "İtalyan Cumhuriyeti",
+                "common": "İtalya"
             },
             "urd": {
                 "official": "جمہوریہ اطالیہ",
@@ -34745,8 +35177,8 @@
             {
                 "name": "Lazio",
                 "type": "region",
-                "latitude": "45.69916670",
-                "longitude": "-73.65583330",
+                "latitude": "41.81224100",
+                "longitude": "12.73851000",
                 "code": "62"
             },
             {
@@ -34815,8 +35247,8 @@
             {
                 "name": "Marche",
                 "type": "region",
-                "latitude": "30.55670700",
-                "longitude": "-81.44930300",
+                "latitude": "43.30456200",
+                "longitude": "13.71947000",
                 "code": "57"
             },
             {
@@ -35409,6 +35841,10 @@
                 "official": "Republiken Elfenbenskusten",
                 "common": "Elfenbenskusten"
             },
+            "tur": {
+                "official": "Fildişi Sahili",
+                "common": "Fildişi Sahili"
+            },
             "urd": {
                 "official": "جمہوریہ کوت دیواغ",
                 "common": "آئیوری کوسٹ"
@@ -35832,6 +36268,10 @@
                 "official": "Jamaica",
                 "common": "Jamaica"
             },
+            "tur": {
+                "official": "Jamaika",
+                "common": "Jamaika"
+            },
             "urd": {
                 "official": "جمیکا",
                 "common": "جمیکا"
@@ -36126,6 +36566,10 @@
             "swe": {
                 "official": "Japan",
                 "common": "Japan"
+            },
+            "tur": {
+                "official": "Japonya",
+                "common": "Japonya"
             },
             "urd": {
                 "official": "جاپان",
@@ -36670,6 +37114,10 @@
                 "official": "Jersey",
                 "common": "Jersey"
             },
+            "tur": {
+                "official": "Jersey",
+                "common": "Jersey"
+            },
             "urd": {
                 "official": "جرزی",
                 "common": "جرزی"
@@ -36864,6 +37312,10 @@
             "swe": {
                 "official": "Hashimitiska kungadömet Jordanien",
                 "common": "Jordanien"
+            },
+            "tur": {
+                "official": "Ürdün Hâşimi Krallığı",
+                "common": "Ürdün"
             },
             "urd": {
                 "official": "ھاشمی مملکتِ اردن",
@@ -37167,6 +37619,10 @@
             "swe": {
                 "official": "Republiken Kazakstan",
                 "common": "Kazakstan"
+            },
+            "tur": {
+                "official": "Kazakistan Cumhuriyeti",
+                "common": "Kazakistan"
             },
             "urd": {
                 "official": "جمہوریہ قازقستان",
@@ -37498,6 +37954,10 @@
             },
             "swe": {
                 "official": "Republiken Kenya",
+                "common": "Kenya"
+            },
+            "tur": {
+                "official": "Kenya Cumhuriyeti",
                 "common": "Kenya"
             },
             "urd": {
@@ -38045,6 +38505,10 @@
                 "official": "Republiken Kiribati",
                 "common": "Kiribati"
             },
+            "tur": {
+                "official": "Kiribati Cumhuriyeti",
+                "common": "Kiribati"
+            },
             "urd": {
                 "official": "سلطنت آزاد جمہوریہ کیریباتی",
                 "common": "کیریباتی"
@@ -38257,6 +38721,10 @@
             "swe": {
                 "official": "Republiken Kosovo",
                 "common": "Kosovo"
+            },
+            "tur": {
+                "official": "Kosova Cumhuriyeti",
+                "common": "Kosova"
             },
             "urd": {
                 "official": "جمہوریہ کوسووہ",
@@ -38509,6 +38977,10 @@
                 "official": "Staten Kuwait",
                 "common": "Kuwait"
             },
+            "tur": {
+                "official": "Kuveyt Devleti",
+                "common": "Kuveyt"
+            },
             "urd": {
                 "official": "دولتِ کویت",
                 "common": "کویت"
@@ -38758,6 +39230,10 @@
             "swe": {
                 "official": "Republiken Kirgizistan",
                 "common": "Kirgizistan"
+            },
+            "tur": {
+                "official": "Kırgızistan Cumhuriyeti",
+                "common": "Kırgızistan"
             },
             "urd": {
                 "official": "جمہوریہ کرغیزستان",
@@ -39027,6 +39503,10 @@
             },
             "swe": {
                 "official": "Demokratiska folkrepubliken Laos",
+                "common": "Laos"
+            },
+            "tur": {
+                "official": "Laos Demokratik Halk Cumhuriyeti",
                 "common": "Laos"
             },
             "urd": {
@@ -39368,6 +39848,10 @@
             "swe": {
                 "official": "Republiken Lettland",
                 "common": "Lettland"
+            },
+            "tur": {
+                "official": "Letonya Cumhuriyeti",
+                "common": "Letonya"
             },
             "urd": {
                 "official": "جمہوریہ لٹویا",
@@ -40406,6 +40890,10 @@
                 "official": "Republiken Libanon",
                 "common": "Libanon"
             },
+            "tur": {
+                "official": "Lübnan Cumhuriyeti",
+                "common": "Lübnan"
+            },
             "urd": {
                 "official": "جمہوریہ لبنان",
                 "common": "لبنان"
@@ -40673,6 +41161,10 @@
             },
             "swe": {
                 "official": "Konungariket Lesotho",
+                "common": "Lesotho"
+            },
+            "tur": {
+                "official": "Lesotho Krallığı",
                 "common": "Lesotho"
             },
             "urd": {
@@ -40946,6 +41438,10 @@
             "swe": {
                 "official": "Republiken Liberia",
                 "common": "Liberia"
+            },
+            "tur": {
+                "official": "Liberya Cumhuriyeti",
+                "common": "Liberya"
             },
             "urd": {
                 "official": "جمہوریہ لائبیریا",
@@ -41256,6 +41752,10 @@
             "swe": {
                 "official": "Staten Libyen",
                 "common": "Libyen"
+            },
+            "tur": {
+                "official": "Libya Devleti",
+                "common": "Libya"
             },
             "urd": {
                 "official": "ریاستِ لیبیا",
@@ -41605,6 +42105,10 @@
                 "official": "Furstendömet Liechtenstein",
                 "common": "Liechtenstein"
             },
+            "tur": {
+                "official": "Lihtenştayn Prensliği",
+                "common": "Lihtenştayn"
+            },
             "urd": {
                 "official": "امارات لیختینستائن",
                 "common": "لیختینستائن"
@@ -41882,6 +42386,10 @@
             "swe": {
                 "official": "Republiken Litauen",
                 "common": "Litauen"
+            },
+            "tur": {
+                "official": "Litvanya Cumhuriyeti",
+                "common": "Litvanya"
             },
             "urd": {
                 "official": "جمہوریہ لتھووینیا",
@@ -42584,6 +43092,10 @@
                 "official": "Storhertigdömet Luxemburg",
                 "common": "Luxemburg"
             },
+            "tur": {
+                "official": "Lüksemburg Büyük Dükalığı",
+                "common": "Lüksemburg"
+            },
             "urd": {
                 "official": "دوقیہ کبیرلکسمبرگ",
                 "common": "لکسمبرگ"
@@ -42898,6 +43410,10 @@
                 "official": "Macao",
                 "common": "Macao"
             },
+            "tur": {
+                "official": "Çin Halk Cumhuriyeti Makao Özel İdari Bölgesi",
+                "common": "Makao"
+            },
             "urd": {
                 "official": "مکاؤ عوامی جمہوریہ چین کا خصوصی انتظامی علاقہ",
                 "common": "مکاؤ"
@@ -43087,6 +43603,10 @@
             },
             "swe": {
                 "official": "Republiken Madagaskar",
+                "common": "Madagaskar"
+            },
+            "tur": {
+                "official": "Madagaskar Cumhuriyeti",
                 "common": "Madagaskar"
             },
             "urd": {
@@ -43334,6 +43854,10 @@
             "swe": {
                 "official": "Republiken Malawi",
                 "common": "Malawi"
+            },
+            "tur": {
+                "official": "Malavi Cumhuriyeti",
+                "common": "Malavi"
             },
             "urd": {
                 "official": "جمہوریہ ملاوی",
@@ -43749,6 +44273,10 @@
                 "official": "Malaysia",
                 "common": "Malaysia"
             },
+            "tur": {
+                "official": "Malezya",
+                "common": "Malezya"
+            },
             "urd": {
                 "official": "ملائیشیا",
                 "common": "ملائیشیا"
@@ -44066,6 +44594,10 @@
             "swe": {
                 "official": "Republiken Maldiverna",
                 "common": "Maldiverna"
+            },
+            "tur": {
+                "official": "Maldivler Cumhuriyeti",
+                "common": "Maldivler"
             },
             "urd": {
                 "official": "جمہوریہ مالدیپ",
@@ -44449,6 +44981,10 @@
                 "official": "Republiken Mali",
                 "common": "Mali"
             },
+            "tur": {
+                "official": "Mali Cumhuriyeti",
+                "common": "Mali"
+            },
             "urd": {
                 "official": "جمہوریہ مالی",
                 "common": "مالی"
@@ -44734,6 +45270,10 @@
             },
             "swe": {
                 "official": "Republiken Malta",
+                "common": "Malta"
+            },
+            "tur": {
+                "official": "Malta Cumhuriyeti",
                 "common": "Malta"
             },
             "urd": {
@@ -45410,6 +45950,10 @@
                 "official": "Republiken Marshallöarna",
                 "common": "Marshallöarna"
             },
+            "tur": {
+                "official": "Marshall Adaları Cumhuriyeti",
+                "common": "Marshall Adaları"
+            },
             "urd": {
                 "official": "جمہوریہ جزائر مارشل",
                 "common": "جزائر مارشل"
@@ -45613,6 +46157,10 @@
                 "official": "Martinique",
                 "common": "Martinique"
             },
+            "tur": {
+                "official": "Martinik",
+                "common": "Martinik"
+            },
             "urd": {
                 "official": "مارٹینیک",
                 "common": "مارٹینیک"
@@ -45806,6 +46354,10 @@
             "swe": {
                 "official": "Islamiska republiken Mauretanien",
                 "common": "Mauretanien"
+            },
+            "tur": {
+                "official": "Moritanya İslam Cumhuriyeti",
+                "common": "Moritanya"
             },
             "urd": {
                 "official": "اسلامی جمہوریہ موریتانیہ",
@@ -46124,6 +46676,10 @@
                 "official": "Republiken Mauritius",
                 "common": "Mauritius"
             },
+            "tur": {
+                "official": "Mauritius Cumhuriyeti",
+                "common": "Mauritius"
+            },
             "urd": {
                 "official": "جمہوریہ موریشس",
                 "common": "موریشس"
@@ -46438,6 +46994,10 @@
                 "official": "Departementsområdet Mayotte",
                 "common": "Mayotte"
             },
+            "tur": {
+                "official": "Mayotte",
+                "common": "Mayotte"
+            },
             "urd": {
                 "official": "مایوٹ",
                 "common": "مایوٹ"
@@ -46629,6 +47189,10 @@
             "swe": {
                 "official": "Mexikos förenta stater",
                 "common": "Mexiko"
+            },
+            "tur": {
+                "official": "Birleşik Meksika Devletleri",
+                "common": "Meksika"
             },
             "urd": {
                 "official": "ریاستہائے متحدہ میکسیکو",
@@ -47061,6 +47625,10 @@
                 "official": "Mikronesiska federationen",
                 "common": "Mikronesiska federationen"
             },
+            "tur": {
+                "official": "Mikronezya Federal Devletleri",
+                "common": "Mikronezya"
+            },
             "urd": {
                 "official": "ریاستہائے وفاقیہ مائکرونیشیا",
                 "common": "مائکرونیشیا"
@@ -47203,7 +47771,7 @@
         "region": "Europe",
         "subregion": "Eastern Europe",
         "languages": {
-            "ron": "Moldavian"
+            "ron": "Romanian"
         },
         "translations": {
             "ara": {
@@ -47289,6 +47857,10 @@
             "swe": {
                 "official": "Republiken Moldavien",
                 "common": "Moldavien"
+            },
+            "tur": {
+                "official": "Moldova Cumhuriyeti",
+                "common": "Moldova"
             },
             "urd": {
                 "official": "جمہوریہ مالدووا",
@@ -47746,6 +48318,10 @@
                 "official": "Furstendömet Monaco",
                 "common": "Monaco"
             },
+            "tur": {
+                "official": "Monako Prensliği",
+                "common": "Monako"
+            },
             "urd": {
                 "official": "جمہوریہ مناکو",
                 "common": "موناکو"
@@ -47963,6 +48539,10 @@
             "swe": {
                 "official": "Mongoliet",
                 "common": "Mongoliet"
+            },
+            "tur": {
+                "official": "Moğolistan",
+                "common": "Moğolistan"
             },
             "urd": {
                 "official": "منگولیا",
@@ -48314,6 +48894,10 @@
             "swe": {
                 "official": "Montenegro",
                 "common": "Montenegro"
+            },
+            "tur": {
+                "official": "Karadağ",
+                "common": "Karadağ"
             },
             "urd": {
                 "official": "مونٹینیگرو",
@@ -48673,6 +49257,10 @@
                 "official": "Montserrat",
                 "common": "Montserrat"
             },
+            "tur": {
+                "official": "Montserrat",
+                "common": "Montserrat"
+            },
             "urd": {
                 "official": "مانٹسریٹ",
                 "common": "مانٹسریٹ"
@@ -48869,6 +49457,10 @@
             "swe": {
                 "official": "Konungariket Marocko",
                 "common": "Marocko"
+            },
+            "tur": {
+                "official": "Fas Krallığı",
+                "common": "Fas"
             },
             "urd": {
                 "official": "مملکتِ مراکش",
@@ -49684,6 +50276,10 @@
                 "official": "Republiken Moçambique",
                 "common": "Moçambique"
             },
+            "tur": {
+                "official": "Mozambik Cumhuriyeti",
+                "common": "Mozambik"
+            },
             "urd": {
                 "official": "جمہوریہ موزمبیق",
                 "common": "موزمبیق"
@@ -49968,6 +50564,10 @@
             },
             "swe": {
                 "official": "Republiken Unionen Myanmar",
+                "common": "Myanmar"
+            },
+            "tur": {
+                "official": "Myanmar Birliği Cumhuriyeti",
                 "common": "Myanmar"
             },
             "urd": {
@@ -50326,6 +50926,10 @@
                 "official": "Republiken Namibia",
                 "common": "Namibia"
             },
+            "tur": {
+                "official": "Namibya Cumhuriyeti",
+                "common": "Namibya"
+            },
             "urd": {
                 "official": "جمہوریہ نمیبیا",
                 "common": "نمیبیا"
@@ -50633,6 +51237,10 @@
                 "official": "Republiken Nauru",
                 "common": "Nauru"
             },
+            "tur": {
+                "official": "Nauru Cumhuriyeti",
+                "common": "Nauru"
+            },
             "urd": {
                 "official": "جمہوریہ ناورو",
                 "common": "ناورو"
@@ -50924,6 +51532,10 @@
             },
             "swe": {
                 "official": "Demokratiska förbundsrepubliken Nepal",
+                "common": "Nepal"
+            },
+            "tur": {
+                "official": "Nepal Federal Demokratik Cumhuriyeti",
                 "common": "Nepal"
             },
             "urd": {
@@ -51264,6 +51876,10 @@
                 "official": "Nederländerna",
                 "common": "Nederländerna"
             },
+            "tur": {
+                "official": "Hollanda",
+                "common": "Hollanda"
+            },
             "urd": {
                 "official": "مملکتِ نیدرلینڈز",
                 "common": "نیدرلینڈز"
@@ -51571,6 +52187,10 @@
                 "official": "Nya Kaledonien",
                 "common": "Nya Kaledonien"
             },
+            "tur": {
+                "official": "Yeni Kaledonya",
+                "common": "Yeni Kaledonya"
+            },
             "urd": {
                 "official": "نیو کیلیڈونیا",
                 "common": "نیو کیلیڈونیا"
@@ -51774,6 +52394,10 @@
             "swe": {
                 "official": "Nya Zeeland",
                 "common": "Nya Zeeland"
+            },
+            "tur": {
+                "official": "Yeni Zelanda",
+                "common": "Yeni Zelanda"
             },
             "urd": {
                 "official": "نیوزی لینڈ",
@@ -52094,6 +52718,10 @@
             "swe": {
                 "official": "Republiken Nicaragua",
                 "common": "Nicaragua"
+            },
+            "tur": {
+                "official": "Nikaragua Cumhuriyeti",
+                "common": "Nikaragua"
             },
             "urd": {
                 "official": "جمہوریہ نکاراگوا",
@@ -52417,6 +53045,10 @@
                 "official": "Republiken Niger",
                 "common": "Niger"
             },
+            "tur": {
+                "official": "Nijer Cumhuriyeti",
+                "common": "Nijer"
+            },
             "urd": {
                 "official": "جمہوریہ نائجر",
                 "common": "نائجر"
@@ -52675,6 +53307,10 @@
             "swe": {
                 "official": "Förbundsrepubliken Nigeria",
                 "common": "Nigeria"
+            },
+            "tur": {
+                "official": "Nijerya Federal Cumhuriyeti",
+                "common": "Nijerya"
             },
             "urd": {
                 "official": "وفاقی جمہوریہ نائجیریا",
@@ -53143,6 +53779,10 @@
                 "official": "Niue",
                 "common": "Niue"
             },
+            "tur": {
+                "official": "Niue",
+                "common": "Niue"
+            },
             "urd": {
                 "official": "نیووے",
                 "common": "نیووے"
@@ -53333,6 +53973,10 @@
             "swe": {
                 "official": "Norfolkön",
                 "common": "Norfolkön"
+            },
+            "tur": {
+                "official": "Norfolk Adası",
+                "common": "Norfolk Adası"
             },
             "urd": {
                 "official": "جزیرہ نورفک خطہ",
@@ -53525,6 +54169,10 @@
             "swe": {
                 "official": "Demokratiska Folkrepubliken Korea",
                 "common": "Nordkorea"
+            },
+            "tur": {
+                "official": "Kore Demokratik Halk Cumhuriyeti",
+                "common": "Kuzey Kore"
             },
             "urd": {
                 "official": "جمہوری عوامی جمہوریہ کوریا",
@@ -53806,6 +54454,10 @@
             "swe": {
                 "official": "Republiken Nordmakedonien",
                 "common": "Nordmakedonien"
+            },
+            "tur": {
+                "official": "Kuzey Makedonya Cumhuriyeti",
+                "common": "Kuzey Makedonya"
             },
             "urd": {
                 "official": "جمہوریہ مقدونیہ",
@@ -54611,6 +55263,10 @@
                 "official": "Nordmarianerna",
                 "common": "Nordmarianerna"
             },
+            "tur": {
+                "official": "Kuzey Mariana Adaları Milletler Topluluğu",
+                "common": "Kuzey Mariana Adaları"
+            },
             "urd": {
                 "official": "دولتِ مشترکہ جزائر شمالی ماریانا",
                 "common": "جزائر شمالی ماریانا"
@@ -54810,6 +55466,10 @@
             "swe": {
                 "official": "Konungariket Norge",
                 "common": "Norge"
+            },
+            "tur": {
+                "official": "Norveç Krallığı",
+                "common": "Norveç"
             },
             "urd": {
                 "official": "مملکتِ ناروے",
@@ -55163,6 +55823,10 @@
                 "official": "Sultanatet Oman",
                 "common": "Oman"
             },
+            "tur": {
+                "official": "Umman Sultanlığı",
+                "common": "Umman"
+            },
             "urd": {
                 "official": "سلطنت عمان",
                 "common": "عمان"
@@ -55462,6 +56126,10 @@
                 "official": "Islamiska republiken Pakistan",
                 "common": "Pakistan"
             },
+            "tur": {
+                "official": "Pakistan İslam Cumhuriyeti",
+                "common": "Pakistan"
+            },
             "urd": {
                 "official": "اسلامی جمہوریہ پاکستان",
                 "common": "پاکستان"
@@ -55729,6 +56397,10 @@
                 "official": "Republiken Palau",
                 "common": "Palau"
             },
+            "tur": {
+                "official": "Palau Cumhuriyeti",
+                "common": "Palau"
+            },
             "urd": {
                 "official": "جمہوریہ پلاؤ",
                 "common": "پلاؤ"
@@ -55949,7 +56621,8 @@
             ]
         },
         "capital": [
-            "Ramallah"
+            "Ramallah",
+            "Jerusalem"
         ],
         "altSpellings": [
             "PS",
@@ -56046,6 +56719,10 @@
             "swe": {
                 "official": "Palestina",
                 "common": "Palestina"
+            },
+            "tur": {
+                "official": "Filistin Devleti",
+                "common": "Filistin"
             },
             "urd": {
                 "official": "ریاستِ فلسطین",
@@ -56248,6 +56925,10 @@
             },
             "swe": {
                 "official": "Republiken Panama",
+                "common": "Panama"
+            },
+            "tur": {
+                "official": "Panama Cumhuriyeti",
                 "common": "Panama"
             },
             "urd": {
@@ -56550,6 +57231,10 @@
             "swe": {
                 "official": "Den oberoende staten Papua Nya Guinea",
                 "common": "Papua Nya Guinea"
+            },
+            "tur": {
+                "official": "Papua Yeni Gine Bağımsız Devleti",
+                "common": "Papua Yeni Gine"
             },
             "urd": {
                 "official": "آزاد ریاستِ پاپوا نیو گنی",
@@ -56907,6 +57592,10 @@
                 "official": "Republiken Paraguay",
                 "common": "Paraguay"
             },
+            "tur": {
+                "official": "Paraguay Cumhuriyeti",
+                "common": "Paraguay"
+            },
             "urd": {
                 "official": "جمہوریہ پیراگوئے",
                 "common": "پیراگوئے"
@@ -57239,6 +57928,10 @@
             },
             "swe": {
                 "official": "Republiken Peru",
+                "common": "Peru"
+            },
+            "tur": {
+                "official": "Peru Cumhuriyeti",
                 "common": "Peru"
             },
             "urd": {
@@ -57627,6 +58320,10 @@
             "swe": {
                 "official": "Republiken Filippinerna",
                 "common": "Filippinerna"
+            },
+            "tur": {
+                "official": "Filipinler Cumhuriyeti",
+                "common": "Filipinler"
             },
             "urd": {
                 "official": "جمہوریہ فلپائن",
@@ -58513,6 +59210,10 @@
                 "official": "Pitcairnöarna",
                 "common": "Pitcairnöarna"
             },
+            "tur": {
+                "official": "Pitcairn, Henderson, Ducie ve Oeno Adaları",
+                "common": "Pitcairn Adaları"
+            },
             "urd": {
                 "official": "پٹکیرن جزائر",
                 "common": "جزائر پٹکیرن"
@@ -58699,6 +59400,10 @@
             "swe": {
                 "official": "Republiken Polen",
                 "common": "Polen"
+            },
+            "tur": {
+                "official": "Polonya Cumhuriyeti",
+                "common": "Polonya"
             },
             "urd": {
                 "official": "جمہوریہ پولینڈ",
@@ -59021,6 +59726,10 @@
             "swe": {
                 "official": "Republiken Portugal",
                 "common": "Portugal"
+            },
+            "tur": {
+                "official": "Portekiz Cumhuriyeti",
+                "common": "Portekiz"
             },
             "urd": {
                 "official": "جمہوریہ پرتگال",
@@ -59372,6 +60081,10 @@
                 "official": "Puerto Rico",
                 "common": "Puerto Rico"
             },
+            "tur": {
+                "official": "Porto Riko Topluluğu",
+                "common": "Porto Riko"
+            },
             "urd": {
                 "official": " دولتِ مشترکہ پورٹو ریکو",
                 "common": "پورٹو ریکو"
@@ -59637,6 +60350,10 @@
                 "official": "Staten Qatar",
                 "common": "Qatar"
             },
+            "tur": {
+                "official": "Katar Devleti",
+                "common": "Katar"
+            },
             "urd": {
                 "official": "ریاستِ قطر",
                 "common": "قطر"
@@ -59898,6 +60615,10 @@
             "swe": {
                 "official": "Republiken Kongo",
                 "common": "Kongo-Brazzaville"
+            },
+            "tur": {
+                "official": "Kongo Cumhuriyeti",
+                "common": "Kongo Cumhuriyeti"
             },
             "urd": {
                 "official": "جمہوریہ کانگو",
@@ -60183,6 +60904,10 @@
             "swe": {
                 "official": "Rumänien",
                 "common": "Rumänien"
+            },
+            "tur": {
+                "official": "Romanya",
+                "common": "Romanya"
             },
             "urd": {
                 "official": "رومانیہ",
@@ -60690,6 +61415,10 @@
             "swe": {
                 "official": "Ryska federationen",
                 "common": "Ryssland"
+            },
+            "tur": {
+                "official": "Rusya Federasyonu",
+                "common": "Rusya"
             },
             "urd": {
                 "official": "روسی وفاق",
@@ -61514,6 +62243,10 @@
                 "official": "Republiken Rwanda",
                 "common": "Rwanda"
             },
+            "tur": {
+                "official": "Ruanda Cumhuriyeti",
+                "common": "Ruanda"
+            },
             "urd": {
                 "official": "جمہوریہ روانڈا",
                 "common": "روانڈا"
@@ -61749,6 +62482,10 @@
                 "official": "Réunion",
                 "common": "Réunion"
             },
+            "tur": {
+                "official": "Réunion",
+                "common": "Réunion"
+            },
             "urd": {
                 "official": "رے یونیوں جزیرہ",
                 "common": "رے یونیوں"
@@ -61939,6 +62676,10 @@
             "swe": {
                 "official": "Saint-Barthélemy",
                 "common": "Saint-Barthélemy"
+            },
+            "tur": {
+                "official": "Saint Barthélemy",
+                "common": "Saint Barthélemy"
             },
             "urd": {
                 "official": "سینٹ بارتھیملے",
@@ -62134,6 +62875,10 @@
                 "official": "Sankta Helena",
                 "common": "Sankta Helena"
             },
+            "tur": {
+                "official": "Saint Helena",
+                "common": "Saint Helena"
+            },
             "urd": {
                 "official": "سینٹ ہلینا، اسینشن و ترسٹان دا کونیا",
                 "common": "سینٹ ہلینا، اسینشن و ترسٹان دا کونیا"
@@ -62323,6 +63068,10 @@
             "swe": {
                 "official": "Federationen Saint Kitts och Nevis",
                 "common": "Saint Kitts och Nevis"
+            },
+            "tur": {
+                "official": "Saint Kitts ve Nevis Federasyonu",
+                "common": "Saint Kitts ve Nevis"
             },
             "urd": {
                 "official": "وفاقِ سینٹ کیٹز و ناویس",
@@ -62620,6 +63369,10 @@
                 "official": "Saint Lucia",
                 "common": "Saint Lucia"
             },
+            "tur": {
+                "official": "Saint Lucia",
+                "common": "Saint Lucia"
+            },
             "urd": {
                 "official": "سینٹ لوسیا",
                 "common": "سینٹ لوسیا"
@@ -62901,6 +63654,10 @@
                 "official": "Förvaltningsområdet Saint-Martin",
                 "common": "Saint-Martin"
             },
+            "tur": {
+                "official": "Saint Martin",
+                "common": "Saint Martin"
+            },
             "urd": {
                 "official": "سینٹ مارٹن",
                 "common": "سینٹ مارٹن"
@@ -63092,6 +63849,10 @@
                 "official": "Saint-Pierre och Miquelon",
                 "common": "Saint-Pierre och Miquelon"
             },
+            "tur": {
+                "official": "Saint Pierre ve Miquelon",
+                "common": "Saint Pierre ve Miquelon"
+            },
             "urd": {
                 "official": "سینٹ پیئر و میکیلون",
                 "common": "سینٹ پیئر و میکیلون"
@@ -63280,6 +64041,10 @@
             "swe": {
                 "official": "Saint Vincent och Grenadinerna",
                 "common": "Saint Vincent och Grenadinerna"
+            },
+            "tur": {
+                "official": "Saint Vincent ve Grenadinler",
+                "common": "Saint Vincent ve Grenadinler"
             },
             "urd": {
                 "official": "سینٹ وینسینٹ و گریناڈائنز",
@@ -63520,6 +64285,10 @@
             "swe": {
                 "official": "Självständiga staten Samoa",
                 "common": "Samoa"
+            },
+            "tur": {
+                "official": "Bağımsız Samoa Devleti",
+                "common": "Bağımsız Samoa Devleti"
             },
             "urd": {
                 "official": "آزاد سلطنتِ ساموا",
@@ -63794,6 +64563,10 @@
                 "official": "Republiken San Marino",
                 "common": "San Marino"
             },
+            "tur": {
+                "official": "San Marino Cumhuriyeti",
+                "common": "San Marino"
+            },
             "urd": {
                 "official": "جمہوریہ سان مارینو",
                 "common": "سان مارینو"
@@ -64058,6 +64831,10 @@
             "swe": {
                 "official": "Kungadömet Saudiarabien",
                 "common": "Saudiarabien"
+            },
+            "tur": {
+                "official": "Suudi Arabistan Krallığı",
+                "common": "Suudi Arabistan"
             },
             "urd": {
                 "official": "مملکتِ سعودی عرب",
@@ -64354,6 +65131,10 @@
             },
             "swe": {
                 "official": "Republiken Senegal",
+                "common": "Senegal"
+            },
+            "tur": {
+                "official": "Senegal Cumhuriyeti",
                 "common": "Senegal"
             },
             "urd": {
@@ -64663,6 +65444,10 @@
             "swe": {
                 "official": "Republiken Serbien",
                 "common": "Serbien"
+            },
+            "tur": {
+                "official": "Sırbistan Cumhuriyeti",
+                "common": "Sırbistan"
             },
             "urd": {
                 "official": "جمہوریہ سربیا",
@@ -65067,6 +65852,10 @@
                 "official": "Republiken Seychellerna",
                 "common": "Seychellerna"
             },
+            "tur": {
+                "official": "Seyşeller Cumhuriyeti",
+                "common": "Seyşeller"
+            },
             "urd": {
                 "official": "جمہوریہ سیچیلیس",
                 "common": "سیچیلیس"
@@ -65430,6 +66219,10 @@
                 "official": "Republiken Sierra Leone",
                 "common": "Sierra Leone"
             },
+            "tur": {
+                "official": "Sierra Leone Cumhuriyeti",
+                "common": "Sierra Leone"
+            },
             "urd": {
                 "official": "جمہوریہ سیرالیون",
                 "common": "سیرالیون"
@@ -65676,6 +66469,10 @@
                 "official": "Republiken Singapore",
                 "common": "Singapore"
             },
+            "tur": {
+                "official": "Singapur Cumhuriyeti",
+                "common": "Singapur"
+            },
             "urd": {
                 "official": "جمہوریہ سنگاپور",
                 "common": "سنگاپور"
@@ -65912,6 +66709,10 @@
                 "official": "Sint Maarten",
                 "common": "Sint Maarten"
             },
+            "tur": {
+                "official": "Sint Maarten",
+                "common": "Sint Maarten"
+            },
             "urd": {
                 "official": "سنٹ مارٹن",
                 "common": "سنٹ مارٹن"
@@ -66101,6 +66902,10 @@
             "swe": {
                 "official": "Republiken Slovakien",
                 "common": "Slovakien"
+            },
+            "tur": {
+                "official": "Slovak Cumhuriyeti",
+                "common": "Slovakya"
             },
             "urd": {
                 "official": "جمہوریہ سلوواکیہ",
@@ -66364,6 +67169,10 @@
             "swe": {
                 "official": "Republiken Slovenien",
                 "common": "Slovenien"
+            },
+            "tur": {
+                "official": "Slovenya Cumhuriyeti",
+                "common": "Slovenya"
             },
             "urd": {
                 "official": "جمہوریہ سلووینیا",
@@ -68046,6 +68855,10 @@
                 "official": "Salomonöarna",
                 "common": "Salomonöarna"
             },
+            "tur": {
+                "official": "Solomon Adaları",
+                "common": "Solomon Adaları"
+            },
             "urd": {
                 "official": "جزائر سلیمان",
                 "common": "جزائر سلیمان"
@@ -68318,6 +69131,10 @@
             "swe": {
                 "official": "Förbundsrepubliken Somalia",
                 "common": "Somalia"
+            },
+            "tur": {
+                "official": "Somali Federal Cumhuriyeti",
+                "common": "Somali"
             },
             "urd": {
                 "official": "وفاقی جمہوریہ صومالیہ",
@@ -68689,6 +69506,10 @@
                 "official": "Republiken Sydafrika",
                 "common": "Sydafrika"
             },
+            "tur": {
+                "official": "Güney Afrika Cumhuriyeti",
+                "common": "Güney Afrika"
+            },
             "urd": {
                 "official": "جمہوریہ جنوبی افریقا",
                 "common": "جنوبی افریقا"
@@ -68957,6 +69778,10 @@
                 "official": "Sydgeorgien",
                 "common": "Sydgeorgien"
             },
+            "tur": {
+                "official": "Güney Georgia ve Güney Sandwich Adaları",
+                "common": "Güney Georgia ve Güney Sandwich Adaları"
+            },
             "urd": {
                 "official": "جنوبی جارجیا و جزائر جنوبی سینڈوچ",
                 "common": "جنوبی جارجیا"
@@ -69142,6 +69967,10 @@
             "swe": {
                 "official": "Republiken Korea",
                 "common": "Sydkorea"
+            },
+            "tur": {
+                "official": "Kore Cumhuriyeti",
+                "common": "Güney Kore"
             },
             "urd": {
                 "official": "جمہوریہ کوریا ",
@@ -69463,6 +70292,10 @@
                 "official": "Republiken Sydsudan",
                 "common": "Sydsudan"
             },
+            "tur": {
+                "official": "Güney Sudan Cumhuriyeti",
+                "common": "Güney Sudan"
+            },
             "urd": {
                 "official": "جمہوریہ جنوبی سوڈان",
                 "common": "جنوبی سوڈان"
@@ -69736,6 +70569,10 @@
             "swe": {
                 "official": "Konungariket Spanien",
                 "common": "Spanien"
+            },
+            "tur": {
+                "official": "İspanya Krallığı",
+                "common": "İspanya"
             },
             "urd": {
                 "official": "مملکتِ ہسپانیہ",
@@ -70302,6 +71139,10 @@
                 "official": "Demokratiska socialistiska republiken Sri Lanka",
                 "common": "Sri Lanka"
             },
+            "tur": {
+                "official": "Sri Lanka Demokratik Sosyalist Cumhuriyeti",
+                "common": "Sri Lanka"
+            },
             "urd": {
                 "official": "جمہوری و اشتراکی جمہوریہ سری لنکا",
                 "common": "سری لنکا"
@@ -70740,6 +71581,10 @@
                 "official": "Republiken Sudan",
                 "common": "Sudan"
             },
+            "tur": {
+                "official": "Sudan Cumhuriyeti",
+                "common": "Sudan"
+            },
             "urd": {
                 "official": "جمہوریہ سودان",
                 "common": "سودان"
@@ -71077,6 +71922,10 @@
                 "official": "Republiken Surinam",
                 "common": "Surinam"
             },
+            "tur": {
+                "official": "Surinam Cumhuriyeti",
+                "common": "Surinam"
+            },
             "urd": {
                 "official": "جمہوریہ سرینام",
                 "common": "سرینام"
@@ -71346,6 +72195,10 @@
                 "official": "Svalbard och Jan Mayen",
                 "common": "Svalbard och Jan Mayen"
             },
+            "tur": {
+                "official": "Svalbard ve Jan Mayen",
+                "common": "Svalbard ve Jan Mayen"
+            },
             "urd": {
                 "official": "سوالبارڈ اور جان میئن",
                 "common": "سوالبارڈ اور جان میئن"
@@ -71528,6 +72381,10 @@
             "swe": {
                 "official": "Konungariket Sverige",
                 "common": "Sverige"
+            },
+            "tur": {
+                "official": "İsveç Krallığı",
+                "common": "İsveç"
             },
             "urd": {
                 "official": "مملکتِ سویڈن",
@@ -71890,6 +72747,10 @@
             "swe": {
                 "official": "Schweiziska edsförbundet",
                 "common": "Schweiz"
+            },
+            "tur": {
+                "official": "İsviçre Konfederasyonu",
+                "common": "İsviçre"
             },
             "urd": {
                 "official": "سوئیس  متحدہ",
@@ -72281,6 +73142,10 @@
                 "official": "Syriska arabiska republiken",
                 "common": "Syrien"
             },
+            "tur": {
+                "official": "Suriye Arap Cumhuriyeti",
+                "common": "Suriye"
+            },
             "urd": {
                 "official": "عرب جمہوریہ سوریہ",
                 "common": "سوریہ"
@@ -72583,6 +73448,10 @@
                 "official": "Demokratiska republiken São Tomé och Príncipe",
                 "common": "São Tomé och Príncipe"
             },
+            "tur": {
+                "official": "São Tomé ve Príncipe Demokratik Cumhuriyeti",
+                "common": "São Tomé ve Príncipe"
+            },
             "urd": {
                 "official": "جمہوریہ ساؤ ٹومے و پرنسپے",
                 "common": "ساؤ ٹومے و پرنسپے"
@@ -72797,6 +73666,10 @@
             "swe": {
                 "official": "Republiken Kina",
                 "common": "Taiwan"
+            },
+            "tur": {
+                "official": "Çin Cumhuriyeti (Tayvan)",
+                "common": "Tayvan"
             },
             "urd": {
                 "official": "جمہوریہ چین (تائیوان)",
@@ -73152,6 +74025,10 @@
                 "official": "Republiken Tadzjikistan",
                 "common": "Tadzjikistan"
             },
+            "tur": {
+                "official": "Tacikistan Cumhuriyeti",
+                "common": "Tacikistan"
+            },
             "urd": {
                 "official": "جمہوریہ تاجکستان",
                 "common": "تاجکستان"
@@ -73391,6 +74268,10 @@
             "swe": {
                 "official": "Förenade republiken Tanzania",
                 "common": "Tanzania"
+            },
+            "tur": {
+                "official": "Tanzanya Birleşik Cumhuriyeti",
+                "common": "Tanzanya"
             },
             "urd": {
                 "official": "متحدہ جمہوریہ تنزانیہ",
@@ -73818,6 +74699,10 @@
             "swe": {
                 "official": "Konungariket Thailand",
                 "common": "Thailand"
+            },
+            "tur": {
+                "official": "Tayland Krallığı",
+                "common": "Tayland"
             },
             "urd": {
                 "official": "مملکتِ تھائی لینڈ",
@@ -74580,6 +75465,10 @@
                 "official": "Demokratiska republiken Östtimor",
                 "common": "Östtimor"
             },
+            "tur": {
+                "official": "Doğu Timor Demokratik Cumhuriyeti",
+                "common": "Doğu Timor"
+            },
             "urd": {
                 "official": "جمہوری جمہوریہ مشرقی تیمور",
                 "common": "مشرقی تیمور"
@@ -74861,6 +75750,10 @@
                 "official": "Republiken Togo",
                 "common": "Togo"
             },
+            "tur": {
+                "official": "Togo Cumhuriyeti",
+                "common": "Togo"
+            },
             "urd": {
                 "official": "جمہوریہ ٹوگو",
                 "common": "ٹوگو"
@@ -75104,6 +75997,10 @@
                 "official": "Tokelauöarna",
                 "common": "Tokelauöarna"
             },
+            "tur": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            },
             "urd": {
                 "official": "ٹوکیلاؤ",
                 "common": "ٹوکیلاؤ"
@@ -75288,6 +76185,10 @@
             },
             "swe": {
                 "official": "Konungariket Tonga",
+                "common": "Tonga"
+            },
+            "tur": {
+                "official": "Tonga Krallığı",
                 "common": "Tonga"
             },
             "urd": {
@@ -75519,6 +76420,10 @@
             "swe": {
                 "official": "Republiken Trinidad och Tobago",
                 "common": "Trinidad och Tobago"
+            },
+            "tur": {
+                "official": "Trinidad ve Tobago",
+                "common": "Trinidad ve Tobago"
             },
             "urd": {
                 "official": "جمہوریہ ٹرینیڈاڈ و ٹوباگو",
@@ -75827,6 +76732,10 @@
             "swe": {
                 "official": "Republiken Tunisien",
                 "common": "Tunisien"
+            },
+            "tur": {
+                "official": "Tunus Cumhuriyeti",
+                "common": "Tunus"
             },
             "urd": {
                 "official": "جمہوریہ تونس",
@@ -76200,6 +77109,10 @@
             "swe": {
                 "official": "Republiken Turkiet",
                 "common": "Turkiet"
+            },
+            "tur": {
+                "official": "Türkiye Cumhuriyeti",
+                "common": "Türkiye"
             },
             "urd": {
                 "official": "جمہوریہ ترکی",
@@ -76981,6 +77894,10 @@
                 "official": "Turkmenistan",
                 "common": "Turkmenistan"
             },
+            "tur": {
+                "official": "Türkmenistan",
+                "common": "Türkmenistan"
+            },
             "urd": {
                 "official": "ترکمانستان",
                 "common": "ترکمانستان"
@@ -77226,6 +78143,10 @@
                 "official": "Turks- och Caicosöarna",
                 "common": "Turks- och Caicosöarna"
             },
+            "tur": {
+                "official": "Turks ve Caicos Adaları",
+                "common": "Turks ve Caicos Adaları"
+            },
             "urd": {
                 "official": "جزائر کیکس و ترکیہ",
                 "common": "جزائر کیکس و ترکیہ"
@@ -77418,6 +78339,10 @@
                 "common": "Tuvalu"
             },
             "swe": {
+                "official": "Tuvalu",
+                "common": "Tuvalu"
+            },
+            "tur": {
                 "official": "Tuvalu",
                 "common": "Tuvalu"
             },
@@ -77675,6 +78600,10 @@
             },
             "swe": {
                 "official": "Republiken Uganda",
+                "common": "Uganda"
+            },
+            "tur": {
+                "official": "Uganda Cumhuriyeti",
                 "common": "Uganda"
             },
             "urd": {
@@ -78755,6 +79684,10 @@
                 "official": "Ukraina",
                 "common": "Ukraina"
             },
+            "tur": {
+                "official": "Ukrayna",
+                "common": "Ukrayna"
+            },
             "urd": {
                 "official": "یوکرین",
                 "common": "یوکرین"
@@ -79147,6 +80080,10 @@
                 "official": "Förenade Arabemiraten",
                 "common": "Förenade Arabemiraten"
             },
+            "tur": {
+                "official": "Birleşik Arap Emirlikleri",
+                "common": "Birleşik Arap Emirlikleri"
+            },
             "urd": {
                 "official": "متحدہ عرب امارات",
                 "common": "متحدہ عرب امارات"
@@ -79395,6 +80332,10 @@
             "swe": {
                 "official": "Förenade konungariket Storbritannien och Nordirland",
                 "common": "Storbritannien"
+            },
+            "tur": {
+                "official": "Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı",
+                "common": "Birleşik Krallık"
             },
             "urd": {
                 "official": "مملکتِ متحدہ برطانیہ عظمی و شمالی آئرلینڈ",
@@ -81651,6 +82592,10 @@
                 "official": "Amerikas förenta stater",
                 "common": "USA"
             },
+            "tur": {
+                "official": "Amerika Birleşik Devletleri",
+                "common": "Amerika Birleşik Devletleri"
+            },
             "urd": {
                 "official": "ریاستہائے متحدہ امریکا",
                 "common": "ریاستہائے متحدہ"
@@ -82324,6 +83269,10 @@
                 "official": "Förenta staternas mindre öar i Oceanien och Västindien",
                 "common": "Förenta staternas mindre öar i Oceanien och Västindien"
             },
+            "tur": {
+                "official": "Amerika Birleşik Devletleri Küçük Dış Adaları",
+                "common": "Amerika Birleşik Devletleri Küçük Dış Adaları"
+            },
             "urd": {
                 "official": "امریکی چھوٹے بیرونی جزائر",
                 "common": "امریکی چھوٹے بیرونی جزائر"
@@ -82502,6 +83451,10 @@
             "swe": {
                 "official": "Amerikanska Jungfruöarna",
                 "common": "Amerikanska Jungfruöarna"
+            },
+            "tur": {
+                "official": "Amerika Birleşik Devletleri Virjin Adaları",
+                "common": "ABD Virjin Adaları"
             },
             "urd": {
                 "official": "امریکی جزائر ورجن",
@@ -82708,6 +83661,10 @@
             },
             "swe": {
                 "official": "Republiken Uruguay",
+                "common": "Uruguay"
+            },
+            "tur": {
+                "official": "Uruguay Doğu Cumhuriyeti",
                 "common": "Uruguay"
             },
             "urd": {
@@ -83053,6 +84010,10 @@
                 "official": "Republiken Uzbekistan",
                 "common": "Uzbekistan"
             },
+            "tur": {
+                "official": "Özbekistan Cumhuriyeti",
+                "common": "Özbekistan"
+            },
             "urd": {
                 "official": "جمہوریہ ازبکستان",
                 "common": "ازبکستان"
@@ -83369,6 +84330,10 @@
                 "official": "Republiken Vanuatu",
                 "common": "Vanuatu"
             },
+            "tur": {
+                "official": "Vanuatu Cumhuriyeti",
+                "common": "Vanuatu"
+            },
             "urd": {
                 "official": "جمہوریہ وانواتو",
                 "common": "وانواتو"
@@ -83613,6 +84578,10 @@
                 "official": "Vatikanstaten",
                 "common": "Vatikanstaten"
             },
+            "tur": {
+                "official": "Vatikan Şehir Devleti",
+                "common": "Vatikan"
+            },
             "urd": {
                 "official": "ویٹیکن سٹی",
                 "common": "ویٹیکن سٹی"
@@ -83805,6 +84774,10 @@
             },
             "swe": {
                 "official": "Bolivarianska republiken Venezuela",
+                "common": "Venezuela"
+            },
+            "tur": {
+                "official": "Bolivarcı Venezuela Cumhuriyeti",
                 "common": "Venezuela"
             },
             "urd": {
@@ -84186,6 +85159,10 @@
             },
             "swe": {
                 "official": "Socialistiska republiken Vietnam",
+                "common": "Vietnam"
+            },
+            "tur": {
+                "official": "Vietnam Sosyalist Cumhuriyeti",
                 "common": "Vietnam"
             },
             "urd": {
@@ -84833,6 +85810,10 @@
                 "official": "Territoriet Wallis- och Futunaöarna",
                 "common": "Wallis- och Futunaöarna"
             },
+            "tur": {
+                "official": "Wallis ve Futuna Adaları Bölgesi",
+                "common": "Wallis ve Futuna Adaları Bölgesi"
+            },
             "urd": {
                 "official": "سر زمینِ والس و فتونہ جزائر",
                 "common": "والس و فتونہ"
@@ -85037,6 +86018,10 @@
                 "official": "Västsahara",
                 "common": "Västsahara"
             },
+            "tur": {
+                "official": "Sahra Demokratik Arap Cumhuriyeti",
+                "common": "Sahra Demokratik Arap Cumhuriyeti"
+            },
             "urd": {
                 "official": "صحراوی عرب عوامی جمہوریہ",
                 "common": "مغربی صحارا"
@@ -85224,6 +86209,10 @@
             "swe": {
                 "official": "Republiken Jemen",
                 "common": "Jemen"
+            },
+            "tur": {
+                "official": "Yemen Cumhuriyeti",
+                "common": "Yemen"
             },
             "urd": {
                 "official": "جمہوریہ یمن",
@@ -85570,6 +86559,10 @@
             "swe": {
                 "official": "Republiken Zambia",
                 "common": "Zambia"
+            },
+            "tur": {
+                "official": "Zambiya Cumhuriyeti",
+                "common": "Zambiya"
             },
             "urd": {
                 "official": "جمہوریہ زیمبیا",
@@ -85920,6 +86913,10 @@
                 "official": "Republiken Zimbabwe",
                 "common": "Zimbabwe"
             },
+            "tur": {
+                "official": "Zimbabve Cumhuriyeti",
+                "common": "Zimbabve"
+            },
             "urd": {
                 "official": "جمہوریہ زمبابوے",
                 "common": "زمبابوے"
@@ -86190,6 +87187,10 @@
             },
             "swe": {
                 "official": "Åland",
+                "common": "Åland"
+            },
+            "tur": {
+                "official": "Åland Adaları",
                 "common": "Åland"
             },
             "urd": {

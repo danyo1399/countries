@@ -43,7 +43,7 @@
     "region": "Europe",
     "subregion": "Eastern Europe",
     "languages": {
-        "ron": "Moldavian"
+        "ron": "Romanian"
     },
     "translations": {
         "ara": {
@@ -129,6 +129,10 @@
         "swe": {
             "official": "Republiken Moldavien",
             "common": "Moldavien"
+        },
+        "tur": {
+            "official": "Moldova Cumhuriyeti",
+            "common": "Moldova"
         },
         "urd": {
             "official": "جمہوریہ مالدووا",

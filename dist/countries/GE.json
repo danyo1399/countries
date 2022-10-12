@@ -128,6 +128,10 @@
             "official": "Georgien",
             "common": "Georgien"
         },
+        "tur": {
+            "official": "Gürcistan",
+            "common": "Gürcistan"
+        },
         "urd": {
             "official": "جارجیا",
             "common": "جارجیا"
@@ -176,7 +180,7 @@
         "side": "right"
     },
     "timezones": [
-        "UTC-04:00"
+        "UTC+04:00"
     ],
     "continents": [
         "Asia"

@@ -129,6 +129,10 @@
             "official": "Republiken Gabon",
             "common": "Gabon"
         },
+        "tur": {
+            "official": "Gabon Cumhuriyeti",
+            "common": "Gabon"
+        },
         "urd": {
             "official": "جمہوریہ گیبون",
             "common": "گیبون"
@@ -161,8 +165,8 @@
     },
     "flag": "🇬🇦",
     "maps": {
-        "googleMaps": "https://www.openstreetmap.org/relation/192793",
-        "openStreetMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6"
+        "googleMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/192793"
     },
     "population": 2225728,
     "gini": {

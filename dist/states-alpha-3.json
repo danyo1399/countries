@@ -2140,7 +2140,7 @@
     "BGD": [
         {
             "name": "Bagerhat District",
-            "type": null,
+            "type": "district",
             "latitude": "22.66024360",
             "longitude": "89.78954780",
             "code": "05"
@@ -2154,476 +2154,476 @@
         },
         {
             "name": "Bandarban District",
-            "type": null,
+            "type": "district",
             "latitude": "21.83110020",
             "longitude": "92.36863210",
             "code": "01"
         },
         {
             "name": "Barguna District",
-            "type": null,
+            "type": "district",
             "latitude": "22.09529150",
             "longitude": "90.11206960",
             "code": "02"
         },
         {
             "name": "Barisal District",
-            "type": null,
+            "type": "district",
             "latitude": "22.70220980",
             "longitude": "90.36963160",
             "code": "06"
         },
         {
             "name": "Barisal Division",
-            "type": null,
+            "type": "division",
             "latitude": "22.38111310",
             "longitude": "90.33718890",
             "code": "A"
         },
         {
             "name": "Bhola District",
-            "type": null,
+            "type": "district",
             "latitude": "22.17853150",
             "longitude": "90.71010230",
             "code": "07"
         },
         {
             "name": "Bogra District",
-            "type": null,
+            "type": "district",
             "latitude": "24.85104020",
             "longitude": "89.36972250",
             "code": "03"
         },
         {
             "name": "Brahmanbaria District",
-            "type": null,
+            "type": "district",
             "latitude": "23.96081810",
             "longitude": "91.11150140",
             "code": "04"
         },
         {
             "name": "Chandpur District",
-            "type": null,
+            "type": "district",
             "latitude": "23.25131480",
             "longitude": "90.85178460",
             "code": "09"
         },
         {
             "name": "Chapai Nawabganj District",
-            "type": null,
+            "type": "district",
             "latitude": "24.74131110",
             "longitude": "88.29120690",
             "code": "45"
         },
         {
             "name": "Chittagong District",
-            "type": null,
+            "type": "district",
             "latitude": "22.51501050",
             "longitude": "91.75388170",
             "code": "10"
         },
         {
             "name": "Chittagong Division",
-            "type": null,
+            "type": "division",
             "latitude": "23.17931570",
             "longitude": "91.98815270",
             "code": "B"
         },
         {
             "name": "Chuadanga District",
-            "type": null,
+            "type": "district",
             "latitude": "23.61605120",
             "longitude": "88.82630060",
             "code": "12"
         },
         {
             "name": "Comilla District",
-            "type": null,
+            "type": "district",
             "latitude": "23.45756670",
             "longitude": "91.18089960",
             "code": "08"
         },
         {
             "name": "Cox's Bazar District",
-            "type": null,
+            "type": "district",
             "latitude": "21.56406260",
             "longitude": "92.02821290",
             "code": "11"
         },
         {
             "name": "Dhaka District",
-            "type": null,
+            "type": "district",
             "latitude": "23.81051400",
             "longitude": "90.33718890",
             "code": "13"
         },
         {
             "name": "Dhaka Division",
-            "type": null,
+            "type": "division",
             "latitude": "23.95357420",
             "longitude": "90.14949880",
             "code": "C"
         },
         {
             "name": "Dinajpur District",
-            "type": null,
+            "type": "district",
             "latitude": "25.62791230",
             "longitude": "88.63317580",
             "code": "14"
         },
         {
             "name": "Faridpur District",
-            "type": null,
+            "type": "district",
             "latitude": "23.54239190",
             "longitude": "89.63089210",
             "code": "15"
         },
         {
             "name": "Feni District",
-            "type": null,
+            "type": "district",
             "latitude": "22.94087840",
             "longitude": "91.40666460",
             "code": "16"
         },
         {
             "name": "Gaibandha District",
-            "type": null,
+            "type": "district",
             "latitude": "25.32969280",
             "longitude": "89.54296520",
             "code": "19"
         },
         {
             "name": "Gazipur District",
-            "type": null,
+            "type": "district",
             "latitude": "24.09581710",
             "longitude": "90.41251810",
             "code": "18"
         },
         {
             "name": "Gopalganj District",
-            "type": null,
+            "type": "district",
             "latitude": "26.48315840",
             "longitude": "84.43655000",
             "code": "17"
         },
         {
             "name": "Habiganj District",
-            "type": null,
+            "type": "district",
             "latitude": "24.47712360",
             "longitude": "91.45065650",
             "code": "20"
         },
         {
             "name": "Jamalpur District",
-            "type": null,
+            "type": "district",
             "latitude": "25.08309260",
             "longitude": "89.78532180",
             "code": "21"
         },
         {
             "name": "Jessore District",
-            "type": null,
+            "type": "district",
             "latitude": "23.16340140",
             "longitude": "89.21816640",
             "code": "22"
         },
         {
             "name": "Jhalokati District",
-            "type": null,
+            "type": "district",
             "latitude": "22.57208000",
             "longitude": "90.18696440",
             "code": "25"
         },
         {
             "name": "Jhenaidah District",
-            "type": null,
+            "type": "district",
             "latitude": "23.54498730",
             "longitude": "89.17260310",
             "code": "23"
         },
         {
             "name": "Joypurhat District",
-            "type": null,
+            "type": "district",
             "latitude": "25.09473490",
             "longitude": "89.09449370",
             "code": "24"
         },
         {
             "name": "Khagrachari District",
-            "type": null,
+            "type": "district",
             "latitude": "23.13217510",
             "longitude": "91.94902100",
             "code": "29"
         },
         {
             "name": "Khulna District",
-            "type": null,
+            "type": "district",
             "latitude": "22.67377350",
             "longitude": "89.39665810",
             "code": "27"
         },
         {
             "name": "Khulna Division",
-            "type": null,
+            "type": "division",
             "latitude": "22.80878160",
             "longitude": "89.24671910",
             "code": "D"
         },
         {
             "name": "Kishoreganj District",
-            "type": null,
+            "type": "district",
             "latitude": "24.42604570",
             "longitude": "90.98206680",
             "code": "26"
         },
         {
             "name": "Kurigram District",
-            "type": null,
+            "type": "district",
             "latitude": "25.80724140",
             "longitude": "89.62947460",
             "code": "28"
         },
         {
             "name": "Kushtia District",
-            "type": null,
+            "type": "district",
             "latitude": "23.89069950",
             "longitude": "89.10993680",
             "code": "30"
         },
         {
             "name": "Lakshmipur District",
-            "type": null,
+            "type": "district",
             "latitude": "22.94467440",
             "longitude": "90.82819070",
             "code": "31"
         },
         {
             "name": "Lalmonirhat District",
-            "type": null,
+            "type": "district",
             "latitude": "25.99233980",
             "longitude": "89.28472510",
             "code": "32"
         },
         {
             "name": "Madaripur District",
-            "type": null,
+            "type": "district",
             "latitude": "23.23933460",
             "longitude": "90.18696440",
             "code": "36"
         },
         {
             "name": "Meherpur District",
-            "type": null,
+            "type": "district",
             "latitude": "23.80519910",
             "longitude": "88.67235780",
             "code": "39"
         },
         {
             "name": "Moulvibazar District",
-            "type": null,
+            "type": "district",
             "latitude": "24.30953440",
             "longitude": "91.73149030",
             "code": "38"
         },
         {
             "name": "Munshiganj District",
-            "type": null,
+            "type": "district",
             "latitude": "23.49809310",
             "longitude": "90.41266210",
             "code": "35"
         },
         {
             "name": "Mymensingh District",
-            "type": null,
+            "type": "district",
             "latitude": "24.75385750",
             "longitude": "90.40729190",
             "code": "34"
         },
         {
             "name": "Mymensingh Division",
-            "type": null,
+            "type": "division",
             "latitude": "24.71362000",
             "longitude": "90.45023680",
             "code": "H"
         },
         {
             "name": "Naogaon District",
-            "type": null,
+            "type": "district",
             "latitude": "24.91315970",
             "longitude": "88.75309520",
             "code": "48"
         },
         {
             "name": "Narail District",
-            "type": null,
+            "type": "district",
             "latitude": "23.11629290",
             "longitude": "89.58404040",
             "code": "43"
         },
         {
             "name": "Narayanganj District",
-            "type": null,
+            "type": "district",
             "latitude": "23.71466010",
             "longitude": "90.56360900",
             "code": "40"
         },
         {
             "name": "Natore District",
-            "type": null,
+            "type": "district",
             "latitude": "24.41024300",
             "longitude": "89.00761770",
             "code": "44"
         },
         {
             "name": "Netrokona District",
-            "type": null,
+            "type": "district",
             "latitude": "24.81032840",
             "longitude": "90.86564150",
             "code": "41"
         },
         {
             "name": "Nilphamari District",
-            "type": null,
+            "type": "district",
             "latitude": "25.84827980",
             "longitude": "88.94141340",
             "code": "46"
         },
         {
             "name": "Noakhali District",
-            "type": null,
+            "type": "district",
             "latitude": "22.87237890",
             "longitude": "91.09731840",
             "code": "47"
         },
         {
             "name": "Pabna District",
-            "type": null,
+            "type": "district",
             "latitude": "24.15850500",
             "longitude": "89.44807180",
             "code": "49"
         },
         {
             "name": "Panchagarh District",
-            "type": null,
+            "type": "district",
             "latitude": "26.27087050",
             "longitude": "88.59517510",
             "code": "52"
         },
         {
             "name": "Patuakhali District",
-            "type": null,
+            "type": "district",
             "latitude": "22.22486320",
             "longitude": "90.45475030",
             "code": "51"
         },
         {
             "name": "Pirojpur District",
-            "type": null,
+            "type": "district",
             "latitude": "22.57907440",
             "longitude": "89.97592640",
             "code": "50"
         },
         {
             "name": "Rajbari District",
-            "type": null,
+            "type": "district",
             "latitude": "23.71513400",
             "longitude": "89.58748190",
             "code": "53"
         },
         {
             "name": "Rajshahi District",
-            "type": null,
+            "type": "district",
             "latitude": "24.37330870",
             "longitude": "88.60487160",
             "code": "54"
         },
         {
             "name": "Rajshahi Division",
-            "type": null,
+            "type": "division",
             "latitude": "24.71057760",
             "longitude": "88.94138650",
             "code": "E"
         },
         {
             "name": "Rangamati Hill District",
-            "type": null,
+            "type": "district",
             "latitude": "22.73241730",
             "longitude": "92.29851340",
             "code": "56"
         },
         {
             "name": "Rangpur District",
-            "type": null,
+            "type": "district",
             "latitude": "25.74679250",
             "longitude": "89.25083350",
             "code": "55"
         },
         {
             "name": "Rangpur Division",
-            "type": null,
+            "type": "division",
             "latitude": "25.84833880",
             "longitude": "88.94138650",
             "code": "F"
         },
         {
             "name": "Satkhira District",
-            "type": null,
+            "type": "district",
             "latitude": "22.31548120",
             "longitude": "89.11145250",
             "code": "58"
         },
         {
             "name": "Shariatpur District",
-            "type": null,
+            "type": "district",
             "latitude": "23.24232140",
             "longitude": "90.43477110",
             "code": "62"
         },
         {
             "name": "Sherpur District",
-            "type": null,
+            "type": "district",
             "latitude": "25.07462350",
             "longitude": "90.14949040",
             "code": "57"
         },
         {
             "name": "Sirajganj District",
-            "type": null,
+            "type": "district",
             "latitude": "24.31411150",
             "longitude": "89.56996150",
             "code": "59"
         },
         {
             "name": "Sunamganj District",
-            "type": null,
+            "type": "district",
             "latitude": "25.07145350",
             "longitude": "91.39916270",
             "code": "61"
         },
         {
             "name": "Sylhet District",
-            "type": null,
+            "type": "district",
             "latitude": "24.89933570",
             "longitude": "91.87004730",
             "code": "60"
         },
         {
             "name": "Sylhet Division",
-            "type": null,
+            "type": "division",
             "latitude": "24.70498110",
             "longitude": "91.67606910",
             "code": "G"
         },
         {
             "name": "Tangail District",
-            "type": null,
+            "type": "district",
             "latitude": "24.39174270",
             "longitude": "89.99482570",
             "code": "63"
         },
         {
             "name": "Thakurgaon District",
-            "type": null,
+            "type": "district",
             "latitude": "26.04183920",
             "longitude": "88.42826160",
             "code": "64"
@@ -13072,8 +13072,8 @@
         {
             "name": "Lazio",
             "type": "region",
-            "latitude": "45.69916670",
-            "longitude": "-73.65583330",
+            "latitude": "41.81224100",
+            "longitude": "12.73851000",
             "code": "62"
         },
         {
@@ -13142,8 +13142,8 @@
         {
             "name": "Marche",
             "type": "region",
-            "latitude": "30.55670700",
-            "longitude": "-81.44930300",
+            "latitude": "43.30456200",
+            "longitude": "13.71947000",
             "code": "57"
         },
         {

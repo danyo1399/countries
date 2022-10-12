@@ -41,7 +41,8 @@
         ]
     },
     "capital": [
-        "Ramallah"
+        "Ramallah",
+        "Jerusalem"
     ],
     "altSpellings": [
         "PS",
@@ -138,6 +139,10 @@
         "swe": {
             "official": "Palestina",
             "common": "Palestina"
+        },
+        "tur": {
+            "official": "Filistin Devleti",
+            "common": "Filistin"
         },
         "urd": {
             "official": "ریاستِ فلسطین",

@@ -127,6 +127,10 @@
             "official": "Islamiska republiken Iran",
             "common": "Iran"
         },
+        "tur": {
+            "official": "İran İslam Cumhuriyeti",
+            "common": "İran"
+        },
         "urd": {
             "official": "جمہوریہ ایران",
             "common": "ایران"
@@ -191,7 +195,7 @@
         "png": "https://mainfacts.com/media/images/coats_of_arms/ir.png",
         "svg": "https://mainfacts.com/media/images/coats_of_arms/ir.svg"
     },
-    "startOfWeek": "turday",
+    "startOfWeek": "saturday",
     "capitalInfo": {
         "latlng": [
             35.7,
