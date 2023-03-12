@@ -126,6 +126,10 @@
             "official": "Mancomunidad de Dominica",
             "common": "Dominica"
         },
+        "srp": {
+            "official": "Комонвелт Доминика",
+            "common": "Доминика"
+        },
         "swe": {
             "official": "Samväldet Dominica",
             "common": "Dominica"
@@ -180,7 +184,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/dm.png",
-        "svg": "https://flagcdn.com/dm.svg"
+        "svg": "https://flagcdn.com/dm.svg",
+        "alt": "The flag of Dominica has a green field with a large centered tricolor cross. The vertical and horizontal parts of the cross each comprise three bands of yellow, black and white. A red circle, bearing a hoist-side facing purple Sisserou parrot standing on a twig and encircled by ten five-pointed yellow-edged green stars, is superimposed at the center of the cross."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/dm.png",

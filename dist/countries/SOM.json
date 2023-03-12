@@ -132,6 +132,10 @@
             "official": "República Federal de Somalia",
             "common": "Somalia"
         },
+        "srp": {
+            "official": "Савезна Република Сомалија",
+            "common": "Сомалија"
+        },
         "swe": {
             "official": "Förbundsrepubliken Somalia",
             "common": "Somalia"
@@ -194,7 +198,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/so.png",
-        "svg": "https://flagcdn.com/so.svg"
+        "svg": "https://flagcdn.com/so.svg",
+        "alt": "The flag of Somalia features a large five-pointed white star centered on a light blue field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/so.png",

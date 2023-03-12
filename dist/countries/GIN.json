@@ -125,6 +125,10 @@
             "official": "República de Guinea",
             "common": "Guinea"
         },
+        "srp": {
+            "official": "Кооперативна Република Гвајана",
+            "common": "Гвајана"
+        },
         "swe": {
             "official": "Republiken Guinea",
             "common": "Guinea"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/gn.png",
-        "svg": "https://flagcdn.com/gn.svg"
+        "svg": "https://flagcdn.com/gn.svg",
+        "alt": "The flag of Guinea is composed of three equal vertical bands of red, yellow and green."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/gn.png",

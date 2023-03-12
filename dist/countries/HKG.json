@@ -129,6 +129,10 @@
             "official": "Hong Kong Región Administrativa Especial de la República Popular China",
             "common": "Hong Kong"
         },
+        "srp": {
+            "official": "Хонгконг специјална административна област Народне Републике Кине",
+            "common": "Хонгконг"
+        },
         "swe": {
             "official": "Hongkong",
             "common": "Hongkong"
@@ -191,8 +195,8 @@
     "startOfWeek": "monday",
     "capitalInfo": {
         "latlng": [
-            48.41,
-            -123.33
+            22.267,
+            114.188
         ]
     },
     "states": [

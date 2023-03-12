@@ -133,6 +133,10 @@
             "official": "Belice",
             "common": "Belice"
         },
+        "srp": {
+            "official": "Белизе",
+            "common": "Белизе"
+        },
         "swe": {
             "official": "Belize",
             "common": "Belize"
@@ -194,7 +198,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/bz.png",
-        "svg": "https://flagcdn.com/bz.svg"
+        "svg": "https://flagcdn.com/bz.svg",
+        "alt": "The flag of Belize has a royal blue field with a thin red horizontal band at the top and bottom of the field and the national coat of arms in the center."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/bz.png",

@@ -123,6 +123,10 @@
             "official": "Mancomunidad de Australia",
             "common": "Australia"
         },
+        "srp": {
+            "official": "Комонвелт Аустралија",
+            "common": "Аустралија"
+        },
         "swe": {
             "official": "Australiska statsförbundet",
             "common": "Australien"
@@ -187,7 +191,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/au.png",
-        "svg": "https://flagcdn.com/au.svg"
+        "svg": "https://flagcdn.com/au.svg",
+        "alt": "The flag of Australia has a dark blue field. It features the flag of the United Kingdom — the Union Jack — in the canton, beneath which is a large white seven-pointed star. A representation of the Southern Cross constellation, made up of one small five-pointed and four larger seven-pointed white stars, is situated on the fly side of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/au.png",

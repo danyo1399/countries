@@ -136,6 +136,10 @@
             "official": "República de las Seychelles",
             "common": "Seychelles"
         },
+        "srp": {
+            "official": "Република Сејшели",
+            "common": "Сејшели"
+        },
         "swe": {
             "official": "Republiken Seychellerna",
             "common": "Seychellerna"
@@ -193,7 +197,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/sc.png",
-        "svg": "https://flagcdn.com/sc.svg"
+        "svg": "https://flagcdn.com/sc.svg",
+        "alt": "The flag of Seychelles is composed of five broadening oblique bands of blue, yellow, red, white and green, which extend from the hoist side of the bottom edge to the top and fly edges of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/sc.png",

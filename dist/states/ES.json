@@ -56,13 +56,6 @@
         "code": "BA"
     },
     {
-        "name": "Balearic Islands",
-        "type": "province",
-        "latitude": "39.35877590",
-        "longitude": "2.73563280",
-        "code": "PM"
-    },
-    {
         "name": "Barcelona",
         "type": "province",
         "latitude": "41.39266790",
@@ -173,6 +166,13 @@
         "latitude": "41.59762750",
         "longitude": "-0.90566230",
         "code": "HU"
+    },
+    {
+        "name": "Islas Baleares",
+        "type": "province",
+        "latitude": "39.35877590",
+        "longitude": "2.73563280",
+        "code": "PM"
     },
     {
         "name": "Jaén",

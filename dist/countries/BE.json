@@ -141,13 +141,17 @@
             "official": "Reino de Bélgica",
             "common": "Bélgica"
         },
+        "srp": {
+            "official": "Краљевина Белгија",
+            "common": "Белгија"
+        },
         "swe": {
             "official": "Konungariket Belgien",
             "common": "Belgien"
         },
         "tur": {
             "official": "Belçika Krallığı",
-            "common": "Belçika"
+            "common": "Belğika"
         },
         "urd": {
             "official": "مملکتِ بلجئیم",
@@ -204,7 +208,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/be.png",
-        "svg": "https://flagcdn.com/be.svg"
+        "svg": "https://flagcdn.com/be.svg",
+        "alt": "The flag of Belgium is composed of three equal vertical bands of black, yellow and red."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/be.png",
@@ -309,8 +314,8 @@
         {
             "name": "West Flanders",
             "type": null,
-            "latitude": "40.01793340",
-            "longitude": "-105.28067330",
+            "latitude": "51.04047470",
+            "longitude": "2.99942130",
             "code": "VWV"
         }
     ]

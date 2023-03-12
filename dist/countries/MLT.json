@@ -130,6 +130,10 @@
             "official": "República de Malta",
             "common": "Malta"
         },
+        "srp": {
+            "official": " Република Малта",
+            "common": "Малта"
+        },
         "swe": {
             "official": "Republiken Malta",
             "common": "Malta"
@@ -148,8 +152,8 @@
         }
     },
     "latlng": [
-        35.83333333,
-        14.58333333
+        35.9375,
+        14.3754
     ],
     "landlocked": false,
     "area": 316,
@@ -187,7 +191,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/mt.png",
-        "svg": "https://flagcdn.com/mt.svg"
+        "svg": "https://flagcdn.com/mt.svg",
+        "alt": "The flag of Malta is composed of two equal vertical bands of white and red. A representation of the George cross edged in red is situated on the upper hoist-side corner of the white band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/mt.png",

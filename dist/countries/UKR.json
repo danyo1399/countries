@@ -125,6 +125,10 @@
             "official": "Ucrania",
             "common": "Ucrania"
         },
+        "srp": {
+            "official": "Украјина",
+            "common": "Украјина"
+        },
         "swe": {
             "official": "Ukraina",
             "common": "Ukraina"
@@ -191,7 +195,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ua.png",
-        "svg": "https://flagcdn.com/ua.svg"
+        "svg": "https://flagcdn.com/ua.svg",
+        "alt": "The flag of Ukraine is composed of two equal horizontal bands of blue and yellow."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ua.png",

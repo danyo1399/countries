@@ -124,6 +124,10 @@
             "official": "República de Liberia",
             "common": "Liberia"
         },
+        "srp": {
+            "official": "Република Либерија",
+            "common": "Либерија"
+        },
         "swe": {
             "official": "Republiken Liberia",
             "common": "Liberia"
@@ -186,7 +190,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/lr.png",
-        "svg": "https://flagcdn.com/lr.svg"
+        "svg": "https://flagcdn.com/lr.svg",
+        "alt": "The flag of Liberia is composed of eleven equal horizontal bands of red alternating with white. A blue square bearing a five-pointed white star is superimposed in the canton."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/lr.png",

@@ -128,6 +128,10 @@
             "official": "Reino de Bután",
             "common": "Bután"
         },
+        "srp": {
+            "official": "Краљевина Бутан",
+            "common": "Бутан"
+        },
         "swe": {
             "official": "Konungariket Bhutan",
             "common": "Bhutan"
@@ -189,7 +193,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/bt.png",
-        "svg": "https://flagcdn.com/bt.svg"
+        "svg": "https://flagcdn.com/bt.svg",
+        "alt": "The flag of Bhutan is divided diagonally, from the lower hoist-side corner to the upper fly-side corner, into an upper yellow and a lower orange triangle. A fly-side facing white dragon holding four jewels in its claws is situated along the boundary of the two triangles."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/bt.png",

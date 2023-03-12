@@ -130,6 +130,10 @@
             "official": "República de Uganda",
             "common": "Uganda"
         },
+        "srp": {
+            "official": "Република Уганда",
+            "common": "Уганда"
+        },
         "swe": {
             "official": "Republiken Uganda",
             "common": "Uganda"
@@ -194,7 +198,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ug.png",
-        "svg": "https://flagcdn.com/ug.svg"
+        "svg": "https://flagcdn.com/ug.svg",
+        "alt": "The flag of Uganda is composed of six equal horizontal bands of black, yellow, red, black, yellow and red. A white circle bearing a hoist-side facing grey red-crested crane is superimposed in the center of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ug.png",

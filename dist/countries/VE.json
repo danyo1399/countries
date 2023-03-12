@@ -126,6 +126,10 @@
             "official": "República Bolivariana de Venezuela",
             "common": "Venezuela"
         },
+        "srp": {
+            "official": "Боливарска Република Венецуела",
+            "common": "Венецуела"
+        },
         "swe": {
             "official": "Bolivarianska republiken Venezuela",
             "common": "Venezuela"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ve.png",
-        "svg": "https://flagcdn.com/ve.svg"
+        "svg": "https://flagcdn.com/ve.svg",
+        "alt": "The flag of Venezuela is composed of three equal horizontal bands of yellow, blue and red. At the center of the blue band are eight five-pointed white stars arranged in a horizontal arc."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ve.png",

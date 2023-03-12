@@ -125,6 +125,10 @@
             "official": "Reino de España",
             "common": "España"
         },
+        "srp": {
+            "official": "Краљевина Шпанија",
+            "common": "Шпанија"
+        },
         "swe": {
             "official": "Konungariket Spanien",
             "common": "Spanien"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/es.png",
-        "svg": "https://flagcdn.com/es.svg"
+        "svg": "https://flagcdn.com/es.svg",
+        "alt": "The flag of Spain is composed of three horizontal bands of red, yellow and red, with the yellow band twice the height of the red bands. In the yellow band is the national coat of arms offset slightly towards the hoist side of center."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/es.png",
@@ -263,13 +268,6 @@
             "latitude": "38.87937480",
             "longitude": "-7.02269830",
             "code": "BA"
-        },
-        {
-            "name": "Balearic Islands",
-            "type": "province",
-            "latitude": "39.35877590",
-            "longitude": "2.73563280",
-            "code": "PM"
         },
         {
             "name": "Barcelona",
@@ -382,6 +380,13 @@
             "latitude": "41.59762750",
             "longitude": "-0.90566230",
             "code": "HU"
+        },
+        {
+            "name": "Islas Baleares",
+            "type": "province",
+            "latitude": "39.35877590",
+            "longitude": "2.73563280",
+            "code": "PM"
         },
         {
             "name": "Jaén",

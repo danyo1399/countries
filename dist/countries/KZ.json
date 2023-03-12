@@ -137,6 +137,10 @@
             "official": "República de Kazajstán",
             "common": "Kazajistán"
         },
+        "srp": {
+            "official": "Република Казахстан",
+            "common": "Казахстан"
+        },
         "swe": {
             "official": "Republiken Kazakstan",
             "common": "Kazakstan"
@@ -155,8 +159,8 @@
         }
     },
     "latlng": [
-        48,
-        68
+        48.0196,
+        66.9237
     ],
     "landlocked": true,
     "borders": [
@@ -202,7 +206,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/kz.png",
-        "svg": "https://flagcdn.com/kz.svg"
+        "svg": "https://flagcdn.com/kz.svg",
+        "alt": "The flag of Kazakhstan has a turquoise field, at the center of which is a gold sun with thirty-two rays above a soaring golden steppe eagle. A thin vertical band displays a national ornamental pattern — koshkar-muiz — in gold near the hoist end."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/kz.png",

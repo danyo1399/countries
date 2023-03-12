@@ -126,6 +126,10 @@
             "official": "República Democrática Federal de Etiopía",
             "common": "Etiopía"
         },
+        "srp": {
+            "official": "Савезна Демократска Република Етиопија",
+            "common": "Етиопија"
+        },
         "swe": {
             "official": "Demokratiska förbundsrepubliken Etiopien",
             "common": "Etiopien"
@@ -191,7 +195,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/et.png",
-        "svg": "https://flagcdn.com/et.svg"
+        "svg": "https://flagcdn.com/et.svg",
+        "alt": "The flag of Ethiopia is composed of three equal horizontal bands of green, yellow and red, with the national emblem superimposed at the center of the field. The national emblem comprises a light blue circle bearing a golden-yellow pentagram with single yellow rays emanating from the angles between the points of the pentagram."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/et.png",

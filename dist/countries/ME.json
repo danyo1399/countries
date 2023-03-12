@@ -124,6 +124,10 @@
             "official": "Montenegro",
             "common": "Montenegro"
         },
+        "srp": {
+            "official": "Црна Гора",
+            "common": "Црна Гора"
+        },
         "swe": {
             "official": "Montenegro",
             "common": "Montenegro"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/me.png",
-        "svg": "https://flagcdn.com/me.svg"
+        "svg": "https://flagcdn.com/me.svg",
+        "alt": "The flag of Montenegro features a large red central rectangular area surrounded by a golden-yellow border. The coat of arms of Montenegro is centered in the red rectangle."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/me.png",

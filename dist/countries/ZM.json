@@ -124,6 +124,10 @@
             "official": "República de Zambia",
             "common": "Zambia"
         },
+        "srp": {
+            "official": "Република Замбија",
+            "common": "Замбија"
+        },
         "swe": {
             "official": "Republiken Zambia",
             "common": "Zambia"
@@ -191,7 +195,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/zm.png",
-        "svg": "https://flagcdn.com/zm.svg"
+        "svg": "https://flagcdn.com/zm.svg",
+        "alt": "The flag of Zambia has a green field, on the fly side of which is a soaring orange African fish eagle above a rectangular area divided into three equal vertical bands of red, black and orange."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/zm.png",

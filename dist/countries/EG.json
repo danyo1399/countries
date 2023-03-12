@@ -125,6 +125,10 @@
             "official": "República Árabe de Egipto",
             "common": "Egipto"
         },
+        "srp": {
+            "official": "Арапска Република Египат",
+            "common": "Египат"
+        },
         "swe": {
             "official": "Arabrepubliken Egypten",
             "common": "Egypten"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/eg.png",
-        "svg": "https://flagcdn.com/eg.svg"
+        "svg": "https://flagcdn.com/eg.svg",
+        "alt": "The flag of Egypt is composed of three equal horizontal bands of red, white and black, with Egypt's national emblem — a hoist-side facing gold eagle of Saladin — centered in the white band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/eg.png",

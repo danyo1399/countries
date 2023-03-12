@@ -109,6 +109,10 @@
             "official": "Islas Heard y McDonald",
             "common": "Islas Heard y McDonald"
         },
+        "srp": {
+            "official": "Острва Херд и Макдоналд",
+            "common": "Острва Херд и Макдоналд"
+        },
         "swe": {
             "official": "Heard- och McDonaldöarna",
             "common": "Heard- och McDonaldöarna"
@@ -127,8 +131,8 @@
         }
     },
     "latlng": [
-        -53.1,
-        72.51666666
+        53.0818,
+        73.5042
     ],
     "landlocked": false,
     "area": 412,

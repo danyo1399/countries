@@ -135,6 +135,10 @@
             "official": "Estado Independiente de Papúa Nueva Guinea",
             "common": "Papúa Nueva Guinea"
         },
+        "srp": {
+            "official": "Независна Држава Папуа Нова Гвинеја",
+            "common": "Папуа Нова Гвинеја"
+        },
         "swe": {
             "official": "Den oberoende staten Papua Nya Guinea",
             "common": "Papua Nya Guinea"
@@ -195,7 +199,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/pg.png",
-        "svg": "https://flagcdn.com/pg.svg"
+        "svg": "https://flagcdn.com/pg.svg",
+        "alt": "The flag of Papua New Guinea is divided diagonally, from the upper hoist-side corner to the lower fly-side corner, into a lower black and an upper red triangle. On the hoist side of the lower black triangle is a representation of the Southern Cross constellation made up of one small and four larger five-pointed white stars. A golden Raggiana bird-of-paradise is situated on the fly side of the upper red triangle."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/pg.png",

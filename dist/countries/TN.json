@@ -125,6 +125,10 @@
             "official": "República de Túnez",
             "common": "Túnez"
         },
+        "srp": {
+            "official": "Тунишанска Република",
+            "common": "Тунис"
+        },
         "swe": {
             "official": "Republiken Tunisien",
             "common": "Tunisien"
@@ -186,7 +190,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/tn.png",
-        "svg": "https://flagcdn.com/tn.svg"
+        "svg": "https://flagcdn.com/tn.svg",
+        "alt": "The flag of Tunisia has a red field. A white circle bearing a five-pointed red star within a fly-side facing red crescent is situated at the center of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/tn.png",

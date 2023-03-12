@@ -169,6 +169,10 @@
             "official": "República de Namibia",
             "common": "Namibia"
         },
+        "srp": {
+            "official": "Република Намибија",
+            "common": "Намибија"
+        },
         "swe": {
             "official": "Republiken Namibia",
             "common": "Namibia"
@@ -232,7 +236,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/na.png",
-        "svg": "https://flagcdn.com/na.svg"
+        "svg": "https://flagcdn.com/na.svg",
+        "alt": "The flag of Namibia features a white-edged red diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a blue and green triangle respectively. A gold sun with twelve triangular rays is situated on the hoist side of the upper triangle."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/na.png",

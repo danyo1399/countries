@@ -143,6 +143,10 @@
             "official": "República de Singapur",
             "common": "Singapur"
         },
+        "srp": {
+            "official": "Република Сингапур",
+            "common": "Сингапур"
+        },
         "swe": {
             "official": "Republiken Singapore",
             "common": "Singapore"
@@ -193,7 +197,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/sg.png",
-        "svg": "https://flagcdn.com/sg.svg"
+        "svg": "https://flagcdn.com/sg.svg",
+        "alt": "The flag of Singapore is composed of two equal horizontal bands of red and white. On the hoist side of the red band is a fly-side facing white crescent which partially encloses five small five-pointed white stars arranged in the shape of a pentagon."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/sg.png",

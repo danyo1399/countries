@@ -128,6 +128,10 @@
             "official": "República de Corea",
             "common": "Corea del Sur"
         },
+        "srp": {
+            "official": "Република Кореја",
+            "common": "Јужна Кореја"
+        },
         "swe": {
             "official": "Republiken Korea",
             "common": "Sydkorea"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/kr.png",
-        "svg": "https://flagcdn.com/kr.svg"
+        "svg": "https://flagcdn.com/kr.svg",
+        "alt": "The flag of South Korea has a white field, at the center of which is a red and blue Taegeuk circle surrounded by four black trigrams, one in each corner."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/kr.png",

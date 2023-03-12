@@ -123,6 +123,10 @@
             "official": "Islas Caimán",
             "common": "Islas Caimán"
         },
+        "srp": {
+            "official": "Кајманска Острва",
+            "common": "Кајманска Острва"
+        },
         "swe": {
             "official": "Caymanöarna",
             "common": "Caymanöarna"
@@ -141,8 +145,8 @@
         }
     },
     "latlng": [
-        19.5,
-        -80.5
+        19.3133,
+        81.2546
     ],
     "landlocked": false,
     "area": 264,

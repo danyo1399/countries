@@ -130,6 +130,10 @@
             "official": "Estado Independiente de Samoa",
             "common": "Samoa"
         },
+        "srp": {
+            "official": "Независна Држава Самоа",
+            "common": "Самоа"
+        },
         "swe": {
             "official": "Självständiga staten Samoa",
             "common": "Samoa"
@@ -187,7 +191,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ws.png",
-        "svg": "https://flagcdn.com/ws.svg"
+        "svg": "https://flagcdn.com/ws.svg",
+        "alt": "The flag of Samoa has a red field. A blue rectangle, bearing a representation of the Southern Cross made up of five large and one smaller five-pointed white stars, is superimposed in the canton."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ws.png",

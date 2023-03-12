@@ -130,6 +130,10 @@
             "official": "República de Guinea-Bissau",
             "common": "Guinea-Bisáu"
         },
+        "srp": {
+            "official": "Република Гвинеја Бисао",
+            "common": "Гвинеја Бисао"
+        },
         "swe": {
             "official": "Republiken Guinea-Bissau",
             "common": "Guinea-Bissau"
@@ -191,7 +195,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/gw.png",
-        "svg": "https://flagcdn.com/gw.svg"
+        "svg": "https://flagcdn.com/gw.svg",
+        "alt": "The flag of Guinea-Bissau features a red vertical band on its hoist side that takes up about two-fifth the width of the field, and two equal horizontal bands of yellow and green adjoining the vertical band. A five-pointed black star is centered in the vertical band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/gw.png",

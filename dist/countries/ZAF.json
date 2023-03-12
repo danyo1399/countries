@@ -132,7 +132,7 @@
         },
         "hrv": {
             "official": "Južnoafrička Republika",
-            "common": "Južnoafrička Republika"
+            "common": "Južna Afrika"
         },
         "hun": {
             "official": "Dél-afrikai Köztársaság",
@@ -168,15 +168,19 @@
         },
         "rus": {
             "official": "Южно-Африканская Республика",
-            "common": "Южно-Африканская Республика"
+            "common": "Южная Африка"
         },
         "slk": {
             "official": "Juhoafrická republika",
-            "common": "Juhoafrická republika"
+            "common": "Južná Afrika"
         },
         "spa": {
             "official": "República de Sudáfrica",
-            "common": "República de Sudáfrica"
+            "common": "Sudáfrica"
+        },
+        "srp": {
+            "official": "Република Јужна Африка",
+            "common": "Јужноафричка Република"
         },
         "swe": {
             "official": "Republiken Sydafrika",
@@ -243,7 +247,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/za.png",
-        "svg": "https://flagcdn.com/za.svg"
+        "svg": "https://flagcdn.com/za.svg",
+        "alt": "The flag of South Africa is composed of two equal horizontal bands of red and blue, with a yellow-edged black isosceles triangle superimposed on the hoist side of the field. This triangle has its base centered on the hoist end, spans about two-fifth the width and two-third the height of the field, and is enclosed on its sides by the arms of a white-edged green horizontally oriented Y-shaped band which extends along the boundary of the red and blue bands to the fly end of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/za.png",

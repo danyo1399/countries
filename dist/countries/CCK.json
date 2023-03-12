@@ -124,6 +124,10 @@
             "official": "Territorio de los (Keeling) Islas Cocos",
             "common": "Islas Cocos o Islas Keeling"
         },
+        "srp": {
+            "official": "Кокосова (Килинг) Острва",
+            "common": "Кокосова Острва"
+        },
         "swe": {
             "official": "Kokosöarna",
             "common": "Kokosöarna"
@@ -142,8 +146,8 @@
         }
     },
     "latlng": [
-        -12.5,
-        96.83333333
+        12.1642,
+        96.871
     ],
     "landlocked": false,
     "area": 14,

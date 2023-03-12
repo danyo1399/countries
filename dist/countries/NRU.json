@@ -132,6 +132,10 @@
             "official": "República de Nauru",
             "common": "Nauru"
         },
+        "srp": {
+            "official": "Република Науру",
+            "common": "Науру"
+        },
         "swe": {
             "official": "Republiken Nauru",
             "common": "Nauru"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/nr.png",
-        "svg": "https://flagcdn.com/nr.svg"
+        "svg": "https://flagcdn.com/nr.svg",
+        "alt": "The flag of Nauru has a dark blue field with a thin yellow horizontal band across the center and a large white twelve-pointed star beneath the horizontal band on the hoist side of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/nr.png",

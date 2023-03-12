@@ -114,6 +114,10 @@
             "official": "Isla Bouvet",
             "common": "Isla Bouvet"
         },
+        "srp": {
+            "official": "Буве",
+            "common": "Буве"
+        },
         "swe": {
             "official": "Bouvetön",
             "common": "Bouvetön"
@@ -132,8 +136,8 @@
         }
     },
     "latlng": [
-        -54.43333333,
-        3.4
+        54.4208,
+        3.3464
     ],
     "landlocked": false,
     "area": 49,

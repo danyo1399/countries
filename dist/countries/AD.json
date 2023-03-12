@@ -125,6 +125,10 @@
             "official": "Principado de Andorra",
             "common": "Andorra"
         },
+        "srp": {
+            "official": "Кнежевина Андора",
+            "common": "Андора"
+        },
         "swe": {
             "official": "Furstendömet Andorra",
             "common": "Andorra"
@@ -183,7 +187,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ad.png",
-        "svg": "https://flagcdn.com/ad.svg"
+        "svg": "https://flagcdn.com/ad.svg",
+        "alt": "The flag of Andorra features three equal vertical bands of blue, yellow and red, with the coat of arms of Andorra centered in the yellow band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ad.png",

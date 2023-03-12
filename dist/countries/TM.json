@@ -128,6 +128,10 @@
             "official": "Turkmenistán",
             "common": "Turkmenistán"
         },
+        "srp": {
+            "official": "Туркменистан",
+            "common": "Туркменистан"
+        },
         "swe": {
             "official": "Turkmenistan",
             "common": "Turkmenistan"
@@ -191,7 +195,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/tm.png",
-        "svg": "https://flagcdn.com/tm.svg"
+        "svg": "https://flagcdn.com/tm.svg",
+        "alt": "The flag of Turkmenistan has a green field. It features a red vertical band, bearing five carpet guls stacked above two crossed olive branches, near the hoist end of the field. Just to the fly side of the vertical band near the top edge of the field is a hoist-side facing white crescent and five small five-pointed white stars placed just outside the crescent opening."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/tm.png",

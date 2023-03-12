@@ -125,6 +125,10 @@
             "official": "República francés",
             "common": "Francia"
         },
+        "srp": {
+            "official": "Француска Република",
+            "common": "Француска"
+        },
         "swe": {
             "official": "Republiken Frankrike",
             "common": "Frankrike"
@@ -205,7 +209,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/fr.png",
-        "svg": "https://flagcdn.com/fr.svg"
+        "svg": "https://flagcdn.com/fr.svg",
+        "alt": "The flag of France is composed of three equal vertical bands of blue, white and red."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/fr.png",

@@ -125,6 +125,10 @@
             "official": "República de El Salvador",
             "common": "El Salvador"
         },
+        "srp": {
+            "official": "Република Ел Салвадор",
+            "common": "Салвадор"
+        },
         "swe": {
             "official": "Republiken El Salvador",
             "common": "El Salvador"
@@ -186,7 +190,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/sv.png",
-        "svg": "https://flagcdn.com/sv.svg"
+        "svg": "https://flagcdn.com/sv.svg",
+        "alt": "The flag of El Salvador is composed of three equal horizontal bands of cobalt blue, white and cobalt blue, with the national coat of arms centered in the white band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/sv.png",

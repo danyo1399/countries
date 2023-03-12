@@ -20,9 +20,9 @@
     "status": "officially-assigned",
     "unMember": true,
     "currencies": {
-        "HRK": {
-            "name": "Croatian kuna",
-            "symbol": "kn"
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
         }
     },
     "idd": {
@@ -126,6 +126,10 @@
             "official": "República de Croacia",
             "common": "Croacia"
         },
+        "srp": {
+            "official": "Република Хрватска",
+            "common": "Хрватска"
+        },
         "swe": {
             "official": "Republiken Kroatien",
             "common": "Kroatien"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/hr.png",
-        "svg": "https://flagcdn.com/hr.svg"
+        "svg": "https://flagcdn.com/hr.svg",
+        "alt": "The flag of Croatia is composed of three equal horizontal bands of red, white and blue, with coat of arms of Croatia superimposed in the center."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/hr.png",

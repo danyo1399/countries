@@ -130,6 +130,10 @@
             "official": "República de Camerún",
             "common": "Camerún"
         },
+        "srp": {
+            "official": "Република Камерун",
+            "common": "Камерун"
+        },
         "swe": {
             "official": "Republiken Kamerun",
             "common": "Kamerun"
@@ -195,7 +199,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/cm.png",
-        "svg": "https://flagcdn.com/cm.svg"
+        "svg": "https://flagcdn.com/cm.svg",
+        "alt": "The flag of Cameroon is composed of three equal vertical bands of green, red and yellow, with a yellow five-pointed star in the center."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/cm.png",

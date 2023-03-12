@@ -147,6 +147,10 @@
             "official": "República Democrática del Congo",
             "common": "Congo (Rep. Dem.)"
         },
+        "srp": {
+            "official": "Демократска Република Конго",
+            "common": "ДР Конго"
+        },
         "swe": {
             "official": "Demokratiska republiken Kongo",
             "common": "Kongo-Kinshasa"
@@ -216,7 +220,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/cd.png",
-        "svg": "https://flagcdn.com/cd.svg"
+        "svg": "https://flagcdn.com/cd.svg",
+        "alt": "The flag of the Democratic Republic of the Congo has a sky-blue field with a yellow-edged red diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. A large five-pointed yellow star is situated above the diagonal band on the upper hoist side of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/cd.png",

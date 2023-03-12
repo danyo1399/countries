@@ -131,6 +131,10 @@
             "official": "República de Burundi",
             "common": "Burundi"
         },
+        "srp": {
+            "official": "Република Бурунди",
+            "common": "Бурунди"
+        },
         "swe": {
             "official": "Republiken Burundi",
             "common": "Burundi"
@@ -193,7 +197,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/bi.png",
-        "svg": "https://flagcdn.com/bi.svg"
+        "svg": "https://flagcdn.com/bi.svg",
+        "alt": "The flag of Burundi is divided by a white diagonal cross into four alternating triangular areas of red at the top and bottom, and green on the hoist and fly sides. A white circle, with three green-edged red six-pointed stars arranged to form a triangle, is superimposed at the center of the cross."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/bi.png",

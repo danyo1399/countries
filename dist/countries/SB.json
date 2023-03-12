@@ -123,6 +123,10 @@
             "official": "islas Salomón",
             "common": "Islas Salomón"
         },
+        "srp": {
+            "official": "Соломонска Острва",
+            "common": "Соломонска Острва"
+        },
         "swe": {
             "official": "Salomonöarna",
             "common": "Salomonöarna"
@@ -180,7 +184,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/sb.png",
-        "svg": "https://flagcdn.com/sb.svg"
+        "svg": "https://flagcdn.com/sb.svg",
+        "alt": "The flag of Solomon Islands features a thin yellow diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a blue and green triangle respectively. Five white five-pointed stars arranged in an X shape are situated on the hoist side of the upper blue triangle."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/sb.png",

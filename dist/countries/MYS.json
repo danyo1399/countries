@@ -128,6 +128,10 @@
             "official": "Malasia",
             "common": "Malasia"
         },
+        "srp": {
+            "official": "Малезија",
+            "common": "Малезија"
+        },
         "swe": {
             "official": "Malaysia",
             "common": "Malaysia"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/my.png",
-        "svg": "https://flagcdn.com/my.svg"
+        "svg": "https://flagcdn.com/my.svg",
+        "alt": "The flag of Malaysia is composed of fourteen equal horizontal bands of red alternating with white. A blue rectangle, bearing a fly-side facing yellow crescent and a fourteen-pointed yellow star placed just outside the crescent opening, is superimposed in the canton."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/my.png",

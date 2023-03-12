@@ -134,6 +134,10 @@
             "official": "República Democrática de Timor-Leste",
             "common": "Timor Oriental"
         },
+        "srp": {
+            "official": "Демократска Република Источни Тимор",
+            "common": "Источни Тимор"
+        },
         "swe": {
             "official": "Demokratiska republiken Östtimor",
             "common": "Östtimor"
@@ -194,7 +198,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/tl.png",
-        "svg": "https://flagcdn.com/tl.svg"
+        "svg": "https://flagcdn.com/tl.svg",
+        "alt": "The flag of Timor-Leste has a red field with two isosceles triangles which share a common base on the hoist end. The smaller black triangle, which bears a five-pointed white star at its center and spans one-third the width of the field, is superimposed on the larger yellow triangle that extends to the center of the field."
     },
     "coatOfArms": {},
     "startOfWeek": "monday",

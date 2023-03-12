@@ -125,6 +125,10 @@
             "official": "Reino Unido de Gran Bretaña e Irlanda del Norte",
             "common": "Reino Unido"
         },
+        "srp": {
+            "official": "Уједињено Краљевство Велике Британије и Северне Ирске",
+            "common": "Уједињено Краљевство"
+        },
         "swe": {
             "official": "Förenade konungariket Storbritannien och Nordirland",
             "common": "Storbritannien"
@@ -192,7 +196,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/gb.png",
-        "svg": "https://flagcdn.com/gb.svg"
+        "svg": "https://flagcdn.com/gb.svg",
+        "alt": "The flag of the United Kingdom — the Union Jack — has a blue field. It features the white-edged red cross of Saint George superimposed on the diagonal red cross of Saint Patrick which is superimposed on the diagonal white cross of Saint Andrew."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/gb.png",

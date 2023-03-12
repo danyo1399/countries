@@ -128,6 +128,10 @@
             "official": "Reino de Camboya",
             "common": "Camboya"
         },
+        "srp": {
+            "official": "Краљевина Камбоџа",
+            "common": "Камбоџа"
+        },
         "swe": {
             "official": "Konungariket Kambodja",
             "common": "Kambodja"
@@ -187,7 +191,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/kh.png",
-        "svg": "https://flagcdn.com/kh.svg"
+        "svg": "https://flagcdn.com/kh.svg",
+        "alt": "The flag of Cambodia features three horizontal bands of blue, red and blue, with a white depiction of the temple complex, Angkor Wat centered in the red band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/kh.png",

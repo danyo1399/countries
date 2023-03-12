@@ -126,6 +126,10 @@
             "official": "Estado de Qatar",
             "common": "Catar"
         },
+        "srp": {
+            "official": "Држава Катар",
+            "common": "Катар"
+        },
         "swe": {
             "official": "Staten Qatar",
             "common": "Qatar"
@@ -183,7 +187,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/qa.png",
-        "svg": "https://flagcdn.com/qa.svg"
+        "svg": "https://flagcdn.com/qa.svg",
+        "alt": "The flag of Qatar has a maroon field, on the hoist side of which is a white vertical band that spans about one-third the width of the field and is separated from the rest of the field by nine adjoining fly-side pointing white isosceles triangles that serve as a serrated line."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/qa.png",

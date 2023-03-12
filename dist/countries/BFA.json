@@ -123,6 +123,10 @@
             "official": "Burkina Faso",
             "common": "Burkina Faso"
         },
+        "srp": {
+            "official": "Буркина Фасо",
+            "common": "Буркина Фасо"
+        },
         "swe": {
             "official": "Burkina Faso",
             "common": "Burkina Faso"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/bf.png",
-        "svg": "https://flagcdn.com/bf.svg"
+        "svg": "https://flagcdn.com/bf.svg",
+        "alt": "The flag of Burkina Faso features two equal horizontal bands of red and green, with a yellow five-pointed star in the center."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/bf.png",

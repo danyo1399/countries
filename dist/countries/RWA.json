@@ -136,6 +136,10 @@
             "official": "República de Rwanda",
             "common": "Ruanda"
         },
+        "srp": {
+            "official": "Република Руанда",
+            "common": "Руанда"
+        },
         "swe": {
             "official": "Republiken Rwanda",
             "common": "Rwanda"
@@ -199,7 +203,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/rw.png",
-        "svg": "https://flagcdn.com/rw.svg"
+        "svg": "https://flagcdn.com/rw.svg",
+        "alt": "The flag of Rwanda is composed of three horizontal bands of light blue, yellow and green. The light blue band is twice the height of the other two bands and bears a yellow sun with twenty-four rays on its fly side."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/rw.png",

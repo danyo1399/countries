@@ -126,6 +126,10 @@
             "official": "Islandia",
             "common": "Islandia"
         },
+        "srp": {
+            "official": "Исланд",
+            "common": "Исланд"
+        },
         "swe": {
             "official": "Island",
             "common": "Island"
@@ -183,7 +187,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/is.png",
-        "svg": "https://flagcdn.com/is.svg"
+        "svg": "https://flagcdn.com/is.svg",
+        "alt": "The flag of Iceland has a blue field with a large white-edged red cross that extends to the edges of the field. The vertical part of this cross is offset towards the hoist side."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/is.png",

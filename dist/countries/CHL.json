@@ -125,6 +125,10 @@
             "official": "República de Chile",
             "common": "Chile"
         },
+        "srp": {
+            "official": "Република Чиле",
+            "common": "Чиле"
+        },
         "swe": {
             "official": "Republiken Chile",
             "common": "Chile"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/cl.png",
-        "svg": "https://flagcdn.com/cl.svg"
+        "svg": "https://flagcdn.com/cl.svg",
+        "alt": "The flag of Chile is composed of two equal horizontal bands of white and red, with a blue square of the same height as the white band superimposed in the canton. A white five-pointed star is centered in the blue square."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/cl.png",

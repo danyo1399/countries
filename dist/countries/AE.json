@@ -56,7 +56,7 @@
         },
         "ces": {
             "official": "Spojené arabské emiráty",
-            "common": "Spojené arabské emiráty"
+            "common": "Arabské emiráty"
         },
         "cym": {
             "official": "United Arab Emirates",
@@ -80,7 +80,7 @@
         },
         "hrv": {
             "official": "Ujedinjeni Arapski Emirati",
-            "common": "Ujedinjeni Arapski Emirati"
+            "common": "Arapski Emirati"
         },
         "hun": {
             "official": "Egyesült Arab Emírségek",
@@ -108,7 +108,7 @@
         },
         "pol": {
             "official": "Zjednoczone Emiraty Arabskie",
-            "common": "Zjednoczone Emiraty Arabskie"
+            "common": "Emiraty Arabskie"
         },
         "por": {
             "official": "Emirados Árabes Unidos",
@@ -120,11 +120,15 @@
         },
         "slk": {
             "official": "Spojené arabské emiráty",
-            "common": "Spojené arabské emiráty"
+            "common": "Arabské emiráty"
         },
         "spa": {
             "official": "Emiratos Árabes Unidos",
             "common": "Emiratos Árabes Unidos"
+        },
+        "srp": {
+            "official": "Уједињени Арапски Емирати",
+            "common": "Уједињени Арапски Емирати"
         },
         "swe": {
             "official": "Förenade Arabemiraten",
@@ -187,7 +191,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ae.png",
-        "svg": "https://flagcdn.com/ae.svg"
+        "svg": "https://flagcdn.com/ae.svg",
+        "alt": "The flag of United Arab Emirates features a red vertical band on its hoist side that takes up about one-fourth the width of the field and three equal horizontal bands of green, white and black adjoining the vertical band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ae.png",

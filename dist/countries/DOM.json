@@ -125,6 +125,10 @@
             "official": "República Dominicana",
             "common": "República Dominicana"
         },
+        "srp": {
+            "official": "Доминиканска Република",
+            "common": "Доминикана"
+        },
         "swe": {
             "official": "Dominikanska republiken",
             "common": "Dominikanska republiken"
@@ -185,7 +189,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/do.png",
-        "svg": "https://flagcdn.com/do.svg"
+        "svg": "https://flagcdn.com/do.svg",
+        "alt": "The flag of the Dominican Republic is divided into four rectangles by a centered white cross that extends to the edges of the field and bears the national coat of arms in its center. The upper hoist-side and lower fly-side rectangles are blue and the lower hoist-side and upper fly-side rectangles are red."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/do.png",

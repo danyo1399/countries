@@ -123,6 +123,10 @@
             "official": "República de Guatemala",
             "common": "Guatemala"
         },
+        "srp": {
+            "official": "Република Гватемала",
+            "common": "Гватемала"
+        },
         "swe": {
             "official": "Republiken Guatemala",
             "common": "Guatemala"
@@ -186,7 +190,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/gt.png",
-        "svg": "https://flagcdn.com/gt.svg"
+        "svg": "https://flagcdn.com/gt.svg",
+        "alt": "The flag of Guatemala is composed of three equal vertical bands of light blue, white and light blue, with the national coat of arms centered in the white band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/gt.png",

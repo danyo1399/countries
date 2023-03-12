@@ -131,6 +131,10 @@
             "official": "República de Madagascar",
             "common": "Madagascar"
         },
+        "srp": {
+            "official": "Република Мадагаскар",
+            "common": "Мадагаскар"
+        },
         "swe": {
             "official": "Republiken Madagaskar",
             "common": "Madagaskar"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/mg.png",
-        "svg": "https://flagcdn.com/mg.svg"
+        "svg": "https://flagcdn.com/mg.svg",
+        "alt": "The flag of Madagascar features a white vertical band on the hoist side that takes up about one-third the width of the field, and two equal horizontal bands of red and green adjoining the vertical band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/mg.png",

@@ -125,6 +125,10 @@
             "official": "República de Honduras",
             "common": "Honduras"
         },
+        "srp": {
+            "official": "Република Хондурас",
+            "common": "Хондурас"
+        },
         "swe": {
             "official": "Republiken Honduras",
             "common": "Honduras"
@@ -187,7 +191,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/hn.png",
-        "svg": "https://flagcdn.com/hn.svg"
+        "svg": "https://flagcdn.com/hn.svg",
+        "alt": "The flag of Honduras is composed of three equal horizontal bands of turquoise, white and turquoise, with five small five-pointed turquoise stars arranged in a quincuncial pattern at the center of the white band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/hn.png",

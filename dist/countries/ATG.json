@@ -123,6 +123,10 @@
             "official": "Antigua y Barbuda",
             "common": "Antigua y Barbuda"
         },
+        "srp": {
+            "official": "Антигва и Барбуда",
+            "common": "Антигва и Барбуда"
+        },
         "swe": {
             "official": "Antigua och Barbuda",
             "common": "Antigua och Barbuda"
@@ -177,7 +181,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ag.png",
-        "svg": "https://flagcdn.com/ag.svg"
+        "svg": "https://flagcdn.com/ag.svg",
+        "alt": "The flag of Antigua and Barbuda has a red field with an inverted isosceles triangle based on the top edge and spanning the height of the field. This triangle has three horizontal bands of black, light blue and white, with the light blue band half the height of the two other bands. The top half of a golden-yellow sun is situated in the lower two-third of the black band to depict a rising sun."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ag.png",

@@ -441,6 +441,10 @@
             "official": "Estados Unidos de América",
             "common": "Estados Unidos"
         },
+        "srp": {
+            "official": "Сједињене Америчке Државе",
+            "common": "Сједињене Америчке Државе"
+        },
         "swe": {
             "official": "Amerikas förenta stater",
             "common": "USA"
@@ -512,7 +516,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/us.png",
-        "svg": "https://flagcdn.com/us.svg"
+        "svg": "https://flagcdn.com/us.svg",
+        "alt": "The flag of the United States of America is composed of thirteen equal horizontal bands of red alternating with white. A blue rectangle, bearing fifty small five-pointed white stars arranged in nine rows where rows of six stars alternate with rows of five stars, is superimposed in the canton."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/us.png",

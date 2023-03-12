@@ -130,6 +130,10 @@
             "official": "Estado de Israel",
             "common": "Israel"
         },
+        "srp": {
+            "official": "Држава Израел",
+            "common": "Израел"
+        },
         "swe": {
             "official": "Staten Israel",
             "common": "Israel"
@@ -194,7 +198,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/il.png",
-        "svg": "https://flagcdn.com/il.svg"
+        "svg": "https://flagcdn.com/il.svg",
+        "alt": "The flag of Israel has a white field with a blue hexagram — the Magen David — centered between two equal horizontal blue bands situated near the top and bottom edges of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/il.png",

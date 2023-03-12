@@ -131,6 +131,10 @@
             "official": "República de Haití",
             "common": "Haití"
         },
+        "srp": {
+            "official": "Република Хаити",
+            "common": "Хаити"
+        },
         "swe": {
             "official": "Republiken Haiti",
             "common": "Haiti"
@@ -191,7 +195,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ht.png",
-        "svg": "https://flagcdn.com/ht.svg"
+        "svg": "https://flagcdn.com/ht.svg",
+        "alt": "The flag of Haiti is composed of two equal horizontal bands of blue and red. A white square bearing the national coat of arms is superimposed at the center of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ht.png",

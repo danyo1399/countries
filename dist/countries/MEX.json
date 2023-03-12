@@ -126,6 +126,10 @@
             "official": "Estados Unidos Mexicanos",
             "common": "México"
         },
+        "srp": {
+            "official": "Сједињене Мексичке Државе",
+            "common": "Мексико"
+        },
         "swe": {
             "official": "Mexikos förenta stater",
             "common": "Mexiko"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/mx.png",
-        "svg": "https://flagcdn.com/mx.svg"
+        "svg": "https://flagcdn.com/mx.svg",
+        "alt": "The flag of Mexico is composed of three equal vertical bands of green, white and red, with the national coat of arms centered in the white band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/mx.png",

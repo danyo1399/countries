@@ -127,6 +127,10 @@
             "official": "República de Suriname",
             "common": "Surinam"
         },
+        "srp": {
+            "official": "Република Суринам",
+            "common": "Суринам"
+        },
         "swe": {
             "official": "Republiken Surinam",
             "common": "Surinam"
@@ -189,7 +193,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/sr.png",
-        "svg": "https://flagcdn.com/sr.svg"
+        "svg": "https://flagcdn.com/sr.svg",
+        "alt": "The flag of Suriname is composed of five horizontal bands of green, white, red, white and green in the ratio of 2:1:4:1:2. A large five-pointed yellow star is centered in the red band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/sr.png",

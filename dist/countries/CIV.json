@@ -127,6 +127,10 @@
             "official": "República de Côte d'Ivoire",
             "common": "Costa de Marfil"
         },
+        "srp": {
+            "official": "Република Обала Слоноваче",
+            "common": "Обала Слоноваче"
+        },
         "swe": {
             "official": "Republiken Elfenbenskusten",
             "common": "Elfenbenskusten"
@@ -191,7 +195,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ci.png",
-        "svg": "https://flagcdn.com/ci.svg"
+        "svg": "https://flagcdn.com/ci.svg",
+        "alt": "The flag of Ivory Coast is composed of three equal vertical bands of orange, white and green."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ci.png",

@@ -131,6 +131,10 @@
             "official": "Federación de Rusia",
             "common": "Rusia"
         },
+        "srp": {
+            "official": "Руска Федерација",
+            "common": "Русија"
+        },
         "swe": {
             "official": "Ryska federationen",
             "common": "Ryssland"
@@ -212,7 +216,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ru.png",
-        "svg": "https://flagcdn.com/ru.svg"
+        "svg": "https://flagcdn.com/ru.svg",
+        "alt": "The flag of Russia is composed of three equal horizontal bands of white, blue and red."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ru.png",

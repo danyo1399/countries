@@ -126,6 +126,10 @@
             "official": "Reino Hachemita de Jordania",
             "common": "Jordania"
         },
+        "srp": {
+            "official": "Хашемитска Краљевина Јордан",
+            "common": "Јордан"
+        },
         "swe": {
             "official": "Hashimitiska kungadömet Jordanien",
             "common": "Jordanien"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/jo.png",
-        "svg": "https://flagcdn.com/jo.svg"
+        "svg": "https://flagcdn.com/jo.svg",
+        "alt": "The flag of Jordan is composed of three equal horizontal bands of black, white and green, with a red isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about half the width of the field and bears a small seven-pointed white star at its center."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/jo.png",

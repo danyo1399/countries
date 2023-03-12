@@ -125,6 +125,10 @@
             "official": "República de Malí",
             "common": "Mali"
         },
+        "srp": {
+            "official": "Република Мали",
+            "common": "Мали"
+        },
         "swe": {
             "official": "Republiken Mali",
             "common": "Mali"
@@ -191,7 +195,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ml.png",
-        "svg": "https://flagcdn.com/ml.svg"
+        "svg": "https://flagcdn.com/ml.svg",
+        "alt": "The flag of Mali is composed of three equal vertical bands of green, yellow and red."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ml.png",

@@ -127,6 +127,10 @@
             "official": "República de Macedonia del Norte",
             "common": "Macedonia del Norte"
         },
+        "srp": {
+            "official": "Република Северна Македонија",
+            "common": "Северна Македонија"
+        },
         "swe": {
             "official": "Republiken Nordmakedonien",
             "common": "Nordmakedonien"
@@ -191,7 +195,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/mk.png",
-        "svg": "https://flagcdn.com/mk.svg"
+        "svg": "https://flagcdn.com/mk.svg",
+        "alt": "The flag of North Macedonia has a red field, at the center of which is a golden-yellow sun with eight broadening rays that extend to the edges of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/mk.png",

@@ -146,6 +146,10 @@
             "official": "Estado Plurinacional de Bolivia",
             "common": "Bolivia"
         },
+        "srp": {
+            "official": "Вишенационална Држава Боливија",
+            "common": "Боливија"
+        },
         "swe": {
             "official": "Mångnationella staten Bolivia",
             "common": "Bolivia"
@@ -210,7 +214,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/bo.png",
-        "svg": "https://flagcdn.com/bo.svg"
+        "svg": "https://flagcdn.com/bo.svg",
+        "alt": "The flag of Bolivia is composed of three equal horizontal bands of red, yellow and green, with the national coat of arms centered in the yellow band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/bo.png",

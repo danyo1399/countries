@@ -135,6 +135,10 @@
             "official": "República de Irak",
             "common": "Irak"
         },
+        "srp": {
+            "official": "Република Ирак",
+            "common": "Ирак"
+        },
         "swe": {
             "official": "Republiken Irak",
             "common": "Irak"
@@ -200,7 +204,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/iq.png",
-        "svg": "https://flagcdn.com/iq.svg"
+        "svg": "https://flagcdn.com/iq.svg",
+        "alt": "The flag of Iraq is composed of three equal horizontal bands of red, white and black. In the central white band are Arabic inscriptions in green."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/iq.png",

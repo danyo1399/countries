@@ -123,6 +123,10 @@
             "official": "Santa Lucía",
             "common": "Santa Lucía"
         },
+        "srp": {
+            "official": "Света Луција",
+            "common": "Света Луција"
+        },
         "swe": {
             "official": "Saint Lucia",
             "common": "Saint Lucia"
@@ -180,7 +184,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/lc.png",
-        "svg": "https://flagcdn.com/lc.svg"
+        "svg": "https://flagcdn.com/lc.svg",
+        "alt": "The flag of Saint Lucia has a light blue field, at the center of which are two triangles which share a common base — a small golden-yellow isosceles triangle superimposed on a large white-edged black isosceles triangle."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/lc.png",

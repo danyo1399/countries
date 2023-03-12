@@ -126,6 +126,10 @@
             "official": "Japón",
             "common": "Japón"
         },
+        "srp": {
+            "official": "Јапан",
+            "common": "Јапан"
+        },
         "swe": {
             "official": "Japan",
             "common": "Japan"
@@ -183,7 +187,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/jp.png",
-        "svg": "https://flagcdn.com/jp.svg"
+        "svg": "https://flagcdn.com/jp.svg",
+        "alt": "The flag of Japan features a crimson-red circle at the center of a white field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/jp.png",

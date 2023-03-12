@@ -128,6 +128,10 @@
             "official": "Canadá",
             "common": "Canadá"
         },
+        "srp": {
+            "official": "Канада",
+            "common": "Канада"
+        },
         "swe": {
             "official": "Kanada",
             "common": "Kanada"
@@ -193,7 +197,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ca.png",
-        "svg": "https://flagcdn.com/ca.svg"
+        "svg": "https://flagcdn.com/ca.svg",
+        "alt": "The flag of Canada is composed of a red vertical band on the hoist and fly sides and a central white square that is twice the width of the vertical bands. A large eleven-pointed red maple leaf is centered in the white square."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ca.png",

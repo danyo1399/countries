@@ -129,6 +129,10 @@
             "official": "República de Malawi",
             "common": "Malawi"
         },
+        "srp": {
+            "official": "Република Малави",
+            "common": "Малави"
+        },
         "swe": {
             "official": "Republiken Malawi",
             "common": "Malawi"
@@ -191,7 +195,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/mw.png",
-        "svg": "https://flagcdn.com/mw.svg"
+        "svg": "https://flagcdn.com/mw.svg",
+        "alt": "The flag of Malawi is composed of three equal horizontal bands of black, red and green. The top half of a red sun with thirty-one visible rays is centered in the black band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/mw.png",

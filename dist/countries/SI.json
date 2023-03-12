@@ -125,6 +125,10 @@
             "official": "República de Eslovenia",
             "common": "Eslovenia"
         },
+        "srp": {
+            "official": "Република Словенија",
+            "common": "Словенија"
+        },
         "swe": {
             "official": "Republiken Slovenien",
             "common": "Slovenien"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/si.png",
-        "svg": "https://flagcdn.com/si.svg"
+        "svg": "https://flagcdn.com/si.svg",
+        "alt": "The flag of Slovenia is composed of three equal horizontal bands of white, blue and red. The national coat of arms is situated in the upper hoist side of the field centered on the boundary between the white and blue bands."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/si.png",

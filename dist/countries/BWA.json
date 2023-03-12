@@ -130,6 +130,10 @@
             "official": "República de Botswana",
             "common": "Botswana"
         },
+        "srp": {
+            "official": "Република Боцвана",
+            "common": "Боцвана"
+        },
         "swe": {
             "official": "Republiken Botswana",
             "common": "Botswana"
@@ -193,7 +197,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/bw.png",
-        "svg": "https://flagcdn.com/bw.svg"
+        "svg": "https://flagcdn.com/bw.svg",
+        "alt": "The flag of Botswana has a light blue field with a white-edged black horizontal band across its center."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/bw.png",

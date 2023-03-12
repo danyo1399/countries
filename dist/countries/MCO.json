@@ -125,6 +125,10 @@
             "official": "Principado de Mónaco",
             "common": "Mónaco"
         },
+        "srp": {
+            "official": "Кнежевина Монако",
+            "common": "Монако"
+        },
         "swe": {
             "official": "Furstendömet Monaco",
             "common": "Monaco"
@@ -181,7 +185,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/mc.png",
-        "svg": "https://flagcdn.com/mc.svg"
+        "svg": "https://flagcdn.com/mc.svg",
+        "alt": "The flag of Monaco is composed of two equal horizontal bands of red and white."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/mc.png",

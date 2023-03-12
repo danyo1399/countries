@@ -126,6 +126,10 @@
             "official": "República Portuguesa",
             "common": "Portugal"
         },
+        "srp": {
+            "official": "Португалска Република",
+            "common": "Португал"
+        },
         "swe": {
             "official": "Republiken Portugal",
             "common": "Portugal"
@@ -187,7 +191,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/pt.png",
-        "svg": "https://flagcdn.com/pt.svg"
+        "svg": "https://flagcdn.com/pt.svg",
+        "alt": "The flag of Portugal is composed of two vertical bands of green and red in the ratio of 2:3, with the coat of arms of Portugal centered over the two-color boundary."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/pt.png",

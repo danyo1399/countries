@@ -134,6 +134,10 @@
             "official": "República Independiente y Soberano de Kiribati",
             "common": "Kiribati"
         },
+        "srp": {
+            "official": "Независна и Суверена Република Кирибати",
+            "common": "Кирибати"
+        },
         "swe": {
             "official": "Republiken Kiribati",
             "common": "Kiribati"
@@ -192,7 +196,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ki.png",
-        "svg": "https://flagcdn.com/ki.svg"
+        "svg": "https://flagcdn.com/ki.svg",
+        "alt": "The flag of Kiribati is divided into two halves. While the upper half has a red field, at the center of which is a yellow frigate bird flying over the top half of a rising yellow sun with seventeen visible rays, the lower half is composed of six horizontal wavy bands of white alternating with blue to depict the ocean."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ki.png",

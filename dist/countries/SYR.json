@@ -126,6 +126,10 @@
             "official": "República Árabe Siria",
             "common": "Siria"
         },
+        "srp": {
+            "official": "Сиријска Арапска Република",
+            "common": "Сирија"
+        },
         "swe": {
             "official": "Syriska arabiska republiken",
             "common": "Syrien"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/sy.png",
-        "svg": "https://flagcdn.com/sy.svg"
+        "svg": "https://flagcdn.com/sy.svg",
+        "alt": "The flag of Syria is composed of three equal horizontal bands of red, white and black. At the center of the white band are two small five-pointed green stars arranged in a horizontal line."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/sy.png",

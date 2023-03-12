@@ -125,6 +125,10 @@
             "official": "República de Yemen",
             "common": "Yemen"
         },
+        "srp": {
+            "official": "Република Јемен",
+            "common": "Јемен"
+        },
         "swe": {
             "official": "Republiken Jemen",
             "common": "Jemen"
@@ -186,7 +190,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ye.png",
-        "svg": "https://flagcdn.com/ye.svg"
+        "svg": "https://flagcdn.com/ye.svg",
+        "alt": "The flag of Yemen is composed of three equal horizontal bands of red, white and black."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ye.png",
@@ -257,6 +262,13 @@
             "code": "MW"
         },
         {
+            "name": "Amanat Al Asimah",
+            "type": null,
+            "latitude": "15.36944510",
+            "longitude": "44.19100660",
+            "code": "SA"
+        },
+        {
             "name": "Dhamar",
             "type": null,
             "latitude": "14.71953440",
@@ -318,13 +330,6 @@
             "latitude": "15.31689130",
             "longitude": "44.47480180",
             "code": "SN"
-        },
-        {
-            "name": "Sana'a",
-            "type": null,
-            "latitude": "15.36944510",
-            "longitude": "44.19100660",
-            "code": "SA"
         },
         {
             "name": "Shabwah",

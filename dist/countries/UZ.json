@@ -131,6 +131,10 @@
             "official": "República de Uzbekistán",
             "common": "Uzbekistán"
         },
+        "srp": {
+            "official": "Република Узбекистан",
+            "common": "Узбекистан"
+        },
         "swe": {
             "official": "Republiken Uzbekistan",
             "common": "Uzbekistan"
@@ -195,7 +199,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/uz.png",
-        "svg": "https://flagcdn.com/uz.svg"
+        "svg": "https://flagcdn.com/uz.svg",
+        "alt": "The flag of Uzbekistan is composed of three equal horizontal bands of turquoise, white with red top and bottom edges, and green. On the hoist side of the turquoise band is a fly-side facing white crescent and twelve five-pointed white stars arranged just outside the crescent opening in three rows comprising three, four and five stars."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/uz.png",

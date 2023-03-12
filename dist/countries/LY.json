@@ -125,6 +125,10 @@
             "official": "Estado de Libia",
             "common": "Libia"
         },
+        "srp": {
+            "official": "Држава Либија",
+            "common": "Либија"
+        },
         "swe": {
             "official": "Staten Libyen",
             "common": "Libyen"
@@ -187,7 +191,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ly.png",
-        "svg": "https://flagcdn.com/ly.svg"
+        "svg": "https://flagcdn.com/ly.svg",
+        "alt": "The flag of Libya is composed of three horizontal bands of red, black and green, with the black band twice the height of the other two bands. At the center of the black band is a fly-side facing white crescent and a five-pointed white star placed just outside the crescent opening."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ly.png",

@@ -125,6 +125,10 @@
             "official": "República Islámica de Mauritania",
             "common": "Mauritania"
         },
+        "srp": {
+            "official": "Исламска Република Мауританија",
+            "common": "Мауританија"
+        },
         "swe": {
             "official": "Islamiska republiken Mauretanien",
             "common": "Mauretanien"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/mr.png",
-        "svg": "https://flagcdn.com/mr.svg"
+        "svg": "https://flagcdn.com/mr.svg",
+        "alt": "The flag of Mauritania has a green field with a thin red horizontal band at the top and bottom of the field. At the center of the field is a five-pointed yellow star above an upward facing yellow crescent."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/mr.png",

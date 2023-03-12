@@ -132,6 +132,10 @@
             "official": "Tuvalu",
             "common": "Tuvalu"
         },
+        "srp": {
+            "official": "Тувалу",
+            "common": "Тувалу"
+        },
         "swe": {
             "official": "Tuvalu",
             "common": "Tuvalu"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/tv.png",
-        "svg": "https://flagcdn.com/tv.svg"
+        "svg": "https://flagcdn.com/tv.svg",
+        "alt": "The flag of Tuvalu has a light blue field with the flag of the United Kingdom — the Union Jack — in the canton. A representation of the country's nine Islands using nine five-pointed yellow stars is situated in the fly half of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/tv.png",

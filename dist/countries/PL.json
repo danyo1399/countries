@@ -125,6 +125,10 @@
             "official": "República de Polonia",
             "common": "Polonia"
         },
+        "srp": {
+            "official": "Република Пољска",
+            "common": "Пољска"
+        },
         "swe": {
             "official": "Republiken Polen",
             "common": "Polen"
@@ -191,7 +195,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/pl.png",
-        "svg": "https://flagcdn.com/pl.svg"
+        "svg": "https://flagcdn.com/pl.svg",
+        "alt": "The flag of Poland is composed of two equal horizontal bands of white and red."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/pl.png",

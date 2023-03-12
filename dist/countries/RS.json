@@ -128,6 +128,10 @@
             "official": "República de Serbia",
             "common": "Serbia"
         },
+        "srp": {
+            "official": "Република Србија",
+            "common": "Србија"
+        },
         "swe": {
             "official": "Republiken Serbien",
             "common": "Serbien"
@@ -195,7 +199,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/rs.png",
-        "svg": "https://flagcdn.com/rs.svg"
+        "svg": "https://flagcdn.com/rs.svg",
+        "alt": "The flag of Serbia is composed of three equal horizontal bands of red, blue and white. The coat of arms of Serbia is superimposed at the center of the field slightly towards the hoist side."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/rs.png",

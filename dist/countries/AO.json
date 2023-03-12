@@ -125,6 +125,10 @@
             "official": "República de Angola",
             "common": "Angola"
         },
+        "srp": {
+            "official": "Република Ангола",
+            "common": "Ангола"
+        },
         "swe": {
             "official": "Republiken Angola",
             "common": "Angola"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ao.png",
-        "svg": "https://flagcdn.com/ao.svg"
+        "svg": "https://flagcdn.com/ao.svg",
+        "alt": "The flag of Angola features two equal horizontal bands of red and black, with a yellow emblem at its centre. This emblem consists of a five-pointed star within the hoist-side facing half of a cogwheel that is crossed on its lower end by a machete."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ao.png",

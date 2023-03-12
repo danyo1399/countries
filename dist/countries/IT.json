@@ -125,6 +125,10 @@
             "official": "República Italiana",
             "common": "Italia"
         },
+        "srp": {
+            "official": "Италијанска Република",
+            "common": "Италија"
+        },
         "swe": {
             "official": "Republiken Italien",
             "common": "Italien"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/it.png",
-        "svg": "https://flagcdn.com/it.svg"
+        "svg": "https://flagcdn.com/it.svg",
+        "alt": "The flag of Italy is composed of three equal vertical bands of green, white and red."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/it.png",
@@ -272,13 +277,6 @@
             "code": "AV"
         },
         {
-            "name": "Bari",
-            "type": "metropolitan city",
-            "latitude": "41.11714320",
-            "longitude": "16.87187150",
-            "code": "BA"
-        },
-        {
             "name": "Barletta-Andria-Trani",
             "type": "province",
             "latitude": "41.20045430",
@@ -321,13 +319,6 @@
             "code": "BI"
         },
         {
-            "name": "Bologna",
-            "type": "metropolitan city",
-            "latitude": "44.49488700",
-            "longitude": "11.34261620",
-            "code": "BO"
-        },
-        {
             "name": "Brescia",
             "type": "province",
             "latitude": "45.54155260",
@@ -340,13 +331,6 @@
             "latitude": "40.61126630",
             "longitude": "17.76362100",
             "code": "BR"
-        },
-        {
-            "name": "Cagliari",
-            "type": "metropolitan city",
-            "latitude": "39.22384110",
-            "longitude": "9.12166130",
-            "code": "CA"
         },
         {
             "name": "Calabria",
@@ -382,13 +366,6 @@
             "latitude": "41.20783540",
             "longitude": "14.10013260",
             "code": "CE"
-        },
-        {
-            "name": "Catania",
-            "type": "metropolitan city",
-            "latitude": "37.45154380",
-            "longitude": "15.05574150",
-            "code": "CT"
         },
         {
             "name": "Catanzaro",
@@ -468,13 +445,6 @@
             "code": "FE"
         },
         {
-            "name": "Florence",
-            "type": "metropolitan city",
-            "latitude": "43.76791780",
-            "longitude": "11.25237920",
-            "code": "FI"
-        },
-        {
             "name": "Foggia",
             "type": "province",
             "latitude": "41.63844800",
@@ -501,13 +471,6 @@
             "latitude": "41.65765280",
             "longitude": "13.63627150",
             "code": "FR"
-        },
-        {
-            "name": "Genoa",
-            "type": "metropolitan city",
-            "latitude": "44.40564930",
-            "longitude": "8.94625640",
-            "code": "GE"
         },
         {
             "name": "Gorizia",
@@ -657,20 +620,6 @@
             "code": "VS"
         },
         {
-            "name": "Messina",
-            "type": "metropolitan city",
-            "latitude": "38.19373350",
-            "longitude": "15.55420570",
-            "code": "ME"
-        },
-        {
-            "name": "Milan",
-            "type": "metropolitan city",
-            "latitude": "45.45862600",
-            "longitude": "9.18187300",
-            "code": "MI"
-        },
-        {
             "name": "Modena",
             "type": "province",
             "latitude": "44.55137990",
@@ -690,13 +639,6 @@
             "latitude": "45.62359900",
             "longitude": "9.25880150",
             "code": "MB"
-        },
-        {
-            "name": "Naples",
-            "type": "metropolitan city",
-            "latitude": "40.90197500",
-            "longitude": "14.33264400",
-            "code": "NA"
         },
         {
             "name": "Novara",
@@ -832,13 +774,6 @@
             "code": "RA"
         },
         {
-            "name": "Reggio Calabria",
-            "type": "metropolitan city",
-            "latitude": "38.10843960",
-            "longitude": "15.64370480",
-            "code": "RC"
-        },
-        {
             "name": "Reggio Emilia",
             "type": "province",
             "latitude": "44.58565800",
@@ -858,13 +793,6 @@
             "latitude": "44.06782880",
             "longitude": "12.56951580",
             "code": "RN"
-        },
-        {
-            "name": "Rome",
-            "type": "metropolitan city",
-            "latitude": "41.90270080",
-            "longitude": "12.49623520",
-            "code": "RM"
         },
         {
             "name": "Rovigo",
@@ -937,13 +865,6 @@
             "code": "SU"
         },
         {
-            "name": "South Tyrol",
-            "type": "autonomous province",
-            "latitude": "46.49494500",
-            "longitude": "11.34026570",
-            "code": "BZ"
-        },
-        {
             "name": "Taranto",
             "type": "province",
             "latitude": "40.57409010",
@@ -972,13 +893,6 @@
             "code": "TP"
         },
         {
-            "name": "Trentino",
-            "type": "autonomous province",
-            "latitude": "46.05120040",
-            "longitude": "11.11753920",
-            "code": "TN"
-        },
-        {
             "name": "Trentino-South Tyrol",
             "type": "autonomous region",
             "latitude": "46.43366620",
@@ -998,13 +912,6 @@
             "latitude": "45.68948230",
             "longitude": "13.78330720",
             "code": "TS"
-        },
-        {
-            "name": "Turin",
-            "type": "metropolitan city",
-            "latitude": "45.06329900",
-            "longitude": "7.66928900",
-            "code": "TO"
         },
         {
             "name": "Tuscany",
@@ -1040,13 +947,6 @@
             "latitude": "45.44146620",
             "longitude": "12.31525950",
             "code": "34"
-        },
-        {
-            "name": "Venice",
-            "type": "metropolitan city",
-            "latitude": "45.44146850",
-            "longitude": "12.31526720",
-            "code": "VE"
         },
         {
             "name": "Verbano-Cusio-Ossola",

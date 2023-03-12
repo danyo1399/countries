@@ -126,6 +126,10 @@
             "official": "República de Moldova",
             "common": "Moldavia"
         },
+        "srp": {
+            "official": "Република Молдавија",
+            "common": "Молдавија"
+        },
         "swe": {
             "official": "Republiken Moldavien",
             "common": "Moldavien"
@@ -187,7 +191,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/md.png",
-        "svg": "https://flagcdn.com/md.svg"
+        "svg": "https://flagcdn.com/md.svg",
+        "alt": "The flag of Moldova is composed of three equal vertical bands of blue, yellow and red, with the national coat of arms centered in the yellow band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/md.png",

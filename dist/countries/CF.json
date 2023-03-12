@@ -130,6 +130,10 @@
             "official": "República Centroafricana",
             "common": "República Centroafricana"
         },
+        "srp": {
+            "official": "Централноафричка Република",
+            "common": "Централноафричка Република"
+        },
         "swe": {
             "official": "Centralafrikanska republiken",
             "common": "Centralafrikanska republiken"
@@ -195,7 +199,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/cf.png",
-        "svg": "https://flagcdn.com/cf.svg"
+        "svg": "https://flagcdn.com/cf.svg",
+        "alt": "The flag of Central African Republic is composed of four equal horizontal bands of blue, white, green and yellow intersected at the center by a vertical red band of equal size as the horizontal bands. A yellow five-pointed star is situated on the hoist side of the blue band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/cf.png",

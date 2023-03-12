@@ -12,8 +12,8 @@
                 "common": "Bosna i Hercegovina"
             },
             "srp": {
-                "official": "Боснa и Херцеговина",
-                "common": "Боснa и Херцеговина"
+                "official": "Босна и Херцеговина",
+                "common": "Босна и Херцеговина"
             }
         }
     },
@@ -134,6 +134,10 @@
             "official": "Bosnia y Herzegovina",
             "common": "Bosnia y Herzegovina"
         },
+        "srp": {
+            "official": "Босна и Херцеговина",
+            "common": "Босна и Херцеговина"
+        },
         "swe": {
             "official": "Bosnien och Hercegovina",
             "common": "Bosnien och Hercegovina"
@@ -196,7 +200,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ba.png",
-        "svg": "https://flagcdn.com/ba.svg"
+        "svg": "https://flagcdn.com/ba.svg",
+        "alt": "The flag of Bosnia and Herzegovina has a blue field, at the center of which is a large yellow hoist-side facing right-angled triangle that is based on the top edge and spans the height of the field. Adjacent to the hypotenuse of this triangle are nine adjoining five-pointed white stars with the top and bottom stars cut in half by the edges of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ba.png",

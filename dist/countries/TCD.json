@@ -131,6 +131,10 @@
             "official": "República de Chad",
             "common": "Chad"
         },
+        "srp": {
+            "official": "Република Чад",
+            "common": "Чад"
+        },
         "swe": {
             "official": "Republiken Tchad",
             "common": "Tchad"
@@ -197,7 +201,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/td.png",
-        "svg": "https://flagcdn.com/td.svg"
+        "svg": "https://flagcdn.com/td.svg",
+        "alt": "The flag of Chad is composed of three equal vertical bands of blue, gold and red."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/td.png",

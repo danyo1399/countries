@@ -126,6 +126,10 @@
             "official": "República Democrática de Santo Tomé y Príncipe",
             "common": "Santo Tomé y Príncipe"
         },
+        "srp": {
+            "official": "Демократска Република Сао Томе и Принсипе",
+            "common": "Сао Томе и Принсипе"
+        },
         "swe": {
             "official": "Demokratiska republiken São Tomé och Príncipe",
             "common": "São Tomé och Príncipe"
@@ -183,7 +187,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/st.png",
-        "svg": "https://flagcdn.com/st.svg"
+        "svg": "https://flagcdn.com/st.svg",
+        "alt": "The flag of South Sudan is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. A blue equilateral triangle which spans about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end of the field. At the center of this triangle is a five-pointed yellow star."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/st.png",

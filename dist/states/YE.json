@@ -56,6 +56,13 @@
         "code": "MW"
     },
     {
+        "name": "Amanat Al Asimah",
+        "type": null,
+        "latitude": "15.36944510",
+        "longitude": "44.19100660",
+        "code": "SA"
+    },
+    {
         "name": "Dhamar",
         "type": null,
         "latitude": "14.71953440",
@@ -117,13 +124,6 @@
         "latitude": "15.31689130",
         "longitude": "44.47480180",
         "code": "SN"
-    },
-    {
-        "name": "Sana'a",
-        "type": null,
-        "latitude": "15.36944510",
-        "longitude": "44.19100660",
-        "code": "SA"
     },
     {
         "name": "Shabwah",

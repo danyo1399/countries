@@ -125,6 +125,10 @@
             "official": "Estados Federados de Micronesia",
             "common": "Micronesia"
         },
+        "srp": {
+            "official": "Савез Држава Микронезије",
+            "common": "Микронезија"
+        },
         "swe": {
             "official": "Mikronesiska federationen",
             "common": "Mikronesiska federationen"
@@ -182,7 +186,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/fm.png",
-        "svg": "https://flagcdn.com/fm.svg"
+        "svg": "https://flagcdn.com/fm.svg",
+        "alt": "The flag of Micronesia has a light blue field, at the center of which are four five-pointed white stars arranged in the shape of a diamond."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/fm.png",

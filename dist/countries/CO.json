@@ -125,6 +125,10 @@
             "official": "República de Colombia",
             "common": "Colombia"
         },
+        "srp": {
+            "official": "Република Колумбија",
+            "common": "Колумбија"
+        },
         "swe": {
             "official": "Republiken Colombia",
             "common": "Colombia"
@@ -189,7 +193,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/co.png",
-        "svg": "https://flagcdn.com/co.svg"
+        "svg": "https://flagcdn.com/co.svg",
+        "alt": "The flag of Colombia is composed of three horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/co.png",

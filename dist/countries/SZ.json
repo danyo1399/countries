@@ -138,6 +138,10 @@
             "official": "Reino de eSwatini",
             "common": "Suazilandia"
         },
+        "srp": {
+            "official": "Краљевина Есватини",
+            "common": "Есватини"
+        },
         "swe": {
             "official": "Konungariket Eswatini",
             "common": "Swaziland"
@@ -199,7 +203,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/sz.png",
-        "svg": "https://flagcdn.com/sz.svg"
+        "svg": "https://flagcdn.com/sz.svg",
+        "alt": "The flag of Eswatini is composed of three horizontal bands — a large central yellow-edged red band, and a light blue band above and beneath the red band. The red band is three times the height of the blue bands and bears a centered emblem made up of a large black and white Nguni shield covering two spears and a staff decorated with feather tassels, all placed horizontally."
     },
     "coatOfArms": {},
     "startOfWeek": "monday",

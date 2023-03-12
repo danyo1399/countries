@@ -132,6 +132,10 @@
             "official": "República Kirguisa",
             "common": "Kirguizistán"
         },
+        "srp": {
+            "official": "Киргиска Република",
+            "common": "Киргизија"
+        },
         "swe": {
             "official": "Republiken Kirgizistan",
             "common": "Kirgizistan"
@@ -195,7 +199,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/kg.png",
-        "svg": "https://flagcdn.com/kg.svg"
+        "svg": "https://flagcdn.com/kg.svg",
+        "alt": "The flag of Kyrgyzstan features a yellow sun with forty rays at the center of a red field. At the center of the sun is a stylized depiction of a tunduk."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/kg.png",

@@ -126,6 +126,10 @@
             "official": "Reino de Dinamarca",
             "common": "Dinamarca"
         },
+        "srp": {
+            "official": "Краљевина Данска",
+            "common": "Данска"
+        },
         "swe": {
             "official": "Konungariket Danmark",
             "common": "Danmark"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/dk.png",
-        "svg": "https://flagcdn.com/dk.svg"
+        "svg": "https://flagcdn.com/dk.svg",
+        "alt": "The flag of Denmark has a red field with a large white cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/dk.png",

@@ -126,6 +126,10 @@
             "official": "República de Estonia",
             "common": "Estonia"
         },
+        "srp": {
+            "official": "Естонска Република",
+            "common": "Естонија"
+        },
         "swe": {
             "official": "Republiken Estland",
             "common": "Estland"
@@ -187,7 +191,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ee.png",
-        "svg": "https://flagcdn.com/ee.svg"
+        "svg": "https://flagcdn.com/ee.svg",
+        "alt": "The flag of Estonia is composed of three equal horizontal bands of blue, black and white."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ee.png",

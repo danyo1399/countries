@@ -126,6 +126,10 @@
             "official": "República de la Unión de Myanmar",
             "common": "Myanmar"
         },
+        "srp": {
+            "official": "Република Савез Мјанмара",
+            "common": "Мјанмар"
+        },
         "swe": {
             "official": "Republiken Unionen Myanmar",
             "common": "Myanmar"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/mm.png",
-        "svg": "https://flagcdn.com/mm.svg"
+        "svg": "https://flagcdn.com/mm.svg",
+        "alt": "The flag of Myanmar is composed of three equal horizontal bands of yellow, green and red, with a large five-pointed white star superimposed at the center of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/mm.png",

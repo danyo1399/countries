@@ -126,6 +126,10 @@
             "official": "República Democrática Popular Lao",
             "common": "Laos"
         },
+        "srp": {
+            "official": "Лаошка Народна Демократска Република",
+            "common": "Лаос"
+        },
         "swe": {
             "official": "Demokratiska folkrepubliken Laos",
             "common": "Laos"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/la.png",
-        "svg": "https://flagcdn.com/la.svg"
+        "svg": "https://flagcdn.com/la.svg",
+        "alt": "The flag of Laos is composed of three horizontal bands of red, blue and red. The blue band is twice the height of the red bands and bears a white circle at its center."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/la.png",

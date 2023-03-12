@@ -125,6 +125,10 @@
             "official": "República Federal de Alemania",
             "common": "Alemania"
         },
+        "srp": {
+            "official": "Савезна Република Немачка",
+            "common": "Немачка"
+        },
         "swe": {
             "official": "Förbundsrepubliken Tyskland",
             "common": "Tyskland"
@@ -193,7 +197,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/de.png",
-        "svg": "https://flagcdn.com/de.svg"
+        "svg": "https://flagcdn.com/de.svg",
+        "alt": "The flag of Germany is composed of three equal horizontal bands of black, red and gold."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/de.png",

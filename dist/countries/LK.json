@@ -132,6 +132,10 @@
             "official": "República Democrática Socialista de Sri Lanka",
             "common": "Sri Lanka"
         },
+        "srp": {
+            "official": "Демократска Социјалистичка Република Сри Ланка",
+            "common": "Сри Ланка"
+        },
         "swe": {
             "official": "Demokratiska socialistiska republiken Sri Lanka",
             "common": "Sri Lanka"
@@ -192,7 +196,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/lk.png",
-        "svg": "https://flagcdn.com/lk.svg"
+        "svg": "https://flagcdn.com/lk.svg",
+        "alt": "The flag of Sri Lanka features two large adjacent but separate rectangular areas, centered on a golden-yellow field. The smaller hoist-side rectangle is divided into two equal vertical bands of teal and orange, and the larger fly-side rectangle is maroon with a centered golden-yellow lion holding a Kastane sword in its right fore-paw and four golden-yellow Bo leaves, one in each corner."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/lk.png",

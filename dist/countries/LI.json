@@ -125,6 +125,10 @@
             "official": "Principado de Liechtenstein",
             "common": "Liechtenstein"
         },
+        "srp": {
+            "official": "Кнежевина Лихтенштајн",
+            "common": "Лихтенштајн"
+        },
         "swe": {
             "official": "Furstendömet Liechtenstein",
             "common": "Liechtenstein"
@@ -183,7 +187,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/li.png",
-        "svg": "https://flagcdn.com/li.svg"
+        "svg": "https://flagcdn.com/li.svg",
+        "alt": "The flag of Liechtenstein is composed of two equal horizontal bands of blue and red, with a golden-yellow crown on the hoist side of the blue band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/li.png",

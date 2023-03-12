@@ -125,6 +125,10 @@
             "official": "República Oriental del Uruguay",
             "common": "Uruguay"
         },
+        "srp": {
+            "official": "Источна Република Уругвај",
+            "common": "Уругвај"
+        },
         "swe": {
             "official": "Republiken Uruguay",
             "common": "Uruguay"
@@ -186,7 +190,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/uy.png",
-        "svg": "https://flagcdn.com/uy.svg"
+        "svg": "https://flagcdn.com/uy.svg",
+        "alt": "The flag of Uruguay is composed of nine equal horizontal bands of white alternating with blue, with a white square superimposed in the canton. In the white square is a yellow sun bearing a human face — the Sun of May — from which sixteen rays extend. The sun's rays alternate between triangular and wavy."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/uy.png",

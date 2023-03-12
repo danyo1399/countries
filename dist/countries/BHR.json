@@ -15,7 +15,7 @@
     "cca2": "BH",
     "ccn3": "048",
     "cca3": "BHR",
-    "cioc": "BRN",
+    "cioc": "BHR",
     "independent": true,
     "status": "officially-assigned",
     "unMember": true,
@@ -125,6 +125,10 @@
             "official": "Reino de Bahrein",
             "common": "Bahrein"
         },
+        "srp": {
+            "official": "Краљевина Бахреин",
+            "common": "Бахреин"
+        },
         "swe": {
             "official": "Konungariket Bahrain",
             "common": "Bahrain"
@@ -179,7 +183,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/bh.png",
-        "svg": "https://flagcdn.com/bh.svg"
+        "svg": "https://flagcdn.com/bh.svg",
+        "alt": "The flag of Bahrain has a red field. On the hoist side, it features a white vertical band that spans about one-third the width of the field and is separated from the rest of the field by five adjoining fly-side pointing white isosceles triangles that serve as a serrated line."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/bh.png",

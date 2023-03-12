@@ -128,6 +128,10 @@
             "official": "Jamaica",
             "common": "Jamaica"
         },
+        "srp": {
+            "official": "Јамајка",
+            "common": "Јамајка"
+        },
         "swe": {
             "official": "Jamaica",
             "common": "Jamaica"
@@ -185,7 +189,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/jm.png",
-        "svg": "https://flagcdn.com/jm.svg"
+        "svg": "https://flagcdn.com/jm.svg",
+        "alt": "The flag of Jamaica is divided by a gold diagonal cross into four alternating triangular areas of green at the top and bottom, and black on the hoist and fly sides"
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/jm.png",

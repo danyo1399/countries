@@ -126,6 +126,10 @@
             "official": "Rumania",
             "common": "Rumania"
         },
+        "srp": {
+            "official": "Румунија",
+            "common": "Румунија"
+        },
         "swe": {
             "official": "Rumänien",
             "common": "Rumänien"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ro.png",
-        "svg": "https://flagcdn.com/ro.svg"
+        "svg": "https://flagcdn.com/ro.svg",
+        "alt": "The flag of Romania is composed of three equal vertical bands of navy blue, yellow and red."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ro.png",

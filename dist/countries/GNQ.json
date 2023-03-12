@@ -137,6 +137,10 @@
             "official": "República de Guinea Ecuatorial",
             "common": "Guinea Ecuatorial"
         },
+        "srp": {
+            "official": "Република Екваторијална Гвинеја",
+            "common": "Екваторијална Гвинеја"
+        },
         "swe": {
             "official": "Republiken Ekvatorialguinea",
             "common": "Ekvatorialguinea"
@@ -195,7 +199,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/gq.png",
-        "svg": "https://flagcdn.com/gq.svg"
+        "svg": "https://flagcdn.com/gq.svg",
+        "alt": "The flag of Equatorial Guinea is composed of three equal horizontal bands of green, white and red with the national coat of arms centered in the white band and an isosceles triangle superimposed on the hoist side of the field. The triangle is light blue, has its base on the hoist end and spans about one-fifth the width of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/gq.png",

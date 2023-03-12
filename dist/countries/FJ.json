@@ -137,6 +137,10 @@
             "official": "República de Fiji",
             "common": "Fiyi"
         },
+        "srp": {
+            "official": "Република Фиџи",
+            "common": "Фиџи"
+        },
         "swe": {
             "official": "Republiken Fiji",
             "common": "Fiji"
@@ -155,8 +159,8 @@
         }
     },
     "latlng": [
-        -18,
-        175
+        17.7134,
+        178.065
     ],
     "landlocked": false,
     "area": 18272,
@@ -194,7 +198,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/fj.png",
-        "svg": "https://flagcdn.com/fj.svg"
+        "svg": "https://flagcdn.com/fj.svg",
+        "alt": "The flag of Fiji has a light blue field. It features the flag of the United Kingdom — the Union Jack — in the canton and the shield of the national coat of arms centered in the fly half."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/fj.png",

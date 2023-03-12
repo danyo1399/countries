@@ -126,6 +126,10 @@
             "official": "República Federal de Nigeria",
             "common": "Nigeria"
         },
+        "srp": {
+            "official": "Савезна Република Нигерија",
+            "common": "Нигерија "
+        },
         "swe": {
             "official": "Förbundsrepubliken Nigeria",
             "common": "Nigeria"
@@ -189,7 +193,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ng.png",
-        "svg": "https://flagcdn.com/ng.svg"
+        "svg": "https://flagcdn.com/ng.svg",
+        "alt": "The flag of Nigeria is composed of three equal vertical bands of green, white and green."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ng.png",

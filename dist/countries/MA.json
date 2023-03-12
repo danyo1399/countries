@@ -131,6 +131,10 @@
             "official": "Reino de Marruecos",
             "common": "Marruecos"
         },
+        "srp": {
+            "official": "Краљевина Мароко",
+            "common": "Мароко"
+        },
         "swe": {
             "official": "Konungariket Marocko",
             "common": "Marocko"
@@ -193,7 +197,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ma.png",
-        "svg": "https://flagcdn.com/ma.svg"
+        "svg": "https://flagcdn.com/ma.svg",
+        "alt": "The flag of Morocco features a green pentagram — a five-pointed linear star — centered on a red field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ma.png",

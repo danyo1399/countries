@@ -129,6 +129,10 @@
             "official": "Reino de Tailandia",
             "common": "Tailandia"
         },
+        "srp": {
+            "official": "Краљевина Тајланд",
+            "common": "Тајланд"
+        },
         "swe": {
             "official": "Konungariket Thailand",
             "common": "Thailand"
@@ -192,7 +196,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/th.png",
-        "svg": "https://flagcdn.com/th.svg"
+        "svg": "https://flagcdn.com/th.svg",
+        "alt": "The flag of Thailand is composed of five horizontal bands of red, white, blue, white and red, with the central blue band twice the height of the other four bands."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/th.png",

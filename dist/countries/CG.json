@@ -135,6 +135,10 @@
             "official": "República del Congo",
             "common": "Congo"
         },
+        "srp": {
+            "official": "Република Конго",
+            "common": "Конго"
+        },
         "swe": {
             "official": "Republiken Kongo",
             "common": "Kongo-Brazzaville"
@@ -199,7 +203,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/cg.png",
-        "svg": "https://flagcdn.com/cg.svg"
+        "svg": "https://flagcdn.com/cg.svg",
+        "alt": "The flag of the Republic of the Congo features a yellow diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and red triangle respectively."
     },
     "coatOfArms": {},
     "startOfWeek": "monday",

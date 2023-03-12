@@ -125,6 +125,10 @@
             "official": "República de Benin",
             "common": "Benín"
         },
+        "srp": {
+            "official": "Република Бенин",
+            "common": "Бенин"
+        },
         "swe": {
             "official": "Republiken Benin",
             "common": "Benin"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/bj.png",
-        "svg": "https://flagcdn.com/bj.svg"
+        "svg": "https://flagcdn.com/bj.svg",
+        "alt": "The flag of Benin features a green vertical band on its hoist side that takes up about two-fifth the width of the field and two equal horizontal bands of yellow and red adjoining the vertical band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/bj.png",

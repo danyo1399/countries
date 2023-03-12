@@ -125,6 +125,10 @@
             "official": "República de Senegal",
             "common": "Senegal"
         },
+        "srp": {
+            "official": "Република Сенегал",
+            "common": "Сенегал"
+        },
         "swe": {
             "official": "Republiken Senegal",
             "common": "Senegal"
@@ -189,7 +193,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/sn.png",
-        "svg": "https://flagcdn.com/sn.svg"
+        "svg": "https://flagcdn.com/sn.svg",
+        "alt": "The flag of Senegal is composed of three equal vertical bands of green, golden-yellow and red, with a five-pointed green star centered in the golden-yellow band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/sn.png",

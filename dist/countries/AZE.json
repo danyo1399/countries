@@ -130,6 +130,10 @@
             "official": "República de Azerbaiyán",
             "common": "Azerbaiyán"
         },
+        "srp": {
+            "official": "Азербејџанска Република",
+            "common": "Азербејџан"
+        },
         "swe": {
             "official": "Republiken Azerbajdzjan",
             "common": "Azerbajdzjan"
@@ -194,7 +198,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/az.png",
-        "svg": "https://flagcdn.com/az.svg"
+        "svg": "https://flagcdn.com/az.svg",
+        "alt": "The flag of Azerbaijan features three equal horizontal bands of blue, red and green, with a white fly-side facing crescent and eight-pointed star centered in the red band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/az.png",

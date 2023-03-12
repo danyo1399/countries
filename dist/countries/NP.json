@@ -125,6 +125,10 @@
             "official": "República Democrática Federal de Nepal",
             "common": "Nepal"
         },
+        "srp": {
+            "official": "Савезна Демократска Република Непал",
+            "common": "Непал"
+        },
         "swe": {
             "official": "Demokratiska förbundsrepubliken Nepal",
             "common": "Nepal"
@@ -186,7 +190,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/np.png",
-        "svg": "https://flagcdn.com/np.svg"
+        "svg": "https://flagcdn.com/np.svg",
+        "alt": "The flag of Nepal is the world's only non-quadrilateral flag of a sovereign country. It takes the shape of two adjoining right-angled triangles and has a crimson red field with deep blue edges. Within the smaller upper triangle is an emblem of the upper half of a white sun resting on an upward facing white crescent. The lower triangle bears a white sun with twelve rays."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/np.png",

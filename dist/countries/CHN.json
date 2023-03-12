@@ -133,6 +133,10 @@
             "official": "República Popular de China",
             "common": "China"
         },
+        "srp": {
+            "official": "Народна Република Кина",
+            "common": "Кина"
+        },
         "swe": {
             "official": "Folkrepubliken Kina",
             "common": "Kina"
@@ -204,7 +208,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/cn.png",
-        "svg": "https://flagcdn.com/cn.svg"
+        "svg": "https://flagcdn.com/cn.svg",
+        "alt": "The flag of China has a red field. In the canton are five yellow five-pointed stars — a large star and four smaller stars arranged in a vertical arc on the fly side of the large star."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/cn.png",

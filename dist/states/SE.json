@@ -35,6 +35,13 @@
         "code": "N"
     },
     {
+        "name": "Jämtland County",
+        "type": "SE-Z",
+        "latitude": "63.28306200",
+        "longitude": "14.23828100",
+        "code": "0"
+    },
+    {
         "name": "Jönköping County",
         "type": null,
         "latitude": "57.37084340",

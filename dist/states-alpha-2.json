@@ -2847,8 +2847,8 @@
         {
             "name": "West Flanders",
             "type": null,
-            "latitude": "40.01793340",
-            "longitude": "-105.28067330",
+            "latitude": "51.04047470",
+            "longitude": "2.99942130",
             "code": "VWV"
         }
     ],
@@ -12783,13 +12783,6 @@
             "code": "AV"
         },
         {
-            "name": "Bari",
-            "type": "metropolitan city",
-            "latitude": "41.11714320",
-            "longitude": "16.87187150",
-            "code": "BA"
-        },
-        {
             "name": "Barletta-Andria-Trani",
             "type": "province",
             "latitude": "41.20045430",
@@ -12832,13 +12825,6 @@
             "code": "BI"
         },
         {
-            "name": "Bologna",
-            "type": "metropolitan city",
-            "latitude": "44.49488700",
-            "longitude": "11.34261620",
-            "code": "BO"
-        },
-        {
             "name": "Brescia",
             "type": "province",
             "latitude": "45.54155260",
@@ -12851,13 +12837,6 @@
             "latitude": "40.61126630",
             "longitude": "17.76362100",
             "code": "BR"
-        },
-        {
-            "name": "Cagliari",
-            "type": "metropolitan city",
-            "latitude": "39.22384110",
-            "longitude": "9.12166130",
-            "code": "CA"
         },
         {
             "name": "Calabria",
@@ -12893,13 +12872,6 @@
             "latitude": "41.20783540",
             "longitude": "14.10013260",
             "code": "CE"
-        },
-        {
-            "name": "Catania",
-            "type": "metropolitan city",
-            "latitude": "37.45154380",
-            "longitude": "15.05574150",
-            "code": "CT"
         },
         {
             "name": "Catanzaro",
@@ -12979,13 +12951,6 @@
             "code": "FE"
         },
         {
-            "name": "Florence",
-            "type": "metropolitan city",
-            "latitude": "43.76791780",
-            "longitude": "11.25237920",
-            "code": "FI"
-        },
-        {
             "name": "Foggia",
             "type": "province",
             "latitude": "41.63844800",
@@ -13012,13 +12977,6 @@
             "latitude": "41.65765280",
             "longitude": "13.63627150",
             "code": "FR"
-        },
-        {
-            "name": "Genoa",
-            "type": "metropolitan city",
-            "latitude": "44.40564930",
-            "longitude": "8.94625640",
-            "code": "GE"
         },
         {
             "name": "Gorizia",
@@ -13168,20 +13126,6 @@
             "code": "VS"
         },
         {
-            "name": "Messina",
-            "type": "metropolitan city",
-            "latitude": "38.19373350",
-            "longitude": "15.55420570",
-            "code": "ME"
-        },
-        {
-            "name": "Milan",
-            "type": "metropolitan city",
-            "latitude": "45.45862600",
-            "longitude": "9.18187300",
-            "code": "MI"
-        },
-        {
             "name": "Modena",
             "type": "province",
             "latitude": "44.55137990",
@@ -13201,13 +13145,6 @@
             "latitude": "45.62359900",
             "longitude": "9.25880150",
             "code": "MB"
-        },
-        {
-            "name": "Naples",
-            "type": "metropolitan city",
-            "latitude": "40.90197500",
-            "longitude": "14.33264400",
-            "code": "NA"
         },
         {
             "name": "Novara",
@@ -13343,13 +13280,6 @@
             "code": "RA"
         },
         {
-            "name": "Reggio Calabria",
-            "type": "metropolitan city",
-            "latitude": "38.10843960",
-            "longitude": "15.64370480",
-            "code": "RC"
-        },
-        {
             "name": "Reggio Emilia",
             "type": "province",
             "latitude": "44.58565800",
@@ -13369,13 +13299,6 @@
             "latitude": "44.06782880",
             "longitude": "12.56951580",
             "code": "RN"
-        },
-        {
-            "name": "Rome",
-            "type": "metropolitan city",
-            "latitude": "41.90270080",
-            "longitude": "12.49623520",
-            "code": "RM"
         },
         {
             "name": "Rovigo",
@@ -13448,13 +13371,6 @@
             "code": "SU"
         },
         {
-            "name": "South Tyrol",
-            "type": "autonomous province",
-            "latitude": "46.49494500",
-            "longitude": "11.34026570",
-            "code": "BZ"
-        },
-        {
             "name": "Taranto",
             "type": "province",
             "latitude": "40.57409010",
@@ -13483,13 +13399,6 @@
             "code": "TP"
         },
         {
-            "name": "Trentino",
-            "type": "autonomous province",
-            "latitude": "46.05120040",
-            "longitude": "11.11753920",
-            "code": "TN"
-        },
-        {
             "name": "Trentino-South Tyrol",
             "type": "autonomous region",
             "latitude": "46.43366620",
@@ -13509,13 +13418,6 @@
             "latitude": "45.68948230",
             "longitude": "13.78330720",
             "code": "TS"
-        },
-        {
-            "name": "Turin",
-            "type": "metropolitan city",
-            "latitude": "45.06329900",
-            "longitude": "7.66928900",
-            "code": "TO"
         },
         {
             "name": "Tuscany",
@@ -13551,13 +13453,6 @@
             "latitude": "45.44146620",
             "longitude": "12.31525950",
             "code": "34"
-        },
-        {
-            "name": "Venice",
-            "type": "metropolitan city",
-            "latitude": "45.44146850",
-            "longitude": "12.31526720",
-            "code": "VE"
         },
         {
             "name": "Verbano-Cusio-Ossola",
@@ -16774,596 +16669,6 @@
             "code": "L"
         }
     ],
-    "MK": [
-        {
-            "name": "Aerodrom Municipality",
-            "type": null,
-            "latitude": "41.94643630",
-            "longitude": "21.49317130",
-            "code": "01"
-        },
-        {
-            "name": "Aračinovo Municipality",
-            "type": null,
-            "latitude": "42.02473810",
-            "longitude": "21.57664070",
-            "code": "02"
-        },
-        {
-            "name": "Berovo Municipality",
-            "type": null,
-            "latitude": "41.66619290",
-            "longitude": "22.76288300",
-            "code": "03"
-        },
-        {
-            "name": "Bitola Municipality",
-            "type": null,
-            "latitude": "41.03633020",
-            "longitude": "21.33219740",
-            "code": "04"
-        },
-        {
-            "name": "Bogdanci Municipality",
-            "type": null,
-            "latitude": "41.18696160",
-            "longitude": "22.59602680",
-            "code": "05"
-        },
-        {
-            "name": "Bogovinje Municipality",
-            "type": null,
-            "latitude": "41.92363710",
-            "longitude": "20.91638870",
-            "code": "06"
-        },
-        {
-            "name": "Bosilovo Municipality",
-            "type": null,
-            "latitude": "41.49048640",
-            "longitude": "22.78671740",
-            "code": "07"
-        },
-        {
-            "name": "Brvenica Municipality",
-            "type": null,
-            "latitude": "41.96814820",
-            "longitude": "20.98195860",
-            "code": "08"
-        },
-        {
-            "name": "Butel Municipality",
-            "type": null,
-            "latitude": "42.08950680",
-            "longitude": "21.46336100",
-            "code": "09"
-        },
-        {
-            "name": "Čair Municipality",
-            "type": null,
-            "latitude": "41.99303550",
-            "longitude": "21.43653180",
-            "code": "79"
-        },
-        {
-            "name": "Čaška Municipality",
-            "type": null,
-            "latitude": "41.64743800",
-            "longitude": "21.69141150",
-            "code": "80"
-        },
-        {
-            "name": "Centar Municipality",
-            "type": null,
-            "latitude": "41.96989340",
-            "longitude": "21.42162670",
-            "code": "77"
-        },
-        {
-            "name": "Centar Župa Municipality",
-            "type": null,
-            "latitude": "41.46522590",
-            "longitude": "20.59305480",
-            "code": "78"
-        },
-        {
-            "name": "Češinovo-Obleševo Municipality",
-            "type": null,
-            "latitude": "41.86393160",
-            "longitude": "22.26224600",
-            "code": "81"
-        },
-        {
-            "name": "Čučer-Sandevo Municipality",
-            "type": null,
-            "latitude": "42.14839460",
-            "longitude": "21.40374070",
-            "code": "82"
-        },
-        {
-            "name": "Debarca Municipality",
-            "type": null,
-            "latitude": "41.35840770",
-            "longitude": "20.85529190",
-            "code": "22"
-        },
-        {
-            "name": "Delčevo Municipality",
-            "type": null,
-            "latitude": "41.96843870",
-            "longitude": "22.76288300",
-            "code": "23"
-        },
-        {
-            "name": "Demir Hisar Municipality",
-            "type": null,
-            "latitude": "41.22708300",
-            "longitude": "21.14142260",
-            "code": "25"
-        },
-        {
-            "name": "Demir Kapija Municipality",
-            "type": null,
-            "latitude": "41.37955380",
-            "longitude": "22.21455710",
-            "code": "24"
-        },
-        {
-            "name": "Dojran Municipality",
-            "type": null,
-            "latitude": "41.24366720",
-            "longitude": "22.69137640",
-            "code": "26"
-        },
-        {
-            "name": "Dolneni Municipality",
-            "type": null,
-            "latitude": "41.46409350",
-            "longitude": "21.40374070",
-            "code": "27"
-        },
-        {
-            "name": "Drugovo Municipality",
-            "type": null,
-            "latitude": "41.44081530",
-            "longitude": "20.92682010",
-            "code": "28"
-        },
-        {
-            "name": "Gazi Baba Municipality",
-            "type": null,
-            "latitude": "42.01629610",
-            "longitude": "21.49913340",
-            "code": "17"
-        },
-        {
-            "name": "Gevgelija Municipality",
-            "type": null,
-            "latitude": "41.21186060",
-            "longitude": "22.38146240",
-            "code": "18"
-        },
-        {
-            "name": "Gjorče Petrov Municipality",
-            "type": null,
-            "latitude": "42.06063740",
-            "longitude": "21.32027360",
-            "code": "29"
-        },
-        {
-            "name": "Gostivar Municipality",
-            "type": null,
-            "latitude": "41.80255410",
-            "longitude": "20.90893780",
-            "code": "19"
-        },
-        {
-            "name": "Gradsko Municipality",
-            "type": null,
-            "latitude": "41.59916080",
-            "longitude": "21.88070640",
-            "code": "20"
-        },
-        {
-            "name": "Greater Skopje",
-            "type": null,
-            "latitude": "41.99812940",
-            "longitude": "21.42543550",
-            "code": "85"
-        },
-        {
-            "name": "Ilinden Municipality",
-            "type": null,
-            "latitude": "41.99574430",
-            "longitude": "21.56769750",
-            "code": "34"
-        },
-        {
-            "name": "Jegunovce Municipality",
-            "type": null,
-            "latitude": "42.07407200",
-            "longitude": "21.12204780",
-            "code": "35"
-        },
-        {
-            "name": "Karbinci",
-            "type": null,
-            "latitude": "41.81801590",
-            "longitude": "22.23247580",
-            "code": "37"
-        },
-        {
-            "name": "Karpoš Municipality",
-            "type": null,
-            "latitude": "41.97096610",
-            "longitude": "21.39181680",
-            "code": "38"
-        },
-        {
-            "name": "Kavadarci Municipality",
-            "type": null,
-            "latitude": "41.28900680",
-            "longitude": "21.99994350",
-            "code": "36"
-        },
-        {
-            "name": "Kičevo Municipality",
-            "type": null,
-            "latitude": "41.51291120",
-            "longitude": "20.95250650",
-            "code": "40"
-        },
-        {
-            "name": "Kisela Voda Municipality",
-            "type": null,
-            "latitude": "41.92748000",
-            "longitude": "21.49317130",
-            "code": "39"
-        },
-        {
-            "name": "Kočani Municipality",
-            "type": null,
-            "latitude": "41.98583740",
-            "longitude": "22.40530460",
-            "code": "42"
-        },
-        {
-            "name": "Konče Municipality",
-            "type": null,
-            "latitude": "41.51710110",
-            "longitude": "22.38146240",
-            "code": "41"
-        },
-        {
-            "name": "Kratovo Municipality",
-            "type": null,
-            "latitude": "42.05371410",
-            "longitude": "22.07148350",
-            "code": "43"
-        },
-        {
-            "name": "Kriva Palanka Municipality",
-            "type": null,
-            "latitude": "42.20584540",
-            "longitude": "22.33079650",
-            "code": "44"
-        },
-        {
-            "name": "Krivogaštani Municipality",
-            "type": null,
-            "latitude": "41.30823060",
-            "longitude": "21.36796890",
-            "code": "45"
-        },
-        {
-            "name": "Kruševo Municipality",
-            "type": null,
-            "latitude": "41.37693310",
-            "longitude": "21.26065540",
-            "code": "46"
-        },
-        {
-            "name": "Kumanovo Municipality",
-            "type": null,
-            "latitude": "42.07326130",
-            "longitude": "21.78531430",
-            "code": "47"
-        },
-        {
-            "name": "Lipkovo Municipality",
-            "type": null,
-            "latitude": "42.20066260",
-            "longitude": "21.61837550",
-            "code": "48"
-        },
-        {
-            "name": "Lozovo Municipality",
-            "type": null,
-            "latitude": "41.78181390",
-            "longitude": "21.90008270",
-            "code": "49"
-        },
-        {
-            "name": "Makedonska Kamenica Municipality",
-            "type": null,
-            "latitude": "42.06946040",
-            "longitude": "22.54834900",
-            "code": "51"
-        },
-        {
-            "name": "Makedonski Brod Municipality",
-            "type": null,
-            "latitude": "41.51330880",
-            "longitude": "21.21743290",
-            "code": "52"
-        },
-        {
-            "name": "Mavrovo and Rostuša Municipality",
-            "type": null,
-            "latitude": "41.60924270",
-            "longitude": "20.60124880",
-            "code": "50"
-        },
-        {
-            "name": "Mogila Municipality",
-            "type": null,
-            "latitude": "41.14796450",
-            "longitude": "21.45143690",
-            "code": "53"
-        },
-        {
-            "name": "Negotino Municipality",
-            "type": null,
-            "latitude": "41.49899850",
-            "longitude": "22.09532970",
-            "code": "54"
-        },
-        {
-            "name": "Novaci Municipality",
-            "type": null,
-            "latitude": "41.04426610",
-            "longitude": "21.45888940",
-            "code": "55"
-        },
-        {
-            "name": "Novo Selo Municipality",
-            "type": null,
-            "latitude": "41.43255800",
-            "longitude": "22.88204890",
-            "code": "56"
-        },
-        {
-            "name": "Ohrid Municipality",
-            "type": null,
-            "latitude": "41.06820880",
-            "longitude": "20.75992660",
-            "code": "58"
-        },
-        {
-            "name": "Oslomej Municipality",
-            "type": null,
-            "latitude": "41.57583910",
-            "longitude": "21.02219600",
-            "code": "57"
-        },
-        {
-            "name": "Pehčevo Municipality",
-            "type": null,
-            "latitude": "41.77371320",
-            "longitude": "22.88204890",
-            "code": "60"
-        },
-        {
-            "name": "Petrovec Municipality",
-            "type": null,
-            "latitude": "41.90298970",
-            "longitude": "21.68992100",
-            "code": "59"
-        },
-        {
-            "name": "Plasnica Municipality",
-            "type": null,
-            "latitude": "41.45463490",
-            "longitude": "21.10565390",
-            "code": "61"
-        },
-        {
-            "name": "Prilep Municipality",
-            "type": null,
-            "latitude": "41.26931420",
-            "longitude": "21.71376940",
-            "code": "62"
-        },
-        {
-            "name": "Probištip Municipality",
-            "type": null,
-            "latitude": "41.95891460",
-            "longitude": "22.16686700",
-            "code": "63"
-        },
-        {
-            "name": "Radoviš Municipality",
-            "type": null,
-            "latitude": "41.64955310",
-            "longitude": "22.47682870",
-            "code": "64"
-        },
-        {
-            "name": "Rankovce Municipality",
-            "type": null,
-            "latitude": "42.18081410",
-            "longitude": "22.09532970",
-            "code": "65"
-        },
-        {
-            "name": "Resen Municipality",
-            "type": null,
-            "latitude": "40.93680930",
-            "longitude": "21.04604070",
-            "code": "66"
-        },
-        {
-            "name": "Rosoman Municipality",
-            "type": null,
-            "latitude": "41.48480060",
-            "longitude": "21.88070640",
-            "code": "67"
-        },
-        {
-            "name": "Saraj Municipality",
-            "type": null,
-            "latitude": "41.98694960",
-            "longitude": "21.26065540",
-            "code": "68"
-        },
-        {
-            "name": "Sopište Municipality",
-            "type": null,
-            "latitude": "41.86384920",
-            "longitude": "21.30834990",
-            "code": "70"
-        },
-        {
-            "name": "Staro Nagoričane Municipality",
-            "type": null,
-            "latitude": "42.21916920",
-            "longitude": "21.90455410",
-            "code": "71"
-        },
-        {
-            "name": "Štip Municipality",
-            "type": null,
-            "latitude": "41.70792970",
-            "longitude": "22.19071220",
-            "code": "83"
-        },
-        {
-            "name": "Struga Municipality",
-            "type": null,
-            "latitude": "41.31737440",
-            "longitude": "20.66456830",
-            "code": "72"
-        },
-        {
-            "name": "Strumica Municipality",
-            "type": null,
-            "latitude": "41.43780040",
-            "longitude": "22.64274280",
-            "code": "73"
-        },
-        {
-            "name": "Studeničani Municipality",
-            "type": null,
-            "latitude": "41.92256390",
-            "longitude": "21.53639650",
-            "code": "74"
-        },
-        {
-            "name": "Šuto Orizari Municipality",
-            "type": null,
-            "latitude": "42.02904160",
-            "longitude": "21.40970270",
-            "code": "84"
-        },
-        {
-            "name": "Sveti Nikole Municipality",
-            "type": null,
-            "latitude": "41.89803120",
-            "longitude": "21.99994350",
-            "code": "69"
-        },
-        {
-            "name": "Tearce Municipality",
-            "type": null,
-            "latitude": "42.07775110",
-            "longitude": "21.05349230",
-            "code": "75"
-        },
-        {
-            "name": "Tetovo Municipality",
-            "type": null,
-            "latitude": "42.02748600",
-            "longitude": "20.95066360",
-            "code": "76"
-        },
-        {
-            "name": "Valandovo Municipality",
-            "type": null,
-            "latitude": "41.32119090",
-            "longitude": "22.50066930",
-            "code": "10"
-        },
-        {
-            "name": "Vasilevo Municipality",
-            "type": null,
-            "latitude": "41.47416990",
-            "longitude": "22.64221280",
-            "code": "11"
-        },
-        {
-            "name": "Veles Municipality",
-            "type": null,
-            "latitude": "41.72744260",
-            "longitude": "21.71376940",
-            "code": "13"
-        },
-        {
-            "name": "Vevčani Municipality",
-            "type": null,
-            "latitude": "41.24075430",
-            "longitude": "20.59156490",
-            "code": "12"
-        },
-        {
-            "name": "Vinica Municipality",
-            "type": null,
-            "latitude": "41.85710200",
-            "longitude": "22.57218810",
-            "code": "14"
-        },
-        {
-            "name": "Vraneštica Municipality",
-            "type": null,
-            "latitude": "41.48290870",
-            "longitude": "21.05796320",
-            "code": "15"
-        },
-        {
-            "name": "Vrapčište Municipality",
-            "type": null,
-            "latitude": "41.87911600",
-            "longitude": "20.83145000",
-            "code": "16"
-        },
-        {
-            "name": "Zajas Municipality",
-            "type": null,
-            "latitude": "41.60303280",
-            "longitude": "20.87913430",
-            "code": "31"
-        },
-        {
-            "name": "Zelenikovo Municipality",
-            "type": null,
-            "latitude": "41.87338120",
-            "longitude": "21.60272500",
-            "code": "32"
-        },
-        {
-            "name": "Želino Municipality",
-            "type": null,
-            "latitude": "41.90065310",
-            "longitude": "21.11757670",
-            "code": "30"
-        },
-        {
-            "name": "Zrnovci Municipality",
-            "type": null,
-            "latitude": "41.82282210",
-            "longitude": "22.41722560",
-            "code": "33"
-        }
-    ],
     "MG": [
         {
             "name": "Antananarivo Province",
@@ -18593,123 +17898,88 @@
     ],
     "MU": [
         {
-            "name": "Agaléga",
-            "type": null,
+            "name": "Agalega Islands",
+            "type": "dependency",
             "latitude": "-10.40000000",
             "longitude": "56.61666670",
             "code": "AG"
         },
         {
-            "name": "Beau Bassin-Rose Hill",
-            "type": null,
-            "latitude": "-20.22303050",
-            "longitude": "57.46838300",
-            "code": "BR"
+            "name": "Black River",
+            "type": "district",
+            "latitude": "-20.37084920",
+            "longitude": "57.39486490",
+            "code": "BL"
         },
         {
-            "name": "Cargados Carajos",
-            "type": null,
-            "latitude": "-16.58333300",
-            "longitude": "59.61666700",
-            "code": "CC"
-        },
-        {
-            "name": "Curepipe",
-            "type": null,
-            "latitude": "-20.31708720",
-            "longitude": "57.52652890",
-            "code": "CU"
-        },
-        {
-            "name": "Flacq District",
-            "type": null,
+            "name": "Flacq",
+            "type": "district",
             "latitude": "-20.22578360",
             "longitude": "57.71192740",
             "code": "FL"
         },
         {
-            "name": "Grand Port District",
-            "type": null,
+            "name": "Grand Port",
+            "type": "district",
             "latitude": "-20.38515460",
             "longitude": "57.66657420",
             "code": "GP"
         },
         {
-            "name": "Moka District",
-            "type": null,
+            "name": "Moka",
+            "type": "district",
             "latitude": "-20.23997820",
             "longitude": "57.57592600",
             "code": "MO"
         },
         {
-            "name": "Pamplemousses District",
-            "type": null,
+            "name": "Pamplemousses",
+            "type": "district",
             "latitude": "-20.11360080",
             "longitude": "57.57592600",
             "code": "PA"
         },
         {
-            "name": "Plaines Wilhems District",
-            "type": null,
+            "name": "Plaines Wilhems",
+            "type": "district",
             "latitude": "-20.30548720",
             "longitude": "57.48535610",
             "code": "PW"
         },
         {
             "name": "Port Louis",
-            "type": null,
-            "latitude": "-20.16089120",
-            "longitude": "57.50122220",
-            "code": "PU"
-        },
-        {
-            "name": "Port Louis District",
-            "type": null,
+            "type": "district",
             "latitude": "-20.16089120",
             "longitude": "57.50122220",
             "code": "PL"
         },
         {
-            "name": "Quatre Bornes",
-            "type": null,
-            "latitude": "-20.26747180",
-            "longitude": "57.47969810",
-            "code": "QB"
-        },
-        {
-            "name": "Rivière du Rempart District",
-            "type": null,
+            "name": "Rivière du Rempart",
+            "type": "district",
             "latitude": "-20.05609830",
             "longitude": "57.65523890",
             "code": "RR"
         },
         {
-            "name": "Rivière Noire District",
-            "type": null,
-            "latitude": "-20.37084920",
-            "longitude": "57.39486490",
-            "code": "BL"
-        },
-        {
-            "name": "Rodrigues",
-            "type": null,
+            "name": "Rodrigues Island",
+            "type": "dependency",
             "latitude": "-19.72453850",
             "longitude": "63.42721850",
             "code": "RO"
         },
         {
-            "name": "Savanne District",
-            "type": null,
+            "name": "Saint Brandon Islands",
+            "type": "dependency",
+            "latitude": "-16.58333300",
+            "longitude": "59.61666700",
+            "code": "CC"
+        },
+        {
+            "name": "Savanne",
+            "type": "district",
             "latitude": "-20.47395300",
             "longitude": "57.48535610",
             "code": "SA"
-        },
-        {
-            "name": "Vacoas-Phoenix",
-            "type": null,
-            "latitude": "-20.29840260",
-            "longitude": "57.49383550",
-            "code": "VP"
         }
     ],
     "MX": [
@@ -20770,8 +20040,8 @@
         {
             "name": "South Holland",
             "type": "province",
-            "latitude": "41.60086810",
-            "longitude": "-87.60698940",
+            "latitude": "51.99667920",
+            "longitude": "4.55973970",
             "code": "ZH"
         },
         {
@@ -21422,153 +20692,687 @@
             "code": "02"
         }
     ],
-    "NO": [
+    "MK": [
         {
-            "name": "Akershus",
+            "name": "Aerodrom Municipality",
             "type": null,
-            "latitude": "28.37042030",
-            "longitude": "-81.54680580",
+            "latitude": "41.94643630",
+            "longitude": "21.49317130",
+            "code": "01"
+        },
+        {
+            "name": "Aračinovo Municipality",
+            "type": null,
+            "latitude": "42.02473810",
+            "longitude": "21.57664070",
             "code": "02"
         },
         {
-            "name": "Buskerud",
+            "name": "Berovo Municipality",
             "type": null,
-            "latitude": "60.48460250",
-            "longitude": "8.69837640",
-            "code": "06"
+            "latitude": "41.66619290",
+            "longitude": "22.76288300",
+            "code": "03"
         },
         {
-            "name": "Finnmark",
+            "name": "Bitola Municipality",
             "type": null,
-            "latitude": "70.48303880",
-            "longitude": "26.01351070",
-            "code": "20"
-        },
-        {
-            "name": "Hedmark",
-            "type": null,
-            "latitude": "61.39673110",
-            "longitude": "11.56273690",
+            "latitude": "41.03633020",
+            "longitude": "21.33219740",
             "code": "04"
         },
         {
-            "name": "Hordaland",
+            "name": "Bogdanci Municipality",
             "type": null,
-            "latitude": "60.27336740",
-            "longitude": "5.72201940",
+            "latitude": "41.18696160",
+            "longitude": "22.59602680",
+            "code": "05"
+        },
+        {
+            "name": "Bogovinje Municipality",
+            "type": null,
+            "latitude": "41.92363710",
+            "longitude": "20.91638870",
+            "code": "06"
+        },
+        {
+            "name": "Bosilovo Municipality",
+            "type": null,
+            "latitude": "41.49048640",
+            "longitude": "22.78671740",
+            "code": "07"
+        },
+        {
+            "name": "Brvenica Municipality",
+            "type": null,
+            "latitude": "41.96814820",
+            "longitude": "20.98195860",
+            "code": "08"
+        },
+        {
+            "name": "Butel Municipality",
+            "type": null,
+            "latitude": "42.08950680",
+            "longitude": "21.46336100",
+            "code": "09"
+        },
+        {
+            "name": "Čair Municipality",
+            "type": null,
+            "latitude": "41.99303550",
+            "longitude": "21.43653180",
+            "code": "79"
+        },
+        {
+            "name": "Čaška Municipality",
+            "type": null,
+            "latitude": "41.64743800",
+            "longitude": "21.69141150",
+            "code": "80"
+        },
+        {
+            "name": "Centar Municipality",
+            "type": null,
+            "latitude": "41.96989340",
+            "longitude": "21.42162670",
+            "code": "77"
+        },
+        {
+            "name": "Centar Župa Municipality",
+            "type": null,
+            "latitude": "41.46522590",
+            "longitude": "20.59305480",
+            "code": "78"
+        },
+        {
+            "name": "Češinovo-Obleševo Municipality",
+            "type": null,
+            "latitude": "41.86393160",
+            "longitude": "22.26224600",
+            "code": "81"
+        },
+        {
+            "name": "Čučer-Sandevo Municipality",
+            "type": null,
+            "latitude": "42.14839460",
+            "longitude": "21.40374070",
+            "code": "82"
+        },
+        {
+            "name": "Debarca Municipality",
+            "type": null,
+            "latitude": "41.35840770",
+            "longitude": "20.85529190",
+            "code": "22"
+        },
+        {
+            "name": "Delčevo Municipality",
+            "type": null,
+            "latitude": "41.96843870",
+            "longitude": "22.76288300",
+            "code": "23"
+        },
+        {
+            "name": "Demir Hisar Municipality",
+            "type": null,
+            "latitude": "41.22708300",
+            "longitude": "21.14142260",
+            "code": "25"
+        },
+        {
+            "name": "Demir Kapija Municipality",
+            "type": null,
+            "latitude": "41.37955380",
+            "longitude": "22.21455710",
+            "code": "24"
+        },
+        {
+            "name": "Dojran Municipality",
+            "type": null,
+            "latitude": "41.24366720",
+            "longitude": "22.69137640",
+            "code": "26"
+        },
+        {
+            "name": "Dolneni Municipality",
+            "type": null,
+            "latitude": "41.46409350",
+            "longitude": "21.40374070",
+            "code": "27"
+        },
+        {
+            "name": "Drugovo Municipality",
+            "type": null,
+            "latitude": "41.44081530",
+            "longitude": "20.92682010",
+            "code": "28"
+        },
+        {
+            "name": "Gazi Baba Municipality",
+            "type": null,
+            "latitude": "42.01629610",
+            "longitude": "21.49913340",
+            "code": "17"
+        },
+        {
+            "name": "Gevgelija Municipality",
+            "type": null,
+            "latitude": "41.21186060",
+            "longitude": "22.38146240",
+            "code": "18"
+        },
+        {
+            "name": "Gjorče Petrov Municipality",
+            "type": null,
+            "latitude": "42.06063740",
+            "longitude": "21.32027360",
+            "code": "29"
+        },
+        {
+            "name": "Gostivar Municipality",
+            "type": null,
+            "latitude": "41.80255410",
+            "longitude": "20.90893780",
+            "code": "19"
+        },
+        {
+            "name": "Gradsko Municipality",
+            "type": null,
+            "latitude": "41.59916080",
+            "longitude": "21.88070640",
+            "code": "20"
+        },
+        {
+            "name": "Greater Skopje",
+            "type": null,
+            "latitude": "41.99812940",
+            "longitude": "21.42543550",
+            "code": "85"
+        },
+        {
+            "name": "Ilinden Municipality",
+            "type": null,
+            "latitude": "41.99574430",
+            "longitude": "21.56769750",
+            "code": "34"
+        },
+        {
+            "name": "Jegunovce Municipality",
+            "type": null,
+            "latitude": "42.07407200",
+            "longitude": "21.12204780",
+            "code": "35"
+        },
+        {
+            "name": "Karbinci",
+            "type": null,
+            "latitude": "41.81801590",
+            "longitude": "22.23247580",
+            "code": "37"
+        },
+        {
+            "name": "Karpoš Municipality",
+            "type": null,
+            "latitude": "41.97096610",
+            "longitude": "21.39181680",
+            "code": "38"
+        },
+        {
+            "name": "Kavadarci Municipality",
+            "type": null,
+            "latitude": "41.28900680",
+            "longitude": "21.99994350",
+            "code": "36"
+        },
+        {
+            "name": "Kičevo Municipality",
+            "type": null,
+            "latitude": "41.51291120",
+            "longitude": "20.95250650",
+            "code": "40"
+        },
+        {
+            "name": "Kisela Voda Municipality",
+            "type": null,
+            "latitude": "41.92748000",
+            "longitude": "21.49317130",
+            "code": "39"
+        },
+        {
+            "name": "Kočani Municipality",
+            "type": null,
+            "latitude": "41.98583740",
+            "longitude": "22.40530460",
+            "code": "42"
+        },
+        {
+            "name": "Konče Municipality",
+            "type": null,
+            "latitude": "41.51710110",
+            "longitude": "22.38146240",
+            "code": "41"
+        },
+        {
+            "name": "Kratovo Municipality",
+            "type": null,
+            "latitude": "42.05371410",
+            "longitude": "22.07148350",
+            "code": "43"
+        },
+        {
+            "name": "Kriva Palanka Municipality",
+            "type": null,
+            "latitude": "42.20584540",
+            "longitude": "22.33079650",
+            "code": "44"
+        },
+        {
+            "name": "Krivogaštani Municipality",
+            "type": null,
+            "latitude": "41.30823060",
+            "longitude": "21.36796890",
+            "code": "45"
+        },
+        {
+            "name": "Kruševo Municipality",
+            "type": null,
+            "latitude": "41.37693310",
+            "longitude": "21.26065540",
+            "code": "46"
+        },
+        {
+            "name": "Kumanovo Municipality",
+            "type": null,
+            "latitude": "42.07326130",
+            "longitude": "21.78531430",
+            "code": "47"
+        },
+        {
+            "name": "Lipkovo Municipality",
+            "type": null,
+            "latitude": "42.20066260",
+            "longitude": "21.61837550",
+            "code": "48"
+        },
+        {
+            "name": "Lozovo Municipality",
+            "type": null,
+            "latitude": "41.78181390",
+            "longitude": "21.90008270",
+            "code": "49"
+        },
+        {
+            "name": "Makedonska Kamenica Municipality",
+            "type": null,
+            "latitude": "42.06946040",
+            "longitude": "22.54834900",
+            "code": "51"
+        },
+        {
+            "name": "Makedonski Brod Municipality",
+            "type": null,
+            "latitude": "41.51330880",
+            "longitude": "21.21743290",
+            "code": "52"
+        },
+        {
+            "name": "Mavrovo and Rostuša Municipality",
+            "type": null,
+            "latitude": "41.60924270",
+            "longitude": "20.60124880",
+            "code": "50"
+        },
+        {
+            "name": "Mogila Municipality",
+            "type": null,
+            "latitude": "41.14796450",
+            "longitude": "21.45143690",
+            "code": "53"
+        },
+        {
+            "name": "Negotino Municipality",
+            "type": null,
+            "latitude": "41.49899850",
+            "longitude": "22.09532970",
+            "code": "54"
+        },
+        {
+            "name": "Novaci Municipality",
+            "type": null,
+            "latitude": "41.04426610",
+            "longitude": "21.45888940",
+            "code": "55"
+        },
+        {
+            "name": "Novo Selo Municipality",
+            "type": null,
+            "latitude": "41.43255800",
+            "longitude": "22.88204890",
+            "code": "56"
+        },
+        {
+            "name": "Ohrid Municipality",
+            "type": null,
+            "latitude": "41.06820880",
+            "longitude": "20.75992660",
+            "code": "58"
+        },
+        {
+            "name": "Oslomej Municipality",
+            "type": null,
+            "latitude": "41.57583910",
+            "longitude": "21.02219600",
+            "code": "57"
+        },
+        {
+            "name": "Pehčevo Municipality",
+            "type": null,
+            "latitude": "41.77371320",
+            "longitude": "22.88204890",
+            "code": "60"
+        },
+        {
+            "name": "Petrovec Municipality",
+            "type": null,
+            "latitude": "41.90298970",
+            "longitude": "21.68992100",
+            "code": "59"
+        },
+        {
+            "name": "Plasnica Municipality",
+            "type": null,
+            "latitude": "41.45463490",
+            "longitude": "21.10565390",
+            "code": "61"
+        },
+        {
+            "name": "Prilep Municipality",
+            "type": null,
+            "latitude": "41.26931420",
+            "longitude": "21.71376940",
+            "code": "62"
+        },
+        {
+            "name": "Probištip Municipality",
+            "type": null,
+            "latitude": "41.95891460",
+            "longitude": "22.16686700",
+            "code": "63"
+        },
+        {
+            "name": "Radoviš Municipality",
+            "type": null,
+            "latitude": "41.64955310",
+            "longitude": "22.47682870",
+            "code": "64"
+        },
+        {
+            "name": "Rankovce Municipality",
+            "type": null,
+            "latitude": "42.18081410",
+            "longitude": "22.09532970",
+            "code": "65"
+        },
+        {
+            "name": "Resen Municipality",
+            "type": null,
+            "latitude": "40.93680930",
+            "longitude": "21.04604070",
+            "code": "66"
+        },
+        {
+            "name": "Rosoman Municipality",
+            "type": null,
+            "latitude": "41.48480060",
+            "longitude": "21.88070640",
+            "code": "67"
+        },
+        {
+            "name": "Saraj Municipality",
+            "type": null,
+            "latitude": "41.98694960",
+            "longitude": "21.26065540",
+            "code": "68"
+        },
+        {
+            "name": "Sopište Municipality",
+            "type": null,
+            "latitude": "41.86384920",
+            "longitude": "21.30834990",
+            "code": "70"
+        },
+        {
+            "name": "Staro Nagoričane Municipality",
+            "type": null,
+            "latitude": "42.21916920",
+            "longitude": "21.90455410",
+            "code": "71"
+        },
+        {
+            "name": "Štip Municipality",
+            "type": null,
+            "latitude": "41.70792970",
+            "longitude": "22.19071220",
+            "code": "83"
+        },
+        {
+            "name": "Struga Municipality",
+            "type": null,
+            "latitude": "41.31737440",
+            "longitude": "20.66456830",
+            "code": "72"
+        },
+        {
+            "name": "Strumica Municipality",
+            "type": null,
+            "latitude": "41.43780040",
+            "longitude": "22.64274280",
+            "code": "73"
+        },
+        {
+            "name": "Studeničani Municipality",
+            "type": null,
+            "latitude": "41.92256390",
+            "longitude": "21.53639650",
+            "code": "74"
+        },
+        {
+            "name": "Šuto Orizari Municipality",
+            "type": null,
+            "latitude": "42.02904160",
+            "longitude": "21.40970270",
+            "code": "84"
+        },
+        {
+            "name": "Sveti Nikole Municipality",
+            "type": null,
+            "latitude": "41.89803120",
+            "longitude": "21.99994350",
+            "code": "69"
+        },
+        {
+            "name": "Tearce Municipality",
+            "type": null,
+            "latitude": "42.07775110",
+            "longitude": "21.05349230",
+            "code": "75"
+        },
+        {
+            "name": "Tetovo Municipality",
+            "type": null,
+            "latitude": "42.02748600",
+            "longitude": "20.95066360",
+            "code": "76"
+        },
+        {
+            "name": "Valandovo Municipality",
+            "type": null,
+            "latitude": "41.32119090",
+            "longitude": "22.50066930",
+            "code": "10"
+        },
+        {
+            "name": "Vasilevo Municipality",
+            "type": null,
+            "latitude": "41.47416990",
+            "longitude": "22.64221280",
+            "code": "11"
+        },
+        {
+            "name": "Veles Municipality",
+            "type": null,
+            "latitude": "41.72744260",
+            "longitude": "21.71376940",
+            "code": "13"
+        },
+        {
+            "name": "Vevčani Municipality",
+            "type": null,
+            "latitude": "41.24075430",
+            "longitude": "20.59156490",
             "code": "12"
         },
         {
-            "name": "Jan Mayen",
+            "name": "Vinica Municipality",
             "type": null,
+            "latitude": "41.85710200",
+            "longitude": "22.57218810",
+            "code": "14"
+        },
+        {
+            "name": "Vraneštica Municipality",
+            "type": null,
+            "latitude": "41.48290870",
+            "longitude": "21.05796320",
+            "code": "15"
+        },
+        {
+            "name": "Vrapčište Municipality",
+            "type": null,
+            "latitude": "41.87911600",
+            "longitude": "20.83145000",
+            "code": "16"
+        },
+        {
+            "name": "Zajas Municipality",
+            "type": null,
+            "latitude": "41.60303280",
+            "longitude": "20.87913430",
+            "code": "31"
+        },
+        {
+            "name": "Zelenikovo Municipality",
+            "type": null,
+            "latitude": "41.87338120",
+            "longitude": "21.60272500",
+            "code": "32"
+        },
+        {
+            "name": "Želino Municipality",
+            "type": null,
+            "latitude": "41.90065310",
+            "longitude": "21.11757670",
+            "code": "30"
+        },
+        {
+            "name": "Zrnovci Municipality",
+            "type": null,
+            "latitude": "41.82282210",
+            "longitude": "22.41722560",
+            "code": "33"
+        }
+    ],
+    "NO": [
+        {
+            "name": "Agder",
+            "type": "county",
+            "latitude": "58.74069340",
+            "longitude": "6.75315210",
+            "code": "42"
+        },
+        {
+            "name": "Innlandet",
+            "type": "county",
+            "latitude": "61.19357870",
+            "longitude": "5.50832660",
+            "code": "34"
+        },
+        {
+            "name": "Jan Mayen",
+            "type": "arctic region",
             "latitude": "71.03181800",
             "longitude": "-8.29203460",
             "code": "22"
         },
         {
             "name": "Møre og Romsdal",
-            "type": null,
+            "type": "county",
             "latitude": "62.84068330",
             "longitude": "7.00714300",
             "code": "15"
         },
         {
-            "name": "Nord-Trøndelag",
-            "type": null,
-            "latitude": "64.43707920",
-            "longitude": "11.74629500",
-            "code": "17"
-        },
-        {
             "name": "Nordland",
-            "type": null,
+            "type": "county",
             "latitude": "67.69305800",
             "longitude": "12.70739360",
             "code": "18"
         },
         {
-            "name": "Oppland",
-            "type": null,
-            "latitude": "61.54227520",
-            "longitude": "9.71663150",
-            "code": "05"
-        },
-        {
             "name": "Oslo",
-            "type": null,
+            "type": "county",
             "latitude": "59.91386880",
             "longitude": "10.75224540",
             "code": "03"
         },
         {
-            "name": "Østfold",
-            "type": null,
-            "latitude": "59.25582860",
-            "longitude": "11.32790060",
-            "code": "01"
-        },
-        {
             "name": "Rogaland",
-            "type": null,
+            "type": "county",
             "latitude": "59.14895440",
             "longitude": "6.01434320",
             "code": "11"
         },
         {
-            "name": "Sogn og Fjordane",
-            "type": null,
-            "latitude": "61.55394350",
-            "longitude": "6.33258790",
-            "code": "14"
-        },
-        {
-            "name": "Sør-Trøndelag",
-            "type": null,
-            "latitude": "63.01368230",
-            "longitude": "10.34871360",
-            "code": "16"
-        },
-        {
             "name": "Svalbard",
-            "type": null,
+            "type": "arctic region",
             "latitude": "77.87497250",
             "longitude": "20.97518210",
             "code": "21"
         },
         {
-            "name": "Telemark",
-            "type": null,
-            "latitude": "59.39139850",
-            "longitude": "8.32112090",
-            "code": "08"
-        },
-        {
-            "name": "Troms",
-            "type": null,
-            "latitude": "69.81782420",
-            "longitude": "18.78193650",
-            "code": "19"
+            "name": "Troms og Finnmark",
+            "type": "county",
+            "latitude": "69.77890670",
+            "longitude": "18.99401840",
+            "code": "54"
         },
         {
             "name": "Trøndelag",
-            "type": null,
+            "type": "county",
             "latitude": "63.54201250",
             "longitude": "10.93692670",
             "code": "50"
         },
         {
-            "name": "Vest-Agder",
-            "type": null,
-            "latitude": "58.09990810",
-            "longitude": "6.58698090",
-            "code": "10"
+            "name": "Vestfold og Telemark",
+            "type": "county",
+            "latitude": "59.41174820",
+            "longitude": "7.76471750",
+            "code": "38"
         },
         {
-            "name": "Vestfold",
-            "type": null,
-            "latitude": "59.17078620",
-            "longitude": "10.11443550",
-            "code": "07"
+            "name": "Vestland",
+            "type": "county",
+            "latitude": "60.90694420",
+            "longitude": "3.96270810",
+            "code": "46"
+        },
+        {
+            "name": "Viken",
+            "type": "county",
+            "latitude": "59.96530050",
+            "longitude": "7.45051440",
+            "code": "30"
         }
     ],
     "OM": [
@@ -21834,6 +21638,120 @@
             "latitude": "5.32681190",
             "longitude": "132.22391170",
             "code": "370"
+        }
+    ],
+    "PS": [
+        {
+            "name": "Bethlehem",
+            "type": "governorate",
+            "latitude": "31.70539960",
+            "longitude": "35.19368770",
+            "code": "BTH"
+        },
+        {
+            "name": "Deir El Balah",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "DEB"
+        },
+        {
+            "name": "Gaza",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "GZA"
+        },
+        {
+            "name": "Hebron",
+            "type": "governorate",
+            "latitude": "31.53260010",
+            "longitude": "35.06394750",
+            "code": "HBN"
+        },
+        {
+            "name": "Jenin",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "JEN"
+        },
+        {
+            "name": "Jericho and Al Aghwar",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "JRH"
+        },
+        {
+            "name": "Jerusalem",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "JEM"
+        },
+        {
+            "name": "Khan Yunis",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "KYS"
+        },
+        {
+            "name": "Nablus",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "NBS"
+        },
+        {
+            "name": "North Gaza",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "NGZ"
+        },
+        {
+            "name": "Qalqilya",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "QQA"
+        },
+        {
+            "name": "Rafah",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "RFH"
+        },
+        {
+            "name": "Ramallah",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "RBH"
+        },
+        {
+            "name": "Salfit",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "SLT"
+        },
+        {
+            "name": "Tubas",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "TBS"
+        },
+        {
+            "name": "Tulkarm",
+            "type": "governorate",
+            "latitude": null,
+            "longitude": null,
+            "code": "TKM"
         }
     ],
     "PA": [
@@ -24773,91 +24691,91 @@
     "SA": [
         {
             "name": "'Asir",
-            "type": null,
+            "type": "region",
             "latitude": "19.09690620",
             "longitude": "42.86378750",
             "code": "14"
         },
         {
             "name": "Al Bahah",
-            "type": null,
+            "type": "region",
             "latitude": "20.27227390",
             "longitude": "41.44125100",
             "code": "11"
         },
         {
             "name": "Al Jawf",
-            "type": null,
+            "type": "region",
             "latitude": "29.88735600",
             "longitude": "39.32062410",
             "code": "12"
         },
         {
             "name": "Al Madinah",
-            "type": null,
+            "type": "region",
             "latitude": "24.84039770",
             "longitude": "39.32062410",
             "code": "03"
         },
         {
             "name": "Al-Qassim",
-            "type": null,
+            "type": "region",
             "latitude": "26.20782600",
             "longitude": "43.48373800",
             "code": "05"
         },
         {
             "name": "Eastern Province",
-            "type": null,
+            "type": "region",
             "latitude": "24.04399320",
             "longitude": "45.65892250",
             "code": "04"
         },
         {
             "name": "Ha'il",
-            "type": null,
+            "type": "region",
             "latitude": "27.70761430",
             "longitude": "41.91964710",
             "code": "06"
         },
         {
             "name": "Jizan",
-            "type": null,
+            "type": "region",
             "latitude": "17.17381760",
             "longitude": "42.70761070",
             "code": "09"
         },
         {
             "name": "Makkah",
-            "type": null,
+            "type": "region",
             "latitude": "21.52355840",
             "longitude": "41.91964710",
             "code": "02"
         },
         {
             "name": "Najran",
-            "type": null,
+            "type": "region",
             "latitude": "18.35146640",
             "longitude": "45.60071080",
             "code": "10"
         },
         {
             "name": "Northern Borders",
-            "type": null,
+            "type": "region",
             "latitude": "30.07991620",
             "longitude": "42.86378750",
             "code": "08"
         },
         {
             "name": "Riyadh",
-            "type": null,
+            "type": "region",
             "latitude": "22.75543850",
             "longitude": "46.20915470",
             "code": "01"
         },
         {
             "name": "Tabuk",
-            "type": null,
+            "type": "region",
             "latitude": "28.24533350",
             "longitude": "37.63866220",
             "code": "07"
@@ -27423,13 +27341,6 @@
             "code": "BA"
         },
         {
-            "name": "Balearic Islands",
-            "type": "province",
-            "latitude": "39.35877590",
-            "longitude": "2.73563280",
-            "code": "PM"
-        },
-        {
             "name": "Barcelona",
             "type": "province",
             "latitude": "41.39266790",
@@ -27540,6 +27451,13 @@
             "latitude": "41.59762750",
             "longitude": "-0.90566230",
             "code": "HU"
+        },
+        {
+            "name": "Islas Baleares",
+            "type": "province",
+            "latitude": "39.35877590",
+            "longitude": "2.73563280",
+            "code": "PM"
         },
         {
             "name": "Jaén",
@@ -28215,6 +28133,13 @@
             "latitude": "56.89668050",
             "longitude": "12.80339930",
             "code": "N"
+        },
+        {
+            "name": "Jämtland County",
+            "type": "SE-Z",
+            "latitude": "63.28306200",
+            "longitude": "14.23828100",
+            "code": "0"
         },
         {
             "name": "Jönköping County",
@@ -30488,7 +30413,7 @@
             "code": "32"
         },
         {
-            "name": "Istanbul",
+            "name": "İstanbul",
             "type": "province",
             "latitude": "41.16343020",
             "longitude": "28.76644080",
@@ -35171,6 +35096,13 @@
             "code": "MW"
         },
         {
+            "name": "Amanat Al Asimah",
+            "type": null,
+            "latitude": "15.36944510",
+            "longitude": "44.19100660",
+            "code": "SA"
+        },
+        {
             "name": "Dhamar",
             "type": null,
             "latitude": "14.71953440",
@@ -35232,13 +35164,6 @@
             "latitude": "15.31689130",
             "longitude": "44.47480180",
             "code": "SN"
-        },
-        {
-            "name": "Sana'a",
-            "type": null,
-            "latitude": "15.36944510",
-            "longitude": "44.19100660",
-            "code": "SA"
         },
         {
             "name": "Shabwah",

@@ -125,6 +125,10 @@
             "official": "República de Indonesia",
             "common": "Indonesia"
         },
+        "srp": {
+            "official": "Република Индонезија",
+            "common": "Индонезија"
+        },
         "swe": {
             "official": "Republiken Indonesien",
             "common": "Indonesien"
@@ -189,7 +193,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/id.png",
-        "svg": "https://flagcdn.com/id.svg"
+        "svg": "https://flagcdn.com/id.svg",
+        "alt": "The flag of Indonesia is composed of two equal horizontal bands of red and white."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/id.png",

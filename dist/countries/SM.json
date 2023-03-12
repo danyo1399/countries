@@ -125,6 +125,10 @@
             "official": "Serenísima República de San Marino",
             "common": "San Marino"
         },
+        "srp": {
+            "official": "Најузвишенија Република Сан Марино",
+            "common": "Сан Марино"
+        },
         "swe": {
             "official": "Republiken San Marino",
             "common": "San Marino"
@@ -182,7 +186,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/sm.png",
-        "svg": "https://flagcdn.com/sm.svg"
+        "svg": "https://flagcdn.com/sm.svg",
+        "alt": "The flag of San Marino is composed of two equal horizontal bands of white and light blue, with the national coat of arms superimposed in the center."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/sm.png",

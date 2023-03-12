@@ -34,6 +34,13 @@ const names2 = restCountriesJson.map((x) => ({
   flag: x.flag,
 }));
 
+const names = restCountriesJson.map((x) => ({
+  name: x.name.common,
+  cca2: x.cca2,
+  cca3: x.cca3,
+  flag: x.flag,
+}));
+
 const names2To3Map = {};
 restCountriesJson.forEach((c) => {
   names2To3Map[c.cca2] = c.cca3;
@@ -124,6 +131,7 @@ for (const c of restCountriesJson) {
   await fs.writeJson(`./dist/countries/${c.cca3}.json`, c, { spaces: 4 });
 }
 await fs.writeJson("./dist/all.json", restCountriesJson, { spaces: 4 });
+await fs.writeJson("./dist/names.json", names, { spaces: 4 });
 await fs.writeJson("./dist/names-alpha-3.json", names3, { spaces: 4 });
 await fs.writeJson("./dist/names-alpha-2.json", names2, { spaces: 4 });
 await fs.writeJson("./dist/phone-alpha-3.json", phoneAlpha3, { spaces: 4 });

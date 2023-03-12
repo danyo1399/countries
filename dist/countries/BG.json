@@ -125,6 +125,10 @@
             "official": "República de Bulgaria",
             "common": "Bulgaria"
         },
+        "srp": {
+            "official": "Република Бугарска",
+            "common": "Бугарска"
+        },
         "swe": {
             "official": "Republiken Bulgarien",
             "common": "Bulgarien"
@@ -189,7 +193,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/bg.png",
-        "svg": "https://flagcdn.com/bg.svg"
+        "svg": "https://flagcdn.com/bg.svg",
+        "alt": "The flag of Bulgaria is composed of three equal horizontal bands of white, green and red."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/bg.png",

@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Bethlehem",
+        "type": "governorate",
+        "latitude": "31.70539960",
+        "longitude": "35.19368770",
+        "code": "BTH"
+    },
+    {
+        "name": "Deir El Balah",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "DEB"
+    },
+    {
+        "name": "Gaza",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "GZA"
+    },
+    {
+        "name": "Hebron",
+        "type": "governorate",
+        "latitude": "31.53260010",
+        "longitude": "35.06394750",
+        "code": "HBN"
+    },
+    {
+        "name": "Jenin",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "JEN"
+    },
+    {
+        "name": "Jericho and Al Aghwar",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "JRH"
+    },
+    {
+        "name": "Jerusalem",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "JEM"
+    },
+    {
+        "name": "Khan Yunis",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "KYS"
+    },
+    {
+        "name": "Nablus",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "NBS"
+    },
+    {
+        "name": "North Gaza",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "NGZ"
+    },
+    {
+        "name": "Qalqilya",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "QQA"
+    },
+    {
+        "name": "Rafah",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "RFH"
+    },
+    {
+        "name": "Ramallah",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "RBH"
+    },
+    {
+        "name": "Salfit",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "SLT"
+    },
+    {
+        "name": "Tubas",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "TBS"
+    },
+    {
+        "name": "Tulkarm",
+        "type": "governorate",
+        "latitude": null,
+        "longitude": null,
+        "code": "TKM"
+    }
+]

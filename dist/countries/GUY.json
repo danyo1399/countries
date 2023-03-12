@@ -124,6 +124,10 @@
             "official": "República Cooperativa de Guyana",
             "common": "Guyana"
         },
+        "srp": {
+            "official": "Кооперативна Република Гвајана",
+            "common": "Гвајана"
+        },
         "swe": {
             "official": "Kooperativa republiken Guyana",
             "common": "Guyana"
@@ -186,7 +190,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/gy.png",
-        "svg": "https://flagcdn.com/gy.svg"
+        "svg": "https://flagcdn.com/gy.svg",
+        "alt": "The flag of Guyana has a green field with two isosceles triangles which share a common base on the hoist end. The smaller black-edged red triangle spanning half the width of the field is superimposed on the larger white-edged yellow triangle which spans the full width of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/gy.png",

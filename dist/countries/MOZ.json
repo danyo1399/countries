@@ -125,6 +125,10 @@
             "official": "República de Mozambique",
             "common": "Mozambique"
         },
+        "srp": {
+            "official": "Република Мозамбик",
+            "common": "Мозамбик"
+        },
         "swe": {
             "official": "Republiken Moçambique",
             "common": "Moçambique"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/mz.png",
-        "svg": "https://flagcdn.com/mz.svg"
+        "svg": "https://flagcdn.com/mz.svg",
+        "alt": "The flag of Mozambique is composed of three equal horizontal bands of teal, black with white top and bottom edges, and yellow. A red isosceles triangle spanning about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end. This triangle bears a crossed rifle and hoe in black superimposed on an open white book which is superimposed on a five-pointed yellow star."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/mz.png",

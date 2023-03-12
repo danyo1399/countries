@@ -130,6 +130,10 @@
             "official": "República de Palau",
             "common": "Palau"
         },
+        "srp": {
+            "official": "Република Палау",
+            "common": "Палау"
+        },
         "swe": {
             "official": "Republiken Palau",
             "common": "Palau"
@@ -183,7 +187,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/pw.png",
-        "svg": "https://flagcdn.com/pw.svg"
+        "svg": "https://flagcdn.com/pw.svg",
+        "alt": "The flag of Palau has a light blue field with a large golden-yellow circle that is offset slightly towards the hoist side of center."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/pw.png",

@@ -125,6 +125,10 @@
             "official": "Polinesia francés",
             "common": "Polinesia Francesa"
         },
+        "srp": {
+            "official": "Француска Полинезија",
+            "common": "Француска Полинезија"
+        },
         "swe": {
             "official": "Franska Polynesien",
             "common": "Franska Polynesien"
@@ -143,8 +147,8 @@
         }
     },
     "latlng": [
-        -15,
-        -140
+        17.6797,
+        149.4068
     ],
     "landlocked": false,
     "area": 4167,

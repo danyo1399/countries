@@ -132,6 +132,10 @@
             "official": "República de Belarús",
             "common": "Bielorrusia"
         },
+        "srp": {
+            "official": "Република Белорусија",
+            "common": "Белорусија"
+        },
         "swe": {
             "official": "Republiken Vitryssland",
             "common": "Belarus"
@@ -196,7 +200,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/by.png",
-        "svg": "https://flagcdn.com/by.svg"
+        "svg": "https://flagcdn.com/by.svg",
+        "alt": "The flag of Belarus features a vertical band, with a white and red ornamental pattern, spanning about one-fifth the width of the field on the hoist side. Adjoining the vertical band are two horizontal bands of red and green, with the red band twice the height of the green band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/by.png",

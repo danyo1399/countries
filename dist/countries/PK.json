@@ -131,6 +131,10 @@
             "official": "República Islámica de Pakistán",
             "common": "Pakistán"
         },
+        "srp": {
+            "official": "Исламска Република Пакистан",
+            "common": "Пакистан"
+        },
         "swe": {
             "official": "Islamiska republiken Pakistan",
             "common": "Pakistan"
@@ -194,7 +198,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/pk.png",
-        "svg": "https://flagcdn.com/pk.svg"
+        "svg": "https://flagcdn.com/pk.svg",
+        "alt": "The flag of Pakistan is composed of a white vertical band on its hoist side that takes up about one-fourth the width of the field and a dark green rectangular area that spans the rest of the field. A white fly-side facing crescent and five-pointed star are centered in the dark green area."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/pk.png",

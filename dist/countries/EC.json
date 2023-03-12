@@ -125,6 +125,10 @@
             "official": "República del Ecuador",
             "common": "Ecuador"
         },
+        "srp": {
+            "official": "Република Еквадор",
+            "common": "Еквадор"
+        },
         "swe": {
             "official": "Republiken Ecuador",
             "common": "Ecuador"
@@ -187,7 +191,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ec.png",
-        "svg": "https://flagcdn.com/ec.svg"
+        "svg": "https://flagcdn.com/ec.svg",
+        "alt": "The flag of Ecuador is composed of the horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands. The Ecuadorian coat of arms is superimposed in the center of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ec.png",

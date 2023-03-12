@@ -124,6 +124,10 @@
             "official": "República de Gambia",
             "common": "Gambia"
         },
+        "srp": {
+            "official": "Република Гамбија",
+            "common": "Гамбија"
+        },
         "swe": {
             "official": "Republiken Gambia",
             "common": "Gambia"
@@ -184,7 +188,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/gm.png",
-        "svg": "https://flagcdn.com/gm.svg"
+        "svg": "https://flagcdn.com/gm.svg",
+        "alt": "The flag of Gambia is composed of three equal horizontal bands of red, blue with white top and bottom edges, and green."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/gm.png",

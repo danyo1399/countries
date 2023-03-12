@@ -132,6 +132,10 @@
             "official": "República de Tayikistán",
             "common": "Tayikistán"
         },
+        "srp": {
+            "official": "Република Таџикистан",
+            "common": "Таџикистан"
+        },
         "swe": {
             "official": "Republiken Tadzjikistan",
             "common": "Tadzjikistan"
@@ -195,7 +199,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/tj.png",
-        "svg": "https://flagcdn.com/tj.svg"
+        "svg": "https://flagcdn.com/tj.svg",
+        "alt": "The flag of Tajikistan is composed of three horizontal bands of red, white and green in the ratio of 2:3:2. A golden-yellow crown surmounted by an arc of seven five-pointed golden-yellow stars is centered in the white band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/tj.png",

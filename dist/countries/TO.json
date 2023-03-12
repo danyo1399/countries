@@ -128,6 +128,10 @@
             "official": "Reino de Tonga",
             "common": "Tonga"
         },
+        "srp": {
+            "official": "Краљевина Тонга",
+            "common": "Тонга"
+        },
         "swe": {
             "official": "Konungariket Tonga",
             "common": "Tonga"
@@ -185,7 +189,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/to.png",
-        "svg": "https://flagcdn.com/to.svg"
+        "svg": "https://flagcdn.com/to.svg",
+        "alt": "The flag of Tonga has a red field. A white rectangle bearing a red Greek cross is superimposed in the canton."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/to.png",

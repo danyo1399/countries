@@ -123,6 +123,10 @@
             "official": "República Islámica de Irán",
             "common": "Iran"
         },
+        "srp": {
+            "official": "Исламска Република Иран",
+            "common": "Иран"
+        },
         "swe": {
             "official": "Islamiska republiken Iran",
             "common": "Iran"
@@ -189,7 +193,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ir.png",
-        "svg": "https://flagcdn.com/ir.svg"
+        "svg": "https://flagcdn.com/ir.svg",
+        "alt": "The flag of Iran is composed of three equal horizontal bands of green, white and red. A red emblem of Iran is centered in the white band and Arabic inscriptions in white span the bottom edge of the green band and the top edge of the red band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ir.png",

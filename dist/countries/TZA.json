@@ -131,6 +131,10 @@
             "official": "República Unida de Tanzania",
             "common": "Tanzania"
         },
+        "srp": {
+            "official": "Уједињена Република Танзанија",
+            "common": "Танзанија"
+        },
         "swe": {
             "official": "Förenade republiken Tanzania",
             "common": "Tanzania"
@@ -198,7 +202,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/tz.png",
-        "svg": "https://flagcdn.com/tz.svg"
+        "svg": "https://flagcdn.com/tz.svg",
+        "alt": "The flag of Tanzania features a yellow-edged black diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and light blue triangle respectively."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/tz.png",

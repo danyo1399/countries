@@ -130,6 +130,10 @@
             "official": "República Checa",
             "common": "Chequia"
         },
+        "srp": {
+            "official": "Чешка Република",
+            "common": "Чешка"
+        },
         "swe": {
             "official": "Republiken Tjeckien",
             "common": "Tjeckien"
@@ -193,7 +197,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/cz.png",
-        "svg": "https://flagcdn.com/cz.svg"
+        "svg": "https://flagcdn.com/cz.svg",
+        "alt": "The flag of Czechia is composed of two equal horizontal bands of white and red, with a blue isosceles triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end and spans about two-fifth the width of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/cz.png",

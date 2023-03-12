@@ -123,6 +123,10 @@
             "official": "Mongolia",
             "common": "Mongolia"
         },
+        "srp": {
+            "official": "Монголија",
+            "common": "Монголија"
+        },
         "swe": {
             "official": "Mongoliet",
             "common": "Mongoliet"
@@ -185,7 +189,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/mn.png",
-        "svg": "https://flagcdn.com/mn.svg"
+        "svg": "https://flagcdn.com/mn.svg",
+        "alt": "The flag of Mongolia is composed of three equal vertical bands of red, blue and red, with the national emblem — the Soyombo — in gold centered in the hoist-side red band."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/mn.png",

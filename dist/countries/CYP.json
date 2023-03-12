@@ -133,6 +133,10 @@
             "official": "República de Chipre",
             "common": "Chipre"
         },
+        "srp": {
+            "official": "Кипарска Република",
+            "common": "Кипар"
+        },
         "swe": {
             "official": "Republiken Cypern",
             "common": "Cypern"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/cy.png",
-        "svg": "https://flagcdn.com/cy.svg"
+        "svg": "https://flagcdn.com/cy.svg",
+        "alt": "The flag of Cyprus has a white field, at the center of which is a copper-colored silhouette of the Island of Cyprus above two green olive branches crossed at the stem."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/cy.png",

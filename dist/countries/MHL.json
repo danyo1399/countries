@@ -130,6 +130,10 @@
             "official": "República de las Islas Marshall",
             "common": "Islas Marshall"
         },
+        "srp": {
+            "official": "Република Маршалска Острва",
+            "common": "Маршалска Острва"
+        },
         "swe": {
             "official": "Republiken Marshallöarna",
             "common": "Marshallöarna"
@@ -183,7 +187,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/mh.png",
-        "svg": "https://flagcdn.com/mh.svg"
+        "svg": "https://flagcdn.com/mh.svg",
+        "alt": "The flag of Marshall Islands has a blue field with two broadening adjacent diagonal bands of orange and white that extend from the lower hoist-side corner to the upper fly-side corner of the field. A large white star with twenty-four rays — four large rays at the cardinal points and twenty smaller rays — is situated in the upper hoist-side corner above the diagonal bands."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/mh.png",

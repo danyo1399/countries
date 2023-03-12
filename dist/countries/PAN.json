@@ -129,6 +129,10 @@
             "official": "República de Panamá",
             "common": "Panamá"
         },
+        "srp": {
+            "official": "Република Панама",
+            "common": "Панама"
+        },
         "swe": {
             "official": "Republiken Panama",
             "common": "Panama"
@@ -190,7 +194,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/pa.png",
-        "svg": "https://flagcdn.com/pa.svg"
+        "svg": "https://flagcdn.com/pa.svg",
+        "alt": "The flag of Panama is composed of four equal rectangular areas — a white rectangular area with a blue five-pointed star at its center, a red rectangular area, a white rectangular area with a red five-pointed star at its center, and a blue rectangular area — in the upper hoist side, upper fly side, lower fly side and lower hoist side respectively."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/pa.png",

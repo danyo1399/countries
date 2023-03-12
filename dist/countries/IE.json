@@ -131,6 +131,10 @@
             "official": "República de Irlanda",
             "common": "Irlanda"
         },
+        "srp": {
+            "official": "Република Ирска",
+            "common": "Ирска"
+        },
         "swe": {
             "official": "Irland",
             "common": "Irland"
@@ -191,7 +195,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ie.png",
-        "svg": "https://flagcdn.com/ie.svg"
+        "svg": "https://flagcdn.com/ie.svg",
+        "alt": "The flag of Ireland is composed of three equal vertical bands of green, white and orange."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ie.png",

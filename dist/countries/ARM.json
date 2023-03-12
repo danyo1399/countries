@@ -126,6 +126,10 @@
             "official": "República de Armenia",
             "common": "Armenia"
         },
+        "srp": {
+            "official": "Република Јерменија",
+            "common": "Јерменија"
+        },
         "swe": {
             "official": "Republiken Armenien",
             "common": "Armenien"
@@ -189,7 +193,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/am.png",
-        "svg": "https://flagcdn.com/am.svg"
+        "svg": "https://flagcdn.com/am.svg",
+        "alt": "The flag of Armenia is composed of three equal horizontal bands of red, blue and orange."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/am.png",

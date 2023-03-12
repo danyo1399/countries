@@ -126,6 +126,10 @@
             "official": "República Helénica",
             "common": "Grecia"
         },
+        "srp": {
+            "official": "Хеленска Република",
+            "common": "Грчка"
+        },
         "swe": {
             "official": "Republiken Grekland",
             "common": "Grekland"
@@ -189,7 +193,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/gr.png",
-        "svg": "https://flagcdn.com/gr.svg"
+        "svg": "https://flagcdn.com/gr.svg",
+        "alt": "The flag of Greece is composed of nine equal horizontal bands of blue alternating with white. A blue square bearing a white cross is superimposed in the canton."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/gr.png",

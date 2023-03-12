@@ -124,11 +124,15 @@
         },
         "slk": {
             "official": "Kórejská ľudovodemokratická republika",
-            "common": "Kórejská ľudovodemokratická republika (KĽR, Severná Kórea)"
+            "common": "Severná Kórea"
         },
         "spa": {
             "official": "República Popular Democrática de Corea",
             "common": "Corea del Norte"
+        },
+        "srp": {
+            "official": "Демократска Народна Република Кореја",
+            "common": "Северна Кореја"
         },
         "swe": {
             "official": "Demokratiska Folkrepubliken Korea",
@@ -189,7 +193,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/kp.png",
-        "svg": "https://flagcdn.com/kp.svg"
+        "svg": "https://flagcdn.com/kp.svg",
+        "alt": "The flag of North Korea is composed of three horizontal bands — a large central white-edged red band, and a blue band above and beneath the red band. On the hoist side of the red band is a red five-pointed star within a white circle."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/kp.png",

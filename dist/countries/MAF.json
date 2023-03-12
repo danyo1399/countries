@@ -126,6 +126,10 @@
             "official": "Saint Martin",
             "common": "Saint Martin"
         },
+        "srp": {
+            "official": "Свети Мартин",
+            "common": "Свети Мартин"
+        },
         "swe": {
             "official": "Förvaltningsområdet Saint-Martin",
             "common": "Saint-Martin"
@@ -144,8 +148,8 @@
         }
     },
     "latlng": [
-        18.08333333,
-        -63.95
+        18.0708,
+        63.0501
     ],
     "landlocked": false,
     "borders": [

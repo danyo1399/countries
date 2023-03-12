@@ -126,6 +126,10 @@
             "official": "República de Turquía",
             "common": "Turquía"
         },
+        "srp": {
+            "official": "Турска Република",
+            "common": "Турска"
+        },
         "swe": {
             "official": "Republiken Turkiet",
             "common": "Turkiet"
@@ -193,7 +197,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/tr.png",
-        "svg": "https://flagcdn.com/tr.svg"
+        "svg": "https://flagcdn.com/tr.svg",
+        "alt": "The flag of Turkey has a red field bearing a large fly-side facing white crescent and a smaller five-pointed white star placed just outside the crescent opening. The white crescent and star are offset slightly towards the hoist side of center."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/tr.png",
@@ -485,7 +490,7 @@
             "code": "32"
         },
         {
-            "name": "Istanbul",
+            "name": "İstanbul",
             "type": "province",
             "latitude": "41.16343020",
             "longitude": "28.76644080",

@@ -124,6 +124,10 @@
             "official": "República de Trinidad y Tobago",
             "common": "Trinidad y Tobago"
         },
+        "srp": {
+            "official": "Република Тринидад и Тобаго",
+            "common": "Тринидад и Тобаго"
+        },
         "swe": {
             "official": "Republiken Trinidad och Tobago",
             "common": "Trinidad och Tobago"
@@ -142,8 +146,8 @@
         }
     },
     "latlng": [
-        11,
-        -61
+        10.6918,
+        61.2225
     ],
     "landlocked": false,
     "area": 5130,
@@ -181,7 +185,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/tt.png",
-        "svg": "https://flagcdn.com/tt.svg"
+        "svg": "https://flagcdn.com/tt.svg",
+        "alt": "The flag of Trinidad and Tobago has a red field with a white-edged black diagonal band that extends from the upper hoist-side corner to the lower fly-side corner of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/tt.png",

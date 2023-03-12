@@ -136,6 +136,10 @@
             "official": "República de Vanuatu",
             "common": "Vanuatu"
         },
+        "srp": {
+            "official": "Република Вануату",
+            "common": "Вануату"
+        },
         "swe": {
             "official": "Republiken Vanuatu",
             "common": "Vanuatu"
@@ -193,7 +197,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/vu.png",
-        "svg": "https://flagcdn.com/vu.svg"
+        "svg": "https://flagcdn.com/vu.svg",
+        "alt": "The flag of Vanuatu is composed of two equal horizontal bands of red and green, with a black isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and is enclosed on its sides by the arms of a thin black-edged yellow horizontally oriented Y-shaped band which extends along the boundary of the red and green bands to the fly end of the field. A yellow boar's tusk encircling two yellow crossed namele leaves is centered in the triangle."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/vu.png",

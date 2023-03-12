@@ -126,6 +126,10 @@
             "official": "República Federativa del Brasil",
             "common": "Brasil"
         },
+        "srp": {
+            "official": "Савезна Република Бразил",
+            "common": "Бразил"
+        },
         "swe": {
             "official": "Förbundsrepubliken Brasilien",
             "common": "Brasilien"
@@ -198,7 +202,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/br.png",
-        "svg": "https://flagcdn.com/br.svg"
+        "svg": "https://flagcdn.com/br.svg",
+        "alt": "The flag of Brazil has a green field with a large yellow rhombus in the center. Within the rhombus is a dark blue globe with twenty-seven small five-pointed white stars depicting a starry sky and a thin white convex horizontal band inscribed with the national motto 'Ordem e Progresso' across its center."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/br.png",

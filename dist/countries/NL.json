@@ -126,6 +126,10 @@
             "official": "Países Bajos",
             "common": "Países Bajos"
         },
+        "srp": {
+            "official": "Краљевина Холандија",
+            "common": "Холандија"
+        },
         "swe": {
             "official": "Nederländerna",
             "common": "Nederländerna"
@@ -188,7 +192,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/nl.png",
-        "svg": "https://flagcdn.com/nl.svg"
+        "svg": "https://flagcdn.com/nl.svg",
+        "alt": "The flag of the Netherlands is composed of three equal horizontal bands of red, white and blue."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/nl.png",
@@ -293,8 +298,8 @@
         {
             "name": "South Holland",
             "type": "province",
-            "latitude": "41.60086810",
-            "longitude": "-87.60698940",
+            "latitude": "51.99667920",
+            "longitude": "4.55973970",
             "code": "ZH"
         },
         {

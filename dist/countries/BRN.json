@@ -130,6 +130,10 @@
             "official": "Nación de Brunei, Morada de la Paz",
             "common": "Brunei"
         },
+        "srp": {
+            "official": "Султанат Брунеј, боравиште мира",
+            "common": "Брунеј"
+        },
         "swe": {
             "official": "Brunei Darussalam",
             "common": "Brunei"
@@ -187,7 +191,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/bn.png",
-        "svg": "https://flagcdn.com/bn.svg"
+        "svg": "https://flagcdn.com/bn.svg",
+        "alt": "The flag of Brunei has a yellow field with two adjoining diagonal bands of white and black that extend from the upper hoist side of the field to the lower fly side. The red emblem of Brunei is centered on the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/bn.png",

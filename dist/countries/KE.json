@@ -130,6 +130,10 @@
             "official": "República de Kenya",
             "common": "Kenia"
         },
+        "srp": {
+            "official": "Република Кенија",
+            "common": "Кенија"
+        },
         "swe": {
             "official": "Republiken Kenya",
             "common": "Kenya"
@@ -194,7 +198,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/ke.png",
-        "svg": "https://flagcdn.com/ke.svg"
+        "svg": "https://flagcdn.com/ke.svg",
+        "alt": "The flag of Kenya is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. An emblem comprising a red, black and white Maasai shield covering two crossed white spears is superimposed at the center of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/ke.png",

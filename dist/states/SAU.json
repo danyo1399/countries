@@ -1,91 +1,91 @@
 [
     {
         "name": "'Asir",
-        "type": null,
+        "type": "region",
         "latitude": "19.09690620",
         "longitude": "42.86378750",
         "code": "14"
     },
     {
         "name": "Al Bahah",
-        "type": null,
+        "type": "region",
         "latitude": "20.27227390",
         "longitude": "41.44125100",
         "code": "11"
     },
     {
         "name": "Al Jawf",
-        "type": null,
+        "type": "region",
         "latitude": "29.88735600",
         "longitude": "39.32062410",
         "code": "12"
     },
     {
         "name": "Al Madinah",
-        "type": null,
+        "type": "region",
         "latitude": "24.84039770",
         "longitude": "39.32062410",
         "code": "03"
     },
     {
         "name": "Al-Qassim",
-        "type": null,
+        "type": "region",
         "latitude": "26.20782600",
         "longitude": "43.48373800",
         "code": "05"
     },
     {
         "name": "Eastern Province",
-        "type": null,
+        "type": "region",
         "latitude": "24.04399320",
         "longitude": "45.65892250",
         "code": "04"
     },
     {
         "name": "Ha'il",
-        "type": null,
+        "type": "region",
         "latitude": "27.70761430",
         "longitude": "41.91964710",
         "code": "06"
     },
     {
         "name": "Jizan",
-        "type": null,
+        "type": "region",
         "latitude": "17.17381760",
         "longitude": "42.70761070",
         "code": "09"
     },
     {
         "name": "Makkah",
-        "type": null,
+        "type": "region",
         "latitude": "21.52355840",
         "longitude": "41.91964710",
         "code": "02"
     },
     {
         "name": "Najran",
-        "type": null,
+        "type": "region",
         "latitude": "18.35146640",
         "longitude": "45.60071080",
         "code": "10"
     },
     {
         "name": "Northern Borders",
-        "type": null,
+        "type": "region",
         "latitude": "30.07991620",
         "longitude": "42.86378750",
         "code": "08"
     },
     {
         "name": "Riyadh",
-        "type": null,
+        "type": "region",
         "latitude": "22.75543850",
         "longitude": "46.20915470",
         "code": "01"
     },
     {
         "name": "Tabuk",
-        "type": null,
+        "type": "region",
         "latitude": "28.24533350",
         "longitude": "37.63866220",
         "code": "07"

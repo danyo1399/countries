@@ -125,6 +125,10 @@
             "official": "Reino de Suecia",
             "common": "Suecia"
         },
+        "srp": {
+            "official": "Краљевина Шведска",
+            "common": "Шведска"
+        },
         "swe": {
             "official": "Konungariket Sverige",
             "common": "Sverige"
@@ -186,7 +190,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/se.png",
-        "svg": "https://flagcdn.com/se.svg"
+        "svg": "https://flagcdn.com/se.svg",
+        "alt": "The flag of Sweden has a blue field with a large golden-yellow cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/se.png",
@@ -238,6 +243,13 @@
             "latitude": "56.89668050",
             "longitude": "12.80339930",
             "code": "N"
+        },
+        {
+            "name": "Jämtland County",
+            "type": "SE-Z",
+            "latitude": "63.28306200",
+            "longitude": "14.23828100",
+            "code": "0"
         },
         {
             "name": "Jönköping County",

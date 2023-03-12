@@ -124,6 +124,10 @@
             "official": "Federación de San Cristóbal y Nevis",
             "common": "San Cristóbal y Nieves"
         },
+        "srp": {
+            "official": "Федерација Свети Кристофер и Невис",
+            "common": "Сент Китс и Невис"
+        },
         "swe": {
             "official": "Federationen Saint Kitts och Nevis",
             "common": "Saint Kitts och Nevis"
@@ -178,7 +182,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/kn.png",
-        "svg": "https://flagcdn.com/kn.svg"
+        "svg": "https://flagcdn.com/kn.svg",
+        "alt": "The flag of Saint Kitts and Nevis features two large five-pointed white stars within a yellow-edged black diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and red triangle respectively."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/kn.png",

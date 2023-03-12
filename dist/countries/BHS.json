@@ -128,6 +128,10 @@
             "official": "Commonwealth de las Bahamas",
             "common": "Bahamas"
         },
+        "srp": {
+            "official": "Комонвелт Бахама",
+            "common": "Бахами"
+        },
         "swe": {
             "official": "Samväldet Bahamas",
             "common": "Bahamas"
@@ -146,8 +150,8 @@
         }
     },
     "latlng": [
-        24.25,
-        -76
+        25.0343,
+        77.3963
     ],
     "landlocked": false,
     "area": 13943,
@@ -182,7 +186,8 @@
     ],
     "flags": {
         "png": "https://flagcdn.com/w320/bs.png",
-        "svg": "https://flagcdn.com/bs.svg"
+        "svg": "https://flagcdn.com/bs.svg",
+        "alt": "The flag of the Bahamas is composed of three equal horizontal bands of aquamarine, yellow and aquamarine, with a black equilateral triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end and spans about one-third the width of the field."
     },
     "coatOfArms": {
         "png": "https://mainfacts.com/media/images/coats_of_arms/bs.png",
